@@ -1,0 +1,9 @@
+# frozen_string_literal: true
+
+source "https://rubygems.org"
+
+gemspec path: "../../"
+
+gem "rake", "~> 13.0"
+gem "minitest", "~> 5.0"
+gem "realms_ruby_style", git: "https://github.com/realmsapp/realms_ruby_style", branch: "main"

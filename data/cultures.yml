@@ -1,0 +1,29 @@
+---
+- key: dwarven
+  name: Dwarven
+- key: elven
+  name: Elven
+- key: gandalf
+  name: Gandalf
+- key: gondor
+  name: Gondor
+- key: shire
+  name: Shire
+- key: rohan
+  name: Rohan
+- key: gollum_free_people
+  name: Gollum (Free People)
+- key: gollum_shadow
+  name: Gollum (Shadow)
+- key: wraith
+  name: Ring Wraith
+- key: isengard
+  name: Isengard
+- key: sauron
+  name: Sauron
+- key: moria
+  name: Moria
+- key: dunland
+  name: Dunland
+- key: raider
+  name: Raider

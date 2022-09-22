@@ -1,0 +1,7 @@
+---
+- key: common
+  name: Common
+- key: uncommon
+  name: Uncommon
+- key: rare
+  name: Rare

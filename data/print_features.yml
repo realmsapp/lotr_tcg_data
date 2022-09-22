@@ -1,0 +1,7 @@
+---
+- key: none
+  name: None
+- key: tengwar
+  name: Tengwar
+- key: oversized
+  name: Oversized

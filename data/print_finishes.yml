@@ -1,0 +1,5 @@
+---
+- key: regular
+  name: Regular
+- key: foil
+  name: Foil

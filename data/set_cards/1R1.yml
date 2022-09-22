@@ -1,0 +1,16 @@
+---
+key: 1R1
+name: The One Ring, Isildur's Bane
+title: The One Ring
+subtitle: Isildur's Bane
+rarity: R
+card_type: the_one_ring
+strength: +1
+vitality: +1
+game_text: "Response: If bearer is about to take a wound, he wears The One Ring until the regroup phase. While wearing The One Ring, each time the Ring-bearer is about to take a wound, add 2 burdens instead."
+lore: "”…the Ring slipped from his fingers as he swam….”"
+unique: true
+wiki_url: "https://lotrtcgwiki.com/wiki/lotr01001",
+variants:
+- 1R1-R
+- 1R1-F

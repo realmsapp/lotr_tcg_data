@@ -1,5 +1,5 @@
 module LotrTcgData
-  class Set
+  class PrintFeature
     include ValueSemantics.for_attributes {
       key String
       name String

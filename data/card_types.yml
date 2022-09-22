@@ -1,0 +1,19 @@
+---
+- key: companion
+  name: Companion
+- key: ally
+  name: Ally
+- key: minion
+  name: Minion
+- key: artifact
+  name: Artifact
+- key: possession
+  name: Possession
+- key: condition
+  name: Condition
+- key: event
+  name: Event
+- key: site
+  name: Site
+- key: the_one_ring
+  name: The One Ring

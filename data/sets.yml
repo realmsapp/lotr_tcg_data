@@ -1,0 +1,40 @@
+- key: fellowship_of_the_ring
+  name: Fellowship of the Ring
+  number: 1
+  release_date: 3030-01-01
+- key: mines_of_moria
+  name: Mines of Moria
+  number: 2
+  release_date: 3030-01-01
+- key: realms_of_the_elf_lords
+  name: Realms of the Elf Lords
+  number: 3
+  release_date: 3030-01-01
+- key: two_towers
+  name: Two Towers
+  number: 4
+  release_date: 3030-01-01
+- key: battle_of_helms_deep
+  name: Battle of Helm's Deep
+  number: 5
+  release_date: 3030-01-01
+- key: ents_of_fanghorn
+  name: Ents of Fanghorn
+  number: 6
+  release_date: 3030-01-01
+- key: the_return_of_the_king
+  name: Return of the King
+  number: 7
+  release_date: 3030-01-01
+- key: seige_of_gondor
+  name: Seige of Gondor
+  number: 8
+  release_date: 3030-01-01
+- key: Reflections
+  name: Reflections
+  number: 9
+  release_date: 3030-01-01
+- key: mount_doom
+  name: Mount Doom
+  number: 10
+  release_date: 3030-01-01
