@@ -1,0 +1,18 @@
+---
+key: 2U3
+name: Dwarven Bracers
+title: Dwarven Bracers
+set: mines_of_moria
+rarity: uncommon
+card_type: possession
+subtype: bracers
+alignment: free_people
+culture: dwarven
+strength: "+1"
+twilight: '1'
+game_text: ! |-
+  Bearer must be a Dwarf. Response: If bearer is about to take a wound, discard this possession to prevent that wound.
+flavor_text: ! |-
+  Dwarven-smiths forge bracers for fit and agility.
+notes: 'Version: +.'
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02003

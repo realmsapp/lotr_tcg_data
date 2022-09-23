@@ -1,0 +1,18 @@
+---
+key: 4R100
+name: Shadowfax
+title: Shadowfax
+set: two_towers
+rarity: rare
+card_type: possession
+subtype: mount
+alignment: free_people
+culture: gandalf
+strength: "+2"
+twilight: '2'
+unique: true
+game_text: ! |-
+  Bearer must be Gandalf. Discard any hand weapon he bears. Gandalf may not bear a hand weapon. At the start of each skirmish involving Gandalf, each minion skirmishing him must exert.
+flavor_text: ! |-
+  ”'He is the chief of the Mearas, lords of horses….'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04100

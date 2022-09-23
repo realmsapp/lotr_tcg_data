@@ -1,0 +1,21 @@
+---
+key: 4R271
+name: Eowyn, Sister-daughter of Theoden
+title: Eowyn
+subtitle: Sister-daughter of Theoden
+set: two_towers
+rarity: rare
+card_type: companion
+subtype: man
+alignment: free_people
+culture: rohan
+signet: aragorn
+strength: '6'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  Valiant. Response: If Eowyn is exhausted and about to take a wound in a skirmish, discard 2 cards from hand to prevent that wound.
+flavor_text: ! |-
+  “Slender and tall she was… but strong she seemed and stern as steel, a daughter of kings.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04271

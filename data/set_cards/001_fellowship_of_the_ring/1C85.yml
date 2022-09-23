@@ -1,0 +1,15 @@
+---
+key: 1C85
+name: Strength of Spirit
+title: Strength of Spirit
+set: fellowship_of_the_ring
+rarity: common
+card_type: event
+alignment: free_people
+culture: gandalf
+twilight: '1'
+game_text: ! |-
+  Spell. Response: If a companion is about to exert, spot Gandalf to place no token for that exertion.
+flavor_text: ! |-
+  ”'There are many powers in the world, for good or for evil. Some are greater than I am. Against some I have not yet been measured. But my time is coming.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01085

@@ -1,0 +1,19 @@
+---
+key: 6C100
+name: Dead Ones
+title: Dead Ones
+set: ents_of_fangorn
+rarity: common
+card_type: minion
+subtype: wraith
+alignment: shadow
+culture: sauron
+strength: '5'
+vitality: '1'
+twilight: '1'
+site_number: '4'
+game_text: ! |-
+  Twilight. Damage +1. To play this minion, remove a burden or spot a twilight minion.
+flavor_text: ! |-
+  ”'The Dead can't really be there! Is it some devilry hatched in the Dark Land?'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06100

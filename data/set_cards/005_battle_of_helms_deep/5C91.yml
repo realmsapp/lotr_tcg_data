@@ -1,0 +1,16 @@
+---
+key: 5C91
+name: Rohirrim Shield
+title: Rohirrim Shield
+set: battle_of_helms_deep
+rarity: common
+card_type: possession
+subtype: shield
+alignment: free_people
+culture: rohan
+twilight: '1'
+game_text: ! |-
+  Bearer must be a [Rohan] Man. The minion archery total is -1. Regroup: Discard this possession to heal bearer.
+flavor_text: ! |-
+  The Rohirrim carried round wooden shields, usable on foot and on horseback.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05091

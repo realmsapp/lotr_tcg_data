@@ -1,0 +1,15 @@
+---
+key: 1U29
+name: Ancient Enmity
+title: Ancient Enmity
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: event
+alignment: free_people
+culture: elven
+twilight: '0'
+game_text: ! |-
+  Skirmish: Make an Elf strength +1. If a minion loses this skirmish to that Elf, that minion's owner discards 2 cards at random from hand.
+flavor_text: ! |-
+  Hard and bitter is the Elven hatred of Orcs, for they have lost many kinsmen to Orc savagery.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01029

@@ -1,0 +1,18 @@
+---
+key: 1R166
+name: Cave Troll's Hammer
+title: Cave Troll's Hammer
+set: fellowship_of_the_ring
+rarity: rare
+card_type: possession
+subtype: hand_weapon
+alignment: shadow
+culture: moria
+strength: "+3"
+twilight: '1'
+unique: true
+game_text: ! |-
+  Bearer must be Cave Troll of Moria. Cave Troll of Moria is damage +1.
+flavor_text: ! |-
+  Suddenly the door burst into fragments and the Cave Troll was among them, his huge hammer striking like thunder.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01166

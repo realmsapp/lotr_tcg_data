@@ -1,0 +1,18 @@
+---
+key: 10R8
+name: Cirdan, The Shipwright
+title: Cirdan
+subtitle: The Shipwright
+set: mount_doom
+rarity: rare
+card_type: companion
+subtype: elf
+alignment: free_people
+culture: elven
+strength: '7'
+vitality: '4'
+twilight: '4'
+unique: true
+game_text: ! |-
+  To play, spot 2 Elves. Skirmish: Exert Cirdan to make a minion he is skirmishing strength -1 for each [Elven] event in your discard pile.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10008

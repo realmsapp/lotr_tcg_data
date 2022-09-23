@@ -1,0 +1,21 @@
+---
+key: 5P121
+name: Legolas, Archer of Mirkwood
+title: Legolas
+subtitle: Archer of Mirkwood
+set: battle_of_helms_deep
+rarity: promo
+card_type: companion
+subtype: elf
+alignment: free_people
+culture: elven
+signet: theoden
+strength: '6'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  Archer. Each time Legolas wins a skirmish, you may heal a Dwarf companion or another Elf companion.
+flavor_text: ! |-
+  ”'…even more would I give for a hundred good archers of Mirkwood. We shall need them.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05121

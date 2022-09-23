@@ -1,0 +1,17 @@
+---
+key: 7C132
+name: Desert Nomad
+title: Desert Nomad
+set: return_of_the_king
+rarity: common
+card_type: minion
+subtype: man
+alignment: shadow
+culture: raider
+strength: '9'
+vitality: '2'
+twilight: '4'
+site_number: '4'
+game_text: ! |-
+  Southron. While you can spot 2 threats, this minion is damage +1.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07132

@@ -1,0 +1,17 @@
+---
+key: 7C299
+name: Orc Destroyer
+title: Orc Destroyer
+set: return_of_the_king
+rarity: common
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '9'
+vitality: '3'
+twilight: '3'
+site_number: '6'
+game_text: ! |-
+  Shadow: Remove (3) and spot 3 [Sauron] Orcs to draw a card.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07299

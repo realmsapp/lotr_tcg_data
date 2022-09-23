@@ -1,0 +1,19 @@
+---
+key: 2C61
+name: Goblin Flankers
+title: Goblin Flankers
+set: mines_of_moria
+rarity: common
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: moria
+strength: '11'
+vitality: '3'
+twilight: '5'
+site_number: '4'
+game_text: ! |-
+  When you play this minion, you may add (3) if the fellowship has moved more than once this turn.
+flavor_text: ! |-
+  ”'There are Orcs, very many of them…. And some are large and evil….'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02061

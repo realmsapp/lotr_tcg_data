@@ -1,0 +1,15 @@
+---
+key: 8C40
+name: Knight's Mount
+title: Knight's Mount
+set: siege_of_gondor
+rarity: common
+card_type: possession
+subtype: mount
+alignment: free_people
+culture: gondor
+strength: "+1"
+twilight: '1'
+game_text: ! |-
+  Bearer must be a knight. Each time bearer wins a skirmish, you may wound a minion who is not assigned to a skirmish.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr08040

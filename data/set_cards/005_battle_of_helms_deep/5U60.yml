@@ -1,0 +1,15 @@
+---
+key: 5U60
+name: Siege Engine
+title: Siege Engine
+set: battle_of_helms_deep
+rarity: uncommon
+card_type: condition
+alignment: shadow
+culture: isengard
+twilight: '0'
+game_text: ! |-
+  Machine. Plays to your support area. Shadow: Play an Uruk-hai to place an [Isengard] token on a machine. Response: If one or more machines are about to be discarded by an opponent, discard this condition to prevent that.
+flavor_text: ! |-
+  “Ropes… were hurled over the parapet….”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05060

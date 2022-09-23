@@ -1,0 +1,19 @@
+---
+key: 7R321
+name: Merry, Swordthain
+title: Merry
+subtitle: Swordthain
+set: return_of_the_king
+rarity: rare
+card_type: companion
+subtype: hobbit
+alignment: free_people
+culture: shire
+signet: theoden
+strength: '3'
+vitality: '4'
+twilight: '1'
+unique: true
+game_text: ! |-
+  Skirmish: If Merry is not assigned to a skirmish, return him to your hand to play up to 2 [Rohan] possessions from your discard pile.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07321

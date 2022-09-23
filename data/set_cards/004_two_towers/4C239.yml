@@ -1,0 +1,13 @@
+---
+key: 4C239
+name: Men of Rhun
+title: Men of Rhun
+set: two_towers
+rarity: common
+card_type: event
+alignment: shadow
+culture: raider
+twilight: '2'
+game_text: ! |-
+  Skirmish: Make a [Raider] Man strength +3 (or +4 if you spot 4 burdens).
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04239

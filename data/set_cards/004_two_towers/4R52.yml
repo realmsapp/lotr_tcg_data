@@ -1,0 +1,17 @@
+---
+key: 4R52
+name: My Axe Is Notched
+title: My Axe Is Notched
+set: two_towers
+rarity: rare
+card_type: condition
+alignment: free_people
+culture: dwarven
+twilight: '1'
+unique: true
+game_text: ! |-
+  Plays to your support area. Each time Gimli wins a skirmish, place a [Dwarven] token on this card. While you can spot X [Dwarven] tokens on this card and the same number of [Elven] tokens on Final Count, Gimli is strength +X (limit +3).
+notes: 'The strength bonus derived from this condition is based on the lowest number
+  of tokens on either card. For example: If there are two [Elven] tokens on Final
+  Count and three [Dwarven] tokens on My Axe Is Notched, the strength bonus is +2.'
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04052

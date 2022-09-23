@@ -1,0 +1,13 @@
+---
+key: 1R217
+name: Morgul Gates
+title: Morgul Gates
+set: fellowship_of_the_ring
+rarity: rare
+card_type: event
+alignment: shadow
+culture: wraith
+twilight: '0'
+game_text: ! |-
+  Shadow: Play a Nazgul. His twilight cost is -2.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01217

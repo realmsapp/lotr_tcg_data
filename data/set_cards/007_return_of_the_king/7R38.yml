@@ -1,0 +1,17 @@
+---
+key: 7R38
+name: Gandalf's Staff, Focus of Power
+title: Gandalf's Staff
+subtitle: Focus of Power
+set: return_of_the_king
+rarity: rare
+card_type: artifact
+subtype: staff
+alignment: free_people
+culture: gandalf
+vitality: "+1"
+twilight: '2'
+unique: true
+game_text: ! |-
+  Bearer must be Gandalf. While you can spot 4 twilight tokens, Gandalf is strength +1.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07038

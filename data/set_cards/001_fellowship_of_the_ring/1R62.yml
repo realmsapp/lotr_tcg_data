@@ -1,0 +1,16 @@
+---
+key: 1R62
+name: The Splendor of Their Banners
+title: The Splendor of Their Banners
+set: fellowship_of_the_ring
+rarity: rare
+card_type: condition
+alignment: free_people
+culture: elven
+twilight: '1'
+unique: true
+game_text: ! |-
+  Tale. Bearer must be an Elf companion. Archery: If bearer is an archer, exert bearer to make the fellowship archery total +1.
+flavor_text: ! |-
+  ”'It recalled to me the glory of the Elder Days and the hosts of Beleriand, so many great princes and captains were assembled.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01062

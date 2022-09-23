@@ -1,0 +1,15 @@
+---
+key: 3R54
+name: Hollowing of Isengard
+title: Hollowing of Isengard
+set: realms_of_the_elf_lords
+rarity: rare
+card_type: condition
+alignment: shadow
+culture: isengard
+twilight: '4'
+game_text: ! |-
+  To play, spot an [Isengard] Orc. Plays to your support area. Shadow: Discard this condition to add (3).
+flavor_text: ! |-
+  ”'Rip them all down!'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr03054

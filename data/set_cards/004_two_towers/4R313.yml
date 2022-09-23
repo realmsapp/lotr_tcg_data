@@ -1,0 +1,21 @@
+---
+key: 4R313
+name: Pippin, Just a Nuisance
+title: Pippin
+subtitle: Just a Nuisance
+set: two_towers
+rarity: rare
+card_type: companion
+subtype: hobbit
+alignment: free_people
+culture: shire
+signet: gandalf
+strength: '3'
+vitality: '4'
+twilight: '1'
+unique: true
+game_text: ! |-
+  Skirmish: If Pippin is not assigned to a skirmish, discard him to remove an Uruk-hai from a skirmish involving an unbound companion.
+flavor_text: ! |-
+  ”'What good have I been?… a passenger, a piece of luggage.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04313

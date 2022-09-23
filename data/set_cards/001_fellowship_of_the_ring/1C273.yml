@@ -1,0 +1,15 @@
+---
+key: 1C273
+name: The Ring's Oppression
+title: The Ring's Oppression
+set: fellowship_of_the_ring
+rarity: common
+card_type: event
+alignment: shadow
+culture: sauron
+twilight: '3'
+game_text: ! |-
+  Response: If a [Sauron] Orc kills a companion, add 1 burden (or 3 if the Ring-bearer wears The One Ring).
+flavor_text: ! |-
+  “The Ring that hung upon its chain about his neck grew heavy, heavier than a great stone, and his head was dragged downwards.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01273

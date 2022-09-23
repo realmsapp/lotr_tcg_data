@@ -1,0 +1,15 @@
+---
+key: 1C197
+name: Threat of the Unknown
+title: Threat of the Unknown
+set: fellowship_of_the_ring
+rarity: common
+card_type: event
+alignment: shadow
+culture: moria
+twilight: '0'
+game_text: ! |-
+  Shadow: Exert your [Moria] Orc to draw 2 cards.
+flavor_text: ! |-
+  The danger of what lay hidden in the dark was more terrifying than the known perils of Moria.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01197

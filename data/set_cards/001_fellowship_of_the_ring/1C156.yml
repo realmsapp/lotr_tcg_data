@@ -1,0 +1,19 @@
+---
+key: 1C156
+name: Uruk Warrior
+title: Uruk Warrior
+set: fellowship_of_the_ring
+rarity: common
+card_type: minion
+subtype: uruk-hai
+alignment: shadow
+culture: isengard
+strength: '9'
+vitality: '2'
+twilight: '3'
+site_number: '5'
+game_text: ! |-
+  Damage +1. Maneuver: Spot 6 companions to make this minion fierce until the regroup phase.
+flavor_text: ! |-
+  Powerful and fearless, Uruk-hai warriors are not intimidated by the weapons or numbers of their enemies.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01156

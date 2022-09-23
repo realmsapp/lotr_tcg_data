@@ -1,0 +1,15 @@
+---
+key: 1C281
+name: Under the Watching Eye
+title: Under the Watching Eye
+set: fellowship_of_the_ring
+rarity: common
+card_type: condition
+alignment: shadow
+culture: sauron
+twilight: '0'
+game_text: ! |-
+  Search. To play, exert a [Sauron] tracker. Plays to your support area. Each time the fellowship moves, the Free Peoples player must exert a companion.
+flavor_text: ! |-
+  What the Lidless Eye of Sauron does not see, his countless minions observe and report.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01281

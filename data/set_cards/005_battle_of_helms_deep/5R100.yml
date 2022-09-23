@@ -1,0 +1,21 @@
+---
+key: 5R100
+name: Grishnakh, Orc Captain
+title: Grishnakh
+subtitle: Orc Captain
+set: battle_of_helms_deep
+rarity: rare
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '11'
+vitality: '3'
+twilight: '4'
+unique: true
+site_number: '6'
+game_text: ! |-
+  Tracker. The site number of each [Sauron] Orc is -3. Shadow: Exert Grishnakh twice and spot another [Sauron] Orc to draw 3 cards. The Free Peoples player may add 2 burdens to prevent this.
+flavor_text: ! |-
+  ”….'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05100

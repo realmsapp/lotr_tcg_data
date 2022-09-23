@@ -1,0 +1,17 @@
+---
+key: 7R17
+name: Asfaloth, Elven Steed
+title: Asfaloth
+subtitle: Elven Steed
+set: return_of_the_king
+rarity: rare
+card_type: possession
+subtype: mount
+alignment: free_people
+culture: elven
+strength: "+2"
+twilight: '2'
+unique: true
+game_text: ! |-
+  Bearer must be an Elf. Skirmish: If bearer is Arwen, exert her to make each minion skirmishing her strength -2.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07017

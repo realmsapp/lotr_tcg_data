@@ -1,0 +1,15 @@
+---
+key: 4R215
+name: Wounded
+title: Wounded
+set: two_towers
+rarity: rare
+card_type: condition
+alignment: shadow
+culture: isengard
+twilight: '0'
+game_text: ! |-
+  To play, exert an [Isengard] Man. Plays on a Free Peoples Man. When you play this condition, exert bearer. Wounds may not be removed from bearer.
+flavor_text: ! |-
+  ”'He's alive!'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04215

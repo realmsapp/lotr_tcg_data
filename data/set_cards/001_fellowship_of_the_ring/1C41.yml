@@ -1,0 +1,17 @@
+---
+key: 1C41
+name: Elven Bow
+title: Elven Bow
+set: fellowship_of_the_ring
+rarity: common
+card_type: possession
+subtype: ranged_weapon
+alignment: free_people
+culture: elven
+twilight: '1'
+game_text: ! |-
+  Bearer must be an Elf. Bearer is an archer.
+flavor_text: ! |-
+  ”'We live now upon an island amid many perils, and our hands are more often upon the bowstring than upon the harp.'”
+notes: 'Version: ++.'
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01041

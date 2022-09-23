@@ -1,0 +1,13 @@
+---
+key: 8C30
+name: Web
+title: Web
+set: siege_of_gondor
+rarity: common
+card_type: possession
+alignment: shadow
+culture: gollum_shadow
+twilight: '1'
+game_text: ! |-
+  Regroup: If there are fewer than 3 cards stacked here, spot your Orc or [Gollum] minion to stack that minion here. Shadow: Play a [Gollum] minion stacked here as if played from hand.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr08030

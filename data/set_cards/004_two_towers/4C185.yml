@@ -1,0 +1,19 @@
+---
+key: 4C185
+name: Uruk Fanatic
+title: Uruk Fanatic
+set: two_towers
+rarity: common
+card_type: minion
+subtype: uruk-hai
+alignment: shadow
+culture: isengard
+strength: '9'
+vitality: '2'
+twilight: '4'
+site_number: '5'
+game_text: ! |-
+  Damage +1. If there are at least 3 cards in the dead pile, this minion is fierce.
+flavor_text: ! |-
+  Despite intensive training, the smell of blood still enraged the Uruk warriors.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04185

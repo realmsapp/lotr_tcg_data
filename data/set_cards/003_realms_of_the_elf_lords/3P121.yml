@@ -1,0 +1,21 @@
+---
+key: 3P121
+name: Legolas, Son of Thranduil
+title: Legolas
+subtitle: Son of Thranduil
+set: realms_of_the_elf_lords
+rarity: promo
+card_type: companion
+subtype: elf
+alignment: free_people
+culture: elven
+signet: aragorn
+strength: '6'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  Archer. While Legolas is at a river or forest, add 1 to the fellowship archery total.
+flavor_text: ! |-
+  ”'Praised be the bow of Galadriel, and the hand and eye of Legolas!… That was a mighty shot in the dark, my friend!'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr03121

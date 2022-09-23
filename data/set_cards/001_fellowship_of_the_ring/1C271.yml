@@ -1,0 +1,19 @@
+---
+key: 1C271
+name: Orc Soldier
+title: Orc Soldier
+set: fellowship_of_the_ring
+rarity: common
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '7'
+vitality: '2'
+twilight: '2'
+site_number: '6'
+game_text: ! |-
+  Skirmish: Exert this minion to wound a character he is skirmishing.
+flavor_text: ! |-
+  Bearing cruel weapons, Orcs go forth from Mordor to serve the Eye.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01271

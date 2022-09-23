@@ -1,0 +1,19 @@
+---
+key: 7C6
+name: Gimli, Faithful Companion
+title: Gimli
+subtitle: Faithful Companion
+set: return_of_the_king
+rarity: common
+card_type: companion
+subtype: dwarf
+alignment: free_people
+culture: dwarven
+signet: theoden
+strength: '6'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  Damage +1. While you have initiative, Gimli is strength +2.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07006

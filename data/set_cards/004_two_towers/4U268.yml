@@ -1,0 +1,18 @@
+---
+key: 4U268
+name: Eomer's Spear
+title: Eomer's Spear
+set: two_towers
+rarity: uncommon
+card_type: possession
+subtype: hand_weapon
+alignment: free_people
+culture: rohan
+strength: "+2"
+twilight: '1'
+unique: true
+game_text: ! |-
+  Bearer must be a [Rohan] Man. If bearer is Eomer and he is mounted, Eomer is damage +2.
+flavor_text: ! |-
+  “He advanced until the point of his spear was within a foot of Aragorn's breast.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04268

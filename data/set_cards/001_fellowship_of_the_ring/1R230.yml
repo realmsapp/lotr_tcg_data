@@ -1,0 +1,21 @@
+---
+key: 1R230
+name: Ulaire Cantea, Lieutenant of Dol Guldur
+title: Ulaire Cantea
+subtitle: Lieutenant of Dol Guldur
+set: fellowship_of_the_ring
+rarity: rare
+card_type: minion
+subtype: nazgul
+alignment: shadow
+culture: wraith
+strength: '10'
+vitality: '3'
+twilight: '5'
+unique: true
+site_number: '3'
+game_text: ! |-
+  Fierce. Skirmish: Exert Ulaire Cantea to discard a weapon borne by a character he is skirmishing.
+flavor_text: ! |-
+  The Ringwraith has no semblance to the Man, its being passed into twilight, life spirit into void.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01230

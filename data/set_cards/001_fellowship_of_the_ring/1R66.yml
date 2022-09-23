@@ -1,0 +1,17 @@
+---
+key: 1R66
+name: The Tale of Gil-galad
+title: The Tale of Gil-galad
+set: fellowship_of_the_ring
+rarity: rare
+card_type: condition
+alignment: free_people
+culture: elven
+vitality: "+1"
+twilight: '1'
+unique: true
+game_text: ! |-
+  Tale. Bearer must be an Elf. Skirmish: Discard this condition to make bearer strength +2.
+flavor_text: ! |-
+  “Gil-galad was an Elven-king / Of him the harpers sadly sing: / the last whose realm was fair and free / between the Mountains and the Sea.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01066

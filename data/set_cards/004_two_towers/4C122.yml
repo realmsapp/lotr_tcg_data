@@ -1,0 +1,18 @@
+---
+key: 4C122
+name: Gondorian Ranger
+title: Gondorian Ranger
+set: two_towers
+rarity: common
+card_type: companion
+subtype: man
+alignment: free_people
+culture: gondor
+strength: '5'
+vitality: '3'
+twilight: '2'
+game_text: ! |-
+  Ring-bound. Ranger. The site number of each minion assigned to skirmish a Ring-bound Man is +2.
+flavor_text: ! |-
+  “Green gauntlets covered their hands, and their faces were hooded and masked with green, except for their eyes, which were very keen and bright.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04122

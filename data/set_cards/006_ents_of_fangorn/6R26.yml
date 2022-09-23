@@ -1,0 +1,16 @@
+---
+key: 6R26
+name: Enraged
+title: Enraged
+set: ents_of_fangorn
+rarity: rare
+card_type: condition
+alignment: free_people
+culture: gandalf
+strength: "+4"
+twilight: '2'
+game_text: ! |-
+  Bearer must be an Ent. Limit 1 per bearer. Discard this condition at the end of the turn.
+flavor_text: ! |-
+  ”'An angry Ent is terrifying.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06026

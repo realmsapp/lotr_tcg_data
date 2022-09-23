@@ -1,0 +1,17 @@
+---
+key: 6U79
+name: Easterling Polearm
+title: Easterling Polearm
+set: ents_of_fangorn
+rarity: uncommon
+card_type: possession
+subtype: hand_weapon
+alignment: shadow
+culture: raider
+strength: "+2"
+twilight: '0'
+game_text: ! |-
+  Bearer must be an Easterling. While you can spot 2 burdens, bearer cannot take wounds. While you can spot 5 burdens, bearer is damage +1.
+flavor_text: ! |-
+  ”'…and the tips of their spears….'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06079

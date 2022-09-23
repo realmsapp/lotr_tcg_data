@@ -1,0 +1,16 @@
+---
+key: 1R100
+name: The Choice of Luthien
+title: The Choice of Luthien
+set: fellowship_of_the_ring
+rarity: rare
+card_type: condition
+alignment: free_people
+culture: gondor
+twilight: '1'
+unique: true
+game_text: ! |-
+  Tale. Plays to your support area. Maneuver: Exert Aragorn to heal Arwen, or exert Arwen to heal Aragorn.
+flavor_text: ! |-
+  ”'But she chose mortality, and to die from the world, so that she might follow him; and it is sung that they met again beyond the Sundering Seas….'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01100

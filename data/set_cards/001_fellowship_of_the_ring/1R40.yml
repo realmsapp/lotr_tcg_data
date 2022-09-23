@@ -1,0 +1,21 @@
+---
+key: 1R40
+name: Elrond, Lord of Rivendell
+title: Elrond
+subtitle: Lord of Rivendell
+set: fellowship_of_the_ring
+rarity: rare
+card_type: ally
+alignment: free_people
+culture: elven
+strength: '8'
+vitality: '4'
+twilight: '4'
+unique: true
+site_number: '3'
+game_text: ! |-
+  To play, spot Gandalf or an Elf. At the start of each of your turns, heal every ally whose home is site 3. Fellowship: Exert Elrond to draw a card.
+flavor_text: ! |-
+  “He was the Lord of Rivendell and mighty among both Elves and Men.”
+notes: 'Lists: ERL, MXL'
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01040

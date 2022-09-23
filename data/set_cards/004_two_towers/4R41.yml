@@ -1,0 +1,18 @@
+---
+key: 4R41
+name: Axe of Erebor
+title: Axe of Erebor
+set: two_towers
+rarity: rare
+card_type: possession
+subtype: hand_weapon
+alignment: free_people
+culture: dwarven
+strength: "+2"
+twilight: '2'
+unique: true
+game_text: ! |-
+  Bearer must be Gimli. He is damage +1. Skirmish: Discard a [Dwarven] condition or a card stacked on a [Dwarven] condition to make Gimli strength +1.
+flavor_text: ! |-
+  ”'…wherever thou goest my thought goes with thee. But have a care to lay thine axe to the right tree!'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04041

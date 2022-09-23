@@ -1,0 +1,17 @@
+---
+key: 7C193
+name: Morgul Lackey
+title: Morgul Lackey
+set: return_of_the_king
+rarity: common
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: wraith
+strength: '6'
+vitality: '2'
+twilight: '2'
+site_number: '4'
+game_text: ! |-
+  Skirmish: Exert this minion to make a Nazgul or [Wraith] Orc strength +1.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07193

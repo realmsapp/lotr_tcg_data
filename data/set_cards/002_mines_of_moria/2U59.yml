@@ -1,0 +1,15 @@
+---
+key: 2U59
+name: Foul Things
+title: Foul Things
+set: mines_of_moria
+rarity: uncommon
+card_type: event
+alignment: shadow
+culture: moria
+twilight: '2'
+game_text: ! |-
+  Shadow: Play a [Moria] minion from your discard pile.
+flavor_text: ! |-
+  ”'Something has crept, or has been driven out of dark waters under the mountains.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02059

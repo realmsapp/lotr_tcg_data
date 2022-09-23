@@ -1,0 +1,15 @@
+---
+key: 7C186
+name: Morgul Axe
+title: Morgul Axe
+set: return_of_the_king
+rarity: common
+card_type: possession
+subtype: hand_weapon
+alignment: shadow
+culture: wraith
+strength: "+2"
+twilight: '1'
+game_text: ! |-
+  Bearer must be a [Wraith] Orc. While you can spot 2 wounds on the Ring-bearer, bearer is damage +1.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07186

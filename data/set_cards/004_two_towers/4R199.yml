@@ -1,0 +1,19 @@
+---
+key: 4R199
+name: Uruk Trooper
+title: Uruk Trooper
+set: two_towers
+rarity: rare
+card_type: minion
+subtype: uruk-hai
+alignment: shadow
+culture: isengard
+strength: '9'
+vitality: '2'
+twilight: '4'
+site_number: '5'
+game_text: ! |-
+  Damage +1. Regroup: Stack this minion on a site you control. Shadow: If stacked on a site you control, play this minion. Its twilight cost is -1.
+flavor_text: ! |-
+  Thousands of Uruk-hai came to take the Hornburg.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04199

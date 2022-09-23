@@ -1,0 +1,17 @@
+---
+key: 7U307
+name: Orc Stalker
+title: Orc Stalker
+set: return_of_the_king
+rarity: uncommon
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '8'
+vitality: '2'
+twilight: '3'
+site_number: '6'
+game_text: ! |-
+  Tracker. The site number of each [Sauron] Orc is -1. While you have initiative, this minion is strength +8.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07307

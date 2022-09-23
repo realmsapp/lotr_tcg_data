@@ -1,0 +1,16 @@
+---
+key: 2U4
+name: Endurance of Dwarves
+title: Endurance of Dwarves
+set: mines_of_moria
+rarity: uncommon
+card_type: condition
+alignment: free_people
+culture: dwarven
+vitality: "+1"
+twilight: '1'
+game_text: ! |-
+  Bearer must be a Dwarf. Skirmish: Discard this condition to make bearer strength +1.
+flavor_text: ! |-
+  ”'Dwarves too can go swiftly, and they do not tire sooner than Orcs.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02004

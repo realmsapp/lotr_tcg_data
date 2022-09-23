@@ -1,0 +1,17 @@
+---
+key: 10C62
+name: Morgul Banner-bearer
+title: Morgul Banner-bearer
+set: mount_doom
+rarity: common
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: wraith
+strength: '8'
+vitality: '2'
+twilight: '3'
+site_number: '4'
+game_text: ! |-
+  While the total number of other minions and twilight tokens is 3 or fewer, this minion is strength +3 and an archer.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10062

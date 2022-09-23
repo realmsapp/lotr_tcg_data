@@ -1,0 +1,17 @@
+---
+key: 4U63
+name: Elven Brooch
+title: Elven Brooch
+set: two_towers
+rarity: uncommon
+card_type: possession
+subtype: brooch
+alignment: free_people
+culture: elven
+twilight: '1'
+game_text: ! |-
+  To play, spot an Elf. Bearer must be a companion. Response: If another possession borne by bearer is about to be discarded by a Shadow card, discard this possession instead.
+flavor_text: ! |-
+  ””
+notes: Game text is a clarification.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04063

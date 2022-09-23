@@ -1,0 +1,15 @@
+---
+key: 5C117
+name: You Must Help Us
+title: You Must Help Us
+set: battle_of_helms_deep
+rarity: common
+card_type: event
+alignment: free_people
+culture: shire
+twilight: '0'
+game_text: ! |-
+  Fellowship: Play Smeagol from your discard pile to heal each Ring-bound Hobbit twice.
+flavor_text: ! |-
+  ”'You will have to come with us, that's all, while we keep an eye on you.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05117

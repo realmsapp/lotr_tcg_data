@@ -1,0 +1,19 @@
+---
+key: 8P121
+name: Merry, Noble Warrior
+title: Merry
+subtitle: Noble Warrior
+set: siege_of_gondor
+rarity: promo
+card_type: companion
+subtype: hobbit
+alignment: free_people
+culture: shire
+signet: frodo
+strength: '5'
+vitality: '4'
+twilight: '2'
+unique: true
+game_text: ! |-
+  To play, spot a [Rohan] companion. Skirmish: Discard 4 cards from hand to make Merry strength +2 for each [Rohan] companion you spot.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr08121

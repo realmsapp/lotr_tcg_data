@@ -1,0 +1,18 @@
+---
+key: 7U294
+name: Orc Archer Troop
+title: Orc Archer Troop
+set: return_of_the_king
+rarity: uncommon
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '15'
+vitality: '4'
+twilight: '6'
+unique: true
+site_number: '6'
+game_text: ! |-
+  Archer. If you have initiative, the minion archery total is +1 and Orc Archer Troop is fierce.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07294

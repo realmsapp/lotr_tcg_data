@@ -1,0 +1,21 @@
+---
+key: 1C176
+name: Goblin Marksman
+title: Goblin Marksman
+set: fellowship_of_the_ring
+rarity: common
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: moria
+strength: '7'
+vitality: '1'
+twilight: '3'
+site_number: '4'
+game_text: ! |-
+  Archer.
+flavor_text: ! |-
+  “Arrows fell among them. One struck Frodo and sprang back. Another pierced Gandalf's hat and stuck there like a black feather.”
+notes: Italic text within parentheses is descriptive only, and has no added gameplay
+  effect.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01176

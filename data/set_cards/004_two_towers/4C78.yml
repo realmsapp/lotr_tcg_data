@@ -1,0 +1,18 @@
+---
+key: 4C78
+name: Lorien Swordsman
+title: Lorien Swordsman
+set: two_towers
+rarity: common
+card_type: companion
+subtype: elf
+alignment: free_people
+culture: elven
+strength: '5'
+vitality: '3'
+twilight: '2'
+game_text: ! |-
+  Each minion skirmishing this companion is strength -2 for each wound on that minion.
+flavor_text: ! |-
+  Long, curved Elven steel cut down Uruks already weakened by Elven arrows.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04078

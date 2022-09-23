@@ -1,0 +1,14 @@
+---
+key: 10U12
+name: Glimpse of Fate
+title: Glimpse of Fate
+set: mount_doom
+rarity: uncommon
+card_type: condition
+alignment: free_people
+culture: elven
+twilight: '0'
+unique: true
+game_text: ! |-
+  To play, spot 2 Elves. Each time you lose initiative, make a minion strength -4 until the regroup phase.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10012

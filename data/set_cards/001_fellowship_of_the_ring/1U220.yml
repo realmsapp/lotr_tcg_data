@@ -1,0 +1,15 @@
+---
+key: 1U220
+name: Not Easily Destroyed
+title: Not Easily Destroyed
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: condition
+alignment: shadow
+culture: wraith
+twilight: '1'
+game_text: ! |-
+  Plays to your support area. Maneuver or Skirmish: Remove (3) to heal a Nazgul.
+flavor_text: ! |-
+  ”'They were Kings… great Kings of Men. Sauron gave to them Nine Rings of Power and with them the promise of eternal rule… unending life.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01220

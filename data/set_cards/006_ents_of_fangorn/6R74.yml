@@ -1,0 +1,21 @@
+---
+key: 6R74
+name: Sharku, Vile Marauder
+title: Sharku
+subtitle: Vile Marauder
+set: ents_of_fangorn
+rarity: rare
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: isengard
+strength: '7'
+vitality: '2'
+twilight: '2'
+unique: true
+site_number: '4'
+game_text: ! |-
+  Warg-rider. While Sharku is not exhausted, he is fierce. Regroup: Exert Sharku to add (1).
+flavor_text: ! |-
+  ”'Send out your warg-riders.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06074

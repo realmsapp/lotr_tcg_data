@@ -1,0 +1,15 @@
+---
+key: 4C151
+name: Ferocity
+title: Ferocity
+set: two_towers
+rarity: common
+card_type: event
+alignment: shadow
+culture: isengard
+twilight: '0'
+game_text: ! |-
+  Skirmish: Make an Uruk-hai strength +2 (or +3 if at a battleground).
+flavor_text: ! |-
+  Uruk savagery remained despite their battle training.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04151

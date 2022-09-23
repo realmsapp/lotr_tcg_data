@@ -1,0 +1,19 @@
+---
+key: 5R59
+name: Sharku's Warg
+title: Sharku's Warg
+set: battle_of_helms_deep
+rarity: rare
+card_type: possession
+subtype: mount
+alignment: shadow
+culture: isengard
+strength: "+5"
+vitality: "+3"
+twilight: '5'
+unique: true
+game_text: ! |-
+  Bearer must be a warg-rider. If bearer is Sharku, he is damage +1. Response: If a skirmish special ability is used in a skirmish involving bearer, exert bearer to cancel that action.
+flavor_text: ! |-
+  The warg-captain picked the fastest and strongest mount.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05059

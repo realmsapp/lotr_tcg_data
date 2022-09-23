@@ -1,0 +1,20 @@
+---
+key: 4C85
+name: Thandronen, Veteran Protector
+title: Thandronen
+subtitle: Veteran Protector
+set: two_towers
+rarity: common
+card_type: companion
+subtype: elf
+alignment: free_people
+culture: elven
+strength: '5'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  To play, spot an Elf. Regroup: Exert Thandronen to discard a minion stacked on a condition or stacked on a site.
+flavor_text: ! |-
+  The twin sons of Thandronen marched with their father to defend Helm's Deep.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04085

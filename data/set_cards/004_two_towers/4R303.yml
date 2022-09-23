@@ -1,0 +1,17 @@
+---
+key: 4R303
+name: Frodo's Cloak
+title: Frodo's Cloak
+set: two_towers
+rarity: rare
+card_type: possession
+subtype: cloak
+alignment: free_people
+culture: shire
+twilight: '2'
+unique: true
+game_text: ! |-
+  Bearer must be Frodo. Skirmish: At sites 1T to 4T, add a burden and discard this possession to cancel a skirmish involving Frodo. At any other site, discard this possession to remove a burden and heal Frodo.
+flavor_text: ! |-
+  Neither weather nor searching eyes found Frodo.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04303

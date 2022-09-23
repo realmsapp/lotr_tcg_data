@@ -1,0 +1,16 @@
+---
+key: 6U61
+name: Desertion
+title: Desertion
+set: ents_of_fangorn
+rarity: uncommon
+card_type: condition
+alignment: shadow
+culture: isengard
+strength: "-1"
+twilight: '1'
+game_text: ! |-
+  To play, spot an [Isengard] Man. Plays on a companion (except the Ring-bearer). Assignment: Assign an [Isengard] minion with less strength than bearer to skirmish bearer. Discard this condition.
+flavor_text: ! |-
+  ”'Who knows what you've spoken to the darkness in the bitter watches of the night?'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06061

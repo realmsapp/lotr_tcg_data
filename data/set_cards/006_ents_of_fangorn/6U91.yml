@@ -1,0 +1,15 @@
+---
+key: 6U91
+name: Blood Has Been Spilled
+title: Blood Has Been Spilled
+set: ents_of_fangorn
+rarity: uncommon
+card_type: condition
+alignment: free_people
+culture: rohan
+twilight: '1'
+game_text: ! |-
+  Plays to your support area. Skirmish: Discard a mount borne by a [Rohan] Man to prevent that Man from being overwhelmed unless his or her strength is tripled.
+flavor_text: ! |-
+  “They were hemming the Orcs in, preventing them from scattering, and driving them….”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06091

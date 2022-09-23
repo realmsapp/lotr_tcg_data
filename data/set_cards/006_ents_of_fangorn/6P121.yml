@@ -1,0 +1,21 @@
+---
+key: 6P121
+name: Faramir, Ithilien Ranger
+title: Faramir
+subtitle: Ithilien Ranger
+set: ents_of_fangorn
+rarity: promo
+card_type: companion
+subtype: man
+alignment: free_people
+culture: gondor
+signet: gandalf
+strength: '7'
+vitality: '3'
+twilight: '3'
+unique: true
+game_text: ! |-
+  Ring-bound. Ranger. If Faramir is in your starting fellowship, his twilight cost is -1. Fellowship: Play a ranger to heal a Ring-bound companion.
+flavor_text: ! |-
+  ”'Not while Faramir is Captain… his life is charmed, or fate spares him for some other end.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06121

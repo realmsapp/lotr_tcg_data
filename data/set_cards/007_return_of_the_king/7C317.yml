@@ -1,0 +1,20 @@
+---
+key: 7C317
+name: Frodo, Hope of Free Peoples
+title: Frodo
+subtitle: Hope of Free Peoples
+set: return_of_the_king
+rarity: common
+card_type: companion
+subtype: hobbit
+alignment: free_people
+culture: shire
+signet: aragorn
+strength: '3'
+vitality: '4'
+twilight: '0'
+unique: true
+ring_bearer: true
+game_text: ! |-
+  Ring-bearer (resistance 10). Ring-bound. Each time the fellowship moves, you may add (3) to remove a threat.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07317

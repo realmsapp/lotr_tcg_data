@@ -1,0 +1,13 @@
+---
+key: 8C89
+name: Fury of the Northmen
+title: Fury of the Northmen
+set: siege_of_gondor
+rarity: common
+card_type: event
+alignment: free_people
+culture: rohan
+twilight: '2'
+game_text: ! |-
+  Exert a minion skirmishing a mounted [Rohan] Man.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr08089

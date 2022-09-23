@@ -1,0 +1,21 @@
+---
+key: 4R160
+name: Mauhur, Patrol Leader
+title: Mauhur
+subtitle: Patrol Leader
+set: two_towers
+rarity: rare
+card_type: minion
+subtype: uruk-hai
+alignment: shadow
+culture: isengard
+strength: '9'
+vitality: '2'
+twilight: '3'
+unique: true
+site_number: '5'
+game_text: ! |-
+  Tracker. Fierce. Skirmish: Remove (2) to prevent an [Isengard] tracker from taking wounds.
+flavor_text: ! |-
+  ”forest, and they should turn up any time now.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04160

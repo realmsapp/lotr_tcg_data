@@ -1,0 +1,19 @@
+---
+key: 4U182
+name: Uruk Crossbow Troop
+title: Uruk Crossbow Troop
+set: two_towers
+rarity: uncommon
+card_type: minion
+subtype: uruk-hai
+alignment: shadow
+culture: isengard
+strength: '8'
+vitality: '2'
+twilight: '4'
+site_number: '5'
+game_text: ! |-
+  Archer. When you play this minion, you may place an [Isengard] token on a machine.
+flavor_text: ! |-
+  Bolts from the Uruk crossbows shattered the shields of the defenders.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04182

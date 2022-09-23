@@ -1,0 +1,18 @@
+---
+key: 3C108
+name: Frying Pan
+title: Frying Pan
+set: realms_of_the_elf_lords
+rarity: common
+card_type: possession
+subtype: hand_weapon
+alignment: free_people
+culture: shire
+strength: "+1"
+twilight: '0'
+game_text: ! |-
+  Bearer must be a Hobbit. Skirmish: Exert bearer to wound an Orc he or she is skirmishing.
+flavor_text: ! |-
+  ”'I think I'm getting the hang of this!'”
+notes: 'Lists: EXL, MXL'
+wiki_url: https://lotrtcgwiki.com/wiki/lotr03108

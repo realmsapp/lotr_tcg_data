@@ -1,0 +1,15 @@
+---
+key: 5R3
+name: Leaping Blaze
+title: Leaping Blaze
+set: battle_of_helms_deep
+rarity: rare
+card_type: event
+alignment: shadow
+culture: dunland
+twilight: '1'
+game_text: ! |-
+  Shadow: Spot 3 [Dunland] minions to shuffle your hand into your draw deck and draw 8 cards. The Free Peoples player may discard 3 cards from hand to prevent this.
+flavor_text: ! |-
+  ”…they saw torches, countless points of fiery light upon the black fields behind, scattered like red flowers, or winding up from the lowlands….”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05003

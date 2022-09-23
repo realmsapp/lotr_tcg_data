@@ -1,0 +1,19 @@
+---
+key: 10R72
+name: Eowyn, Lady of Ithilien
+title: Eowyn
+subtitle: Lady of Ithilien
+set: mount_doom
+rarity: rare
+card_type: companion
+subtype: man
+alignment: free_people
+culture: rohan
+signet: gandalf
+strength: '6'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  Skirmish: Exert Eowyn to choose an opponent. That opponent must wound a minion for each wound on each minion skirmishing Eowyn.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10072

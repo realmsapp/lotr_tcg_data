@@ -1,0 +1,20 @@
+---
+key: 1C193
+name: Plundered Armories
+title: Plundered Armories
+set: fellowship_of_the_ring
+rarity: common
+card_type: condition
+alignment: shadow
+culture: moria
+twilight: '2'
+game_text: ! |-
+  Plays to your support area. Response: If your [Moria] weapon is discarded, play it from your discard pile (that weapon's twilight cost is -1).
+flavor_text: ! |-
+  The Goblins of Moria have oft plundered the deep armouries of Durin's folk.
+notes: If a minion bearing a [Moria] weapon is discarded due to losing a skirmish,
+  Plundered Armories takes effect before optional actions triggered by winning/losing
+  that skirmish occur. When an effect discards “all” minions (thereby discarding their
+  weapons), they are discarded at the same time. None of those minions may have weapons
+  played on them with Plundered Armories.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01193

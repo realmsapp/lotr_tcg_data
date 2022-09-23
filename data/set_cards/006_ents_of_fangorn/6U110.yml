@@ -1,0 +1,17 @@
+---
+key: 6U110
+name: It Burns Us
+title: It Burns Us
+set: ents_of_fangorn
+rarity: uncommon
+card_type: event
+alignment: free_people
+culture: shire
+twilight: '1'
+game_text: ! |-
+  Regroup: Spot Sam and Smeagol (or Gollum) to choose an opponent who must reveal his or her hand. Wound a minion X times, where X is the number of different cultures revealed.
+flavor_text: ! |-
+  ”'No more than you deserve.'”
+notes: This card counts both Free Peoples cultures and Shadow cultures when cards
+  are revealed.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06110

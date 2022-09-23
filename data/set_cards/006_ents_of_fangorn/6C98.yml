@@ -1,0 +1,17 @@
+---
+key: 6C98
+name: Banner of the Eye
+title: Banner of the Eye
+set: ents_of_fangorn
+rarity: common
+card_type: possession
+subtype: hand_weapon
+alignment: shadow
+culture: sauron
+strength: "+1"
+twilight: '0'
+game_text: ! |-
+  Bearer must be an [Sauron] Orc. Each time bearer wins a skirmish, you may add (1) for each site you control.
+flavor_text: ! |-
+  “Stony-faced they were, with dark window- holes staring north and east and west, and each window was full of sleepless eyes.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06098

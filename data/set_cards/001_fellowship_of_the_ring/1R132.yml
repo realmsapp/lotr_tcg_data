@@ -1,0 +1,15 @@
+---
+key: 1R132
+name: Parry
+title: Parry
+set: fellowship_of_the_ring
+rarity: rare
+card_type: event
+alignment: shadow
+culture: isengard
+twilight: '2'
+game_text: ! |-
+  Maneuver: Spot an Uruk-hai to cancel the strength bonus from a possession until the regroup phase.
+flavor_text: ! |-
+  Even the sword of a powerful warrior can be parried by the strength of an Uruk-hai.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01132

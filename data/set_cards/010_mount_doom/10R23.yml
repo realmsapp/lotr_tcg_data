@@ -1,0 +1,19 @@
+---
+key: 10R23
+name: Shelob, Her Ladyship
+title: Shelob
+subtitle: Her Ladyship
+set: mount_doom
+rarity: rare
+card_type: minion
+subtype: spider
+alignment: shadow
+culture: gollum_shadow
+strength: '8'
+vitality: '8'
+twilight: '6'
+unique: true
+site_number: '8'
+game_text: ! |-
+  Enduring. Fierce. When you play Shelob, if you can spot Gollum, you may spot a companion. That companion cannot be assigned to a skirmish until the end of the turn.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10023

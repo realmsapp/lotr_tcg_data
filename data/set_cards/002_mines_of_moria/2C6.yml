@@ -1,0 +1,20 @@
+---
+key: 2C6
+name: Fror, Gimli's Kinsman
+title: Fror
+subtitle: Gimli's Kinsman
+set: mines_of_moria
+rarity: common
+card_type: companion
+subtype: dwarf
+alignment: free_people
+culture: dwarven
+strength: '5'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  To play, spot a Dwarf. While skirmishing an Uruk-hai, Fror is strength +3.
+flavor_text: ! |-
+  “It appeared that amid the splendour of their works of hand the hearts of the Dwarves of the Lonely Mountain were troubled.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02006

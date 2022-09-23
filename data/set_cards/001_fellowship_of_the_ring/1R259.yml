@@ -1,0 +1,20 @@
+---
+key: 1R259
+name: Morgul Warden
+title: Morgul Warden
+set: fellowship_of_the_ring
+rarity: rare
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '9'
+vitality: '3'
+twilight: '3'
+unique: true
+site_number: '6'
+game_text: ! |-
+  For each other [Sauron] Orc you can spot, Morgul Warden is strength +1.
+flavor_text: ! |-
+  With blind devotion, the Orcs of Mordor follow orders issued from the Dark Tower.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01259

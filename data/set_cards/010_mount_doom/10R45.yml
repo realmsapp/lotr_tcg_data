@@ -1,0 +1,17 @@
+---
+key: 10R45
+name: Mumak Chieftain
+title: Mumak Chieftain
+set: mount_doom
+rarity: rare
+card_type: minion
+subtype: man
+alignment: shadow
+culture: raider
+strength: '11'
+vitality: '3'
+twilight: '5'
+site_number: '4'
+game_text: ! |-
+  Southron. When you play this minion, you may play a mount on him from your discard pile. Its twilight cost is -2.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10045

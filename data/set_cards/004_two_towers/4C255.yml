@@ -1,0 +1,17 @@
+---
+key: 4C255
+name: Southron Spear
+title: Southron Spear
+set: two_towers
+rarity: common
+card_type: possession
+subtype: hand_weapon
+alignment: shadow
+culture: raider
+strength: "+2"
+twilight: '1'
+game_text: ! |-
+  Bearer must be a Southron. Skirmish: Remove (4) and exert bearer to wound a companion or ally bearer is skirmishing.
+flavor_text: ! |-
+  Long pikes defend the Southrons against the armored knights of Gondor.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04255

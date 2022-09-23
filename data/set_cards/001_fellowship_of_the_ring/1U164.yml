@@ -1,0 +1,15 @@
+---
+key: 1U164
+name: Bitter Hatred
+title: Bitter Hatred
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: event
+alignment: shadow
+culture: moria
+twilight: '1'
+game_text: ! |-
+  Archery: Spot a [Moria] archer to wound an Elf.
+flavor_text: ! |-
+  Bitter and long is the hatred of the Orcs for the Elves, and thus they prefer Elves as targets.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01164

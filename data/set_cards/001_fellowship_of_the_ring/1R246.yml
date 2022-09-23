@@ -1,0 +1,15 @@
+---
+key: 1R246
+name: Enduring Evil
+title: Enduring Evil
+set: fellowship_of_the_ring
+rarity: rare
+card_type: event
+alignment: shadow
+culture: sauron
+twilight: '0'
+game_text: ! |-
+  Skirmish: Spot X burdens to make a character skirmishing a [Sauron] Orc strength -X.
+flavor_text: ! |-
+  ”'The Dark Tower was broken, but its foundations were not removed; for they were made with the power of the Ring, and while it remains they will endure.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01246

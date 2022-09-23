@@ -1,0 +1,17 @@
+---
+key: 7C297
+name: Orc Butcher
+title: Orc Butcher
+set: return_of_the_king
+rarity: common
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '6'
+vitality: '2'
+twilight: '2'
+site_number: '6'
+game_text: ! |-
+  For each [Sauron] condition you can spot, this minion is strength +1.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07297

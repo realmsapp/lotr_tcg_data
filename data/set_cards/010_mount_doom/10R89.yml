@@ -1,0 +1,17 @@
+---
+key: 10R89
+name: Gothmog's Warg
+title: Gothmog's Warg
+set: mount_doom
+rarity: rare
+card_type: possession
+subtype: mount
+alignment: shadow
+culture: sauron
+strength: "+1"
+vitality: "+1"
+twilight: '1'
+unique: true
+game_text: ! |-
+  Bearer must be a [Sauron] Orc. For each site you control, bearer is strength +1 (or +2 if bearer is Gothmog).
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10089

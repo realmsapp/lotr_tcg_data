@@ -1,0 +1,17 @@
+---
+key: 8R36
+name: Garrison of Gondor
+title: Garrison of Gondor
+set: siege_of_gondor
+rarity: rare
+card_type: companion
+subtype: man
+alignment: free_people
+culture: gondor
+strength: '8'
+vitality: '3'
+twilight: '3'
+unique: true
+game_text: ! |-
+  Archer. Knight. To play, spot 3 [Gondor] companions. While you can spot a fortification, Garrison of Gondor is defender +1.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr08036

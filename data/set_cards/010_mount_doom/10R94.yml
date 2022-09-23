@@ -1,0 +1,17 @@
+---
+key: 10R94
+name: Orc Ravager
+title: Orc Ravager
+set: mount_doom
+rarity: rare
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '10'
+vitality: '3'
+twilight: '4'
+site_number: '6'
+game_text: ! |-
+  To play, spot a [Sauron] minion. Shadow: Remove 2 threats to discard a condition.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10094

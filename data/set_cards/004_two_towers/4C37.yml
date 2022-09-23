@@ -1,0 +1,15 @@
+---
+key: 4C37
+name: War Cry of Dunland
+title: War Cry of Dunland
+set: two_towers
+rarity: common
+card_type: event
+alignment: shadow
+culture: dunland
+twilight: '1'
+game_text: ! |-
+  Response: If a [Dunland] Man wins a skirmish, make him fierce and strength +4 until the regroup phase.
+flavor_text: ! |-
+  ”'Death to the Forgoil!'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04037

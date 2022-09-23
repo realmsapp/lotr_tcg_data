@@ -1,0 +1,20 @@
+---
+key: 5C28
+name: Smeagol, Old Noser
+title: Smeagol
+subtitle: Old Noser
+set: battle_of_helms_deep
+rarity: common
+card_type: companion
+alignment: free_people
+culture: gollum_free_people
+signet: frodo
+strength: '3'
+vitality: '4'
+twilight: '0'
+unique: true
+game_text: ! |-
+  Ring-bound. To play add a burden. Regroup: Exert Smeagol (or Gollum) twice to reveal the top 4 cards of your draw deck. Wound a minion for each Shadow card revealed. Place those 4 cards beneath your draw deck in any order.
+flavor_text: ! |-
+  ”'Could you find anything fit for a hungry hobbit?'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05028

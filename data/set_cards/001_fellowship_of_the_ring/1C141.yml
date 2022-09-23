@@ -1,0 +1,15 @@
+---
+key: 1C141
+name: Their Arrows Enrage
+title: Their Arrows Enrage
+set: fellowship_of_the_ring
+rarity: common
+card_type: condition
+alignment: shadow
+culture: isengard
+twilight: '1'
+game_text: ! |-
+  To play, spot Saruman or an Uruk-hai. Plays to your support area. Each archer companion and archer ally is strength -1.
+flavor_text: ! |-
+  The ferocious charge of the Uruk-hai catches enemy archers groping for their swords.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01141

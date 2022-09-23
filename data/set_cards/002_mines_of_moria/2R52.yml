@@ -1,0 +1,21 @@
+---
+key: 2R52
+name: The Balrog, Flame of Udun
+title: The Balrog
+subtitle: Flame of Udun
+set: mines_of_moria
+rarity: rare
+card_type: minion
+subtype: balrog
+alignment: shadow
+culture: moria
+strength: '17'
+vitality: '5'
+twilight: '14'
+unique: true
+site_number: '4'
+game_text: ! |-
+  Damage +1. Fierce. To play, spot a [Moria] Orc. Discard The Balrog if not underground. Shadow: Exert The Balrog and remove (2) to play a [Moria] Orc from your discard pile.
+flavor_text: ! |-
+  ”…suddenly it drew itself up to a great height, and its wings were spread from wall to wall….”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02052

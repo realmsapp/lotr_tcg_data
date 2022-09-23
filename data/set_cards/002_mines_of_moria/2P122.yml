@@ -1,0 +1,21 @@
+---
+key: 2P122
+name: Gandalf, The Grey Pilgrim
+title: Gandalf
+subtitle: The Grey Pilgrim
+set: mines_of_moria
+rarity: promo
+card_type: companion
+subtype: wizard
+alignment: free_people
+culture: gandalf
+signet: aragorn
+strength: '7'
+vitality: '4'
+twilight: '4'
+unique: true
+game_text: ! |-
+  At the start of each of your turns, you may draw a card.
+flavor_text: ! |-
+  ”'When evening in the Shire was grey / his footsteps on the Hill were heard; / before the dawn he went away / on journey long without a word.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02122

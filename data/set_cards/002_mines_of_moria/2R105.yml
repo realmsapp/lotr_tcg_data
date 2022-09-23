@@ -1,0 +1,17 @@
+---
+key: 2R105
+name: Mithril-coat
+title: Mithril-coat
+set: mines_of_moria
+rarity: rare
+card_type: artifact
+subtype: armor
+alignment: free_people
+culture: shire
+twilight: '2'
+unique: true
+game_text: ! |-
+  Bearer must be Frodo. The minion archery total is -1. Each minion skirmishing Frodo does not gain strength bonuses from weapons and loses all damage bonuses.
+flavor_text: ! |-
+  ”'…its worth was greater than the value of the whole Shire and everything in it.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02105

@@ -1,0 +1,14 @@
+---
+key: 7R181
+name: Held Ground
+title: Held Ground
+set: return_of_the_king
+rarity: rare
+card_type: condition
+alignment: shadow
+culture: wraith
+twilight: '1'
+unique: true
+game_text: ! |-
+  To play, spot 2 Nazgul and add up to 3 threats. Each time a companion is about to be killed, you may remove a threat to discard up to 2 possessions. Discard this condition and remove 3 threats during the regroup phase.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07181

@@ -1,0 +1,13 @@
+---
+key: 10R19
+name: A Dark Shape Sprang
+title: A Dark Shape Sprang
+set: mount_doom
+rarity: rare
+card_type: event
+alignment: shadow
+culture: gollum_shadow
+twilight: '0'
+game_text: ! |-
+  If an opponent plays a possession on a companion, play Gollum at twilight cost -2 from your discard pile or hand to suspend the current phase. Begin a skirmish phase involving Gollum and that companion. When it ends, resume the suspended phase.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10019

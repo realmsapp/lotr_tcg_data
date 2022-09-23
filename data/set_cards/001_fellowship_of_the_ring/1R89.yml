@@ -1,0 +1,21 @@
+---
+key: 1R89
+name: Aragorn, Ranger of the North
+title: Aragorn
+subtitle: Ranger of the North
+set: fellowship_of_the_ring
+rarity: rare
+card_type: companion
+subtype: man
+alignment: free_people
+culture: gondor
+signet: gandalf
+strength: '8'
+vitality: '4'
+twilight: '4'
+unique: true
+game_text: ! |-
+  Ranger. Maneuver: Exert Aragorn to make him defender +1 until the regroup phase.
+flavor_text: ! |-
+  ”'Lonely men are we, Rangers of the wild, The hunters - but The hunters ever of the servants of the Enemy….'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01089

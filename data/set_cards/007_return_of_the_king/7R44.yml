@@ -1,0 +1,14 @@
+---
+key: 7R44
+name: Moment of Respite
+title: Moment of Respite
+set: return_of_the_king
+rarity: rare
+card_type: condition
+alignment: free_people
+culture: gandalf
+twilight: '2'
+unique: true
+game_text: ! |-
+  At the start of the regroup phase, you may discard 2 cards from hand to heal Gandalf.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07044

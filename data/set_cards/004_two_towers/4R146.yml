@@ -1,0 +1,16 @@
+---
+key: 4R146
+name: Come Down
+title: Come Down
+set: two_towers
+rarity: rare
+card_type: condition
+alignment: shadow
+culture: isengard
+twilight: '0'
+game_text: ! |-
+  Plays to your support area. Archery: Spot 2 [Isengard] archers to make allies take wounds from archery fire instead of companions.
+flavor_text: ! |-
+  ”'We are the fighting Uruk-hai…. Bring out your skulking king!'”
+notes: This card allows all allies to take wounds from archery fire.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04146

@@ -1,0 +1,21 @@
+---
+key: 4C310
+name: Merry, Learned Guide
+title: Merry
+subtitle: Learned Guide
+set: two_towers
+rarity: common
+card_type: companion
+subtype: hobbit
+alignment: free_people
+culture: shire
+signet: frodo
+strength: '3'
+vitality: '4'
+twilight: '1'
+unique: true
+game_text: ! |-
+  Skirmish: Exert the Ring-bearer to discard Merry. Any Shadow player may remove (2) to prevent this.
+flavor_text: ! |-
+  ”'I don't suppose you have much notion where we are; but I spent my time at Rivendell rather better.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04310

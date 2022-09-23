@@ -1,0 +1,15 @@
+---
+key: 7C52
+name: Wizard Staff
+title: Wizard Staff
+set: return_of_the_king
+rarity: common
+card_type: possession
+subtype: staff
+alignment: free_people
+culture: gandalf
+strength: "+1"
+twilight: '2'
+game_text: ! |-
+  Bearer must be a Wizard. Skirmish: Exert bearer twice to make a minion strength -3.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07052

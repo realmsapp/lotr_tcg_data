@@ -1,0 +1,16 @@
+---
+key: 1C2
+name: The One Ring, The Ruling Ring
+title: The One Ring
+subtitle: The Ruling Ring
+set: fellowship_of_the_ring
+rarity: common
+card_type: the_one_ring
+strength: "+1"
+unique: true
+game_text: ! |-
+  Response: If bearer is about to take a wound in a skirmish, he wears The One Ring until the regroup phase. While wearing The One Ring, each time the Ring-bearer is about to take a wound during a skirmish, add a burden instead.
+flavor_text: ! |-
+  “One Ring to rule them all….”
+notes: 'Version: ++++.'
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01002

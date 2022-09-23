@@ -1,0 +1,16 @@
+---
+key: 1U222
+name: Paths Seldom Trodden
+title: Paths Seldom Trodden
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: condition
+alignment: shadow
+culture: wraith
+twilight: '1'
+game_text: ! |-
+  Search. To play, spot a Nazgul. Plays to your support area. Shadow: Remove (3) to replace the fellowship's site with your version of the same site.
+flavor_text: ! |-
+  ”'You will have to leave the open road after tonight; for the horsemen will watch it night and day.'”
+notes: This card can replace sites only in the Fellowship block format.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01222

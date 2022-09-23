@@ -1,0 +1,17 @@
+---
+key: 1R90
+name: Aragorn's Bow
+title: Aragorn's Bow
+set: fellowship_of_the_ring
+rarity: rare
+card_type: possession
+subtype: ranged_weapon
+alignment: free_people
+culture: gondor
+twilight: '1'
+unique: true
+game_text: ! |-
+  Bearer must be Aragorn. He is an archer. Archery: Exert Aragorn to wound a minion; Aragorn does not add to the fellowship archery total.
+flavor_text: ! |-
+  Rangers learn the bow as well as the blade.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01090

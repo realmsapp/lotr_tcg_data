@@ -1,0 +1,16 @@
+---
+key: 4U305
+name: Good Work
+title: Good Work
+set: two_towers
+rarity: uncommon
+card_type: condition
+alignment: free_people
+culture: shire
+twilight: '2'
+unique: true
+game_text: ! |-
+  Plays to your support area. Each time a Hobbit wins a skirmish, you may place a [Shire] token here. Fellowship: Remove a burden for each [Shire] token here (limit 3). Discard this condition.
+flavor_text: ! |-
+  ”'You seem to have been doing well, Master Took.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04305

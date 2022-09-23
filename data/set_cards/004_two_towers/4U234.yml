@@ -1,0 +1,15 @@
+---
+key: 4U234
+name: Flanking Attack
+title: Flanking Attack
+set: two_towers
+rarity: uncommon
+card_type: event
+alignment: shadow
+culture: raider
+twilight: '0'
+game_text: ! |-
+  Maneuver or Skirmish: Exert a Southron to add (3).
+flavor_text: ! |-
+  ”'Our scouts report more Haradrim making their way up here….'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04234

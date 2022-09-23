@@ -1,0 +1,17 @@
+---
+key: 4R179
+name: Uruk Assault Band
+title: Uruk Assault Band
+set: two_towers
+rarity: rare
+card_type: minion
+subtype: uruk-hai
+alignment: shadow
+culture: isengard
+strength: '14'
+vitality: '3'
+twilight: '7'
+site_number: '5'
+game_text: ! |-
+  Damage +1. To play, spot an Uruk-hai. While at a battleground, this minion is fierce. While you control a battleground, this minion is strength +6. While you control 2 battlegrounds, this minion may not take wounds.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04179

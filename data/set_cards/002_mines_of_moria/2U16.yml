@@ -1,0 +1,15 @@
+---
+key: 2U16
+name: A Blended Race
+title: A Blended Race
+set: mines_of_moria
+rarity: uncommon
+card_type: condition
+alignment: free_people
+culture: elven
+twilight: '1'
+game_text: ! |-
+  To play, spot an Elf. Plays to your support area. Each Uruk-hai is strength -2 and loses all damage bonuses. Discard this condition during the regroup phase.
+flavor_text: ! |-
+  ”'…he has been doing something to them…. For these Isengarders are more like wicked Men.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02016

@@ -1,0 +1,17 @@
+---
+key: 7U293
+name: Mordor Warrior
+title: Mordor Warrior
+set: return_of_the_king
+rarity: uncommon
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '9'
+vitality: '3'
+twilight: '3'
+site_number: '6'
+game_text: ! |-
+  Skirmish: Discard a card from hand to make a companion skirmishing this minion strength -1 for each other [Sauron] Orc you spot (limit -3).
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07293

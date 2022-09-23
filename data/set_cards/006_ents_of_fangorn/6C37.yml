@@ -1,0 +1,20 @@
+---
+key: 6C37
+name: Treebeard, Guardian of the Forest
+title: Treebeard
+subtitle: Guardian of the Forest
+set: ents_of_fangorn
+rarity: common
+card_type: companion
+subtype: ent
+alignment: free_people
+culture: gandalf
+strength: '12'
+vitality: '4'
+twilight: '5'
+unique: true
+game_text: ! |-
+  Unhasty. Assignment: Exert an unbound Hobbit to allow Treebeard to skirmish. Skirmish: Exert Treebeard to make an Ent damage +1.
+flavor_text: ! |-
+  ”'The little that I know of his long slow story would make a tale for which we have no time now.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06037

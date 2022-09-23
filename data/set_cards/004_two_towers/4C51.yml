@@ -1,0 +1,15 @@
+---
+key: 4C51
+name: Khazad Ai-menu
+title: Khazad Ai-menu
+set: two_towers
+rarity: common
+card_type: event
+alignment: free_people
+culture: dwarven
+twilight: '1'
+game_text: ! |-
+  Skirmish: Make a Dwarf strength +2 (or strength +3 and damage +1 if you spot Legolas).
+flavor_text: ! |-
+  ”'The Orcs are behind the wall. Ai-oi! Come, Legolas! There are enough for both of us.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04051

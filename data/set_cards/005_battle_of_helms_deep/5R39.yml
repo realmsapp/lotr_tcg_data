@@ -1,0 +1,17 @@
+---
+key: 5R39
+name: Stone Tower
+title: Stone Tower
+set: battle_of_helms_deep
+rarity: rare
+card_type: condition
+alignment: free_people
+culture: gondor
+vitality: "-2"
+twilight: '1'
+unique: true
+game_text: ! |-
+  Fortification. Plays to your support area. Skirmish: Exert 2 [Gondor] Men to transfer this condition from your support area to a minion skirmishing a [Gondor] Man.
+flavor_text: ! |-
+  The battlements of Osgiliath provided some defense against Sauron's attackers.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05039

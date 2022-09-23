@@ -1,0 +1,18 @@
+---
+key: 2R15
+name: What Are We Waiting For?
+title: What Are We Waiting For?
+set: mines_of_moria
+rarity: rare
+card_type: event
+alignment: free_people
+culture: dwarven
+twilight: '1'
+game_text: ! |-
+  Fellowship: Exert a Dwarf to make an opponent draw 2 cards. That player then chooses to either discard 2 Shadow cards from hand or skip his or her next Shadow phase.
+flavor_text: ! |-
+  ”'It is not despair, for despair is only for those who see the end beyond all doubt.'”
+notes: If a second copy of this card is played and that Shadow player has already
+  chosen to skip his or her next Shadow phase, that player may choose to skip the
+  same Shadow phase again (which has no effect).
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02015

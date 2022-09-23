@@ -1,0 +1,18 @@
+---
+key: 4C286
+name: Rider of Rohan
+title: Rider of Rohan
+set: two_towers
+rarity: common
+card_type: companion
+subtype: man
+alignment: free_people
+culture: rohan
+strength: '5'
+vitality: '3'
+twilight: '2'
+game_text: ! |-
+  Skirmish: If this companion is mounted, exert him to exert a minion skirmishing an unbound companion.
+flavor_text: ! |-
+  ”'They are proud and wilful, but they are true-hearted, generous in thought and deed….'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04286

@@ -1,0 +1,17 @@
+---
+key: 7C82
+name: Cirion
+title: Cirion
+set: return_of_the_king
+rarity: common
+card_type: companion
+subtype: man
+alignment: free_people
+culture: gondor
+strength: '5'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  While you have only 4 or 5 cards in hand, Cirion is strength +2.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07082

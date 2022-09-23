@@ -1,0 +1,17 @@
+---
+key: 7R80
+name: Anduril, King's Blade
+title: Anduril
+subtitle: King's Blade
+set: return_of_the_king
+rarity: rare
+card_type: artifact
+subtype: hand_weapon
+alignment: free_people
+culture: gondor
+strength: "+2"
+twilight: '3'
+unique: true
+game_text: ! |-
+  Bearer must be Aragorn. If you cannot spot a threat, Aragorn is defender +1.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07080

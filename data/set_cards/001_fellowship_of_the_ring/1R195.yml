@@ -1,0 +1,16 @@
+---
+key: 1R195
+name: Relics of Moria
+title: Relics of Moria
+set: fellowship_of_the_ring
+rarity: rare
+card_type: condition
+alignment: shadow
+culture: moria
+twilight: '1'
+game_text: ! |-
+  Plays to your support area. Shadow: Remove (2) to play a [Moria] possession from your discard pile.
+flavor_text: ! |-
+  “By both the doors they could now see that many bones were lying, and among them were broken swords and axe-heads, and cloven shields and helms.”
+notes: 'Lists: ERL, MXL'
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01195

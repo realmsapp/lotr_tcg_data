@@ -1,0 +1,16 @@
+---
+key: 2U54
+name: Dark Fire
+title: Dark Fire
+set: mines_of_moria
+rarity: uncommon
+card_type: condition
+alignment: shadow
+culture: moria
+strength: "-2"
+twilight: '1'
+game_text: ! |-
+  To play, spot The Balrog. Plays on Gandalf. Each time the fellowship moves, Gandalf must exert.
+flavor_text: ! |-
+  ”…he seemed small, and altogether alone: grey and bent, like a wizened tree before the onset of a storm.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02054

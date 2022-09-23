@@ -1,0 +1,19 @@
+---
+key: 5U55
+name: Isengard Scout Troop
+title: Isengard Scout Troop
+set: battle_of_helms_deep
+rarity: uncommon
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: isengard
+strength: '5'
+vitality: '3'
+twilight: '2'
+site_number: '4'
+game_text: ! |-
+  Warg-rider. While this minion is not exhausted, it is fierce. Each time an [Isengard] Orc wins a skirmish, you may exert this minion to control a site.
+flavor_text: ! |-
+  ”'…where the warg howls, there also the orc prowls.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05055

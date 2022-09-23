@@ -1,0 +1,20 @@
+---
+key: 7R318
+name: Frodo, Wicked Masster!
+title: Frodo
+subtitle: Wicked Masster!
+set: return_of_the_king
+rarity: rare
+card_type: companion
+subtype: hobbit
+alignment: free_people
+culture: shire
+signet: gandalf
+strength: '3'
+vitality: '4'
+twilight: '0'
+unique: true
+ring_bearer: true
+game_text: ! |-
+  Ring-bearer (resistance 10). Ring-bound. Skirmish: At sites 6K to 8K, add 4 burdens to wound a minion skirmishing Frodo.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07318

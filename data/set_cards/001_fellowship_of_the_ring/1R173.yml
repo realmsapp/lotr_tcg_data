@@ -1,0 +1,15 @@
+---
+key: 1R173
+name: Goblin Armory
+title: Goblin Armory
+set: fellowship_of_the_ring
+rarity: rare
+card_type: condition
+alignment: shadow
+culture: moria
+twilight: '0'
+game_text: ! |-
+  Plays to your support area. Each time you play a [Moria] weapon, add (1). Response: If a [Moria] Orc is about to take a wound, discard this condition to prevent that wound.
+flavor_text: ! |-
+  For scavenging vermin, the weapons of fallen foes are prized possessions.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01173

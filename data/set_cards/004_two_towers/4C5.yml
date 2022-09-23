@@ -1,0 +1,15 @@
+---
+key: 4C5
+name: Burn Every Village
+title: Burn Every Village
+set: two_towers
+rarity: common
+card_type: event
+alignment: shadow
+culture: dunland
+twilight: '0'
+game_text: ! |-
+  Skirmish: Make a [Dunland] Man strength +2 (or +4 if you control a site).
+flavor_text: ! |-
+  ”'Take your rabble through the Westemnet; take back the lands they stole from you.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04005

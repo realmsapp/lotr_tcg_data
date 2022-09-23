@@ -1,0 +1,19 @@
+---
+key: 10U69
+name: Ulaire Lemenya, Thrall of the One
+title: Ulaire Lemenya
+subtitle: Thrall of the One
+set: mount_doom
+rarity: uncommon
+card_type: minion
+subtype: nazgul
+alignment: shadow
+culture: wraith
+strength: '9'
+vitality: '2'
+twilight: '4'
+unique: true
+site_number: '3'
+game_text: ! |-
+  Enduring. Fierce. Shadow cards cannot exert Ulaire Lemenya during a skirmish phase. Skirmish: Heal Ulaire Lemenya to wound up to 3 other [Wraith] minions.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10069

@@ -1,0 +1,20 @@
+---
+key: 6C40
+name: Gollum, Old Villain
+title: Gollum
+subtitle: Old Villain
+set: ents_of_fangorn
+rarity: common
+card_type: minion
+alignment: shadow
+culture: gollum_shadow
+strength: '5'
+vitality: '4'
+twilight: '2'
+unique: true
+site_number: '3'
+game_text: ! |-
+  Skirmish: Discard a card from hand to make Gollum strength +1 (or +2 if skirmishing a Ring-Bound companion).
+flavor_text: ! |-
+  ”'Must take it. The Wraiths are searching. Must take it.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06040

@@ -1,0 +1,21 @@
+---
+key: 1U232
+name: Ulaire Lemenya, Lieutenant of Morgul
+title: Ulaire Lemenya
+subtitle: Lieutenant of Morgul
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: minion
+subtype: nazgul
+alignment: shadow
+culture: wraith
+strength: '9'
+vitality: '2'
+twilight: '4'
+unique: true
+site_number: '3'
+game_text: ! |-
+  Each companion or ally who bears a [Wraith] condition is strength -2.
+flavor_text: ! |-
+  ”'Do you wish them to find you? They are terrible!'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01232

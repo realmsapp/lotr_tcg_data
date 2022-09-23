@@ -1,0 +1,17 @@
+---
+key: 1U292
+name: The Gaffer's Pipe
+title: The Gaffer's Pipe
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: possession
+subtype: pipe
+alignment: free_people
+culture: shire
+twilight: '1'
+unique: true
+game_text: ! |-
+  Bearer must be a Hobbit. Fellowship: Discard a pipeweed possession and spot X pipes to remove (X).
+flavor_text: ! |-
+  ”'This … is the one art that we certainly claim to be our own invention. When Hobbits first began to smoke is not known….'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01292

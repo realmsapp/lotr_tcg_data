@@ -1,0 +1,16 @@
+---
+key: 4U82
+name: Strength of Arms
+title: Strength of Arms
+set: two_towers
+rarity: uncommon
+card_type: condition
+alignment: free_people
+culture: elven
+twilight: '1'
+unique: true
+game_text: ! |-
+  Plays to your support area. Each time an Elf wins a skirmish, you may place an [Elven] token on this card. Skirmish: Make a minion skirmishing an Elf strength -1 for each [Elven] token here (limit -3). Discard this condition.
+flavor_text: ! |-
+  Elvish weapons were more than a match for the Uruks.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04082

@@ -1,0 +1,18 @@
+---
+key: 3R27
+name: Vilya
+title: Vilya
+set: realms_of_the_elf_lords
+rarity: rare
+card_type: artifact
+subtype: ring
+alignment: free_people
+culture: elven
+vitality: "+1"
+twilight: '0'
+unique: true
+game_text: ! |-
+  Bearer must be Elrond. Maneuver: Exert Elrond twice and spot a Shadow condition to return that condition to its owner's hand.
+flavor_text: ! |-
+  “Upon his finger was a ring of gold with a great blue stone, Vilya, mightiest of the Three.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr03027

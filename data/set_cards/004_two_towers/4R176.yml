@@ -1,0 +1,21 @@
+---
+key: 4R176
+name: Ugluk, Servant of Saruman
+title: Ugluk
+subtitle: Servant of Saruman
+set: two_towers
+rarity: rare
+card_type: minion
+subtype: uruk-hai
+alignment: shadow
+culture: isengard
+strength: '9'
+vitality: '3'
+twilight: '4'
+unique: true
+site_number: '5'
+game_text: ! |-
+  Tracker. Fierce. The roaming penalty for each [Isengard] tracker you play is -2. While you can spot 2 [Isengard] trackers, Ugluk is strength +3. While you can spot 3 [Isengard] trackers, Ugluk is damage +1.
+flavor_text: ! |-
+  ””
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04176

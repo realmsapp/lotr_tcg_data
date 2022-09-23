@@ -1,0 +1,15 @@
+---
+key: 3C76
+name: Dangerous Gamble
+title: Dangerous Gamble
+set: realms_of_the_elf_lords
+rarity: common
+card_type: event
+alignment: shadow
+culture: moria
+twilight: '2'
+game_text: ! |-
+  Shadow: Spot a [Moria] minion to reveal a card at random from the Free Peoples player's hand. Add (X), where X is the twilight cost of the card revealed.
+flavor_text: ! |-
+  “Almost they began to hope that they would escape.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr03076

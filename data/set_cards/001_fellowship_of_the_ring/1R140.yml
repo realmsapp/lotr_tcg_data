@@ -1,0 +1,15 @@
+---
+key: 1R140
+name: Spies of Saruman
+title: Spies of Saruman
+set: fellowship_of_the_ring
+rarity: rare
+card_type: condition
+alignment: shadow
+culture: isengard
+twilight: '2'
+game_text: ! |-
+  To play, exert a [Isengard] minion. Plays on a site. While the fellowship is at this site, skip the archery phase. Discard this condition at the end of the turn.
+flavor_text: ! |-
+  ”'…they are crebain out of Fangorn or Dunland. I do not know what they are about….'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01140

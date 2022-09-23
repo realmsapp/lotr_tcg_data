@@ -1,0 +1,17 @@
+---
+key: 7U271
+name: Gorgoroth Axeman
+title: Gorgoroth Axeman
+set: return_of_the_king
+rarity: uncommon
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '9'
+vitality: '2'
+twilight: '3'
+site_number: '5'
+game_text: ! |-
+  Besieger. Skirmish: Discard this minion to make a [Sauron] minion strength +1 for each site you control (or +2 if you have initiative).
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07271

@@ -1,0 +1,18 @@
+---
+key: 8U60
+name: Haradrim Marksman
+title: Haradrim Marksman
+set: siege_of_gondor
+rarity: uncommon
+card_type: minion
+subtype: man
+alignment: shadow
+culture: raider
+strength: '11'
+vitality: '3'
+twilight: '5'
+unique: true
+site_number: '4'
+game_text: ! |-
+  Southron. Archer. While you can spot another [Raider] Man, Ring-bound companions cannot take archery wounds.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr08060

@@ -1,0 +1,19 @@
+---
+key: 8R15
+name: Gandalf, Leader of Men
+title: Gandalf
+subtitle: Leader of Men
+set: siege_of_gondor
+rarity: rare
+card_type: companion
+subtype: wizard
+alignment: free_people
+culture: gandalf
+signet: aragorn
+strength: '7'
+vitality: '4'
+twilight: '4'
+unique: true
+game_text: ! |-
+  When Gandalf is in your starting fellowship, his twilight cost is -2.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr08015

@@ -1,0 +1,18 @@
+---
+key: 1U225
+name: Sword of Minas Morgul
+title: Sword of Minas Morgul
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: possession
+subtype: hand_weapon
+alignment: shadow
+culture: wraith
+strength: "+2"
+twilight: '2'
+unique: true
+game_text: ! |-
+  Bearer must be Ulaire Lemenya. He is damage +1. Skirmish: Exert Ulaire Lemenya to discard a possession borne by a character he is skirmishing.
+flavor_text: ! |-
+  The Morgul hilt seared the flesh that would touch it, but the pierce was painless.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01225

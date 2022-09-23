@@ -1,0 +1,13 @@
+---
+key: 7C259
+name: Wind in His Face
+title: Wind in His Face
+set: return_of_the_king
+rarity: common
+card_type: event
+alignment: free_people
+culture: rohan
+twilight: '1'
+game_text: ! |-
+  Make a [Rohan] Man strength +2. If that Man is mounted, choose an opponent who must place a random card from hand beneath his or her draw deck.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07259

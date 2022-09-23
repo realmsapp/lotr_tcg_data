@@ -1,0 +1,19 @@
+---
+key: 8R38
+name: King of the Dead, Oathbreaker
+title: King of the Dead
+subtitle: Oathbreaker
+set: siege_of_gondor
+rarity: rare
+card_type: companion
+subtype: wraith
+alignment: free_people
+culture: gondor
+signet: aragorn
+strength: '7'
+vitality: '4'
+twilight: '4'
+unique: true
+game_text: ! |-
+  Enduring. To play, spot a [Gondor] Wraith and add 2 threats. Response: If Aragorn is about to take a wound in a skirmish, exert King of the Dead to prevent that wound.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr08038

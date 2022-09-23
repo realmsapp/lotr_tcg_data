@@ -1,0 +1,15 @@
+---
+key: 1C21
+name: Lord of Moria
+title: Lord of Moria
+set: fellowship_of_the_ring
+rarity: common
+card_type: condition
+alignment: free_people
+culture: dwarven
+twilight: '2'
+game_text: ! |-
+  Plays to your support area. Each Dwarf is damage +1.
+flavor_text: ! |-
+  Gimli rushed ahead into the vast, empty chamber to see a huge slab of white stone. Knowing instinctively the significance of this tomb, he fell to his knees, overcome with grief.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01021

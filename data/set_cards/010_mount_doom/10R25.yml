@@ -1,0 +1,19 @@
+---
+key: 10R25
+name: Aragorn, Elessar Telcontar
+title: Aragorn
+subtitle: Elessar Telcontar
+set: mount_doom
+rarity: rare
+card_type: companion
+subtype: man
+alignment: free_people
+culture: gondor
+signet: frodo
+strength: '9'
+vitality: '4'
+twilight: '5'
+unique: true
+game_text: ! |-
+  When you play Aragorn, you may heal another companion. At the start of each fellowship phase, you may exert a companion of one culture to heal a companion of another culture.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10025

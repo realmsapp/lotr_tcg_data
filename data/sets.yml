@@ -18,16 +18,16 @@
   name: Battle of Helm's Deep
   number: 5
   release_date: 3030-01-01
-- key: ents_of_fanghorn
-  name: Ents of Fanghorn
+- key: ents_of_fangorn
+  name: Ents of Fangorn
   number: 6
   release_date: 3030-01-01
-- key: the_return_of_the_king
+- key: return_of_the_king
   name: Return of the King
   number: 7
   release_date: 3030-01-01
-- key: seige_of_gondor
-  name: Seige of Gondor
+- key: siege_of_gondor
+  name: Siege of Gondor
   number: 8
   release_date: 3030-01-01
 - key: Reflections

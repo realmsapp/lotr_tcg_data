@@ -1,0 +1,19 @@
+---
+key: 10R71
+name: Ulaire Toldea, Thrall of the One
+title: Ulaire Toldea
+subtitle: Thrall of the One
+set: mount_doom
+rarity: rare
+card_type: minion
+subtype: nazgul
+alignment: shadow
+culture: wraith
+strength: '12'
+vitality: '3'
+twilight: '6'
+unique: true
+site_number: '3'
+game_text: ! |-
+  Enduring. Shadow cards cannot exert Ulaire Toldea during a skirmish phase. Skirmish: Heal Ulaire Toldea to make him damage +1.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10071

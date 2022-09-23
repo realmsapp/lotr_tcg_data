@@ -1,0 +1,14 @@
+---
+key: 10U96
+name: Rank and File
+title: Rank and File
+set: mount_doom
+rarity: uncommon
+card_type: condition
+alignment: shadow
+culture: sauron
+twilight: '1'
+unique: true
+game_text: ! |-
+  Each time a roaming [Sauron] minion takes a wound, you may add a [Sauron] token here. Regroup: Exert an Uruk-hai or discard a [Sauron] minion to add a [Sauron] token here. Skirmish: Remove 2 [Sauron] tokens from here to make a [Sauron] minion strength +2.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10096

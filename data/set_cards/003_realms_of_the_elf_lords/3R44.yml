@@ -1,0 +1,16 @@
+---
+key: 3R44
+name: The Shards of Narsil
+title: The Shards of Narsil
+set: realms_of_the_elf_lords
+rarity: rare
+card_type: artifact
+alignment: free_people
+culture: gondor
+twilight: '1'
+unique: true
+game_text: ! |-
+  Plays to your support area. Fellowship: Stack a [Gondor] card from hand here. Fellowship: Add (1) to take a card stacked here into hand.
+flavor_text: ! |-
+  ”'…Narsil was broken and its light extinguished, and it had not yet been forged again.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr03044

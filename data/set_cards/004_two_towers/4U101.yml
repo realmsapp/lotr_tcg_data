@@ -1,0 +1,15 @@
+---
+key: 4U101
+name: Stump and Bramble
+title: Stump and Bramble
+set: two_towers
+rarity: uncommon
+card_type: event
+alignment: free_people
+culture: gandalf
+twilight: '1'
+game_text: ! |-
+  Maneuver: Spot an [Isengard] minion and an Ent ally. Until the regroup phase, that ally is damage +2 and participates in archery fire and skirmishes.
+flavor_text: ! |-
+  ”'Many of those trees were my friends… many had voices of their own that are lost for ever now.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04101

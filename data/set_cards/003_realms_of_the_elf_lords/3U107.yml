@@ -1,0 +1,17 @@
+---
+key: 3U107
+name: Frodo's Pipe
+title: Frodo's Pipe
+set: realms_of_the_elf_lords
+rarity: uncommon
+card_type: possession
+subtype: pipe
+alignment: free_people
+culture: shire
+twilight: '1'
+unique: true
+game_text: ! |-
+  Bearer must be Frodo. Fellowship: Discard a pipeweed possession and spot X pipes to heal a companion with the Frodo signet X times.
+flavor_text: ! |-
+  ”'All the same, observations that I have made on my own many journeys south have convinced me that the weed itself is not native to our parts of the world.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr03107

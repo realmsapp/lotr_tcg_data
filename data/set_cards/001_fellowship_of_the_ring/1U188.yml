@@ -1,0 +1,16 @@
+---
+key: 1U188
+name: The Long Dark
+title: The Long Dark
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: condition
+alignment: shadow
+culture: moria
+twilight: '2'
+unique: true
+game_text: ! |-
+  Plays to your support area. When the fellowship moves to site 4 or 5, add (2) for each Dwarf companion. Skirmish: Discard this condition to make your [Moria] Orc strength +2.
+flavor_text: ! |-
+  ”'So ended the attempt to retake Moria! It was valiant but foolish. The time is not come yet.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01188

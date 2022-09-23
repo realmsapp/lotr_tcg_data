@@ -1,0 +1,13 @@
+---
+key: 8C28
+name: Spider Poison
+title: Spider Poison
+set: siege_of_gondor
+rarity: common
+card_type: possession
+alignment: shadow
+culture: gollum_shadow
+twilight: '1'
+game_text: ! |-
+  Skirmish: Remove a threat or a burden to transfer this possession to a companion skirmishing Shelob. Each time bearer is assigned to a skirmish, bearer must exert.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr08028

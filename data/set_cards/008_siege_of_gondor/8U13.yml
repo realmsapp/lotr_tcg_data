@@ -1,0 +1,13 @@
+---
+key: 8U13
+name: Shake Off the Shadow
+title: Shake Off the Shadow
+set: siege_of_gondor
+rarity: uncommon
+card_type: condition
+alignment: free_people
+culture: elven
+twilight: '1'
+game_text: ! |-
+  Fellowship: Exert an Elf companion and either a [Gandalf] companion or a [Dwarven] companion to add an [Elven] token here. Archery: Remove an [Elven] token here to make the fellowship archery total +1 (limit +2).
+wiki_url: https://lotrtcgwiki.com/wiki/lotr08013

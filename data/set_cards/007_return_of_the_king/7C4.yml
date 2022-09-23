@@ -1,0 +1,13 @@
+---
+key: 7C4
+name: Calculated Risk
+title: Calculated Risk
+set: return_of_the_king
+rarity: common
+card_type: event
+alignment: free_people
+culture: dwarven
+twilight: '2'
+game_text: ! |-
+  Spot a Dwarf and add a threat to draw 3 cards.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07004

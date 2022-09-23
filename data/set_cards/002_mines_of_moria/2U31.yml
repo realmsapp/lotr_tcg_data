@@ -1,0 +1,15 @@
+---
+key: 2U31
+name: Blood of Numenor
+title: Blood of Numenor
+set: mines_of_moria
+rarity: uncommon
+card_type: condition
+alignment: free_people
+culture: gondor
+twilight: '2'
+game_text: ! |-
+  To play, exert a [Gondor] companion. Plays to your support area. Each [Sauron] Orc comes into play exhausted. Skip the archery phase. Discard this condition during the regroup phase.
+flavor_text: ! |-
+  ”'I do not know what strength is in my blood, but I swear to you - I will not let the White City fall….'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02031

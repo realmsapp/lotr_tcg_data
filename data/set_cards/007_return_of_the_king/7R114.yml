@@ -1,0 +1,17 @@
+---
+key: 7R114
+name: Pippin's Sword
+title: Pippin's Sword
+set: return_of_the_king
+rarity: rare
+card_type: possession
+subtype: hand_weapon
+alignment: free_people
+culture: gondor
+strength: "+2"
+twilight: '1'
+unique: true
+game_text: ! |-
+  Bearer must be Pippin. Skirmish: Exert Pippin twice to make him strength +1 for each [Gondor] companion you spot.
+notes: Game text is a clarification.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07114

@@ -1,0 +1,20 @@
+---
+key: 5R25
+name: Gollum, Stinker
+title: Gollum
+subtitle: Stinker
+set: battle_of_helms_deep
+rarity: rare
+card_type: minion
+alignment: shadow
+culture: gollum_shadow
+strength: '5'
+vitality: '4'
+twilight: '2'
+unique: true
+site_number: '3'
+game_text: ! |-
+  Gollum is strength +1 for each burden. Each times Gollum wins a skirmish, you may add a burden.
+flavor_text: ! |-
+  ”'Still he's a Baggins, my precious, yes, a Baggins. A Baggins stole it. He found it and he said nothing. We hates Bagginses.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05025

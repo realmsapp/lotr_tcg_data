@@ -1,0 +1,13 @@
+---
+key: 7C62
+name: It's Mine
+title: It's Mine
+set: return_of_the_king
+rarity: common
+card_type: condition
+alignment: shadow
+culture: gollum_shadow
+twilight: '1'
+game_text: ! |-
+  Shadow: Remove (1) and exert Gollum to discard the top card of your draw deck. If that card is a [Gollum] or [Wraith] card, take it into hand.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07062

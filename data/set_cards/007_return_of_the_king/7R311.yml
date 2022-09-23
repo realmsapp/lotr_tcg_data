@@ -1,0 +1,18 @@
+---
+key: 7R311
+name: Siege Commander
+title: Siege Commander
+set: return_of_the_king
+rarity: rare
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '12'
+vitality: '3'
+twilight: '5'
+unique: true
+site_number: '5'
+game_text: ! |-
+  Besieger. Skirmish: Discard 2 cards from hand to make a besieger fierce until the regroup phase.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07311

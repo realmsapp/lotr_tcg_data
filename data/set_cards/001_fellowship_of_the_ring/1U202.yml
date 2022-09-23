@@ -1,0 +1,15 @@
+---
+key: 1U202
+name: What Is This New Devilry?
+title: What Is This New Devilry?
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: condition
+alignment: shadow
+culture: moria
+twilight: '2'
+game_text: ! |-
+  Search. To play, exert a [Moria] Orc. Plays to your support area. While the fellowship is at site 5 or higher, each companion's twilight cost is +2.
+flavor_text: ! |-
+  ”'This foe is beyond any of you! Run!'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01202

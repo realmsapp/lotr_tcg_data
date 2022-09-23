@@ -1,0 +1,17 @@
+---
+key: 10C86
+name: Gorgoroth Keeper
+title: Gorgoroth Keeper
+set: mount_doom
+rarity: common
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '10'
+vitality: '2'
+twilight: '4'
+site_number: '5'
+game_text: ! |-
+  Besieger. While you control a site, this minion's twilight cost is -2. Regroup: Stack this minion on a site you control.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10086

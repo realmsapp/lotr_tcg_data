@@ -1,0 +1,18 @@
+---
+key: 1R75
+name: Glamdring
+title: Glamdring
+set: fellowship_of_the_ring
+rarity: rare
+card_type: possession
+subtype: hand_weapon
+alignment: free_people
+culture: gandalf
+strength: "+2"
+twilight: '2'
+unique: true
+game_text: ! |-
+  Bearer must be Gandalf. He is damage +1. Fellowship or Regroup: Exert Gandalf to reveal an opponent's hand. Remove (1) for each Orc revealed.
+flavor_text: ! |-
+  ”…in his other hand Glamdring gleamed, cold and white.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01075

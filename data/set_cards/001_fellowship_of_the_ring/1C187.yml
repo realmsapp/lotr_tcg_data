@@ -1,0 +1,15 @@
+---
+key: 1C187
+name: Host of Thousands
+title: Host of Thousands
+set: fellowship_of_the_ring
+rarity: common
+card_type: event
+alignment: shadow
+culture: moria
+twilight: '0'
+game_text: ! |-
+  Shadow: Play a [Moria] Orc from your discard pile.
+flavor_text: ! |-
+  Killing one is no victory, since a dozen from the warrens below will take his place.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01187

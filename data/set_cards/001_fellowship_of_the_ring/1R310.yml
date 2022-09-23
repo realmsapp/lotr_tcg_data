@@ -1,0 +1,21 @@
+---
+key: 1R310
+name: Sam, Faithful Companion
+title: Sam
+subtitle: Faithful Companion
+set: fellowship_of_the_ring
+rarity: rare
+card_type: companion
+subtype: hobbit
+alignment: free_people
+culture: shire
+signet: frodo
+strength: '3'
+vitality: '4'
+twilight: '2'
+unique: true
+game_text: ! |-
+  Fellowship: Play Bill the Pony from your draw deck. Response: If Frodo dies, make Sam the Ring-bearer (resistance 5).
+flavor_text: ! |-
+  ”'Mr. Frodo's not going anywhere without me!'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01310

@@ -1,0 +1,15 @@
+---
+key: 6R96
+name: News From the Mark
+title: News From the Mark
+set: ents_of_fangorn
+rarity: rare
+card_type: event
+alignment: free_people
+culture: rohan
+twilight: '2'
+game_text: ! |-
+  Fellowship: Spot 3 mounted [Rohan] Men to make the move limit for this turn +2. Each Shadow player may draw 6 cards.
+flavor_text: ! |-
+  ””
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06096

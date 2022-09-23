@@ -1,0 +1,18 @@
+---
+key: 7U282
+name: Host of Udun
+title: Host of Udun
+set: return_of_the_king
+rarity: uncommon
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '21'
+vitality: '5'
+twilight: '10'
+unique: true
+site_number: '6'
+game_text: ! |-
+  When you play Host of Udun, you may remove X threats to make its twilight cost -X.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07282

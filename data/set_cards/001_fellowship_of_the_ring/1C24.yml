@@ -1,0 +1,15 @@
+---
+key: 1C24
+name: Stairs of Khazad-dum
+title: Stairs of Khazad-dum
+set: fellowship_of_the_ring
+rarity: common
+card_type: condition
+alignment: free_people
+culture: dwarven
+twilight: '0'
+game_text: ! |-
+  Tale. Plays to your support area. While a Dwarf skirmishes a [Moria] minion, that Dwarf is strength +1.
+flavor_text: ! |-
+  ””
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01024

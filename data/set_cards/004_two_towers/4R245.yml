@@ -1,0 +1,19 @@
+---
+key: 4R245
+name: Southron Archer
+title: Southron Archer
+set: two_towers
+rarity: rare
+card_type: minion
+subtype: man
+alignment: shadow
+culture: raider
+strength: '6'
+vitality: '2'
+twilight: '3'
+site_number: '4'
+game_text: ! |-
+  Southron. Archer. While you can spot another Southron, the minion archery total is +1 for each site you control.
+flavor_text: ! |-
+  ”'They have passed on to the Black Gate; but more may follow.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04245

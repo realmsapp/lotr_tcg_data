@@ -1,0 +1,15 @@
+---
+key: 4C87
+name: Valor
+title: Valor
+set: two_towers
+rarity: common
+card_type: event
+alignment: free_people
+culture: elven
+twilight: '1'
+game_text: ! |-
+  Skirmish: Make an Elf strength +2 (or +3 if skirmishing a wounded minion).
+flavor_text: ! |-
+  An Elf avoids taking up arms, but once committed to the fray, his will is resolute.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04087

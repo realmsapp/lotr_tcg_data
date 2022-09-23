@@ -1,0 +1,19 @@
+---
+key: 4C15
+name: Dunlending Ravager
+title: Dunlending Ravager
+set: two_towers
+rarity: common
+card_type: minion
+subtype: man
+alignment: shadow
+culture: dunland
+strength: '5'
+vitality: '1'
+twilight: '1'
+site_number: '3'
+game_text: ! |-
+  While skirmishing a [Rohan] Man, this minion is strength +2. Assignment: Spot an ally to make that ally participate in skirmishes and assign this minion to skirmish that ally.
+flavor_text: ! |-
+  ””
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04015

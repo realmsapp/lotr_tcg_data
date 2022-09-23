@@ -1,0 +1,17 @@
+---
+key: 4R274
+name: Firefoot
+title: Firefoot
+set: two_towers
+rarity: rare
+card_type: possession
+subtype: mount
+alignment: free_people
+culture: rohan
+twilight: '2'
+unique: true
+game_text: ! |-
+  Bearer must be a [Rohan] Man. If bearer is Eomer, he is defender +1. At the start of each skirmish involving bearer, each minion skirmishing bearer must exert.
+flavor_text: ! |-
+  Shadowfax.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04274

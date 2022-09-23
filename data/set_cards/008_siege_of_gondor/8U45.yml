@@ -1,0 +1,17 @@
+---
+key: 8U45
+name: Sleepless Dead
+title: Sleepless Dead
+set: siege_of_gondor
+rarity: uncommon
+card_type: companion
+subtype: wraith
+alignment: free_people
+culture: gondor
+signet: aragorn
+strength: '7'
+vitality: '3'
+twilight: '3'
+game_text: ! |-
+  Enduring. To play, add a threat. Each time this companion wins a skirmish, you may exert him to discard a minion he is skirmishing.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr08045

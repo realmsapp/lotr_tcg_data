@@ -1,0 +1,20 @@
+---
+key: 6C48
+name: Anborn, Skilled Huntsman
+title: Anborn
+subtitle: Skilled Huntsman
+set: ents_of_fangorn
+rarity: common
+card_type: companion
+subtype: man
+alignment: free_people
+culture: gondor
+strength: '6'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  Ring-bound. Ranger. Each time Anborn wins a skirmish, you may make a minion's site number +3 until the regroup phase.
+flavor_text: ! |-
+  ”'Perhaps under the shadow of the Unnamed some of the beasts of Mirkwood are wandering hither to our woods.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06048

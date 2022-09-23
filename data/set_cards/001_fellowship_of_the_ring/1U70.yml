@@ -1,0 +1,20 @@
+---
+key: 1U70
+name: Barliman Butterbur, Prancing Pony Proprietor
+title: Barliman Butterbur
+subtitle: Prancing Pony Proprietor
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: ally
+alignment: free_people
+culture: gandalf
+strength: '1'
+vitality: '2'
+twilight: '0'
+unique: true
+site_number: '1'
+game_text: ! |-
+  Fellowship: Exert Barliman Butterbur to take a [Gandalf] event into hand from your discard pile.
+flavor_text: ! |-
+  ”'You don't know much even about them, if you think old Barliman is stupid,' said Gandalf. 'He is wise enough on his own ground.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01070

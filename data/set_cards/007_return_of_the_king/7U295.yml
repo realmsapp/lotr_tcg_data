@@ -1,0 +1,17 @@
+---
+key: 7U295
+name: Orc Assault Band
+title: Orc Assault Band
+set: return_of_the_king
+rarity: uncommon
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '10'
+vitality: '3'
+twilight: '4'
+site_number: '6'
+game_text: ! |-
+  Skirmish: Spot 6 companions and exert this minion to make another [Sauron] Orc strength +6.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07295

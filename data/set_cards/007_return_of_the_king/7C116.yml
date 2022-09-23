@@ -1,0 +1,16 @@
+---
+key: 7C116
+name: Ranger of Osgiliath
+title: Ranger of Osgiliath
+set: return_of_the_king
+rarity: common
+card_type: companion
+subtype: man
+alignment: free_people
+culture: gondor
+strength: '6'
+vitality: '3'
+twilight: '2'
+game_text: ! |-
+  Ranger. Regroup: Discard 2 cards from hand to exhaust a minion.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07116

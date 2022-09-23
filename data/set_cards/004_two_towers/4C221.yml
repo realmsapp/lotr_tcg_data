@@ -1,0 +1,20 @@
+---
+key: 4C221
+name: Desert Spearman
+title: Desert Spearman
+set: two_towers
+rarity: common
+card_type: minion
+subtype: man
+alignment: shadow
+culture: raider
+strength: '8'
+vitality: '2'
+twilight: '3'
+site_number: '4'
+game_text: ! |-
+  Southron. At the start of each skirmish involving this minion, you may remove (3) to wound a companion or ally he is skirmishing.
+flavor_text: ! |-
+  Long spears are used by Southrons to attack while riding desert beasts.
+notes: 'Version: +.'
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04221

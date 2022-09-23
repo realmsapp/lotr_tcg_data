@@ -1,0 +1,20 @@
+---
+key: 1R288
+name: Farmer Maggot, Chaser of Rascals
+title: Farmer Maggot
+subtitle: Chaser of Rascals
+set: fellowship_of_the_ring
+rarity: rare
+card_type: ally
+alignment: free_people
+culture: shire
+strength: '2'
+vitality: '3'
+twilight: '1'
+unique: true
+site_number: '1'
+game_text: ! |-
+  Fellowship: Exert Farmer Maggot to heal Merry or Pippin.
+flavor_text: ! |-
+  ”'Old Maggot is really a stout fellow - if you leave his mushrooms alone.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01288

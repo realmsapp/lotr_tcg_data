@@ -1,0 +1,17 @@
+---
+key: 7U187
+name: Morgul Brawler
+title: Morgul Brawler
+set: return_of_the_king
+rarity: uncommon
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: wraith
+strength: '10'
+vitality: '1'
+twilight: '4'
+site_number: '4'
+game_text: ! |-
+  While the Ring-bearer is exhausted, this minion is strength +3, fierce and damage +1.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07187

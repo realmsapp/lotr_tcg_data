@@ -1,0 +1,17 @@
+---
+key: 4R118
+name: Faramir's Bow
+title: Faramir's Bow
+set: two_towers
+rarity: rare
+card_type: possession
+subtype: ranged_weapon
+alignment: free_people
+culture: gondor
+twilight: '1'
+unique: true
+game_text: ! |-
+  Bearer must be Faramir. He is an archer. Skirmish: If Faramir is skirmishing a Man or a roaming minion, exert Faramir to wound that minion.
+flavor_text: ! |-
+  ”'Were I as hasty as you, I might have slain you long ago.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04118

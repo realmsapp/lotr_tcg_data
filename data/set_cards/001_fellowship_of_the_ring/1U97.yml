@@ -1,0 +1,21 @@
+---
+key: 1U97
+name: Boromir, Son of Denethor
+title: Boromir
+subtitle: Son of Denethor
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: companion
+subtype: man
+alignment: free_people
+culture: gondor
+signet: frodo
+strength: '7'
+vitality: '3'
+twilight: '3'
+unique: true
+game_text: ! |-
+  Skirmish: Exert Boromir to make a Hobbit strength +3.
+flavor_text: ! |-
+  ”'Long has my father, the Steward of Gondor, held the forces of Mordor at bay - by the blood of our people are the lands of others kept safe.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01097

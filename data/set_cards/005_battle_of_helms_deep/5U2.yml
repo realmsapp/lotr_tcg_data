@@ -1,0 +1,19 @@
+---
+key: 5U2
+name: Dunlending Renegade
+title: Dunlending Renegade
+set: battle_of_helms_deep
+rarity: uncommon
+card_type: minion
+subtype: man
+alignment: shadow
+culture: dunland
+strength: '10'
+vitality: '1'
+twilight: '2'
+site_number: '3'
+game_text: ! |-
+  When you play this minion, the Free Peoples player may discard 2 cards from hand to discard him.
+flavor_text: ! |-
+  The strength of the hillmen was driven by passion and anger.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05002

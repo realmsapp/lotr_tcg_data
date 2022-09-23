@@ -1,0 +1,13 @@
+---
+key: 7C31
+name: All Save One
+title: All Save One
+set: return_of_the_king
+rarity: common
+card_type: event
+alignment: free_people
+culture: gandalf
+twilight: '2'
+game_text: ! |-
+  Make Gandalf strength +2 (or +4 and damage +1 if you have initiative).
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07031

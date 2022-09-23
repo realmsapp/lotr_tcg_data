@@ -1,0 +1,17 @@
+---
+key: 7C131
+name: Desert Fighter
+title: Desert Fighter
+set: return_of_the_king
+rarity: common
+card_type: minion
+subtype: man
+alignment: shadow
+culture: raider
+strength: '8'
+vitality: '2'
+twilight: '3'
+site_number: '4'
+game_text: ! |-
+  Southron. At the start of each skirmish involving this minion, you may remove (1) to add a threat.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07131

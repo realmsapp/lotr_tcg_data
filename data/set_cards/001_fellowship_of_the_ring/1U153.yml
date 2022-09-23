@@ -1,0 +1,19 @@
+---
+key: 1U153
+name: Uruk Slayer
+title: Uruk Slayer
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: minion
+subtype: uruk-hai
+alignment: shadow
+culture: isengard
+strength: '9'
+vitality: '2'
+twilight: '4'
+site_number: '5'
+game_text: ! |-
+  Damage +1. Skirmish: Remove (1) to make this minion strength +1 (limit +3).
+flavor_text: ! |-
+  A foe who is willing to kill or die outright is a foe to be feared indeed.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01153

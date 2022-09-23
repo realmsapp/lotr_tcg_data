@@ -1,0 +1,15 @@
+---
+key: 3C109
+name: Meant to Be Alone
+title: Meant to Be Alone
+set: realms_of_the_elf_lords
+rarity: common
+card_type: event
+alignment: free_people
+culture: shire
+twilight: '1'
+game_text: ! |-
+  Fellowship: Spot a Hobbit companion (except the Ring-bearer) to reveal a card at random from an opponent's hand. Remove (X), where X is the twilight cost of the card revealed.
+flavor_text: ! |-
+  ”'You are a Ring-bearer, Frodo… to bear a Ring of Power is to be alone.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr03109

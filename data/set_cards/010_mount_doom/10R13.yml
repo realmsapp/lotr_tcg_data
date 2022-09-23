@@ -1,0 +1,15 @@
+---
+key: 10R13
+name: Phial of Galadriel, Star-glass
+title: Phial of Galadriel
+subtitle: Star-glass
+set: mount_doom
+rarity: rare
+card_type: artifact
+alignment: free_people
+culture: elven
+twilight: '0'
+unique: true
+game_text: ! |-
+  Bearer must be a Hobbit. Skirmish: Until the regroup phase, remove the game text (except card type and race) from a minion skirmishing bearer and make it unable to gain game text. Discard this artifact.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10013

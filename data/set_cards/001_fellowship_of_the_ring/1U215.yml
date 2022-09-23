@@ -1,0 +1,15 @@
+---
+key: 1U215
+name: The Master's Will
+title: The Master's Will
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: event
+alignment: shadow
+culture: wraith
+twilight: '1'
+game_text: ! |-
+  Search. Shadow: Spot X Nazgul to reveal the top X cards of your draw deck. Take into your hand all [Wraith] cards revealed and discard the rest.
+flavor_text: ! |-
+  ”…something seemed to be compelling him to disregard all warnings, and he longed to yield.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01215

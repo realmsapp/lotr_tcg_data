@@ -1,0 +1,16 @@
+---
+key: 4U31
+name: Over the Isen
+title: Over the Isen
+set: two_towers
+rarity: uncommon
+card_type: condition
+alignment: shadow
+culture: dunland
+twilight: '0'
+unique: true
+game_text: ! |-
+  Plays to your support area. Assignment: Spot a site you control and remove (2) to assign a [Dunland] Man to an unbound companion.
+flavor_text: ! |-
+  Like their ancestors years before, the Dunlendings came down from Isengard.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04031

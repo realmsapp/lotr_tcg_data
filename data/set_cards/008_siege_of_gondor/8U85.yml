@@ -1,0 +1,13 @@
+---
+key: 8U85
+name: Charged Headlong
+title: Charged Headlong
+set: siege_of_gondor
+rarity: uncommon
+card_type: event
+alignment: free_people
+culture: rohan
+twilight: '1'
+game_text: ! |-
+  If you have initiative, discard a [Rohan] possession to play a [Rohan] possession from your discard pile.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr08085

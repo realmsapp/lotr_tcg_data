@@ -1,0 +1,16 @@
+---
+key: 6U63
+name: Gnawing, Biting, Hacking, Burning
+title: Gnawing
+subtitle: Biting, Hacking, Burning
+set: ents_of_fangorn
+rarity: uncommon
+card_type: condition
+alignment: shadow
+culture: isengard
+twilight: '2'
+game_text: ! |-
+  Plays to your support area. Each time a regroup action discards an [Isengard] Orc, you may stack that Orc on this card. Shadow: Discard 2 cards stacked here and remove (1) to play an [Isengard] Orc from your discard pile.
+flavor_text: ! |-
+  ”'Destroyers and usurpers.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06063

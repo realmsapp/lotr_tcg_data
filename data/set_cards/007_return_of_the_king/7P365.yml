@@ -1,0 +1,19 @@
+---
+key: 7P365
+name: Eomer, Valiant Warchief
+title: Eomer
+subtitle: Valiant Warchief
+set: return_of_the_king
+rarity: promo
+card_type: companion
+subtype: man
+alignment: free_people
+culture: rohan
+signet: theoden
+strength: '7'
+vitality: '3'
+twilight: '3'
+unique: true
+game_text: ! |-
+  Valiant. While you can spot a [Rohan] Man, Eomer's twilight cost is -1. Skirmish:If you have initiative, discard 3 cards from hand to make Eomer strength +1 for each valiant companion you spot.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07365

@@ -1,0 +1,19 @@
+---
+key: 8R84
+name: The Witch-king, Black Captain
+title: The Witch-king
+subtitle: Black Captain
+set: siege_of_gondor
+rarity: rare
+card_type: minion
+subtype: nazgul
+alignment: shadow
+culture: wraith
+strength: '14'
+vitality: '4'
+twilight: '8'
+unique: true
+site_number: '3'
+game_text: ! |-
+  Enduring. Each Man skirmishing The Witch-king loses all strength bonuses from weapons.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr08084

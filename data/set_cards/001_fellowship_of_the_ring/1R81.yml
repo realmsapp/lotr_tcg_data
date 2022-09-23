@@ -1,0 +1,15 @@
+---
+key: 1R81
+name: Questions That Need Answering
+title: Questions That Need Answering
+set: fellowship_of_the_ring
+rarity: rare
+card_type: event
+alignment: free_people
+culture: gandalf
+twilight: '3'
+game_text: ! |-
+  Spell. Fellowship: If the twilight pool has fewer than 3 twilight tokens, spot Gandalf to look at the top 4 cards of your draw deck. Take 2 of those cards into hand and discard the rest.
+flavor_text: ! |-
+  ”'There are some things that I must see to….'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01081

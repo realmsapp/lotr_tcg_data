@@ -1,0 +1,17 @@
+---
+key: 5C73
+name: Mumak
+title: Mumak
+set: battle_of_helms_deep
+rarity: common
+card_type: possession
+subtype: mount
+alignment: shadow
+culture: raider
+strength: "+3"
+twilight: '2'
+game_text: ! |-
+  Bearer must be a Southron. Bearer is fierce. Each time bearer wins a skirmish, you may add (2).
+flavor_text: ! |-
+  “Sam saw a vast shape crash out of the trees and come careening down the slope.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05073

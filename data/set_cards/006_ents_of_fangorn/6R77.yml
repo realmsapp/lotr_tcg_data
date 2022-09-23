@@ -1,0 +1,16 @@
+---
+key: 6R77
+name: Durin's Tower
+title: Durin's Tower
+set: ents_of_fangorn
+rarity: rare
+card_type: condition
+alignment: shadow
+culture: moria
+twilight: '0'
+unique: true
+game_text: ! |-
+  Plays to your support area. At sites 2T and 3T, The Balrog's twilight cost is -3. Skirmish: Discard this condition to make a unique [Moria] minion strength +3.
+flavor_text: ! |-
+  ”'…carved in the living rock of Zirakzigil, the pinnacle of the Silvertine.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06077

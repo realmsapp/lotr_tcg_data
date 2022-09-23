@@ -1,0 +1,21 @@
+---
+key: 4P364
+name: Aragorn, Wingfoot
+title: Aragorn
+subtitle: Wingfoot
+set: two_towers
+rarity: promo
+card_type: companion
+subtype: man
+alignment: free_people
+culture: gondor
+signet: aragorn
+strength: '8'
+vitality: '4'
+twilight: '4'
+unique: true
+game_text: ! |-
+  Ranger. Each time the fellowship moves, you may wound a minion for each unbound Hobbit you spot.
+flavor_text: ! |-
+  ”'Forty leagues and five you have measured ere the fourth day is ended! Hardy is the race of Elendil!'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04364

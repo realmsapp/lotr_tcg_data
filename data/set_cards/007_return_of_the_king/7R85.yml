@@ -1,0 +1,19 @@
+---
+key: 7R85
+name: Denethor, Steward of the City
+title: Denethor
+subtitle: Steward of the City
+set: return_of_the_king
+rarity: rare
+card_type: companion
+subtype: man
+alignment: free_people
+culture: gondor
+signet: aragorn
+strength: '8'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  Fellowship: Play a [Gondor] knight. That knight's twilight cost is -2. Each time a Shadow card adds a threat, add a burden. Each time a Shadow card adds a burden, add a threat.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07085

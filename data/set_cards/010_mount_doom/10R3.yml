@@ -1,0 +1,13 @@
+---
+key: 10R3
+name: More Yet to Come
+title: More Yet to Come
+set: mount_doom
+rarity: rare
+card_type: event
+alignment: free_people
+culture: dwarven
+twilight: '0'
+game_text: ! |-
+  If a Dwarf kills a minion in a skirmish and that minion did not take all wounds caused by that Dwarf's damage bonus, assign those remaining wounds to minions not assigned to a skirmish.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10003

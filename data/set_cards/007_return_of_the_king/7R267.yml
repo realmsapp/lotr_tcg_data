@@ -1,0 +1,13 @@
+---
+key: 7R267
+name: Din of Arms
+title: Din of Arms
+set: return_of_the_king
+rarity: rare
+card_type: event
+alignment: shadow
+culture: sauron
+twilight: '2'
+game_text: ! |-
+  Choose an opponent to discard the top card of his or her draw deck. If the twilight cost of that card is less than the number of besiegers you spot, take control of a site and all besiegers are strength +3 until the regroup phase.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07267

@@ -1,0 +1,16 @@
+---
+key: 1C19
+name: Here Lies Balin, Son of Fundin
+title: Here Lies Balin
+subtitle: Son of Fundin
+set: fellowship_of_the_ring
+rarity: common
+card_type: event
+alignment: free_people
+culture: dwarven
+twilight: '0'
+game_text: ! |-
+  Maneuver: Exert a Dwarf to wound 2 Orcs or to wound 1 Orc twice.
+flavor_text: ! |-
+  ”'I have looked on Moria, and it is very great, but it has become dark and dreadful; and we have found no sign of my kindred.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01019

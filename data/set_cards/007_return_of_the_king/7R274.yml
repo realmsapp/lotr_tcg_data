@@ -1,0 +1,17 @@
+---
+key: 7R274
+name: Gorgoroth Officer
+title: Gorgoroth Officer
+set: return_of_the_king
+rarity: rare
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '12'
+vitality: '2'
+twilight: '5'
+site_number: '5'
+game_text: ! |-
+  Besieger. Skirmish: Discard 2 cards from hand to play a [Sauron] Orc stacked on a site you control. That Orc is fierce and strength +6 until the regroup phase.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07274

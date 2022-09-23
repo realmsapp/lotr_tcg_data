@@ -1,0 +1,17 @@
+---
+key: 6R55
+name: Ring of Barahir
+title: Ring of Barahir
+set: ents_of_fangorn
+rarity: rare
+card_type: artifact
+subtype: ring
+alignment: free_people
+culture: gondor
+twilight: '0'
+unique: true
+game_text: ! |-
+  Bearer must be Aragorn. At the start of each of your turns, you may spot a culture token to heal a companion of that culture.
+flavor_text: ! |-
+  ”'This is a thing of worth beyond your reckoning. For its ancientry alone. It has no power, save the esteem in which those hold it who love my house.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06055

@@ -1,0 +1,21 @@
+---
+key: 2C114
+name: Sam, Proper Poet
+title: Sam
+subtitle: Proper Poet
+set: mines_of_moria
+rarity: common
+card_type: companion
+subtype: hobbit
+alignment: free_people
+culture: shire
+signet: gandalf
+strength: '3'
+vitality: '4'
+twilight: '2'
+unique: true
+game_text: ! |-
+  Maneuver: Exert Sam twice to make him defender +1 until the regroup phase. Response: If Frodo dies, make Sam the Ring-bearer (resistance 5).
+flavor_text: ! |-
+  ”'First he was a conspirator, now he's a jester. He'll end up by becoming a wizard - or a warrior!'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02114

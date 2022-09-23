@@ -1,0 +1,19 @@
+---
+key: 4C207
+name: Uruk-hai Raiding Party
+title: Uruk-hai Raiding Party
+set: two_towers
+rarity: common
+card_type: minion
+subtype: uruk-hai
+alignment: shadow
+culture: isengard
+strength: '9'
+vitality: '3'
+twilight: '4'
+site_number: '5'
+game_text: ! |-
+  Damage +1.
+flavor_text: ! |-
+  Bands of Uruks crossed the plains of Rohan.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04207

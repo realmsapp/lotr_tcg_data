@@ -1,0 +1,17 @@
+---
+key: 7R87
+name: Derufin
+title: Derufin
+set: return_of_the_king
+rarity: rare
+card_type: companion
+subtype: man
+alignment: free_people
+culture: gondor
+strength: '6'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  Regroup: While you have exactly 5 cards in hand, you may exert Derufin to discard an engine, machine, or possession.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07087

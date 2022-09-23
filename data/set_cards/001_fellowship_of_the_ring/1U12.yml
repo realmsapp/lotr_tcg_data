@@ -1,0 +1,22 @@
+---
+key: 1U12
+name: Gimli, Dwarf of Erebor
+title: Gimli
+subtitle: Dwarf of Erebor
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: companion
+subtype: dwarf
+alignment: free_people
+culture: dwarven
+signet: aragorn
+strength: '6'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  Damage +1. Fellowship: If the twilight pool has fewer than 2 twilight tokens, add (2) to place a card from hand beneath your draw deck.
+flavor_text: ! |-
+  “Gimli now walked ahead by the wizard's side, so eager was he to come to Moria.”
+notes: Game text is an erratum.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01012

@@ -1,0 +1,21 @@
+---
+key: 6P122
+name: The Witch-king, Deathless Lord
+title: The Witch-king
+subtitle: Deathless Lord
+set: ents_of_fangorn
+rarity: promo
+card_type: minion
+subtype: nazgul
+alignment: shadow
+culture: wraith
+strength: '14'
+vitality: '4'
+twilight: '8'
+unique: true
+site_number: '3'
+game_text: ! |-
+  Fierce. Each time a companion is killed in a skirmish involving a Nazgul, wound an ally twice or exert a companion.
+flavor_text: ! |-
+  ”'Dead? No, you cannot kill them.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06122

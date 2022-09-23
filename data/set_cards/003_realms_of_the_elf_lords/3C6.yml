@@ -1,0 +1,15 @@
+---
+key: 3C6
+name: Storm of Argument
+title: Storm of Argument
+set: realms_of_the_elf_lords
+rarity: common
+card_type: event
+alignment: free_people
+culture: dwarven
+twilight: '1'
+game_text: ! |-
+  Fellowship: Reveal a card at random from an opponent's hand. Shuffle up to X [Dwarven] cards from your discard pile into your draw deck, where X is the twilight cost of the card revealed.
+flavor_text: ! |-
+  ”'I will be dead before I see the Ring in the hands of an Elf!'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr03006

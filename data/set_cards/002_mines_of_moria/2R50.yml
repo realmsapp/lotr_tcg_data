@@ -1,0 +1,18 @@
+---
+key: 2R50
+name: The Balrog's Sword
+title: The Balrog's Sword
+set: mines_of_moria
+rarity: rare
+card_type: artifact
+subtype: hand_weapon
+alignment: shadow
+culture: moria
+strength: "+3"
+twilight: '1'
+unique: true
+game_text: ! |-
+  Bearer must be The Balrog. It is damage +1. This weapon may be borne in addition to 1 other hand weapon.
+flavor_text: ! |-
+  “In its right hand was a blade like a stabbing tongue of fire….”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02050

@@ -1,0 +1,14 @@
+---
+key: 10C24
+name: Unabated in Malice
+title: Unabated in Malice
+set: mount_doom
+rarity: common
+card_type: condition
+alignment: shadow
+culture: gollum_shadow
+twilight: '0'
+unique: true
+game_text: ! |-
+  While you have initiative, each [Gollum] minion is damage +1. Skirmish: Discard this condition to make a [Gollum] minion strength +1 for each culture you can spot.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10024

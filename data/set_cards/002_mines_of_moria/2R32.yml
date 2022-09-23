@@ -1,0 +1,18 @@
+---
+key: 2R32
+name: Flaming Brand
+title: Flaming Brand
+set: mines_of_moria
+rarity: rare
+card_type: possession
+subtype: hand_weapon
+alignment: free_people
+culture: gondor
+strength: "+1"
+twilight: '0'
+game_text: ! |-
+  Bearer must be a Man. This weapon may be borne in addition to 1 other hand weapon. Bearer is strength +2 and damage +1 while skirmishing a Nazgul.
+flavor_text: ! |-
+  ”…a glimpse of Strider leaping out of the darkness with a flaming brand of wood in either hand.”
+notes: 'Lists: ERL, MXL'
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02032

@@ -1,0 +1,18 @@
+---
+key: 4C105
+name: Under the Living Earth
+title: Under the Living Earth
+set: two_towers
+rarity: common
+card_type: event
+alignment: free_people
+culture: gandalf
+twilight: '1'
+game_text: ! |-
+  Skirmish: Make Gandalf strength +1 for each twilight token you spot (limit +5).
+flavor_text: ! |-
+  ”'Thither I came at last, to the uttermost foundations of stone. He was with me still.'”
+notes: 'The twilight token added for the cost of this card adds to the strength bonus
+  provided by its effect. For example: if the twilight pool is empty when this card
+  is played, Gandalf is strength +1.'
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04105

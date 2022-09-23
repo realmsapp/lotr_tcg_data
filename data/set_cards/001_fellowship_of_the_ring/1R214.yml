@@ -1,0 +1,16 @@
+---
+key: 1R214
+name: In the Ringwraith's Wake
+title: In the Ringwraith's Wake
+set: fellowship_of_the_ring
+rarity: rare
+card_type: event
+alignment: shadow
+culture: wraith
+twilight: '0'
+game_text: ! |-
+  Response: If a Nazgul wins a skirmish, the Free Peoples player chooses to either exert the Ring-bearer or add a burden.
+flavor_text: ! |-
+  ”'He is fading…. We must get him to my father.'”
+notes: 'Version: +.'
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01214

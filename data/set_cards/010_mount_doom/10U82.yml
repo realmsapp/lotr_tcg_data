@@ -1,0 +1,17 @@
+---
+key: 10U82
+name: Cirith Ungol Patroller
+title: Cirith Ungol Patroller
+set: mount_doom
+rarity: uncommon
+card_type: minion
+subtype: uruk-hai
+alignment: shadow
+culture: sauron
+strength: '8'
+vitality: '2'
+twilight: '3'
+site_number: '6'
+game_text: ! |-
+  Damage +1. While you can spot 3 possessions, this minion is fierce.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10082

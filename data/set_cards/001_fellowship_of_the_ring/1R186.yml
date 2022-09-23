@@ -1,0 +1,20 @@
+---
+key: 1R186
+name: Guard Commander
+title: Guard Commander
+set: fellowship_of_the_ring
+rarity: rare
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: moria
+strength: '7'
+vitality: '2'
+twilight: '3'
+unique: true
+site_number: '4'
+game_text: ! |-
+  Skirmish: Remove (3) to make a [Moria] Orc strength +2.
+flavor_text: ! |-
+  “His broad flat face was swart, his eyes were like coals, and his tongue was red….”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01186

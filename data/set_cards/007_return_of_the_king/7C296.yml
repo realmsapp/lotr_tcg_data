@@ -1,0 +1,17 @@
+---
+key: 7C296
+name: Orc Brood
+title: Orc Brood
+set: return_of_the_king
+rarity: common
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '7'
+vitality: '2'
+twilight: '2'
+site_number: '6'
+game_text: ! |-
+  Skirmish: Discard 3 cards from hand to make this minion strength +3.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07296

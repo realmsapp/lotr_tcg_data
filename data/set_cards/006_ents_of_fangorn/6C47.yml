@@ -1,0 +1,15 @@
+---
+key: 6C47
+name: You're a Liar and a Thief
+title: You're a Liar and a Thief
+set: ents_of_fangorn
+rarity: common
+card_type: event
+alignment: shadow
+culture: gollum_shadow
+twilight: '0'
+game_text: ! |-
+  Response: If Gollum wins a skirmish, wound a companion (except the Ring-bearer).
+flavor_text: ! |-
+  ”'No, sweet one. See, my precious: if we has it, then we can escape, even from Him, eh?'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06047

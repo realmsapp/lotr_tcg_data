@@ -1,0 +1,15 @@
+---
+key: 4C3
+name: Anger
+title: Anger
+set: two_towers
+rarity: common
+card_type: event
+alignment: shadow
+culture: dunland
+twilight: '0'
+game_text: ! |-
+  Skirmish: Spot 3 [Dunland] minions or a site you control to make a [Dunland] Man fierce until the regroup phase.
+flavor_text: ! |-
+  Rage filled the hearts of the Dunlending attackers.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04003

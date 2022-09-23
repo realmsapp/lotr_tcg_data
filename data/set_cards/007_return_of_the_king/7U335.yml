@@ -1,0 +1,12 @@
+---
+key: 7U335
+name: King's Tent
+title: King's Tent
+set: return_of_the_king
+rarity: uncommon
+card_type: site
+twilight: '1'
+site_number: '2'
+game_text: ! |-
+  Shadow: If the Shadow has initiative, spot your minion to make the move limit for this turn -1.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07335

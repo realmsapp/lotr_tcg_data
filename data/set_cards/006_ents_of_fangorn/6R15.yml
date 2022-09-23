@@ -1,0 +1,20 @@
+---
+key: 6R15
+name: Elrond, Keeper of Vilya
+title: Elrond
+subtitle: Keeper of Vilya
+set: ents_of_fangorn
+rarity: rare
+card_type: ally
+alignment: free_people
+culture: elven
+strength: '8'
+vitality: '4'
+twilight: '4'
+unique: true
+site_number: '3'
+game_text: ! |-
+  At the start of each turn, heal Elrond. Fellowship: Exert Elrond to discard the top card of your draw deck. If it is an [Elven] card, you may take it into hand and heal an Elf companion.
+flavor_text: ! |-
+  ”'You have foreseen it. War is coming… many will die.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06015

@@ -1,0 +1,17 @@
+---
+key: 7R113
+name: Pippin's Armor
+title: Pippin's Armor
+set: return_of_the_king
+rarity: rare
+card_type: possession
+subtype: armor
+alignment: free_people
+culture: gondor
+strength: "+2"
+vitality: "-1"
+twilight: '0'
+unique: true
+game_text: ! |-
+  Bearer must be Pippin. While you can spot 3 [Gondor] Men, Pippin may take no more than 1 wound in a skirmish.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07113

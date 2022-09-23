@@ -1,0 +1,17 @@
+---
+key: 6U83
+name: Fell Beast
+title: Fell Beast
+set: ents_of_fangorn
+rarity: uncommon
+card_type: possession
+subtype: mount
+alignment: shadow
+culture: wraith
+strength: "+2"
+twilight: '0'
+game_text: ! |-
+  To play, discard 2 cards from hand. Bearer must be a Nazgul. Bearer is fierce.
+flavor_text: ! |-
+  ”'And these winged creatures that they ride on now, they can probably see more than any other creature. They are like great carrion birds.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06083

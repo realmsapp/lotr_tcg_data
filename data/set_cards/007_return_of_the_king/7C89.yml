@@ -1,0 +1,13 @@
+---
+key: 7C89
+name: Duty of Two
+title: Duty of Two
+set: return_of_the_king
+rarity: common
+card_type: event
+alignment: free_people
+culture: gondor
+twilight: '1'
+game_text: ! |-
+  Add 3 threats to heal all [Gondor] companions.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07089

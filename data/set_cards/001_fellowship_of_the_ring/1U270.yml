@@ -1,0 +1,19 @@
+---
+key: 1U270
+name: Orc Scouting Band
+title: Orc Scouting Band
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '8'
+vitality: '2'
+twilight: '3'
+site_number: '6'
+game_text: ! |-
+  Tracker. The roaming penalty for each [Sauron] minion you play is -1. Skirmish: Exert this minion to wound a character it is skirmishing.
+flavor_text: ! |-
+  The cunning ambushes of the Orc armies rely upon scouts first finding the enemy.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01270

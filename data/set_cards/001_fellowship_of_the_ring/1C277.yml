@@ -1,0 +1,15 @@
+---
+key: 1C277
+name: Shadow's Reach
+title: Shadow's Reach
+set: fellowship_of_the_ring
+rarity: common
+card_type: event
+alignment: shadow
+culture: sauron
+twilight: '1'
+game_text: ! |-
+  Shadow: Exert a [Sauron] Orc to discard a Free Peoples condition.
+flavor_text: ! |-
+  ”'Is it secret? Is it safe?'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01277

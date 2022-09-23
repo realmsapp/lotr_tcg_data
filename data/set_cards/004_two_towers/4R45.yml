@@ -1,0 +1,15 @@
+---
+key: 4R45
+name: Dwarven Foresight
+title: Dwarven Foresight
+set: two_towers
+rarity: rare
+card_type: event
+alignment: free_people
+culture: dwarven
+twilight: '0'
+game_text: ! |-
+  Fellowship: Spot a Dwarf to take a Free Peoples card stacked on a [Dwarven] condition into hand.
+flavor_text: ! |-
+  ”'I would guess that the burned bones of the hobbits are now mingled with the Orcs'.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04045

@@ -1,0 +1,15 @@
+---
+key: 1U126
+name: Hunt Them Down!
+title: Hunt Them Down!
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: event
+alignment: shadow
+culture: isengard
+twilight: '3'
+game_text: ! |-
+  Maneuver: Make an Uruk-hai fierce until the regroup phase.
+flavor_text: ! |-
+  ”'Do not stop until they are found!”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01126

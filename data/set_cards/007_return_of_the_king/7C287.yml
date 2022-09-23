@@ -1,0 +1,17 @@
+---
+key: 7C287
+name: Mordor Guard
+title: Mordor Guard
+set: return_of_the_king
+rarity: common
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '9'
+vitality: '3'
+twilight: '3'
+site_number: '6'
+game_text: ! |-
+  Skirmish: Exert 3 [Sauron] Orcs to add 3 threats. When this minion is discarded, remove 3 threats.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07287

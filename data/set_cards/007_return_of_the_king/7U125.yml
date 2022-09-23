@@ -1,0 +1,14 @@
+---
+key: 7U125
+name: Third Level
+title: Third Level
+set: return_of_the_king
+rarity: uncommon
+card_type: condition
+alignment: free_people
+culture: gondor
+twilight: '1'
+site_number: "+4"
+game_text: ! |-
+  Fortification. Skirmish: Exert a [Gondor] Man or spot 2 rangers to transfer this condition from your support area to a minion skirmishing a [Gondor] Man.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07125

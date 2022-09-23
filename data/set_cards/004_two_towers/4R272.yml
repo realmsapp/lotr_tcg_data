@@ -1,0 +1,18 @@
+---
+key: 4R272
+name: Eowyn's Sword
+title: Eowyn's Sword
+set: two_towers
+rarity: rare
+card_type: possession
+subtype: hand_weapon
+alignment: free_people
+culture: rohan
+strength: "+3"
+twilight: '1'
+unique: true
+game_text: ! |-
+  Bearer must be Eowyn. While you can spot a villager, Eowyn is damage +1.
+flavor_text: ! |-
+  ”…the sword was set upright before her, and her hands were laid upon the hilt.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04272

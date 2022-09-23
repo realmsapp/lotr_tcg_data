@@ -1,0 +1,16 @@
+---
+key: 4U148
+name: Down to the Last Child
+title: Down to the Last Child
+set: two_towers
+rarity: uncommon
+card_type: condition
+alignment: shadow
+culture: isengard
+twilight: '2'
+unique: true
+game_text: ! |-
+  Plays to your support area. Each time a companion or ally loses a skirmish involving an Uruk-hai, place an [Isengard] token on this card. Shadow: Remove 2 [Isengard] tokens from this card to take control of a site.
+flavor_text: ! |-
+  The Uruks brought death to the villages of Rohan.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04148

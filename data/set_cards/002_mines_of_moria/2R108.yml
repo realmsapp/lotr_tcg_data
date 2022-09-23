@@ -1,0 +1,19 @@
+---
+key: 2R108
+name: O Elbereth! Gilthoniel!
+title: O Elbereth! Gilthoniel!
+set: mines_of_moria
+rarity: rare
+card_type: condition
+alignment: free_people
+culture: shire
+strength: "+1"
+twilight: '1'
+unique: true
+game_text: ! |-
+  Tale. Bearer must be the Ring-bearer. Skirmish: Discard this condition to take off The One Ring or to cancel a skirmish involving the Ring-bearer and a Nazgul.
+flavor_text: ! |-
+  “With a last effort Frodo… slipped the Ring from his finger and closed his right hand tight upon it.”
+notes: As skirmishes involving the Ring-bearer cannot be cancelled, the skirmish action
+  of this condition can only be used to take off The One Ring.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02108

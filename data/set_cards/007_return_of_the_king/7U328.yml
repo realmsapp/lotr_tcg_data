@@ -1,0 +1,14 @@
+---
+key: 7U328
+name: Slow-kindled Courage
+title: Slow-kindled Courage
+set: return_of_the_king
+rarity: uncommon
+card_type: condition
+alignment: free_people
+culture: shire
+twilight: '2'
+unique: true
+game_text: ! |-
+  Bearer must be Merry or Pippin. Each minion gains this ability: 'Assignment: Assign this minion to bearer of Slow-kindled Courage.' Regroup: Discard this condition to discard a minion and remove 2 burdens.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07328

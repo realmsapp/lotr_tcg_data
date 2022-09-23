@@ -1,0 +1,17 @@
+---
+key: 10U78
+name: Advance Scout
+title: Advance Scout
+set: mount_doom
+rarity: uncommon
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '7'
+vitality: '2'
+twilight: '2'
+site_number: '6'
+game_text: ! |-
+  Shadow: Exert or discard this minion to make each [Sauron] minion you spot roaming until the regroup phase.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10078

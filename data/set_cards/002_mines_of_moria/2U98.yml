@@ -1,0 +1,15 @@
+---
+key: 2U98
+name: Dear Friends
+title: Dear Friends
+set: mines_of_moria
+rarity: uncommon
+card_type: event
+alignment: free_people
+culture: shire
+twilight: '0'
+game_text: ! |-
+  Fellowship: Exert a companion to place a Free Peoples card from your discard pile beneath your draw deck (or 2 Free Peoples cards if that companion has the Frodo signet).
+flavor_text: ! |-
+  “He pressed him for news of himself and of the wide world… and they stayed up far into the night.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02098

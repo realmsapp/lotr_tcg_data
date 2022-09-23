@@ -1,0 +1,18 @@
+---
+key: 2C29
+name: Wizard Staff
+title: Wizard Staff
+set: mines_of_moria
+rarity: common
+card_type: possession
+subtype: staff
+alignment: free_people
+culture: gandalf
+strength: "+1"
+twilight: '2'
+game_text: ! |-
+  Bearer must be a Wizard. Skirmish: Exert bearer twice to make a minion strength -3.
+flavor_text: ! |-
+  ”'We must have power - power to order things as we will for that Good which only the Wise can see.'”
+notes: 'Version: +.'
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02029

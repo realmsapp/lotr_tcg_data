@@ -1,0 +1,17 @@
+---
+key: 7C288
+name: Mordor Regular
+title: Mordor Regular
+set: return_of_the_king
+rarity: common
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '8'
+vitality: '2'
+twilight: '3'
+site_number: '6'
+game_text: ! |-
+  Skirmish: Exert this minion and spot another [Sauron] minion to add a threat.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07288

@@ -1,0 +1,18 @@
+---
+key: 1C295
+name: Hobbit Farmer
+title: Hobbit Farmer
+set: fellowship_of_the_ring
+rarity: common
+card_type: ally
+alignment: free_people
+culture: shire
+strength: '2'
+vitality: '2'
+twilight: '1'
+site_number: '1'
+game_text: ! |-
+  While you can spot your site 1, this ally has the game text of that site. Fellowship: Exert this ally and spot opponent's site 1 to replace it with your site 1.
+flavor_text: ! |-
+  ”'…where our hearts truly lie is in peace and quiet and good-tilled earth….'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01295

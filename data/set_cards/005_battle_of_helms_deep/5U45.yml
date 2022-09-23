@@ -1,0 +1,23 @@
+---
+key: 5U45
+name: Berserk Rager
+title: Berserk Rager
+set: battle_of_helms_deep
+rarity: uncommon
+card_type: minion
+subtype: uruk-hai
+alignment: shadow
+culture: isengard
+strength: '10'
+vitality: '3'
+twilight: '5'
+unique: true
+site_number: '5'
+game_text: ! |-
+  Damage +1. Berserk Rager is strength +1 for each wound on a character in its skirmish. Skirmish: Remove 3 [Isengard] tokens from a machine and exert Berserk Rager twice to wound every ally twice.
+flavor_text: ! |-
+  Their mission at Helm's Deep was to clear the walls.
+notes: The strength bonus for this minion is increased for any wound on any minion,
+  companion, or ally in its skirmish. The tokens removed for the special ability on
+  this card must all be removed from the same machine.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05045

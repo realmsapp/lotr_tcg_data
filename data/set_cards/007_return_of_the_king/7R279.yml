@@ -1,0 +1,18 @@
+---
+key: 7R279
+name: Gorgoroth Troop
+title: Gorgoroth Troop
+set: return_of_the_king
+rarity: rare
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '14'
+vitality: '4'
+twilight: '6'
+unique: true
+site_number: '5'
+game_text: ! |-
+  Besieger. Skirmish: Stack your besieger on a site you control to make Gorgoroth Troop strength +2.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07279

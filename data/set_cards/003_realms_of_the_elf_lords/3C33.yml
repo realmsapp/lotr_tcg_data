@@ -1,0 +1,15 @@
+---
+key: 3C33
+name: His First Serious Check
+title: His First Serious Check
+set: realms_of_the_elf_lords
+rarity: common
+card_type: event
+alignment: free_people
+culture: gandalf
+twilight: '1'
+game_text: ! |-
+  Maneuver: Spot Gandalf to reveal a card at random from an opponent's hand. You may add (X) to discard that card, where X is the twilight cost of the card revealed.
+flavor_text: ! |-
+  ”…a false turn now might be disastrous.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr03033

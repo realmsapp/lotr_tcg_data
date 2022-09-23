@@ -1,0 +1,14 @@
+---
+key: 8R24
+name: Promise Keeping
+title: Promise Keeping
+set: siege_of_gondor
+rarity: rare
+card_type: condition
+alignment: shadow
+culture: gollum_shadow
+twilight: '4'
+unique: true
+game_text: ! |-
+  Each time a companion takes a wound during a skirmish that involves a [Gollum] minion, exert a companion.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr08024

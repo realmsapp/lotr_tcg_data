@@ -1,0 +1,21 @@
+---
+key: 1R229
+name: Ulaire Attea, Keeper of Dol Guldur
+title: Ulaire Attea
+subtitle: Keeper of Dol Guldur
+set: fellowship_of_the_ring
+rarity: rare
+card_type: minion
+subtype: nazgul
+alignment: shadow
+culture: wraith
+strength: '12'
+vitality: '3'
+twilight: '6'
+unique: true
+site_number: '3'
+game_text: ! |-
+  Fierce. Skirmish: Remove (1) to make Ulaire Attea strength +1 (limit +5).
+flavor_text: ! |-
+  Those that knew the most power as kings were placed in particular ways for the Will of Sauron.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01229

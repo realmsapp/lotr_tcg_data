@@ -1,0 +1,16 @@
+---
+key: 4R157
+name: Leechcraft
+title: Leechcraft
+set: two_towers
+rarity: rare
+card_type: condition
+alignment: shadow
+culture: isengard
+strength: "-1"
+twilight: '0'
+game_text: ! |-
+  Spell. To play, exert Saruman or an [Isengard] Man. Plays on a Free Peoples Man. Special abilities in bearer's game text may not be used.
+flavor_text: ! |-
+  ”'Your leechcraft ere long would have had me walking on all fours like a beast.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04157

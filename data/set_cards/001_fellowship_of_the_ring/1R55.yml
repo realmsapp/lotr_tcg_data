@@ -1,0 +1,17 @@
+---
+key: 1R55
+name: The Mirror of Galadriel
+title: The Mirror of Galadriel
+set: fellowship_of_the_ring
+rarity: rare
+card_type: possession
+alignment: free_people
+culture: elven
+twilight: '2'
+unique: true
+game_text: ! |-
+  Plays to your support area. Each Elf ally whose home is site 6 is strength +1. Maneuver: If an opponent has at least 7 cards in hand, exert Galadriel to look at 2 of those cards at random. Discard one and replace the other.
+flavor_text: ! |-
+  ”'What you will see I cannot tell….'”
+notes: Game text is an erratum.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01055

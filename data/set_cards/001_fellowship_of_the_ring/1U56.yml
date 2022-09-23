@@ -1,0 +1,20 @@
+---
+key: 1U56
+name: Orophin, Lorien Bowman
+title: Orophin
+subtitle: Lorien Bowman
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: ally
+alignment: free_people
+culture: elven
+strength: '3'
+vitality: '3'
+twilight: '2'
+unique: true
+site_number: '6'
+game_text: ! |-
+  Archer. Archery: Exert Orophin to wound an Uruk-hai.
+flavor_text: ! |-
+  The swift bow of Orophin, Haldir's kinsman, has slain many Orcs.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01056

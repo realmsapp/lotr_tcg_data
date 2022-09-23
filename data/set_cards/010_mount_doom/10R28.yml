@@ -1,0 +1,19 @@
+---
+key: 10R28
+name: Denethor, Lord of Minas Tirith
+title: Denethor
+subtitle: Lord of Minas Tirith
+set: mount_doom
+rarity: rare
+card_type: companion
+subtype: man
+alignment: free_people
+culture: gondor
+signet: aragorn
+strength: '8'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  To play, spot 2 [Gondor] Men. Fellowship: If at a sanctuary, exert Denethor to take a [Gondor] card into hand from your draw deck, then reshuffle. Choose an opponent who may draw 2 cards.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10028

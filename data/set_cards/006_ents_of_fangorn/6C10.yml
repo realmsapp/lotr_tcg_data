@@ -1,0 +1,14 @@
+---
+key: 6C10
+name: Suspended Palaces
+title: Suspended Palaces
+set: ents_of_fangorn
+rarity: common
+card_type: condition
+alignment: free_people
+culture: dwarven
+twilight: '2'
+unique: true
+game_text: ! |-
+  Plays to your support area. When you play this condition, you may spot a Dwarf to place 2 [Dwarven] tokens here. Fellowship: Discard this condition or remove a [Dwarven] token from here to stack the top card of your draw deck on a [Dwarven] condition that has a card stacked on it.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06010

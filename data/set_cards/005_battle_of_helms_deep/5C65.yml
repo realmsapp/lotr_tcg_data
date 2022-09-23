@@ -1,0 +1,18 @@
+---
+key: 5C65
+name: Warg
+title: Warg
+set: battle_of_helms_deep
+rarity: common
+card_type: possession
+subtype: mount
+alignment: shadow
+culture: isengard
+strength: "+3"
+vitality: "+1"
+twilight: '3'
+game_text: ! |-
+  Bearer must a warg-rider. Response: If a skirmish special abiliy is used in a skirmish involving bearer, exert bearer to cancel that action.
+flavor_text: ! |-
+  ”'Tell him there is no hope ahead. He should return to Edoras before the wolves of Isengard come there.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05065

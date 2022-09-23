@@ -1,0 +1,13 @@
+---
+key: 1R175
+name: Goblin Domain
+title: Goblin Domain
+set: fellowship_of_the_ring
+rarity: rare
+card_type: condition
+alignment: shadow
+culture: moria
+twilight: '1'
+game_text: ! |-
+  Search. To play, spot a [Moria] minion. Plays to your support area. Each time a companion is played to site 4 or higher, that companion comes into play exhausted.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01175

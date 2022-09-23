@@ -1,0 +1,21 @@
+---
+key: 4C74
+name: Legolas, Elven Comrade
+title: Legolas
+subtitle: Elven Comrade
+set: two_towers
+rarity: common
+card_type: companion
+subtype: elf
+alignment: free_people
+culture: elven
+signet: gandalf
+strength: '6'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  Archer. Skirmish: Exert Legolas to make a minion skirmishing an unbound companion strength -1 (or -2 if that companion is Gimli).
+flavor_text: ! |-
+  ”'Come, you shall sit behind me, friend Gimli.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04074

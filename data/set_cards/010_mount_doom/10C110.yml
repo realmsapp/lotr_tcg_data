@@ -1,0 +1,13 @@
+---
+key: 10C110
+name: A Marvel
+title: A Marvel
+set: mount_doom
+rarity: common
+card_type: event
+alignment: free_people
+culture: shire
+twilight: '1'
+game_text: ! |-
+  Exert a Hobbit to make another Hobbit strength +3.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10110

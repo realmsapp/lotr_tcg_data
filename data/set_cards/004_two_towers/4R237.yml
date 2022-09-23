@@ -1,0 +1,15 @@
+---
+key: 4R237
+name: Ithilien Wilderness
+title: Ithilien Wilderness
+set: two_towers
+rarity: rare
+card_type: condition
+alignment: shadow
+culture: raider
+twilight: '0'
+unique: true
+game_text: ! |-
+  Plays to your support area. At the end of each phase during which the fellowship moved to site 7T, 8T, or 9T and the twilight pool has fewer than 7 twilight tokens, you may add (8). Skirmish: Discard this condition to make a [Raider] Man strength +2.
+notes: Game text is an erratum.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04237

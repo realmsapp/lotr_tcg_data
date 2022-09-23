@@ -1,0 +1,13 @@
+---
+key: 7R223
+name: Death They Cried
+title: Death They Cried
+set: return_of_the_king
+rarity: rare
+card_type: event
+alignment: free_people
+culture: rohan
+twilight: '2'
+game_text: ! |-
+  Spot a mounted [Rohan] Man to exert a minion. That minion's owner may exert a companion and if he or she does so, you may exert a minion; repeat this until a player does not exert a character.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07223

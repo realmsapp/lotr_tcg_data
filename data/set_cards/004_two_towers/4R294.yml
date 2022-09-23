@@ -1,0 +1,15 @@
+---
+key: 4R294
+name: Weapon Store
+title: Weapon Store
+set: two_towers
+rarity: rare
+card_type: condition
+alignment: free_people
+culture: rohan
+twilight: '1'
+game_text: ! |-
+  Plays to your support area. Fellowship: Exert a [Rohan] Man to play a hand weapon from your discard pile.
+flavor_text: ! |-
+  ”'And to you my other guests I will offer such things as may be found in my armoury.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04294

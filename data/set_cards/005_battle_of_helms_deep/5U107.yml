@@ -1,0 +1,20 @@
+---
+key: 5U107
+name: Orc Patrol
+title: Orc Patrol
+set: battle_of_helms_deep
+rarity: uncommon
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '11'
+vitality: '3'
+twilight: '4'
+unique: true
+site_number: '6'
+game_text: ! |-
+  Tracker. The site number of each [Sauron] Orc is -3. Maneuver: Exert Orc Patrol twice and spot another [Sauron] Orc to discard a condition.
+flavor_text: ! |-
+  Sauron's Orcs ranged far and wide, searching for Baggins and the Ring.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05107

@@ -1,0 +1,21 @@
+---
+key: 1R30
+name: Arwen, Daughter of Elrond
+title: Arwen
+subtitle: Daughter of Elrond
+set: fellowship_of_the_ring
+rarity: rare
+card_type: companion
+subtype: elf
+alignment: free_people
+culture: elven
+signet: aragorn
+strength: '6'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  Ranger. While skirmishing a Nazgul, Arwen is strength +3.
+flavor_text: ! |-
+  “Long she had been in the land of her mother's kin, in Lórien beyond the mountains, and was but lately returned to Rivendell to her father's house.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01030

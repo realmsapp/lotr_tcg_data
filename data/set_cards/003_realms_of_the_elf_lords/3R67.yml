@@ -1,0 +1,18 @@
+---
+key: 3R67
+name: The Palantir of Orthanc
+title: The Palantir of Orthanc
+set: realms_of_the_elf_lords
+rarity: rare
+card_type: artifact
+subtype: palantir
+alignment: shadow
+culture: isengard
+twilight: '0'
+unique: true
+game_text: ! |-
+  To play, spot an [Isengard] minion. Plays to your support area. Shadow: Spot an [Isengard] minion and remove (1) to reveal a card at random from the Free Peoples player's hand. Place that card on top of that player's draw deck.
+flavor_text: ! |-
+  ”'Seven stars and seven stones….'”
+notes: 'Lists: EXL, MXL'
+wiki_url: https://lotrtcgwiki.com/wiki/lotr03067

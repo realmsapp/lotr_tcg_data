@@ -1,0 +1,18 @@
+---
+key: 1U57
+name: Rumil, Elven Protector
+title: Rumil
+subtitle: Elven Protector
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: ally
+alignment: free_people
+culture: elven
+strength: '3'
+vitality: '3'
+twilight: '2'
+unique: true
+site_number: '6'
+game_text: ! |-
+  Archer. Archery: Exert Rumil to wound an Orc.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01057

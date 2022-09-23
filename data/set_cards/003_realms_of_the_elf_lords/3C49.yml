@@ -1,0 +1,15 @@
+---
+key: 3C49
+name: Abandoning Reason for Madness
+title: Abandoning Reason for Madness
+set: realms_of_the_elf_lords
+rarity: common
+card_type: event
+alignment: shadow
+culture: isengard
+twilight: '1'
+game_text: ! |-
+  Shadow: Spot an [Isengard] minion to discard up to 3 cards from hand and draw an equal number of cards.
+flavor_text: ! |-
+  ”'And why not, Gandalf?… Why not? The Ruling Ring? If we could command that, then the power would pass to us.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr03049

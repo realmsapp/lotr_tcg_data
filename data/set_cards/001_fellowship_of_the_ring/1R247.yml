@@ -1,0 +1,15 @@
+---
+key: 1R247
+name: Enheartened Foe
+title: Enheartened Foe
+set: fellowship_of_the_ring
+rarity: rare
+card_type: event
+alignment: shadow
+culture: sauron
+twilight: '0'
+game_text: ! |-
+  Response: If a [Sauron] Orc wins a skirmish, make that Orc fierce until the regroup phase.
+flavor_text: ! |-
+  Orcs feed on their own success. The greater their exploits in battle, the greater their confidence grows.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01247

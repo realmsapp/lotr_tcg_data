@@ -1,0 +1,13 @@
+---
+key: 8U29
+name: Still Far Ahead
+title: Still Far Ahead
+set: siege_of_gondor
+rarity: uncommon
+card_type: event
+alignment: free_people
+culture: gollum_free_people
+twilight: '0'
+game_text: ! |-
+  Spot Smeagol to play the fellowship's next site (replacing opponent's site if necessary). The Shadow number of the fellowship's next site is -1 until the end of the turn.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr08029

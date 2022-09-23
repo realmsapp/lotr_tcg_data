@@ -1,0 +1,19 @@
+---
+key: 1R148
+name: Uruk Lieutenant
+title: Uruk Lieutenant
+set: fellowship_of_the_ring
+rarity: rare
+card_type: minion
+subtype: uruk-hai
+alignment: shadow
+culture: isengard
+strength: '8'
+vitality: '2'
+twilight: '3'
+site_number: '5'
+game_text: ! |-
+  Damage +1. This minion is strength +1 for each other Uruk-hai you can spot.
+flavor_text: ! |-
+  Uruk-hai leaders gain savagery from their following hordes to maintain the rule of the strong.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01148

@@ -1,0 +1,21 @@
+---
+key: 6R88
+name: Ulaire Toldea, Winged Sentry
+title: Ulaire Toldea
+subtitle: Winged Sentry
+set: ents_of_fangorn
+rarity: rare
+card_type: minion
+subtype: nazgul
+alignment: shadow
+culture: wraith
+strength: '12'
+vitality: '3'
+twilight: '6'
+unique: true
+site_number: '3'
+game_text: ! |-
+  Fierce. Each time Ulaire Toldea wins a skirmish, the Free Peoples player must exert a companion or add a burden.
+flavor_text: ! |-
+  ”'They are calling for it. Calling for the precious.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06088

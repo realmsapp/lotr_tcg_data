@@ -1,0 +1,15 @@
+---
+key: 8U64
+name: Mumakil
+title: Mumakil
+set: siege_of_gondor
+rarity: uncommon
+card_type: possession
+subtype: mount
+alignment: shadow
+culture: raider
+strength: "+3"
+twilight: '3'
+game_text: ! |-
+  Bearer must be a Southron. Bearer is fierce. While you have initiative or can spot 4 threats, bearer is damage +1.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr08064

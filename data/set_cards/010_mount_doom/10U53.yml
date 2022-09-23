@@ -1,0 +1,13 @@
+---
+key: 10U53
+name: Black Marshal
+title: Black Marshal
+set: mount_doom
+rarity: uncommon
+card_type: condition
+alignment: shadow
+culture: wraith
+twilight: '1'
+game_text: ! |-
+  Shadow: Exert a Nazgul and play a [Wraith] minion to add (1) (or (2) if you have initiative).
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10053

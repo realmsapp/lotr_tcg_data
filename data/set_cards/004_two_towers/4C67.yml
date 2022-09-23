@@ -1,0 +1,20 @@
+---
+key: 4C67
+name: Fereveldir, Son of Thandronen
+title: Fereveldir
+subtitle: Son of Thandronen
+set: two_towers
+rarity: common
+card_type: companion
+subtype: elf
+alignment: free_people
+culture: elven
+strength: '5'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  To play, spot an Elf. Skirmish: Exert Fereveldir and discard an [Elven] token from your condition to wound a minion Fereveldir is skirmishing.
+flavor_text: ! |-
+  Thandronen
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04067

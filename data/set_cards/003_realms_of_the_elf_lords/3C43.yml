@@ -1,0 +1,15 @@
+---
+key: 3C43
+name: Might of Numenor
+title: Might of Numenor
+set: realms_of_the_elf_lords
+rarity: common
+card_type: event
+alignment: free_people
+culture: gondor
+twilight: '1'
+game_text: ! |-
+  Tale. Maneuver: Spot a [Gondor] companion to reveal a card at random from an opponent's hand. Heal X companions, where X is the twilight cost of the card revealed.
+flavor_text: ! |-
+  ”'But the lords of Minas Tirith still fight on….'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr03043

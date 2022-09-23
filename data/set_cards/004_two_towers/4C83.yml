@@ -1,0 +1,15 @@
+---
+key: 4C83
+name: Supporting Fire
+title: Supporting Fire
+set: two_towers
+rarity: common
+card_type: event
+alignment: free_people
+culture: elven
+twilight: '1'
+game_text: ! |-
+  Skirmish: Make an Elf strength +2 (or +3 if you spot 3 Elf companions).
+flavor_text: ! |-
+  Sword-work is made easier with archery support.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04083

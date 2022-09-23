@@ -1,0 +1,16 @@
+---
+key: 3R102
+name: Our List of Allies Grows Thin
+title: Our List of Allies Grows Thin
+set: realms_of_the_elf_lords
+rarity: rare
+card_type: condition
+alignment: shadow
+culture: sauron
+twilight: '1'
+unique: true
+game_text: ! |-
+  To play, exert a [Sauron] minion. Plays to your support area. Each time the fellowship moves, add (1) for each ally you can spot.
+flavor_text: ! |-
+  ”'The enemy is moving…. His eye is fixed on Rivendell. And Saruman, you tell me, has betrayed us.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr03102

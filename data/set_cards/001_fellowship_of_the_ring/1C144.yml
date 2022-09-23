@@ -1,0 +1,15 @@
+---
+key: 1C144
+name: Uruk Bloodlust
+title: Uruk Bloodlust
+set: fellowship_of_the_ring
+rarity: common
+card_type: condition
+alignment: shadow
+culture: isengard
+twilight: '3'
+game_text: ! |-
+  Plays to your support area. Response: If your Uruk-hai wins a skirmish, remove (1) to heal him.
+flavor_text: ! |-
+  ”'Take them alive!'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01144

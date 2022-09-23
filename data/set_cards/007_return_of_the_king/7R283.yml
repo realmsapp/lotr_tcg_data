@@ -1,0 +1,14 @@
+---
+key: 7R283
+name: Legions of Morgul
+title: Legions of Morgul
+set: return_of_the_king
+rarity: rare
+card_type: condition
+alignment: shadow
+culture: sauron
+twilight: '3'
+unique: true
+game_text: ! |-
+  To play, spot 2 [Sauron] Orcs and add up to 3 threats. Each time a companion is about to be killed, you may remove a threat to make all minions fierce until the regroup phase. Discard this condition and remove 3 threats at the start of the regroup phase.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07283

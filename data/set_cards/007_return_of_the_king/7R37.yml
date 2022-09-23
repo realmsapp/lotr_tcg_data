@@ -1,0 +1,19 @@
+---
+key: 7R37
+name: Gandalf, Manager of Wizards
+title: Gandalf
+subtitle: Manager of Wizards
+set: return_of_the_king
+rarity: rare
+card_type: companion
+subtype: wizard
+alignment: free_people
+culture: gandalf
+signet: theoden
+strength: '7'
+vitality: '4'
+twilight: '4'
+unique: true
+game_text: ! |-
+  Skirmish: Place 3 cards from hand on top of your draw deck to make a minion skirmishing an unbound companion strength -3. Any Shadow player may place 3 cards from his or her hand on top of his or her draw deck to prevent this.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07037

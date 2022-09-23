@@ -1,0 +1,16 @@
+---
+key: 1C248
+name: Forces of Mordor
+title: Forces of Mordor
+set: fellowship_of_the_ring
+rarity: common
+card_type: event
+alignment: shadow
+culture: sauron
+twilight: '0'
+game_text: ! |-
+  Shadow: Spot X [Sauron] minions to add (X).
+flavor_text: ! |-
+  ”'….the Dark Lord is not without allies. The Easterlings and Haradrim now pay tribute to Mordor.'”
+notes: 'Lists: OBRL, ERL, MXL'
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01248

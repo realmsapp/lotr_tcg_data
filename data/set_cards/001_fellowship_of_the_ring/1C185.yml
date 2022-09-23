@@ -1,0 +1,19 @@
+---
+key: 1C185
+name: Goblin Warrior
+title: Goblin Warrior
+set: fellowship_of_the_ring
+rarity: common
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: moria
+strength: '6'
+vitality: '1'
+twilight: '2'
+site_number: '4'
+game_text: ! |-
+  When you play this minion, you may discard a [Dwarven] ally or [Dwarven] condition.
+flavor_text: ! |-
+  The ancient enmity between Goblins and Dwarves burns brightly still.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01185

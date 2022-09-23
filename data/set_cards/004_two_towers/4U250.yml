@@ -1,0 +1,19 @@
+---
+key: 4U250
+name: Southron Explorer
+title: Southron Explorer
+set: two_towers
+rarity: uncommon
+card_type: minion
+subtype: man
+alignment: shadow
+culture: raider
+strength: '5'
+vitality: '3'
+twilight: '2'
+site_number: '4'
+game_text: ! |-
+  Southron. Regroup: Exert this minion and remove (5) to take control of a site.
+flavor_text: ! |-
+  Scouts find oases for Southron armies as they cross the deserts of Harad.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04250

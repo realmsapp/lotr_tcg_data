@@ -1,0 +1,16 @@
+---
+key: 4R247
+name: Southron Bow
+title: Southron Bow
+set: two_towers
+rarity: rare
+card_type: possession
+subtype: ranged_weapon
+alignment: shadow
+culture: raider
+twilight: '3'
+game_text: ! |-
+  Bearer must be a [Raider] Man. Bearer is an archer. While you can spot another [Raider] Man, the minion archery total is +1.
+flavor_text: ! |-
+  Volleys from Southron bows are deadly in large numbers.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04247

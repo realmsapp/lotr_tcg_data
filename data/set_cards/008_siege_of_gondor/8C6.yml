@@ -1,0 +1,13 @@
+---
+key: 8C6
+name: Honed
+title: Honed
+set: siege_of_gondor
+rarity: common
+card_type: event
+alignment: free_people
+culture: dwarven
+twilight: '0'
+game_text: ! |-
+  Spot a Dwarf who is damage +X to make him strength +X.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr08006

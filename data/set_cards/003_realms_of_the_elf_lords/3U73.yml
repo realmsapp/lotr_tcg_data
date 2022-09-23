@@ -1,0 +1,15 @@
+---
+key: 3U73
+name: The Trees Are Strong
+title: The Trees Are Strong
+set: realms_of_the_elf_lords
+rarity: uncommon
+card_type: event
+alignment: shadow
+culture: isengard
+twilight: '1'
+game_text: ! |-
+  Regroup: Discard X [Isengard] Orcs to make the Free Peoples player wound X companions.
+flavor_text: ! |-
+  ”'Their roots go deep.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr03073

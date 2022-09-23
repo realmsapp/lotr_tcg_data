@@ -1,0 +1,18 @@
+---
+key: 3U106
+name: Bill the Pony
+title: Bill the Pony
+set: realms_of_the_elf_lords
+rarity: uncommon
+card_type: possession
+alignment: free_people
+culture: shire
+twilight: '0'
+unique: true
+game_text: ! |-
+  Bearer must be a Hobbit companion. The Shadow number of each site is -1. Discard Bill the Pony when at an underground site.
+flavor_text: ! |-
+  ”'That animal can nearly talk…. He gave me a look as plain as Mr. Pippin could speak….'”
+notes: 'When the fellowship moves with Bill the Pony to an underground site, the Shadow
+  number of that site is reduced before Bill the Pony is discarded. Lists: ERL, MXL.'
+wiki_url: https://lotrtcgwiki.com/wiki/lotr03106

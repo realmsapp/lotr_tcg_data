@@ -1,0 +1,22 @@
+---
+key: 3P122
+name: Boromir, Defender of Minas Tirith
+title: Boromir
+subtitle: Defender of Minas Tirith
+set: realms_of_the_elf_lords
+rarity: promo
+card_type: companion
+subtype: man
+alignment: free_people
+culture: gondor
+signet: gandalf
+strength: '7'
+vitality: '3'
+twilight: '3'
+unique: true
+game_text: ! |-
+  Ranger. Fellowship: Add (2) to heal Boromir.
+flavor_text: ! |-
+  ”…seated a little apart was a tall man with a fair and noble face… proud and stern of glance.”
+notes: 'Version: +.'
+wiki_url: https://lotrtcgwiki.com/wiki/lotr03122

@@ -1,0 +1,15 @@
+---
+key: 4R75
+name: Lembas
+title: Lembas
+set: two_towers
+rarity: rare
+card_type: possession
+alignment: free_people
+culture: elven
+twilight: '1'
+game_text: ! |-
+  To play, spot 3 Elves. Bearer must be a companion. Regroup: Discard this possession to reconcile your hand.
+flavor_text: ! |-
+  “Sam thought that it tasted far better, somehow, than it had for a good while….”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04075

@@ -1,0 +1,19 @@
+---
+key: 4U13
+name: Dunlending Pillager
+title: Dunlending Pillager
+set: two_towers
+rarity: uncommon
+card_type: minion
+subtype: man
+alignment: shadow
+culture: dunland
+strength: '9'
+vitality: '1'
+twilight: '3'
+site_number: '3'
+game_text: ! |-
+  Each time this minion wins a skirmish, you may discard a Free Peoples possession (or 2 possessions if you spot 6 companions).
+flavor_text: ! |-
+  ”'Not in half a thousand years have they forgotten their grievance that the lords of Gondor gave the Mark to Eorl the Young and made alliance with him.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04013

@@ -1,0 +1,20 @@
+---
+key: 1C11
+name: Farin, Dwarven Emissary
+title: Farin
+subtitle: Dwarven Emissary
+set: fellowship_of_the_ring
+rarity: common
+card_type: companion
+subtype: dwarf
+alignment: free_people
+culture: dwarven
+strength: '5'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  To play, spot a Dwarf. While skirmishing an Orc, Farin is strength +2.
+flavor_text: ! |-
+  Among the envoys sent to represent the Dwarves of Erebor at the Council of Elrond was Farin, a young but wise Dwarf, and a fierce foe in battle.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01011

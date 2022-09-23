@@ -1,0 +1,17 @@
+---
+key: 6R78
+name: Easterling Army
+title: Easterling Army
+set: ents_of_fangorn
+rarity: rare
+card_type: minion
+subtype: man
+alignment: shadow
+culture: raider
+strength: '13'
+vitality: '3'
+twilight: '6'
+site_number: '4'
+game_text: ! |-
+  Easterling. Fierce. Skirmish: Spot 2 burdens and exert this minion to make an Easterling strength +1. Skirmish: Spot 4 burdens and exert this minion to make an Easterling strength +2. Skirmish: Spot 6 burdens and exert this minion to make an Easterling strength +3.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06078

@@ -1,0 +1,15 @@
+---
+key: 2C5
+name: Flurry of Blows
+title: Flurry of Blows
+set: mines_of_moria
+rarity: common
+card_type: event
+alignment: free_people
+culture: dwarven
+twilight: '1'
+game_text: ! |-
+  Skirmish: Make a Dwarf strength +2 (or +4 and damage +1 if bearing 2 hand weapons).
+flavor_text: ! |-
+  With a second axe, a warrior of Erebor can parry on either flank and counter quickly.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02005

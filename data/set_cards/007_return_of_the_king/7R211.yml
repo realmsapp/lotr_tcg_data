@@ -1,0 +1,19 @@
+---
+key: 7R211
+name: Ulaire Cantea, Faster Than Winds
+title: Ulaire Cantea
+subtitle: Faster Than Winds
+set: return_of_the_king
+rarity: rare
+card_type: minion
+subtype: nazgul
+alignment: shadow
+culture: wraith
+strength: '10'
+vitality: '3'
+twilight: '5'
+unique: true
+site_number: '3'
+game_text: ! |-
+  Fierce. When you play Ulaire Cantea, add a threat for each companion over 4. Maneuver: Remove 2 threats and spot another [Wraith] minion to discard a possession.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07211

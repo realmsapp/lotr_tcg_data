@@ -1,0 +1,20 @@
+---
+key: 4R262
+name: Aldor, Soldier of Edoras
+title: Aldor
+subtitle: Soldier of Edoras
+set: two_towers
+rarity: rare
+card_type: ally
+alignment: free_people
+culture: rohan
+strength: '3'
+vitality: '2'
+twilight: '1'
+unique: true
+site_number: 3T, 6T
+game_text: ! |-
+  Archery: Exert Aldor and spot a villager to make the fellowship archery total +1.
+flavor_text: ! |-
+  Fighting to defend his people, Aldor found courage to replace his youth.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04262

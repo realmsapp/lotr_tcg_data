@@ -1,0 +1,21 @@
+---
+key: 2C110
+name: Pippin, Mr. Took
+title: Pippin
+subtitle: Mr. Took
+set: mines_of_moria
+rarity: common
+card_type: companion
+subtype: hobbit
+alignment: free_people
+culture: shire
+signet: aragorn
+strength: '3'
+vitality: '4'
+twilight: '1'
+unique: true
+game_text: ! |-
+  Fellowship: Play Gandalf or Aragorn; his twilight cost is -2.
+flavor_text: ! |-
+  “Pippin was evidently much enjoying the attention he was getting, and had become quite forgetful of their danger.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02110

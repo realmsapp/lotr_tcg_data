@@ -1,0 +1,18 @@
+---
+key: 10C91
+name: Mordor Fiend
+title: Mordor Fiend
+set: mount_doom
+rarity: common
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '9'
+vitality: '3'
+twilight: '3'
+site_number: '6'
+game_text: ! |-
+  Shadow: If you cannot spot another minion and there are 3 or fewer twilight tokens, add (3) (or (5) if this minion is roaming).
+notes: 'Lists: SXL, OBRL, EXL, MXL'
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10091

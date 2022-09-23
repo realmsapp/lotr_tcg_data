@@ -1,0 +1,17 @@
+---
+key: 7U138
+name: Desert Villain
+title: Desert Villain
+set: return_of_the_king
+rarity: uncommon
+card_type: minion
+subtype: man
+alignment: shadow
+culture: raider
+strength: '9'
+vitality: '2'
+twilight: '4'
+site_number: '4'
+game_text: ! |-
+  Southron. At the start of each skirmish involving this minion, you may remove (1) to add a threat.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07138

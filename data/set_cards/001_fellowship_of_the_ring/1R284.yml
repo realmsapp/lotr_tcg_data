@@ -1,0 +1,21 @@
+---
+key: 1R284
+name: Bilbo, Retired Adventurer
+title: Bilbo
+subtitle: Retired Adventurer
+set: fellowship_of_the_ring
+rarity: rare
+card_type: ally
+alignment: free_people
+culture: shire
+strength: '2'
+vitality: '3'
+twilight: '2'
+unique: true
+site_number: '3'
+game_text: ! |-
+  Fellowship: Exert Bilbo to shuffle a [Shire] card from your discard pile into your draw deck.
+flavor_text: ! |-
+  ”'…I don't suppose I have the strength or luck left to deal with the Ring. It has grown, and I have not.'”
+notes: Card title is an erratum. Image fixed
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01284

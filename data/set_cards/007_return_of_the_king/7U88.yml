@@ -1,0 +1,17 @@
+---
+key: 7U88
+name: Dervorin
+title: Dervorin
+set: return_of_the_king
+rarity: uncommon
+card_type: companion
+subtype: man
+alignment: free_people
+culture: gondor
+strength: '6'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  At the start of the regroup phase, if you have only 4 cards in hand, you may spot another [Gondor] Man to discard a minion.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07088

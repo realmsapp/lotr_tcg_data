@@ -1,0 +1,15 @@
+---
+key: 2C37
+name: Sentinels of Numenor
+title: Sentinels of Numenor
+set: mines_of_moria
+rarity: common
+card_type: event
+alignment: free_people
+culture: gondor
+twilight: '0'
+game_text: ! |-
+  Skirmish: Make a [Gondor] companion strength +2 (or +4 if in a fierce skirmish).
+flavor_text: ! |-
+  ”…they still preserved through the suns and rains of forgotten years the mighty likenesses in which they had been hewn.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02037

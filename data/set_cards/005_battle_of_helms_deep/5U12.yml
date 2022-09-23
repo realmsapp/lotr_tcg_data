@@ -1,0 +1,18 @@
+---
+key: 5U12
+name: Legolas' Sword
+title: Legolas' Sword
+set: battle_of_helms_deep
+rarity: uncommon
+card_type: possession
+subtype: hand_weapon
+alignment: free_people
+culture: elven
+strength: "+1"
+twilight: '1'
+unique: true
+game_text: ! |-
+  Bearer must be Legolas. Each time the fellowship moves, you may spot a wounded minion to heal Legolas.
+flavor_text: ! |-
+  Legolas wielded a longsword to strike from horseback.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05012

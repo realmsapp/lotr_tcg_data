@@ -1,0 +1,19 @@
+---
+key: 5C61
+name: Uruk Engineer
+title: Uruk Engineer
+set: battle_of_helms_deep
+rarity: common
+card_type: minion
+subtype: uruk-hai
+alignment: shadow
+culture: isengard
+strength: '8'
+vitality: '2'
+twilight: '3'
+site_number: '5'
+game_text: ! |-
+  Damage +1. When you play this minion, you may place an [Isengard] token on a machine.
+flavor_text: ! |-
+  Trained Uruk-hai operated Saruman's siege engines at Helm's Deep.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05061

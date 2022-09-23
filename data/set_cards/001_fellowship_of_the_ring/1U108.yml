@@ -1,0 +1,16 @@
+---
+key: 1U108
+name: No Stranger to the Shadows
+title: No Stranger to the Shadows
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: condition
+alignment: free_people
+culture: gondor
+twilight: '0'
+game_text: ! |-
+  Bearer must be a ranger. Limit 1 per ranger. Each site's shadow number is -1.
+flavor_text: ! |-
+  ”'Ah, but you had not got me with you then,' laughed Strider. 'My cuts, short or long, don't go wrong.'”
+notes: 'Lists: ERL, MXL'
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01108

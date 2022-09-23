@@ -1,0 +1,17 @@
+---
+key: 7C161
+name: Southron Brigand
+title: Southron Brigand
+set: return_of_the_king
+rarity: common
+card_type: minion
+subtype: man
+alignment: shadow
+culture: raider
+strength: '9'
+vitality: '2'
+twilight: '4'
+site_number: '4'
+game_text: ! |-
+  Southron. Shadow: Remove (3) and spot 3 [Raider] Men to make one of those Men damage +1 until the regroup phase.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07161

@@ -1,0 +1,17 @@
+---
+key: 1C180
+name: Goblin Scimitar
+title: Goblin Scimitar
+set: fellowship_of_the_ring
+rarity: common
+card_type: possession
+subtype: hand_weapon
+alignment: shadow
+culture: moria
+strength: "+2"
+twilight: '0'
+game_text: ! |-
+  Bearer must be a [Moria] Orc. When you play this possession, you may draw a card.
+flavor_text: ! |-
+  “Some of the swords were crooked: orcscimitars with blackened blades.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01180

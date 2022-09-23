@@ -1,0 +1,15 @@
+---
+key: 6U8
+name: Too Long Have These Peasants Stood
+title: Too Long Have These Peasants Stood
+set: ents_of_fangorn
+rarity: uncommon
+card_type: event
+alignment: shadow
+culture: dunland
+twilight: '2'
+game_text: ! |-
+  Response: If a [Dunland] Man wins a skirmish, discard all conditions.
+flavor_text: ! |-
+  The rabble of Dunland pillaged their way across the Mark.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06008

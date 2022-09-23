@@ -1,0 +1,13 @@
+---
+key: 7R169
+name: Surging Up
+title: Surging Up
+set: return_of_the_king
+rarity: rare
+card_type: condition
+alignment: shadow
+culture: raider
+twilight: '1'
+game_text: ! |-
+  Regroup: Exert an Easterling and discard this condition to make the move limit -1 for this turn. The Free Peoples player may add 2 burdens to prevent this. Skirmish: Discard this condition to heal an Easterling.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07169

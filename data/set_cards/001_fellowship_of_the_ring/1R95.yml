@@ -1,0 +1,18 @@
+---
+key: 1R95
+name: Blade of Gondor
+title: Blade of Gondor
+set: fellowship_of_the_ring
+rarity: rare
+card_type: possession
+subtype: hand_weapon
+alignment: free_people
+culture: gondor
+strength: "+2"
+twilight: '1'
+unique: true
+game_text: ! |-
+  Bearer must be Boromir. He is damage +1. Skirmish: Exert Boromir to wound an Orc or Uruk-hai he is skirmishing.
+flavor_text: ! |-
+  With the valour of Boromir's mighty longsword, the Enemies of the West are kept at bay.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01095

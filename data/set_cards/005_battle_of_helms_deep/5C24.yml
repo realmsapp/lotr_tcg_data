@@ -1,0 +1,20 @@
+---
+key: 5C24
+name: Gollum, Nasty Treacherous Creature
+title: Gollum
+subtitle: Nasty Treacherous Creature
+set: battle_of_helms_deep
+rarity: common
+card_type: minion
+alignment: shadow
+culture: gollum_shadow
+strength: '5'
+vitality: '4'
+twilight: '2'
+unique: true
+site_number: '3'
+game_text: ! |-
+  Regroup: Discard Gollum to exert a companion or ally.
+flavor_text: ! |-
+  ”'…we won't let you go, either. You're full of wickedness and mischief, Gollum.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05024

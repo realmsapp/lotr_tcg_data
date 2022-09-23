@@ -1,0 +1,15 @@
+---
+key: 1C52
+name: Lightfootedness
+title: Lightfootedness
+set: fellowship_of_the_ring
+rarity: common
+card_type: event
+alignment: free_people
+culture: elven
+twilight: '0'
+game_text: ! |-
+  Archery: Spot an Elf companion to make the minion archery total -1.
+flavor_text: ! |-
+  ”'…let a ploughman plough, but choose an otter for swimming, and for running light over grass and leaf, or over snow - an Elf.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01052

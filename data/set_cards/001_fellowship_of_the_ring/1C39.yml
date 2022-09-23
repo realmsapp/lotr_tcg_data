@@ -1,0 +1,15 @@
+---
+key: 1C39
+name: Elf-song
+title: Elf-song
+set: fellowship_of_the_ring
+rarity: common
+card_type: event
+alignment: free_people
+culture: elven
+twilight: '1'
+game_text: ! |-
+  Fellowship: Spot an Elf to remove a burden.
+flavor_text: ! |-
+  ”…the beauty of the melodies and of the interwoven words in elven-tongues, even though he understood them little, held him in a spell, as soon as he began to attend to them.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01039

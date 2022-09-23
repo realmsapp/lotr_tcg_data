@@ -1,0 +1,17 @@
+---
+key: 4C291
+name: Sword of Rohan
+title: Sword of Rohan
+set: two_towers
+rarity: common
+card_type: possession
+subtype: hand_weapon
+alignment: free_people
+culture: rohan
+strength: "+2"
+twilight: '1'
+game_text: ! |-
+  Bearer must be a [Rohan] Man. While bearer is skirmishing an Uruk-hai, bearer is damage +1.
+flavor_text: ! |-
+  ”'This is a good sword, Haleth… there is always hope.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04291

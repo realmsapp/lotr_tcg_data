@@ -1,0 +1,19 @@
+---
+key: 5R103
+name: Orc Captain
+title: Orc Captain
+set: battle_of_helms_deep
+rarity: rare
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '9'
+vitality: '3'
+twilight: '3'
+site_number: '6'
+game_text: ! |-
+  When you play this minion, you may spot a [Sauron] condition to draw a card for each site you control (limit 3).
+flavor_text: ! |-
+  ”…far away from hidden holds and outposts in the hills came answering calls….”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05103

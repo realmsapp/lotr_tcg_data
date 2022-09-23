@@ -1,0 +1,19 @@
+---
+key: 7C320
+name: Merry, Rohirrim Squire
+title: Merry
+subtitle: Rohirrim Squire
+set: return_of_the_king
+rarity: common
+card_type: companion
+subtype: hobbit
+alignment: free_people
+culture: shire
+signet: gandalf
+strength: '3'
+vitality: '4'
+twilight: '1'
+unique: true
+game_text: ! |-
+  Skirmish: If you cannot spot 3 threats, add a threat to make Merry strength +2.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07320

@@ -1,0 +1,17 @@
+---
+key: 10C87
+name: Gorgoroth Swarm
+title: Gorgoroth Swarm
+set: mount_doom
+rarity: common
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '12'
+vitality: '3'
+twilight: '5'
+site_number: '5'
+game_text: ! |-
+  Besieger. When you play this minion, you may spot 6 companions and another besieger to play a besieger from your discard pile and control a site.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10087

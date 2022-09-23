@@ -1,0 +1,19 @@
+---
+key: 7R25
+name: Legolas, Fearless Marksman
+title: Legolas
+subtitle: Fearless Marksman
+set: return_of_the_king
+rarity: rare
+card_type: companion
+subtype: elf
+alignment: free_people
+culture: elven
+signet: aragorn
+strength: '6'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  Archer. Archery: If you have initiative, discard 4 cards from hand to wound a minion.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07025

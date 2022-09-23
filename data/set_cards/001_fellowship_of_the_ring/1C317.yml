@@ -1,0 +1,16 @@
+---
+key: 1C317
+name: There and Back Again
+title: There and Back Again
+set: fellowship_of_the_ring
+rarity: common
+card_type: condition
+alignment: free_people
+culture: shire
+twilight: '1'
+unique: true
+game_text: ! |-
+  Tale. Bearer must be a Hobbit companion. Maneuver: Discard this condition to make each Hobbit companion strength +2 until the regroup phase.
+flavor_text: ! |-
+  ”'So there I was - at the mercy of three monstrous trolls….'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01317

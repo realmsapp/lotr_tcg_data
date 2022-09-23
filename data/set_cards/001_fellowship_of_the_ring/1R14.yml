@@ -1,0 +1,18 @@
+---
+key: 1R14
+name: Gimli's Battle Axe
+title: Gimli's Battle Axe
+set: fellowship_of_the_ring
+rarity: rare
+card_type: possession
+subtype: hand_weapon
+alignment: free_people
+culture: dwarven
+strength: "+2"
+twilight: '2'
+unique: true
+game_text: ! |-
+  Bearer must be Gimli. He is damage +1. Each time Gimli wins a skirmish, you may wound an Orc.
+flavor_text: ! |-
+  “Beside them Gimli stood with his stout legs apart, wielding his dwarf-axe.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01014

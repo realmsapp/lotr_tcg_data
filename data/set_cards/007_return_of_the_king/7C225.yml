@@ -1,0 +1,16 @@
+---
+key: 7C225
+name: Elite Rider
+title: Elite Rider
+set: return_of_the_king
+rarity: common
+card_type: companion
+subtype: man
+alignment: free_people
+culture: rohan
+strength: '6'
+vitality: '3'
+twilight: '3'
+game_text: ! |-
+  When this companion is in your starting fellowship, his twilight cost is -1. While skirmishing a wounded minion, this companion is strength +2.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07225

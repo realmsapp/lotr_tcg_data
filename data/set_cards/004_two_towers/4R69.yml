@@ -1,0 +1,17 @@
+---
+key: 4R69
+name: Final Count
+title: Final Count
+set: two_towers
+rarity: rare
+card_type: condition
+alignment: free_people
+culture: elven
+twilight: '1'
+unique: true
+game_text: ! |-
+  Plays to your support area. Each time Legolas wins a skirmish, you may place an [Elven] token on this card. While you can spot X [Elven] tokens on this card and the same number of [Dwarven] tokens on My Axe Is Notched, Legolas is strength +X (limit +3).
+notes: 'The strength bonus derived from this condition is based on the lowest number
+  of tokens on either card. For example: If there are two [Elven] tokens on Final
+  Count and three [Dwarven] tokens on My Axe Is Notched, the strength bonus is +2.'
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04069

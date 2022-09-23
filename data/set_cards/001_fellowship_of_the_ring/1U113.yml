@@ -1,0 +1,16 @@
+---
+key: 1U113
+name: A Ranger's Versatility
+title: A Ranger's Versatility
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: event
+alignment: free_people
+culture: gondor
+twilight: '1'
+game_text: ! |-
+  Maneuver: Exert a ranger at a river or forest to exhaust a minion.
+flavor_text: ! |-
+  ”'If you bring a Ranger with you, it is well to pay attention to him, especially if the Ranger is Aragorn.'”
+notes: Game text is an erratum.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01113

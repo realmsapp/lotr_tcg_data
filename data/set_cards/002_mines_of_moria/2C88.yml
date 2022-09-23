@@ -1,0 +1,15 @@
+---
+key: 2C88
+name: Memory of Many Things
+title: Memory of Many Things
+set: mines_of_moria
+rarity: common
+card_type: event
+alignment: shadow
+culture: sauron
+twilight: '2'
+game_text: ! |-
+  Maneuver: Exert a [Sauron] Orc to discard an ally (or 2 [Elven] allies).
+flavor_text: ! |-
+  ”'But my memory reaches back even to the Elder Days…. I have seen three ages in the West of the world, and many defeats, and many fruitless victories.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02088

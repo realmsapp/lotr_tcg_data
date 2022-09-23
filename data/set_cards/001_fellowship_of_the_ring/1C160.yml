@@ -1,0 +1,17 @@
+---
+key: 1C160
+name: Uruk-hai Sword
+title: Uruk-hai Sword
+set: fellowship_of_the_ring
+rarity: common
+card_type: possession
+subtype: hand_weapon
+alignment: shadow
+culture: isengard
+strength: "+2"
+twilight: '1'
+game_text: ! |-
+  Bearer must be an Uruk-hai. Each time bearer wins a skirmish, the Free Peoples player must discard the top card of his draw deck.
+flavor_text: ! |-
+  Their malevolent strength worsens the wounds from the gruesome weapons of the Uruks.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01160

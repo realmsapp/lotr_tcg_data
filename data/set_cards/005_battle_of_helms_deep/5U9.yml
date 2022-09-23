@@ -1,0 +1,16 @@
+---
+key: 5U9
+name: More to My Liking
+title: More to My Liking
+set: battle_of_helms_deep
+rarity: uncommon
+card_type: condition
+alignment: free_people
+culture: dwarven
+twilight: '2'
+unique: true
+game_text: ! |-
+  Plays to your support area. Maneuver: Stack the top card from your draw deck here (limit once per phase). Maneuver: Spot a Dwarf and discard a card stacked on a [Dwarven] condition to take a Free Peoples card stacked here into hand.
+flavor_text: ! |-
+  ”'This country has tough bones.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05009

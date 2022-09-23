@@ -1,0 +1,15 @@
+---
+key: 5C6
+name: Defending the Keep
+title: Defending the Keep
+set: battle_of_helms_deep
+rarity: common
+card_type: event
+alignment: free_people
+culture: dwarven
+twilight: '0'
+game_text: ! |-
+  Fellowship: Spot a Dwarf to Draw a card or play a [Dwarven] condition from your discard pile.
+flavor_text: ! |-
+  ”'I have fought many wars, master Dwarf. I know how to defend my own Keep.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05006

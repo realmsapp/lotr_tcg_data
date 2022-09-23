@@ -1,0 +1,15 @@
+---
+key: 1C86
+name: Treachery Deeper Than You Know
+title: Treachery Deeper Than You Know
+set: fellowship_of_the_ring
+rarity: common
+card_type: event
+alignment: free_people
+culture: gandalf
+twilight: '1'
+game_text: ! |-
+  Spell. Fellowship: Spot Gandalf to reveal an opponent's hand.
+flavor_text: ! |-
+  ”'By foul craft, Saruman has crossed Orc with Goblin Men - he is breeding an army in the Caverns of Isengard.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01086

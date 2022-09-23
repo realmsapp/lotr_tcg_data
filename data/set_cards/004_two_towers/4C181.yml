@@ -1,0 +1,19 @@
+---
+key: 4C181
+name: Uruk Chaser
+title: Uruk Chaser
+set: two_towers
+rarity: common
+card_type: minion
+subtype: uruk-hai
+alignment: shadow
+culture: isengard
+strength: '9'
+vitality: '2'
+twilight: '4'
+site_number: '5'
+game_text: ! |-
+  Tracker. Fierce. During a fierce skirmish involving this minion, it is strength +2.
+flavor_text: ! |-
+  ”'Now we'll have to leg it double quick.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04181

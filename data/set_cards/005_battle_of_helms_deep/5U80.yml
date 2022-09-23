@@ -1,0 +1,16 @@
+---
+key: 5U80
+name: Arrow-slits
+title: Arrow-slits
+set: battle_of_helms_deep
+rarity: uncommon
+card_type: condition
+alignment: free_people
+culture: rohan
+twilight: '1'
+unique: true
+game_text: ! |-
+  Fortification. Plays to your support area. Maneuver: Spot 2 [Rohan] Men to discard a possession or a machine. Discard this condition.
+flavor_text: ! |-
+  “Here and there were clefts in the stone through which men could shoot.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05080

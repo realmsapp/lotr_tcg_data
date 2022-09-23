@@ -1,0 +1,18 @@
+---
+key: 7R236
+name: Herugrim, Sword of the Mark
+title: Herugrim
+subtitle: Sword of the Mark
+set: return_of_the_king
+rarity: rare
+card_type: possession
+subtype: hand_weapon
+alignment: free_people
+culture: rohan
+strength: "+2"
+vitality: "+1"
+twilight: '3'
+unique: true
+game_text: ! |-
+  Bearer must be Theoden. He is damage +1. Response: If Theoden is about to take a wound and you cannot spot 3 threats, add 2 threats to prevent that wound.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07236

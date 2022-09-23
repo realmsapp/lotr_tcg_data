@@ -1,0 +1,20 @@
+---
+key: 1R34
+name: Celeborn, Lord of Lorien
+title: Celeborn
+subtitle: Lord of Lorien
+set: fellowship_of_the_ring
+rarity: rare
+card_type: ally
+alignment: free_people
+culture: elven
+strength: '6'
+vitality: '3'
+twilight: '2'
+unique: true
+site_number: '6'
+game_text: ! |-
+  Fellowship: Exert Celeborn to heal an [Elven] ally.
+flavor_text: ! |-
+  “They were clad wholly in white … and the hair of the Lord Celeborn was of silver long and bright; but no sign of age was upon them, unless it were in the depths of their eyes; for these were keen as lances in the starlight, and yet profo
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01034

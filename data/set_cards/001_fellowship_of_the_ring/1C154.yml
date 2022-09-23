@@ -1,0 +1,19 @@
+---
+key: 1C154
+name: Uruk Soldier
+title: Uruk Soldier
+set: fellowship_of_the_ring
+rarity: common
+card_type: minion
+subtype: uruk-hai
+alignment: shadow
+culture: isengard
+strength: '7'
+vitality: '1'
+twilight: '2'
+site_number: '5'
+game_text: ! |-
+  Damage +1. When you play this minion, you may make the Free Peoples player discard the top card of his draw deck.
+flavor_text: ! |-
+  Saruman's Uruk-hai band together as an extremely effective fighting unit.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01154

@@ -1,0 +1,17 @@
+---
+key: 7C276
+name: Gorgoroth Ransacker
+title: Gorgoroth Ransacker
+set: return_of_the_king
+rarity: common
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '10'
+vitality: '2'
+twilight: '4'
+site_number: '5'
+game_text: ! |-
+  Besieger. Skirmish: If this minion is stacked on a site you control, discard him to make a [Sauron] Orc strength +5 (or +10 if you have initiative).
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07276

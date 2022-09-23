@@ -1,0 +1,17 @@
+---
+key: 10R38
+name: Corsair Brute
+title: Corsair Brute
+set: mount_doom
+rarity: rare
+card_type: minion
+subtype: man
+alignment: shadow
+culture: raider
+strength: '10'
+vitality: '3'
+twilight: '5'
+site_number: '4'
+game_text: ! |-
+  Corsair. At the start of each skirmish involving this minion, you may remove a [Raider] token to wound a companion he is skirmishing.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10038

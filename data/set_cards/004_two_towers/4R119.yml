@@ -1,0 +1,17 @@
+---
+key: 4R119
+name: Faramir's Cloak
+title: Faramir's Cloak
+set: two_towers
+rarity: rare
+card_type: possession
+subtype: cloak
+alignment: free_people
+culture: gondor
+twilight: '0'
+unique: true
+game_text: ! |-
+  Bearer must be Faramir. Each roaming minion skirmishing a Ring-bound Man is strength -1.
+flavor_text: ! |-
+  Captain Faramir and his rangers were clad in green and brown of varied hues, better to walk unseen in the glades of Ithilien.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04119

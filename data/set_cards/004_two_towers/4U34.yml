@@ -1,0 +1,14 @@
+---
+key: 4U34
+name: Secret Folk
+title: Secret Folk
+set: two_towers
+rarity: uncommon
+card_type: condition
+alignment: shadow
+culture: dunland
+twilight: '2'
+unique: true
+game_text: ! |-
+  Plays to your support area. Each time a companion or ally loses a skirmish involving a [Dunland] Man, you may place a [Dunland] token on this card. Maneuver: Discard a Free Peoples possession for each [Dunland] token here (limit 3). Discard this condition.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04034

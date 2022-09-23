@@ -1,0 +1,15 @@
+---
+key: 4R95
+name: Into Dark Tunnels
+title: Into Dark Tunnels
+set: two_towers
+rarity: rare
+card_type: event
+alignment: free_people
+culture: gandalf
+twilight: '3'
+game_text: ! |-
+  Spell. Response: If you play a [Gandalf] event, exert Gandalf twice to place that event in your hand instead of your discard pile.
+flavor_text: ! |-
+  ”'Even Sauron knows them not. They are older than he. Now I have walked there, but I will bring no report to darken the light of day.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04095

@@ -1,0 +1,14 @@
+---
+key: 10C79
+name: Barren Land
+title: Barren Land
+set: mount_doom
+rarity: common
+card_type: condition
+alignment: shadow
+culture: sauron
+twilight: '2'
+unique: true
+game_text: ! |-
+  To play, spot a [Sauron] minion. Each time the fellowship moves to any site 8 or 9, exert each Ring-bound companion. Shadow: Discard this condition to play a [Sauron] minion. Its twilight cost is -2.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10079

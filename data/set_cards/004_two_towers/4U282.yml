@@ -1,0 +1,15 @@
+---
+key: 4U282
+name: An Honorable Charge
+title: An Honorable Charge
+set: two_towers
+rarity: uncommon
+card_type: event
+alignment: free_people
+culture: rohan
+twilight: '1'
+game_text: ! |-
+  Skirmish: Make an unbound companion strength +1 for each [Rohan] Man you spot (limit +3).
+flavor_text: ! |-
+  ”'A time may come when there will be a need for valour without renown….'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04282

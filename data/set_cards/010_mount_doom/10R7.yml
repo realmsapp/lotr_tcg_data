@@ -1,0 +1,19 @@
+---
+key: 10R7
+name: Celeborn, Lord of the Galadhrim
+title: Celeborn
+subtitle: Lord of the Galadhrim
+set: mount_doom
+rarity: rare
+card_type: companion
+subtype: elf
+alignment: free_people
+culture: elven
+strength: '6'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  At the start of each skirmish involving Celeborn, you may reveal the top card of your draw deck. If it is an [Elven] card, you may discard it to wound each minion in that skirmish.
+notes: This card's collector's info was misprinted as 10 R 6.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10007

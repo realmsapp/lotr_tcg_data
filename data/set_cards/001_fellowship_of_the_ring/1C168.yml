@@ -1,0 +1,15 @@
+---
+key: 1C168
+name: Drums in the Deep
+title: Drums in the Deep
+set: fellowship_of_the_ring
+rarity: common
+card_type: event
+alignment: shadow
+culture: moria
+twilight: '0'
+game_text: ! |-
+  Skirmish: Make a [Moria] Orc strength +2 (or +4 if skirmishing a Dwarf).
+flavor_text: ! |-
+  “The drum-beats broke out wildly: doomboom, doom-boom, and then stopped … Doom, doom went the drum-beats again….”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01168

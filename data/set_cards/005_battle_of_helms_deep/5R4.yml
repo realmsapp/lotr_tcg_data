@@ -1,0 +1,19 @@
+---
+key: 5R4
+name: Wild Men of the Hills
+title: Wild Men of the Hills
+set: battle_of_helms_deep
+rarity: rare
+card_type: minion
+subtype: man
+alignment: shadow
+culture: dunland
+strength: '18'
+vitality: '2'
+twilight: '6'
+site_number: '3'
+game_text: ! |-
+  The twilight cost of this minion is -2 during the skirmish phase. When you play this minion, the Free Peoples player may discard 4 cards from hand to discard it.
+flavor_text: ! |-
+  The swarm of Dunlendings destroyed everything in its path.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05004

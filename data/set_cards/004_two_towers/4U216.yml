@@ -1,0 +1,16 @@
+---
+key: 4U216
+name: Arrow From the South
+title: Arrow From the South
+set: two_towers
+rarity: uncommon
+card_type: condition
+alignment: shadow
+culture: raider
+twilight: '2'
+unique: true
+game_text: ! |-
+  Plays to your support area. Each time a companion or ally loses a skirmish involving a [Raider] Man, you may place a [Raider] token here. Archery: Heal a [Raider] archer for each [Raider] token here. Discard this condition.
+flavor_text: ! |-
+  Haradrim is the Gondorian name for Southrons.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04216

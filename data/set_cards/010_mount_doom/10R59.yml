@@ -1,0 +1,19 @@
+---
+key: 10R59
+name: Gorbag, Covetous Captain
+title: Gorbag
+subtitle: Covetous Captain
+set: mount_doom
+rarity: rare
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: wraith
+strength: '11'
+vitality: '3'
+twilight: '5'
+unique: true
+site_number: '4'
+game_text: ! |-
+  For each wound on the Ring-bearer, each [Wraith] Orc is strength +1.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10059

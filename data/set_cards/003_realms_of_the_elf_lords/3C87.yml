@@ -1,0 +1,15 @@
+---
+key: 3C87
+name: The Dark Lord Advances
+title: The Dark Lord Advances
+set: realms_of_the_elf_lords
+rarity: common
+card_type: event
+alignment: shadow
+culture: sauron
+twilight: '2'
+game_text: ! |-
+  Regroup: Exert a [Sauron] minion to reveal a card at random from the Free Peoples player's hand. That player must discard X cards from hand, where X is the twilight cost of the card revealed.
+flavor_text: ! |-
+  ”'A power was there that we have not felt before.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr03087

@@ -1,0 +1,17 @@
+---
+key: 7C194
+name: Morgul Mongrel
+title: Morgul Mongrel
+set: return_of_the_king
+rarity: common
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: wraith
+strength: '7'
+vitality: '2'
+twilight: '3'
+site_number: '4'
+game_text: ! |-
+  While you can spot 3 wounds on the Ring-bearer, this minion is fierce and damage +1.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07194

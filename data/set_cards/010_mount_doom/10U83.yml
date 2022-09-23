@@ -1,0 +1,17 @@
+---
+key: 10U83
+name: Cirith Ungol Sentinel
+title: Cirith Ungol Sentinel
+set: mount_doom
+rarity: uncommon
+card_type: minion
+subtype: uruk-hai
+alignment: shadow
+culture: sauron
+strength: '7'
+vitality: '2'
+twilight: '2'
+site_number: '6'
+game_text: ! |-
+  Damage +1. If you can spot another [Sauron] Uruk-hai, this minion is twilight cost -1 for each possession you can spot.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10083

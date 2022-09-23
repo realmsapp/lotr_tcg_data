@@ -1,0 +1,20 @@
+---
+key: 5R70
+name: Army of Haradrim
+title: Army of Haradrim
+set: battle_of_helms_deep
+rarity: rare
+card_type: minion
+subtype: man
+alignment: shadow
+culture: raider
+strength: '14'
+vitality: '4'
+twilight: '7'
+unique: true
+site_number: '4'
+game_text: ! |-
+  Southron. Skirmish: Remove (3) to play a [Raider] mount from your discard pile.
+flavor_text: ! |-
+  The desert lords of Harad support their huge forces with mammoth war beasts.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05070

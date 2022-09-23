@@ -1,0 +1,21 @@
+---
+key: 4C266
+name: Eomer, Sister-son of Theoden
+title: Eomer
+subtitle: Sister-son of Theoden
+set: two_towers
+rarity: common
+card_type: companion
+subtype: man
+alignment: free_people
+culture: rohan
+signet: aragorn
+strength: '7'
+vitality: '3'
+twilight: '3'
+unique: true
+game_text: ! |-
+  While you can spot a [Rohan] Man, Eomer's twilight cost is -1. At the start of each turn, you may heal a [Rohan] ally.
+flavor_text: ! |-
+  ”'Now indeed there is hope of victory!'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04266

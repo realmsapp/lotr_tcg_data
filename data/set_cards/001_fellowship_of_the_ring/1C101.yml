@@ -1,0 +1,16 @@
+---
+key: 1C101
+name: Coat of Mail
+title: Coat of Mail
+set: fellowship_of_the_ring
+rarity: common
+card_type: possession
+subtype: armor
+alignment: free_people
+culture: gondor
+twilight: '1'
+game_text: ! |-
+  Bearer must be a Man. Bearer may not be overwhelmed unless his or her strength is tripled.
+flavor_text: ! |-
+  Soldiers of the White Tower have long appreciated the craftsmanship of the Gondorian metalsmiths.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01101

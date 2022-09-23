@@ -1,0 +1,13 @@
+---
+key: 7R2
+name: The One Ring, Such a Weight to Carry
+title: The One Ring
+subtitle: Such a Weight to Carry
+set: return_of_the_king
+rarity: rare
+card_type: the_one_ring
+strength: "+2"
+unique: true
+game_text: ! |-
+  Maneuver: Add a burden to wear The One Ring until the regroup phase. While wearing The One Ring, each time the Ring-bearer is about to take a wound, add a burden instead.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07002

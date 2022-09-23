@@ -1,0 +1,21 @@
+---
+key: 1R80
+name: Ottar, Man of Laketown
+title: Ottar
+subtitle: Man of Laketown
+set: fellowship_of_the_ring
+rarity: rare
+card_type: ally
+alignment: free_people
+culture: gandalf
+strength: '2'
+vitality: '2'
+twilight: '1'
+unique: true
+site_number: '3'
+game_text: ! |-
+  To play, spot Gandalf. Fellowship: Exert Ottar to discard up to 3 cards from hand and draw an equal number of cards.
+flavor_text: ! |-
+  The Men of Laketown come from the North, where they trade with the Dwarves of the Lonely Mountain.
+notes: 'Lists: ERL, MXL'
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01080

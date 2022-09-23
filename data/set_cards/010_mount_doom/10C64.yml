@@ -1,0 +1,14 @@
+---
+key: 10C64
+name: Stooping to the Kill
+title: Stooping to the Kill
+set: mount_doom
+rarity: common
+card_type: condition
+alignment: shadow
+culture: wraith
+twilight: '1'
+unique: true
+game_text: ! |-
+  While you have initiative, each of your [Wraith] minions is damage +1. Skirmish: Discard this condition to make a [Wraith] minion strength +2.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10064

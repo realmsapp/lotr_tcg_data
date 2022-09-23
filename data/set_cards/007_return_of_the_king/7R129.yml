@@ -1,0 +1,14 @@
+---
+key: 7R129
+name: Bold Men and Grim
+title: Bold Men and Grim
+set: return_of_the_king
+rarity: rare
+card_type: condition
+alignment: shadow
+culture: raider
+twilight: '1'
+unique: true
+game_text: ! |-
+  To play, spot 2 [Raider] Men and add a threat. Each time a companion is about to be killed, you may remove a threat to discard a companion (except the Ring-bearer). Discard this condition at the start of the regroup phase.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07129

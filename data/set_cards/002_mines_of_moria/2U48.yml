@@ -1,0 +1,15 @@
+---
+key: 2U48
+name: Wizard Storm
+title: Wizard Storm
+set: mines_of_moria
+rarity: uncommon
+card_type: condition
+alignment: shadow
+culture: isengard
+twilight: '2'
+game_text: ! |-
+  Spell. Weather. To play, exert an [Isengard] minion. Plays on a site. Limit 1 per site. When the fellowship moves from this site, every companion must exert. Discard this condition at the end of the turn.
+flavor_text: ! |-
+  “There was a black look in the sky, and the sun was wan. The wind had gone now round to the north-east.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02048

@@ -1,0 +1,15 @@
+---
+key: 1U54
+name: Mallorn-trees
+title: Mallorn-trees
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: condition
+alignment: free_people
+culture: elven
+twilight: '1'
+game_text: ! |-
+  Plays to your support area. Fellowship: Reveal an [Elven] card from hand and place it beneath your draw deck.
+flavor_text: ! |-
+  “Upon the further side there rose to a great height a green wall encircling a green hill thronged with mallorn-trees taller than any they had yet seen in all the land.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01054

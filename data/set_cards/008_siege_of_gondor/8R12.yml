@@ -1,0 +1,13 @@
+---
+key: 8R12
+name: Reckless We Rode
+title: Reckless We Rode
+set: siege_of_gondor
+rarity: rare
+card_type: event
+alignment: free_people
+culture: elven
+twilight: '2'
+game_text: ! |-
+  Exert an Elf companion and make the fellowship archery total -X (to a minimum of 0) to wound a minion X times. You cannot use archery special abilities.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr08012

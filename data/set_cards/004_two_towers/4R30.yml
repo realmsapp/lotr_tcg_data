@@ -1,0 +1,15 @@
+---
+key: 4R30
+name: No Retreat
+title: No Retreat
+set: two_towers
+rarity: rare
+card_type: condition
+alignment: shadow
+culture: dunland
+twilight: '0'
+game_text: ! |-
+  Plays on a site you control. Regroup: Spot 2 [Dunland] Men and discard this condition to make the Free Peoples player choose to move again this turn (if the move limit allows).
+flavor_text: ! |-
+  Hordes from Dunland laid waste to villages as their numbers grew.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04030

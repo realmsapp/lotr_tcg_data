@@ -1,0 +1,15 @@
+---
+key: 4C241
+name: On the March
+title: On the March
+set: two_towers
+rarity: common
+card_type: event
+alignment: shadow
+culture: raider
+twilight: '2'
+game_text: ! |-
+  Skirmish: Make a [Raider] Man strength +3 (or +5 if you spot 6 companions).
+flavor_text: ! |-
+  Easterlings traveled up the ancient roads of Gondor to swell the hosts of the Dark Tower.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04241

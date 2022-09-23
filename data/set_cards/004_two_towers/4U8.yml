@@ -1,0 +1,15 @@
+---
+key: 4U8
+name: Death to the Strawheads
+title: Death to the Strawheads
+set: two_towers
+rarity: uncommon
+card_type: event
+alignment: shadow
+culture: dunland
+twilight: '3'
+game_text: ! |-
+  Skirmish: Make a [Dunland] Man strength +1 for each companion you spot.
+flavor_text: ! |-
+  The dark Dunlendings called their fairhaired enemies from Rohan “Strawheads.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04008

@@ -1,0 +1,15 @@
+---
+key: 1C298
+name: Hobbit Stealth
+title: Hobbit Stealth
+set: fellowship_of_the_ring
+rarity: common
+card_type: event
+alignment: free_people
+culture: shire
+twilight: '1'
+game_text: ! |-
+  Stealth. Skirmish: At sites 1 to 5, cancel a skirmish involving a Hobbit. At any other site, make a Hobbit strength +2.
+flavor_text: ! |-
+  “They possessed from the first the art of disappearing swiftly and silently, when large folk whom they do not wish to meet come blundering by….”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01298

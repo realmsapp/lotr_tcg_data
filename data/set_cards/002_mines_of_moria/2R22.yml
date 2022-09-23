@@ -1,0 +1,18 @@
+---
+key: 2R22
+name: Gandalf's Staff
+title: Gandalf's Staff
+set: mines_of_moria
+rarity: rare
+card_type: artifact
+subtype: staff
+alignment: free_people
+culture: gandalf
+vitality: "+1"
+twilight: '2'
+unique: true
+game_text: ! |-
+  Bearer must be Gandalf. The twilight cost of each [Gandalf] spell is -1. Skirmish: Exert Gandalf twice to cancel a skirmish involving him.
+flavor_text: ! |-
+  “As the wizard passed on ahead up the great steps, he held his staff aloft, and from its tip there came a faint radiance.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02022

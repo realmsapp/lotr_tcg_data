@@ -1,0 +1,19 @@
+---
+key: 5C98
+name: Gate Trooper
+title: Gate Trooper
+set: battle_of_helms_deep
+rarity: common
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '5'
+vitality: '2'
+twilight: '1'
+site_number: '6'
+game_text: ! |-
+  When you play this minion, you may exert him and spot 5 burdens to draw a card.
+flavor_text: ! |-
+  “Another dreadful day of fear and toil had come to Mordor; and the night-guards were summoned….”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05098

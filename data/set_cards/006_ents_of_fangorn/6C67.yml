@@ -1,0 +1,19 @@
+---
+key: 6C67
+name: Isengard Journeyman
+title: Isengard Journeyman
+set: ents_of_fangorn
+rarity: common
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: isengard
+strength: '5'
+vitality: '3'
+twilight: '2'
+site_number: '4'
+game_text: ! |-
+  Regroup: Discard an [Isengard] Orc to make the Free Peoples player wound a companion.
+flavor_text: ! |-
+  Drudgery and toil at Isengard left Saruman's minions hungry for sport.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06067

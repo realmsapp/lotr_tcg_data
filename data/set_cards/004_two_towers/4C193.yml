@@ -1,0 +1,19 @@
+---
+key: 4C193
+name: Uruk Runner
+title: Uruk Runner
+set: two_towers
+rarity: common
+card_type: minion
+subtype: uruk-hai
+alignment: shadow
+culture: isengard
+strength: '8'
+vitality: '2'
+twilight: '3'
+site_number: '5'
+game_text: ! |-
+  Tracker. Fierce. During a fierce skirmish involving this minion, it is strength +2.
+flavor_text: ! |-
+  ”'Run, curse you! Run while night lasts!'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04193

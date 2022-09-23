@@ -1,0 +1,15 @@
+---
+key: 1C20
+name: Let Them Come!
+title: Let Them Come!
+set: fellowship_of_the_ring
+rarity: common
+card_type: condition
+alignment: free_people
+culture: dwarven
+twilight: '2'
+game_text: ! |-
+  Plays to your support area. Each time a Dwarf wins a skirmish against an Orc, discard that Orc. Discard this condition if a Dwarf loses a skirmish.
+flavor_text: ! |-
+  ”'There is one Dwarf yet in Moria who still draws breath!'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01020

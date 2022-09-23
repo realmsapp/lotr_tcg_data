@@ -1,0 +1,17 @@
+---
+key: 4R284
+name: King's Mail
+title: King's Mail
+set: two_towers
+rarity: rare
+card_type: possession
+subtype: armor
+alignment: free_people
+culture: rohan
+twilight: '2'
+unique: true
+game_text: ! |-
+  Bearer must be a [Rohan] Man. Bearer takes no more than 1 wound during each skirmish phase. If bearer is Theoden, he may not take wounds except during a skirmish involving him.
+flavor_text: ! |-
+  “Now men came bearing raiment of war from the king's hoard….”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04284

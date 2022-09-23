@@ -1,0 +1,15 @@
+---
+key: 4C308
+name: Knocked on the Head
+title: Knocked on the Head
+set: two_towers
+rarity: common
+card_type: event
+alignment: free_people
+culture: shire
+twilight: '0'
+game_text: ! |-
+  Regroup: Play an unbound Hobbit from your discard pile.
+flavor_text: ! |-
+  ”'I wonder if poor Merry is much hurt.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04308

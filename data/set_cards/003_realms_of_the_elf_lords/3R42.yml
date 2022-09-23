@@ -1,0 +1,17 @@
+---
+key: 3R42
+name: Horn of Boromir
+title: Horn of Boromir
+set: realms_of_the_elf_lords
+rarity: rare
+card_type: possession
+alignment: free_people
+culture: gondor
+twilight: '0'
+unique: true
+game_text: ! |-
+  Bearer must be Boromir. Maneuver: Exert Boromir and spot an ally. Until the regroup phase, that ally is strength +3 and participates in archery fire and skirmishes.
+flavor_text: ! |-
+  “On a baldric he wore a great horn tipped with silver….”
+notes: 'Lists: EXL, MXL'
+wiki_url: https://lotrtcgwiki.com/wiki/lotr03042

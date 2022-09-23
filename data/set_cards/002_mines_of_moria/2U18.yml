@@ -1,0 +1,15 @@
+---
+key: 2U18
+name: Hosts of the Last Alliance
+title: Hosts of the Last Alliance
+set: mines_of_moria
+rarity: uncommon
+card_type: condition
+alignment: free_people
+culture: elven
+twilight: '2'
+game_text: ! |-
+  Tale. Plays to your support area. While you can spot an Elf companion, the minion archery total is -1. Response: If an Elf is about to take a wound, discard this condition to prevent that wound.
+flavor_text: ! |-
+  ”'…many great princes and captains were assembled.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02018

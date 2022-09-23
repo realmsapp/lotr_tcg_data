@@ -1,0 +1,20 @@
+---
+key: 5R29
+name: Smeagol, Slinker
+title: Smeagol
+subtitle: Slinker
+set: battle_of_helms_deep
+rarity: rare
+card_type: companion
+alignment: free_people
+culture: gollum_free_people
+signet: frodo
+strength: '3'
+vitality: '4'
+twilight: '0'
+unique: true
+game_text: ! |-
+  Ring-bound. To play, add a burden. Skirmish: Add a burden to make Smeagol strength +2 and take no wounds.
+flavor_text: ! |-
+  ”'… that it is my fate to receive help from you, where I least looked for it, and your fate to help me whom you long pursued with evil purpose.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05029

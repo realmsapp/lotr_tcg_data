@@ -1,0 +1,17 @@
+---
+key: 7R9
+name: Gimli's Battle Axe, Trusted Weapon
+title: Gimli's Battle Axe
+subtitle: Trusted Weapon
+set: return_of_the_king
+rarity: rare
+card_type: possession
+subtype: hand_weapon
+alignment: free_people
+culture: dwarven
+strength: "+2"
+twilight: '2'
+unique: true
+game_text: ! |-
+  Bearer must be a dwarf. While you can spot a threat, bearer is damage +1. While you can spot 2 threats, bearer is strength +1. While you can spot 3 threats, the fellowship archery total is +1.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07009

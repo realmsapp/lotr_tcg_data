@@ -1,0 +1,16 @@
+---
+key: 8R21
+name: Shadowfax, Greatheart
+title: Shadowfax
+subtitle: Greatheart
+set: siege_of_gondor
+rarity: rare
+card_type: possession
+subtype: mount
+alignment: free_people
+culture: gandalf
+twilight: '2'
+unique: true
+game_text: ! |-
+  Bearer must be Gandalf. At the start of each skirmish involving Gandalf, each minion skirmishing Gandalf must exert. Skirmish: Add a threat to make Gandalf strength +1.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr08021

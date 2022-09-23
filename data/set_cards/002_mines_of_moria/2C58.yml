@@ -1,0 +1,19 @@
+---
+key: 2C58
+name: Foul Tentacle
+title: Foul Tentacle
+set: mines_of_moria
+rarity: common
+card_type: minion
+subtype: creature
+alignment: shadow
+culture: moria
+strength: '4'
+vitality: '1'
+twilight: '2'
+site_number: '4'
+game_text: ! |-
+  Tentacle. When you play this minion, you may play a tentacle from your draw deck. This minion may not bear possessions and is discarded if not at a marsh.
+flavor_text: ! |-
+  “Its fingered end had hold of Frodo's foot, and was dragging him into the water.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02058

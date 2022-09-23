@@ -1,0 +1,20 @@
+---
+key: 5C81
+name: Ecglaf, Courageous Farmer
+title: Ecglaf
+subtitle: Courageous Farmer
+set: battle_of_helms_deep
+rarity: common
+card_type: ally
+alignment: free_people
+culture: rohan
+strength: '4'
+vitality: '2'
+twilight: '1'
+unique: true
+site_number: 4T
+game_text: ! |-
+  Villager. Fellowship: Exert Ecglaf and spot 2 valiant Men to play a [Rohan] possession from your discard pile.
+flavor_text: ! |-
+  Like many of the Rohirrim, Ecglaf no longer had a home awaiting his return.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05081

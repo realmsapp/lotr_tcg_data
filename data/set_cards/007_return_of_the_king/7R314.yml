@@ -1,0 +1,14 @@
+---
+key: 7R314
+name: Stronghold of Cirith Ungol
+title: Stronghold of Cirith Ungol
+set: return_of_the_king
+rarity: rare
+card_type: condition
+alignment: shadow
+culture: sauron
+twilight: '1'
+unique: true
+game_text: ! |-
+  Response: If your [Sauron] minion wins a skirmish, place a [Sauron] token here (limit 1 per site). Regroup: Add (2) for each token here. Discard this condition.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07314

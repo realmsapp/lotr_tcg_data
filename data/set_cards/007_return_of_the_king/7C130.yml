@@ -1,0 +1,13 @@
+---
+key: 7C130
+name: Dark Tidings
+title: Dark Tidings
+set: return_of_the_king
+rarity: common
+card_type: condition
+alignment: shadow
+culture: raider
+twilight: '1'
+game_text: ! |-
+  Regroup: Spot 2 [Raider] Men and remove (3) to add a threat (limit 1).
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07130

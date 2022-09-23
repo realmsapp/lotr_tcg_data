@@ -1,0 +1,13 @@
+---
+key: 8U82
+name: Unhindered
+title: Unhindered
+set: siege_of_gondor
+rarity: uncommon
+card_type: event
+alignment: shadow
+culture: wraith
+twilight: '2'
+game_text: ! |-
+  Make a Nazgul strength +2. If that Nazgul wins this skirmish, the Shadow has initiative until the end of the turn, regardless of the Free Peoples player's hand.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr08082

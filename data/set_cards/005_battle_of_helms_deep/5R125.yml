@@ -1,0 +1,19 @@
+---
+key: 5R125
+name: Foul Horde (AI)
+title: Foul Horde (AI)
+set: battle_of_helms_deep
+rarity: rare
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: isengard
+strength: '9'
+vitality: '3'
+twilight: '4'
+unique: true
+site_number: '4'
+game_text: ! |-
+  Warg-rider. While Foul Horde is not exhausted, it is fierce. While Foul Horde has at least 3 vitality, it is ambush (1). While Foul Horde has at least 4 vitality, it is damage + 1.
+notes: Alternate image.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05125

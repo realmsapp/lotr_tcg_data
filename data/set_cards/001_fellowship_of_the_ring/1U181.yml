@@ -1,0 +1,19 @@
+---
+key: 1U181
+name: Goblin Sneak
+title: Goblin Sneak
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: moria
+strength: '5'
+vitality: '1'
+twilight: '1'
+site_number: '4'
+game_text: ! |-
+  When you play this minion, you may place a [Moria] Orc from your discard pile beneath your draw deck.
+flavor_text: ! |-
+  Their limber forms allow the Goblins of Moria to slither past barred doors and collapsed passageways.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01181

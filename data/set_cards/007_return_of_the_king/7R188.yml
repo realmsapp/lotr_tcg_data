@@ -1,0 +1,17 @@
+---
+key: 7R188
+name: Morgul Brute
+title: Morgul Brute
+set: return_of_the_king
+rarity: rare
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: wraith
+strength: '6'
+vitality: '2'
+twilight: '2'
+site_number: '4'
+game_text: ! |-
+  When you play this minion, you may spot a Nazgul to add a burden. The Free Peoples player may wound the Ring-bearer to prevent this. Skirmish: Remove a burden to make this minion strength +3.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07188

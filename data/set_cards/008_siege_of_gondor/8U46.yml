@@ -1,0 +1,15 @@
+---
+key: 8U46
+name: Spectral Sword
+title: Spectral Sword
+set: siege_of_gondor
+rarity: uncommon
+card_type: possession
+subtype: hand_weapon
+alignment: free_people
+culture: gondor
+strength: "+1"
+twilight: '0'
+game_text: ! |-
+  Bearer must be a [Gondor] Wraith. Skirmish: Discard 3 cards from hand to heal bearer.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr08046

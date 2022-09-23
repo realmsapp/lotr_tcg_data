@@ -1,0 +1,19 @@
+---
+key: 4R91
+name: Gandalf's Staff, Walking Stick
+title: Gandalf's Staff
+subtitle: Walking Stick
+set: two_towers
+rarity: rare
+card_type: artifact
+subtype: staff
+alignment: free_people
+culture: gandalf
+vitality: "+1"
+twilight: '2'
+unique: true
+game_text: ! |-
+  Bearer must be Gandalf. While you can spot 2 twilight tokens, Gandalf is damage +2.
+flavor_text: ! |-
+  ”'The staff in the hand of a Wizard may be more than a prop for age….'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04091

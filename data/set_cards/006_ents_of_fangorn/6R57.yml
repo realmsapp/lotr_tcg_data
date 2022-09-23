@@ -1,0 +1,19 @@
+---
+key: 6R57
+name: Agents of Orthanc
+title: Agents of Orthanc
+set: ents_of_fangorn
+rarity: rare
+card_type: minion
+subtype: man
+alignment: shadow
+culture: isengard
+strength: '9'
+vitality: '3'
+twilight: '5'
+site_number: '3'
+game_text: ! |-
+  This minion is strength +2 and damage +1 for each Free Peoples culture that you can spot over 2.
+flavor_text: ! |-
+  ”'How long is it since Saruman bought you?'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06057

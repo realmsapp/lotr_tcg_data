@@ -1,0 +1,15 @@
+---
+key: 6U19
+name: Gift of Foresight
+title: Gift of Foresight
+set: ents_of_fangorn
+rarity: uncommon
+card_type: event
+alignment: free_people
+culture: elven
+twilight: '1'
+game_text: ! |-
+  Fellowship: Spot an Elf to reveal the top card of your draw deck. You may discard it, return it to the top of your draw deck, or take it into hand.
+flavor_text: ! |-
+  ”'Here you will dwell, bound to your grief, under the fading trees.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06019

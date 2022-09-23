@@ -1,0 +1,15 @@
+---
+key: 4C210
+name: We Are the Fighting Uruk-hai
+title: We Are the Fighting Uruk-hai
+set: two_towers
+rarity: common
+card_type: event
+alignment: shadow
+culture: isengard
+twilight: '1'
+game_text: ! |-
+  Skirmish: Make an Uruk-hai strength +2 (and damage +1 if you control a site).
+flavor_text: ! |-
+  ”'But for us you'd all have run away.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04210

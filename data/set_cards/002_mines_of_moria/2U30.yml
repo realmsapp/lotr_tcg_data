@@ -1,0 +1,15 @@
+---
+key: 2U30
+name: You Cannot Pass!
+title: You Cannot Pass!
+set: mines_of_moria
+rarity: uncommon
+card_type: event
+alignment: free_people
+culture: gandalf
+twilight: '1'
+game_text: ! |-
+  Spell. Maneuver: Spot Gandalf bearing a staff to prevent a minion from being fierce until the regroup phase.
+flavor_text: ! |-
+  “The Balrog fell back and its sword flew up in molten fragments. The wizard swayed on the bridge, stepped back a pace, and then again stood still.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02030

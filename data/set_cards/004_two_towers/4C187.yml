@@ -1,0 +1,19 @@
+---
+key: 4C187
+name: Uruk Foot Soldier
+title: Uruk Foot Soldier
+set: two_towers
+rarity: common
+card_type: minion
+subtype: uruk-hai
+alignment: shadow
+culture: isengard
+strength: '5'
+vitality: '1'
+twilight: '1'
+site_number: '5'
+game_text: ! |-
+  Tracker. Fierce. During a fierce skirmish involving this minion, it is strength +3 and damage +1.
+flavor_text: ! |-
+  ”'Evening's coming on, and we ought to get a move on.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04187

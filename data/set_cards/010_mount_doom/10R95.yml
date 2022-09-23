@@ -1,0 +1,17 @@
+---
+key: 10R95
+name: Orc Slaughterer
+title: Orc Slaughterer
+set: mount_doom
+rarity: rare
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '10'
+vitality: '3'
+twilight: '4'
+site_number: '6'
+game_text: ! |-
+  Enduring. For each wound on this minion, it is strength +2.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10095

@@ -1,0 +1,15 @@
+---
+key: 2U103
+name: Hobbit Sword-play
+title: Hobbit Sword-play
+set: mines_of_moria
+rarity: uncommon
+card_type: event
+alignment: free_people
+culture: shire
+twilight: '0'
+game_text: ! |-
+  Maneuver: Exert a Hobbit bearing a weapon to wound a minion. That minion's owner may remove (3) to prevent this.
+flavor_text: ! |-
+  Boromir sensed that a blade in a Halfling's hand would surprise a larger foe.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02103

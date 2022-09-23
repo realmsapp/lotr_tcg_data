@@ -1,0 +1,15 @@
+---
+key: 1R28
+name: Wealth of Moria
+title: Wealth of Moria
+set: fellowship_of_the_ring
+rarity: rare
+card_type: event
+alignment: free_people
+culture: dwarven
+twilight: '2'
+game_text: ! |-
+  Fellowship: Spot a Dwarf to reveal the top 3 cards of your draw deck. Take all Free Peoples cards revealed into hand and discard the rest.
+flavor_text: ! |-
+  ”'For here alone in all the world was found Moria-silver, or true-silver as some have called it: mithril is the Elvish name.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01028

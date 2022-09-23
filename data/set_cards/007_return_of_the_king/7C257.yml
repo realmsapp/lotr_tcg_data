@@ -1,0 +1,16 @@
+---
+key: 7C257
+name: Veteran Horseman
+title: Veteran Horseman
+set: return_of_the_king
+rarity: common
+card_type: companion
+subtype: man
+alignment: free_people
+culture: rohan
+strength: '6'
+vitality: '3'
+twilight: '2'
+game_text: ! |-
+  Skirmish: Exert this companion to make him strength +1 for each mounted companion you spot.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07257

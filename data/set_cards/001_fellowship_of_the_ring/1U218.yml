@@ -1,0 +1,17 @@
+---
+key: 1U218
+name: Nazgul Sword
+title: Nazgul Sword
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: possession
+subtype: hand_weapon
+alignment: shadow
+culture: wraith
+strength: "+2"
+twilight: '1'
+game_text: ! |-
+  Bearer must be a Nazgul. While you can spot 3 burdens, bearer is damage +1.
+flavor_text: ! |-
+  The weapons of the Nine are wielded by unseen hands willed by Sauron's hate.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01218

@@ -1,0 +1,20 @@
+---
+key: 4U80
+name: Ordulus, Young Warrior
+title: Ordulus
+subtitle: Young Warrior
+set: two_towers
+rarity: uncommon
+card_type: companion
+subtype: elf
+alignment: free_people
+culture: elven
+strength: '5'
+vitality: '2'
+twilight: '1'
+unique: true
+game_text: ! |-
+  To play, spot an Elf. The twilight cost of each ranged weapon played on Ordulus is -1.
+flavor_text: ! |-
+  Ordulus always has an arrow nocked and a full quiver too.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04080

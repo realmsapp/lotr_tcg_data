@@ -1,0 +1,15 @@
+---
+key: 1C104
+name: Eregion's Trails
+title: Eregion's Trails
+set: fellowship_of_the_ring
+rarity: common
+card_type: event
+alignment: free_people
+culture: gondor
+twilight: '1'
+game_text: ! |-
+  Maneuver: Exert a ranger to make each roaming minion strength -3 until the regroup phase.
+flavor_text: ! |-
+  “Guided by Aragorn they struck a good path. It looked to Frodo like the remains of an ancient road, that had once been broad and well planned….”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01104

@@ -1,0 +1,19 @@
+---
+key: 7C36
+name: Gandalf, Defender of the West
+title: Gandalf
+subtitle: Defender of the West
+set: return_of_the_king
+rarity: common
+card_type: companion
+subtype: wizard
+alignment: free_people
+culture: gandalf
+signet: gandalf
+strength: '9'
+vitality: '4'
+twilight: '4'
+unique: true
+game_text: ! |-
+  While you cannot spot 3 companions of the same culture, Gandalf is strength -2.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07036

@@ -1,0 +1,19 @@
+---
+key: 5U105
+name: Orc Fighter
+title: Orc Fighter
+set: battle_of_helms_deep
+rarity: uncommon
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '9'
+vitality: '3'
+twilight: '3'
+site_number: '6'
+game_text: ! |-
+  Regroup: Spot a [Sauron] condition and exert this minion to take control of a site.
+flavor_text: ! |-
+  The Orcs of Mordor extended the will of Sauron to control the weak Men of the East.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05105

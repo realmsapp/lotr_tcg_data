@@ -1,0 +1,16 @@
+---
+key: 4U88
+name: Behold the White Rider
+title: Behold the White Rider
+set: two_towers
+rarity: uncommon
+card_type: condition
+alignment: free_people
+culture: gandalf
+twilight: '2'
+unique: true
+game_text: ! |-
+  Plays to your support area. Each time Gandalf wins a skirmish, you may place a [Gandalf] token here. Skirmish: Wound a minion skirmishing Gandalf for each [Gandalf] token here. Discard this condition.
+flavor_text: ! |-
+  ”'Gandalf is come again.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04088

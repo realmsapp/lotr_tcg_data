@@ -1,0 +1,13 @@
+---
+key: 10U111
+name: Narrow Escape
+title: Narrow Escape
+set: mount_doom
+rarity: uncommon
+card_type: event
+alignment: free_people
+culture: shire
+twilight: '0'
+game_text: ! |-
+  Spot 2 Hobbit companions to make a Shadow player discard a minion (or spot 4 Hobbit companions to make that player discard 2 minions).
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10111

@@ -1,0 +1,18 @@
+---
+key: 7R284
+name: Mordor Assassin
+title: Mordor Assassin
+set: return_of_the_king
+rarity: rare
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '9'
+vitality: '3'
+twilight: '3'
+site_number: '6'
+game_text: ! |-
+  Response: If a companion is overwhelmed during a skirmish involving a [Sauron] Orc and threat wounds are about to be placed, remove a threat to assign this minion to the Ring-bearer (even if the Ring-bearer is already assigned).
+notes: Game text is a clarification.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07284

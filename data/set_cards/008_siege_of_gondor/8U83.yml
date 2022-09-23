@@ -1,0 +1,15 @@
+---
+key: 8U83
+name: Winged Mount
+title: Winged Mount
+set: siege_of_gondor
+rarity: uncommon
+card_type: possession
+subtype: mount
+alignment: shadow
+culture: wraith
+strength: "+2"
+twilight: '1'
+game_text: ! |-
+  To play, discard 2 cards from hand. Bearer must be a Nazgul. Response: If bearer is about to take a wound, remove a threat to prevent that wound.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr08083

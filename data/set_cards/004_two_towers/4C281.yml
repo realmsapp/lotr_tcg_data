@@ -1,0 +1,20 @@
+---
+key: 4C281
+name: Hlafwine, Village Farmhand
+title: Hlafwine
+subtitle: Village Farmhand
+set: two_towers
+rarity: common
+card_type: ally
+alignment: free_people
+culture: rohan
+strength: '4'
+vitality: '2'
+twilight: '1'
+unique: true
+site_number: 4T
+game_text: ! |-
+  Villager. Discard Hlafwine if an opponent controls his home site. Skirmish: Exert Hlafwine to make a [Rohan] Man strength +2.
+flavor_text: ! |-
+  Too old to fight, Hlafwine prepared meals for the defenders.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04281

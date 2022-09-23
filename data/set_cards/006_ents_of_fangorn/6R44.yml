@@ -1,0 +1,15 @@
+---
+key: 6R44
+name: Safe Paths
+title: Safe Paths
+set: ents_of_fangorn
+rarity: rare
+card_type: event
+alignment: free_people
+culture: gollum_free_people
+twilight: '5'
+game_text: ! |-
+  Regroup: Exert Smeagol 3 times and discard him to wound each minion. The move limit for this turn is +1. If the fellowship moves, each Shadow player may take up to 3 Shadow cards into hand from his or her discard pile.
+flavor_text: ! |-
+  ”'Soft and quick as shadows we must be!'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06044

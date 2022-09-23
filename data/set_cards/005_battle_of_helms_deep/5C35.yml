@@ -1,0 +1,18 @@
+---
+key: 5C35
+name: Gondorian Knight
+title: Gondorian Knight
+set: battle_of_helms_deep
+rarity: common
+card_type: companion
+subtype: man
+alignment: free_people
+culture: gondor
+strength: '6'
+vitality: '3'
+twilight: '2'
+game_text: ! |-
+  Knight.
+flavor_text: ! |-
+  Soldiers of Gondor share a long heritage of defending their borders against Sauron's attackers.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05035

@@ -1,0 +1,14 @@
+---
+key: 7C155
+name: Raider Bow
+title: Raider Bow
+set: return_of_the_king
+rarity: common
+card_type: possession
+subtype: ranged_weapon
+alignment: shadow
+culture: raider
+twilight: '2'
+game_text: ! |-
+  Bearer must be a [Raider] Man. Bearer is an archer and ambush (5).
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07155

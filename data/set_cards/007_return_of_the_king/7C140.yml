@@ -1,0 +1,17 @@
+---
+key: 7C140
+name: Easterling Assailant
+title: Easterling Assailant
+set: return_of_the_king
+rarity: common
+card_type: minion
+subtype: man
+alignment: shadow
+culture: raider
+strength: '9'
+vitality: '2'
+twilight: '4'
+site_number: '4'
+game_text: ! |-
+  Easterling. Skirmish: Remove a burden and exert this minion to heal another Easterling (or 2 Easterlings if you have initiative).
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07140

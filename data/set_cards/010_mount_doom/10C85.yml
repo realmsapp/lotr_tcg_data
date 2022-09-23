@@ -1,0 +1,14 @@
+---
+key: 10C85
+name: Flames Within
+title: Flames Within
+set: mount_doom
+rarity: common
+card_type: condition
+alignment: shadow
+culture: sauron
+twilight: '0'
+unique: true
+game_text: ! |-
+  While you have initiative, each of your [Sauron] minions is strength +2. Skirmish: Discard this condition to make a [Sauron] minion strength +2 (or +4 if it is roaming).
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10085

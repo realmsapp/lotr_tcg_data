@@ -1,0 +1,13 @@
+---
+key: 10U115
+name: Slunk Out of Sight
+title: Slunk Out of Sight
+set: mount_doom
+rarity: uncommon
+card_type: event
+alignment: free_people
+culture: shire
+twilight: '1'
+game_text: ! |-
+  Stealth. If there are 6 or more [Shire] cards in your discard pile, cancel a skirmish involving your Hobbit and a minion who is not fierce. Each minion in that skirmish is fierce until the regroup phase.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10115

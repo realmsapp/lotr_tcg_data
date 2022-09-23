@@ -1,0 +1,15 @@
+---
+key: 10C102
+name: Uruk Axe
+title: Uruk Axe
+set: mount_doom
+rarity: common
+card_type: possession
+subtype: hand_weapon
+alignment: shadow
+culture: sauron
+strength: "+1"
+twilight: '1'
+game_text: ! |-
+  Bearer must be a [Sauron] Minion. If bearer is an Uruk-hai, it is strength +2.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10102

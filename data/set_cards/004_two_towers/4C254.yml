@@ -1,0 +1,19 @@
+---
+key: 4C254
+name: Southron Soldier
+title: Southron Soldier
+set: two_towers
+rarity: common
+card_type: minion
+subtype: man
+alignment: shadow
+culture: raider
+strength: '4'
+vitality: '1'
+twilight: '2'
+site_number: '4'
+game_text: ! |-
+  Southron. Ambush (2).
+flavor_text: ! |-
+  The kingdoms of Harad fight countless wars and train thousands of warriors.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04254

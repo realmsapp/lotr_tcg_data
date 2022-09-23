@@ -1,0 +1,13 @@
+---
+key: 7R251
+name: Stern People
+title: Stern People
+set: return_of_the_king
+rarity: rare
+card_type: condition
+alignment: free_people
+culture: rohan
+twilight: '3'
+game_text: ! |-
+  To play, spot 2 [Rohan] Men. Regroup: Discard cards from hand equal to the number of cards in an opponent's hand to make the move limit +1 for this turn. Each Shadow player may take up to 4 cards into hand from his or her discard pile. Discard this condition.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07251

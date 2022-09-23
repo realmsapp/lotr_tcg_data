@@ -1,0 +1,19 @@
+---
+key: 7R255
+name: Theoden, Rekindled King
+title: Theoden
+subtitle: Rekindled King
+set: return_of_the_king
+rarity: rare
+card_type: companion
+subtype: man
+alignment: free_people
+culture: rohan
+signet: gandalf
+strength: '7'
+vitality: '3'
+twilight: '3'
+unique: true
+game_text: ! |-
+  While you can spot a [Rohan] Man, Theoden's twilight cost is -1. Fellowship: If the twilight pool has fewer than 2 twilight tokens, play a [Rohan] possession on Theoden and add (2) to heal another [Rohan] companion.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07255

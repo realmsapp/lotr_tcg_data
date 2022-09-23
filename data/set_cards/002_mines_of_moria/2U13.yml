@@ -1,0 +1,15 @@
+---
+key: 2U13
+name: Tidings of Erebor
+title: Tidings of Erebor
+set: mines_of_moria
+rarity: uncommon
+card_type: event
+alignment: free_people
+culture: dwarven
+twilight: '0'
+game_text: ! |-
+  Regroup: Spot a Dwarf to draw 3 cards. Any Shadow player may remove (3) to prevent this.
+flavor_text: ! |-
+  ”'…we have so far been fortunate, though we do not escape the shadow of these times.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02013

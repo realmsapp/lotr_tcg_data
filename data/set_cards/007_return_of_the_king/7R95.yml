@@ -1,0 +1,14 @@
+---
+key: 7R95
+name: Gondor Still Stands
+title: Gondor Still Stands
+set: return_of_the_king
+rarity: rare
+card_type: condition
+alignment: free_people
+culture: gondor
+twilight: '3'
+unique: true
+game_text: ! |-
+  To play, spot 3 [Gondor] companions. While no opponent controls a site, wound a minion at the start of each regroup phase. Regroup: Discard this condition to place a [Gondor] fortification from your discard pile on top of your draw deck.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07095

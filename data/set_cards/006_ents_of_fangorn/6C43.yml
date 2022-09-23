@@ -1,0 +1,15 @@
+---
+key: 6C43
+name: Not Listening
+title: Not Listening
+set: ents_of_fangorn
+rarity: common
+card_type: event
+alignment: free_people
+culture: gollum_free_people
+twilight: '0'
+game_text: ! |-
+  Response: If Smeagol wins a skirmish, heal him and remove 2 burdens.
+flavor_text: ! |-
+  ”'They'll wake too quick and kill us… Not now. Not yet.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06043

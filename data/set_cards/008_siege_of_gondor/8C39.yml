@@ -1,0 +1,16 @@
+---
+key: 8C39
+name: Knight of Dol Amroth
+title: Knight of Dol Amroth
+set: siege_of_gondor
+rarity: common
+card_type: companion
+subtype: man
+alignment: free_people
+culture: gondor
+strength: '6'
+vitality: '3'
+twilight: '2'
+game_text: ! |-
+  Knight. Each time this companion wins a skirmish, you may wound a minion he is skirmishing.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr08039

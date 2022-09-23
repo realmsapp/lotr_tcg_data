@@ -1,0 +1,17 @@
+---
+key: 2C95
+name: Vile Blade
+title: Vile Blade
+set: mines_of_moria
+rarity: common
+card_type: possession
+subtype: hand_weapon
+alignment: shadow
+culture: sauron
+strength: "+2"
+twilight: '1'
+game_text: ! |-
+  Bearer must be a [Sauron] Orc. Bearer is strength +2 while skirmishing a Man or Elf.
+flavor_text: ! |-
+  The blood of enemies slain that day blackened the edge of the commander's blade.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02095

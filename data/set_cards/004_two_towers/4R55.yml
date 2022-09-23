@@ -1,0 +1,15 @@
+---
+key: 4R55
+name: Restless Axe
+title: Restless Axe
+set: two_towers
+rarity: rare
+card_type: event
+alignment: free_people
+culture: dwarven
+twilight: '2'
+game_text: ! |-
+  Regroup: Exert a Dwarf to shuffle a [Dwarven] condition (and all cards stacked on it) into your draw deck. Exert a minion for each card shuffled into your draw deck.
+flavor_text: ! |-
+  ”'Give me a row of orc-necks and room to swing and all weariness will fall from me!'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04055

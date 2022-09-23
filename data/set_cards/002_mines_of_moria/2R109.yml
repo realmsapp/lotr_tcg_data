@@ -1,0 +1,15 @@
+---
+key: 2R109
+name: Orc-bane
+title: Orc-bane
+set: mines_of_moria
+rarity: rare
+card_type: event
+alignment: free_people
+culture: shire
+twilight: '0'
+game_text: ! |-
+  Maneuver: Spot Sting or Glamdring and exert its bearer X times to wound X Orcs or X Uruk-hai.
+flavor_text: ! |-
+  ”Glamdring shone with a pale light, and Sting glinted at the edges.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02109

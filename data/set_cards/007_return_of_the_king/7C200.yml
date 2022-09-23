@@ -1,0 +1,17 @@
+---
+key: 7C200
+name: Morgul Spawn
+title: Morgul Spawn
+set: return_of_the_king
+rarity: common
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: wraith
+strength: '9'
+vitality: '2'
+twilight: '4'
+site_number: '4'
+game_text: ! |-
+  While you can spot a Nazgul, the Free Peoples player must exert a companion to assign this minion to a skirmish.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07200

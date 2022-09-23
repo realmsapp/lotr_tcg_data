@@ -1,0 +1,18 @@
+---
+key: 2R74
+name: Whip of Many Thongs
+title: Whip of Many Thongs
+set: mines_of_moria
+rarity: rare
+card_type: artifact
+subtype: hand_weapon
+alignment: shadow
+culture: moria
+strength: "+1"
+twilight: '1'
+unique: true
+game_text: ! |-
+  Bearer must be The Balrog. Skirmish: Exert The Balrog to discard a helm, shield, or armor borne by a character The Balrog is skirmishing.
+flavor_text: ! |-
+  “It raised the whip, and the thongs whined and cracked.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02074

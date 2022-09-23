@@ -1,0 +1,21 @@
+---
+key: 4R315
+name: Sam, Frodo's Gardener
+title: Sam
+subtitle: Frodo's Gardener
+set: two_towers
+rarity: rare
+card_type: companion
+subtype: hobbit
+alignment: free_people
+culture: shire
+signet: frodo
+strength: '3'
+vitality: '4'
+twilight: '2'
+unique: true
+game_text: ! |-
+  Ring-bound. Fellowship: Play Sam's Pack from your draw deck. Response: If Frodo is killed, make Sam the Ring-bearer (resistance 5).
+flavor_text: ! |-
+  ”'I am only a hobbit, and gardening's my job at home, sir, if you understand me….'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04315

@@ -1,0 +1,19 @@
+---
+key: 5C97
+name: Gate Soldier
+title: Gate Soldier
+set: battle_of_helms_deep
+rarity: common
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '7'
+vitality: '2'
+twilight: '2'
+site_number: '6'
+game_text: ! |-
+  When you play a [Sauron] condition, you may exert this minion and remove (2) to draw a card.
+flavor_text: ! |-
+  ”…a host of orcs lurked, ready at a signal to issue forth like black ants going to war.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05097

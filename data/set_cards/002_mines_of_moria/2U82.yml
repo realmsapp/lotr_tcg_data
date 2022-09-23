@@ -1,0 +1,21 @@
+---
+key: 2U82
+name: Ulaire Attea, The Easterling
+title: Ulaire Attea
+subtitle: The Easterling
+set: mines_of_moria
+rarity: uncommon
+card_type: minion
+subtype: nazgul
+alignment: shadow
+culture: wraith
+strength: '12'
+vitality: '3'
+twilight: '6'
+unique: true
+site_number: '3'
+game_text: ! |-
+  Twilight. When you play Ulaire Attea, you may wound an ally.
+flavor_text: ! |-
+  ”'They had words with Harry at Westgate on Monday…. He was white and shaking when they left him.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02082

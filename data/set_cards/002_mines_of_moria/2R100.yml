@@ -1,0 +1,15 @@
+---
+key: 2R100
+name: Fearing the Worst
+title: Fearing the Worst
+set: mines_of_moria
+rarity: rare
+card_type: condition
+alignment: free_people
+culture: shire
+twilight: '0'
+game_text: ! |-
+  Stealth. To play, exert 2 Hobbits. Plays to your support area. The twilight cost of each search card and each tracker is +2.
+flavor_text: ! |-
+  ”'Even if we are allowed to leave Bree unhindered, we can hardly hope now to leave it unnoticed.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02100

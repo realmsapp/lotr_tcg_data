@@ -1,0 +1,19 @@
+---
+key: 5C67
+name: Warg-rider
+title: Warg-rider
+set: battle_of_helms_deep
+rarity: common
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: isengard
+strength: '5'
+vitality: '2'
+twilight: '1'
+site_number: '4'
+game_text: ! |-
+  Warg-rider. While this minion is not exhausted, he is fierce.
+flavor_text: ! |-
+  “Swiftly a scout rode back and reported that wolf-riders were abroad in the valley….”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05067

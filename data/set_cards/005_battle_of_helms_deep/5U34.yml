@@ -1,0 +1,15 @@
+---
+key: 5U34
+name: Fall Back
+title: Fall Back
+set: battle_of_helms_deep
+rarity: uncommon
+card_type: event
+alignment: free_people
+culture: gondor
+twilight: '0'
+game_text: ! |-
+  Skirmish: Discard all Shadow cards borne by a minion bearing a [Gondor] fortification.
+flavor_text: ! |-
+  Osgiliath's defenses protected the Gondorian troops.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05034

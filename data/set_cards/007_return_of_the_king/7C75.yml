@@ -1,0 +1,13 @@
+---
+key: 7C75
+name: Sweeter Meats
+title: Sweeter Meats
+set: return_of_the_king
+rarity: common
+card_type: event
+alignment: shadow
+culture: gollum_shadow
+twilight: '0'
+game_text: ! |-
+  If a minion is about to take a wound, spot Gollum to prevent that wound.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07075

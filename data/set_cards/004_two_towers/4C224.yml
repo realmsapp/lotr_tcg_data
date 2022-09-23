@@ -1,0 +1,19 @@
+---
+key: 4C224
+name: Easterling Axeman
+title: Easterling Axeman
+set: two_towers
+rarity: common
+card_type: minion
+subtype: man
+alignment: shadow
+culture: raider
+strength: '6'
+vitality: '2'
+twilight: '2'
+site_number: '4'
+game_text: ! |-
+  Easterling. While you can spot 2 burdens, this minion is strength +3 and fierce.
+flavor_text: ! |-
+  Poleaxes wielded by tall Easterling warriors cut through armor and bone.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04224

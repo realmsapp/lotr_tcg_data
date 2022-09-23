@@ -1,0 +1,15 @@
+---
+key: 4U43
+name: Come Here Lad
+title: Come Here Lad
+set: two_towers
+rarity: uncommon
+card_type: event
+alignment: free_people
+culture: dwarven
+twilight: '0'
+game_text: ! |-
+  Fellowship: Stack the top 2 cards from your draw deck on a [Dwarven] condition that has a card already stacked on it.
+flavor_text: ! |-
+  ”'You are the canniest, luckiest, most reckless fool I've ever met! Bless you.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04043

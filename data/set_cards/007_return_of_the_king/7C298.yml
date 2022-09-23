@@ -1,0 +1,17 @@
+---
+key: 7C298
+name: Orc Chaser
+title: Orc Chaser
+set: return_of_the_king
+rarity: common
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '6'
+vitality: '2'
+twilight: '2'
+site_number: '6'
+game_text: ! |-
+  Tracker. The site number of each [Sauron] Orc is -1. While you have initiative, this minion is strength +6.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07298

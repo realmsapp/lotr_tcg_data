@@ -1,0 +1,21 @@
+---
+key: 6R113
+name: Merry, Impatient Hobbit
+title: Merry
+subtitle: Impatient Hobbit
+set: ents_of_fangorn
+rarity: rare
+card_type: companion
+subtype: hobbit
+alignment: free_people
+culture: shire
+signet: aragorn
+strength: '3'
+vitality: '4'
+twilight: '1'
+unique: true
+game_text: ! |-
+  Regroup: Discard Merry to heal a [Gandalf] companion.
+flavor_text: ! |-
+  ”'Don't talk to it Merry. Don't encourage it.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06113

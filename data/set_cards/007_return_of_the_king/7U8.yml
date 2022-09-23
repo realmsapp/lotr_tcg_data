@@ -1,0 +1,15 @@
+---
+key: 7U8
+name: Gimli's Armor
+title: Gimli's Armor
+set: return_of_the_king
+rarity: uncommon
+card_type: possession
+subtype: armor
+alignment: free_people
+culture: dwarven
+twilight: '2'
+unique: true
+game_text: ! |-
+  Bearer must be Gimli. Response: If you have initiative and Gimli is about to take a wound, discard 2 cards from hand to prevent that wound.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07008

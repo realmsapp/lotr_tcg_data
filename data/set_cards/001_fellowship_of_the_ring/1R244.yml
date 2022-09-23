@@ -1,0 +1,15 @@
+---
+key: 1R244
+name: Desperate Defense of the Ring
+title: Desperate Defense of the Ring
+set: fellowship_of_the_ring
+rarity: rare
+card_type: condition
+alignment: shadow
+culture: sauron
+twilight: '1'
+game_text: ! |-
+  To play, exert a [Sauron] Orc. Plays on a companion. Each time bearer is assigned to a skirmish, the Free Peoples player chooses to either discard 3 cards from hand or add a burden.
+flavor_text: ! |-
+  The Company must defend the Ring at all costs.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01244

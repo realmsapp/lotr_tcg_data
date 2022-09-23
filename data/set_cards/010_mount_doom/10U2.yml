@@ -1,0 +1,15 @@
+---
+key: 10U2
+name: Memories of Darkness
+title: Memories of Darkness
+set: mount_doom
+rarity: uncommon
+card_type: condition
+alignment: free_people
+culture: dwarven
+twilight: '1'
+unique: true
+game_text: ! |-
+  To play, spot a Dwarf. Each time you lose initiative (except during the fellowship phase), you may play a [Dwarven] condition from hand or from your discard pile.
+notes: 'Lists: SXL, OBRL, EXL, MXL'
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10002

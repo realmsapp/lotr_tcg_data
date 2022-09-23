@@ -1,0 +1,17 @@
+---
+key: 1C43
+name: Far-seeing Eyes
+title: Far-seeing Eyes
+set: fellowship_of_the_ring
+rarity: common
+card_type: condition
+alignment: free_people
+culture: elven
+twilight: '2'
+unique: true
+game_text: ! |-
+  Plays to your support area. Each time you play an Elf, choose an opponent to discard a card from hand.
+flavor_text: ! |-
+  Keen Elven eyes see farther and more clearly than those of Men or Dwarves.
+notes: 'Erratum: This Elven condition is unique.'
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01043

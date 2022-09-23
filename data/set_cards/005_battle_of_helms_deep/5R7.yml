@@ -1,0 +1,21 @@
+---
+key: 5R7
+name: Gimli, Skilled Defender
+title: Gimli
+subtitle: Skilled Defender
+set: battle_of_helms_deep
+rarity: rare
+card_type: companion
+subtype: dwarf
+alignment: free_people
+culture: dwarven
+signet: theoden
+strength: '6'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  Damage +1. Each time Gimli wins a skirmish, you may wound a minion assigned to skirmish an unbound companion.
+flavor_text: ! |-
+  preparations, Gimli found it necessary to warn him of the advancing Uruk army.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05007

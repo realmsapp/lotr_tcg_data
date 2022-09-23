@@ -1,0 +1,19 @@
+---
+key: 5U1
+name: Dunlending Rampager
+title: Dunlending Rampager
+set: battle_of_helms_deep
+rarity: uncommon
+card_type: minion
+subtype: man
+alignment: shadow
+culture: dunland
+strength: '9'
+vitality: '1'
+twilight: '1'
+site_number: '3'
+game_text: ! |-
+  When you play this minion, the Free Peoples player may discard 2 cards from hand to discard him.
+flavor_text: ! |-
+  To kill and destroy was the mission of the wild hillmen.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05001

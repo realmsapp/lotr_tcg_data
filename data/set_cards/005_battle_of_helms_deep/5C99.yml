@@ -1,0 +1,19 @@
+---
+key: 5C99
+name: Gate Veteran
+title: Gate Veteran
+set: battle_of_helms_deep
+rarity: common
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '7'
+vitality: '2'
+twilight: '2'
+site_number: '6'
+game_text: ! |-
+  When you play this minion, you may exert him and spot 6 companions to draw a card.
+flavor_text: ! |-
+  ”…the day-guards, evil-eyed and fell, were marching to their posts.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05099

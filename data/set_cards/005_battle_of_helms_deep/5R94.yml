@@ -1,0 +1,15 @@
+---
+key: 5R94
+name: Thundering Host
+title: Thundering Host
+set: battle_of_helms_deep
+rarity: rare
+card_type: condition
+alignment: free_people
+culture: rohan
+twilight: '1'
+game_text: ! |-
+  Plays to your support area. Skirmish: Discard this condition to make a mounted [Rohan] Man strength +3 (and heal that Man if at a plains).
+flavor_text: ! |-
+  ”…with a rush like the sudden onset of a great wind the last host of Rohan rode thundering into the West.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05094

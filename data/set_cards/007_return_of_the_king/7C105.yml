@@ -1,0 +1,14 @@
+---
+key: 7C105
+name: I Will Go
+title: I Will Go
+set: return_of_the_king
+rarity: common
+card_type: condition
+alignment: free_people
+culture: gondor
+twilight: '3'
+unique: true
+game_text: ! |-
+  Bearer must be a [Gondor] Man. If you have initiative, bearer is defender +1.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07105

@@ -1,0 +1,15 @@
+---
+key: 1U142
+name: Traitor's Voice
+title: Traitor's Voice
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: condition
+alignment: shadow
+culture: isengard
+twilight: '2'
+game_text: ! |-
+  Search. To play, spot an Uruk-hai. Plays to your support area. While the Ring-bearer is exhausted or you can spot 5 burdens, the move limit for this turn is -1 (to a minimum of 1).
+flavor_text: ! |-
+  ”'In all the long wars with the Dark Tower treason has ever been our greatest foe.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01142

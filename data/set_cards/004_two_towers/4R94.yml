@@ -1,0 +1,18 @@
+---
+key: 4R94
+name: Hearken to Me
+title: Hearken to Me
+set: two_towers
+rarity: rare
+card_type: condition
+alignment: free_people
+culture: gandalf
+strength: "+2"
+vitality: "+1"
+twilight: '0'
+unique: true
+game_text: ! |-
+  Spell. To play, spot Gandalf. Bearer must be Theoden. Discard all Shadow conditions on Theoden. Shadow conditions may not be played on Theoden.
+flavor_text: ! |-
+  ”'Not all is dark. Take courage, Lord of the Mark; for better help you will not find.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04094

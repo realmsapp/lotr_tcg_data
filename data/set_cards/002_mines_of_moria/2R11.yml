@@ -1,0 +1,15 @@
+---
+key: 2R11
+name: Make Light of Burdens
+title: Make Light of Burdens
+set: mines_of_moria
+rarity: rare
+card_type: condition
+alignment: free_people
+culture: dwarven
+twilight: '1'
+game_text: ! |-
+  Plays to your support area. Maneuver: Exert a Dwarf companion and discard the top 3 cards from your draw deck to discard either a Shadow condition from a Dwarf or a weather condition.
+flavor_text: ! |-
+  A Dwarf does not readily notice the weight on his back, or in his heart.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02011

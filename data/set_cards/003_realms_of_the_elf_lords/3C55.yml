@@ -1,0 +1,17 @@
+---
+key: 3C55
+name: Isengard Axe
+title: Isengard Axe
+set: realms_of_the_elf_lords
+rarity: common
+card_type: possession
+subtype: hand_weapon
+alignment: shadow
+culture: isengard
+strength: "+2"
+twilight: '0'
+game_text: ! |-
+  Bearer must be an [Isengard] Orc. When you play this weapon, add (1).
+flavor_text: ! |-
+  Axes eat into the forests of Isengard as well as the victims of Saruman's Orcs.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr03055

@@ -1,0 +1,15 @@
+---
+key: 1U249
+name: Gleaming Spires Will Crumble
+title: Gleaming Spires Will Crumble
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: condition
+alignment: shadow
+culture: sauron
+twilight: '1'
+game_text: ! |-
+  Plays to your support area. Each [Sauron] Orc skirmishing a [Gondor] character is strength +2. Discard this condition if your [Sauron] Orc loses a skirmish.
+flavor_text: ! |-
+  Gondor has long been a target for the wrath of Sauron the Great.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01249

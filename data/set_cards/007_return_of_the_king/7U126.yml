@@ -1,0 +1,14 @@
+---
+key: 7U126
+name: Unexpected Visitor
+title: Unexpected Visitor
+set: return_of_the_king
+rarity: uncommon
+card_type: condition
+alignment: free_people
+culture: gondor
+twilight: '2'
+unique: true
+game_text: ! |-
+  Bearer must be an [Gondor] companion. Each minion gains this ability: 'Assignment: Assign this minion to bearer of Unexpected Visitor.' Regroup: Discard this condition to discard a minion and remove (4).
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07126

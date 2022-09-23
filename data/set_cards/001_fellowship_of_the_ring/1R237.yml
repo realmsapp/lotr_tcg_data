@@ -1,0 +1,21 @@
+---
+key: 1R237
+name: The Witch-king, Lord of Angmar
+title: The Witch-king
+subtitle: Lord of Angmar
+set: fellowship_of_the_ring
+rarity: rare
+card_type: minion
+subtype: nazgul
+alignment: shadow
+culture: wraith
+strength: '14'
+vitality: '4'
+twilight: '8'
+unique: true
+site_number: '3'
+game_text: ! |-
+  Fierce. For each other Nazgul you can spot, The Witch-king is strength +2.
+flavor_text: ! |-
+  ”…his hair was long and gleaming and on his helm was a crown.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01237

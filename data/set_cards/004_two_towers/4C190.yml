@@ -1,0 +1,19 @@
+---
+key: 4C190
+name: Uruk Pursuer
+title: Uruk Pursuer
+set: two_towers
+rarity: common
+card_type: minion
+subtype: uruk-hai
+alignment: shadow
+culture: isengard
+strength: '5'
+vitality: '3'
+twilight: '2'
+site_number: '5'
+game_text: ! |-
+  Tracker. Fierce. Unbound Hobbits may not be discarded. Response: If an unbound Hobbit is killed, exert this minion to make the Free Peoples player wound an unbound companion.
+flavor_text: ! |-
+  ”'None of that! Hold your tongues.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04190

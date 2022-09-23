@@ -1,0 +1,15 @@
+---
+key: 1R200
+name: The Underdeeps of Moria
+title: The Underdeeps of Moria
+set: fellowship_of_the_ring
+rarity: rare
+card_type: condition
+alignment: shadow
+culture: moria
+twilight: '2'
+game_text: ! |-
+  Plays to your support area. Shadow: Remove (3) to reveal the bottom card of your draw deck. If it is a [Moria] Orc, take it into hand. Otherwise, discard it.
+flavor_text: ! |-
+  ”'I am afraid Balin is buried deep, and maybe something else is buried there too.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01200

@@ -1,0 +1,15 @@
+---
+key: 4C102
+name: Task Was Not Done
+title: Task Was Not Done
+set: two_towers
+rarity: common
+card_type: event
+alignment: free_people
+culture: gandalf
+twilight: '3'
+game_text: ! |-
+  Spell. Regroup: Exert Gandalf to discard up to 2 wounded minions.
+flavor_text: ! |-
+  ”'Naked I was sent back - for a brief time, until my task is done. And naked I lay upon the mountain-top.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04102

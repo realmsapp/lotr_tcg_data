@@ -1,0 +1,17 @@
+---
+key: 2R38
+name: Shield of Boromir
+title: Shield of Boromir
+set: mines_of_moria
+rarity: rare
+card_type: possession
+subtype: shield
+alignment: free_people
+culture: gondor
+twilight: '1'
+unique: true
+game_text: ! |-
+  Bearer must be a [Gondor] companion. The minion archery total is -1. If bearer is Boromir, each minion skirmishing him does not gain strength bonuses from weapons.
+flavor_text: ! |-
+  Boromir bore the heirlooms of the Steward's house with pride.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02038

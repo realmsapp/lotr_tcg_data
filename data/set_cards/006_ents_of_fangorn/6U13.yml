@@ -1,0 +1,21 @@
+---
+key: 6U13
+name: Arwen, Evenstar of Her People
+title: Arwen
+subtitle: Evenstar of Her People
+set: ents_of_fangorn
+rarity: uncommon
+card_type: companion
+subtype: elf
+alignment: free_people
+culture: elven
+signet: aragorn
+strength: '6'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  Skirmish: Exert an Elf to make a minion skirmishing Arwen strength -1.
+flavor_text: ! |-
+  ”'If you trust nothing else, trust this… trust us.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06013

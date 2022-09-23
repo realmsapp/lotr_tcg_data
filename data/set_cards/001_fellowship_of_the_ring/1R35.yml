@@ -1,0 +1,15 @@
+---
+key: 1R35
+name: The Council of Elrond
+title: The Council of Elrond
+set: fellowship_of_the_ring
+rarity: rare
+card_type: event
+alignment: free_people
+culture: elven
+twilight: '2'
+game_text: ! |-
+  Fellowship: Spot an Elf to play a tale from your draw deck.
+flavor_text: ! |-
+  ”'You will hear today all that you need in order to understand the purposes of the Enemy …. What shall we do with the Ring, the least of rings, the trifle that Sauron fancies? That is the doom that we must deem.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01035

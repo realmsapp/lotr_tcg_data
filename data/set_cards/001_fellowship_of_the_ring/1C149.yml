@@ -1,0 +1,19 @@
+---
+key: 1C149
+name: Uruk Messenger
+title: Uruk Messenger
+set: fellowship_of_the_ring
+rarity: common
+card_type: minion
+subtype: uruk-hai
+alignment: shadow
+culture: isengard
+strength: '6'
+vitality: '1'
+twilight: '2'
+site_number: '5'
+game_text: ! |-
+  Damage +1. While you can spot a weather condition, this minion is strength +3.
+flavor_text: ! |-
+  Saruman uses his Uruks abroad to gain information on the movements - and weaknesses - of his many enemies.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01149

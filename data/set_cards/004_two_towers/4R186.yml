@@ -1,0 +1,19 @@
+---
+key: 4R186
+name: Uruk Follower
+title: Uruk Follower
+set: two_towers
+rarity: rare
+card_type: minion
+subtype: uruk-hai
+alignment: shadow
+culture: isengard
+strength: '10'
+vitality: '3'
+twilight: '5'
+site_number: '5'
+game_text: ! |-
+  Tracker. Fierce. Unbound Hobbits may not be discarded. Response: If an unbound Hobbit is killed, exert this minion to add a burden.
+flavor_text: ! |-
+  “followers.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04186

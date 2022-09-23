@@ -1,0 +1,14 @@
+---
+key: 10U73
+name: Fell Deeds Awake
+title: Fell Deeds Awake
+set: mount_doom
+rarity: uncommon
+card_type: condition
+alignment: free_people
+culture: rohan
+twilight: '1'
+unique: true
+game_text: ! |-
+  To play, spot a [Rohan] Man. Each time you lose initiative, you may liberate a site.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10073

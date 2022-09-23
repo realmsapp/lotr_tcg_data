@@ -1,0 +1,16 @@
+---
+key: 4C283
+name: Horse of Rohan
+title: Horse of Rohan
+set: two_towers
+rarity: common
+card_type: possession
+subtype: mount
+alignment: free_people
+culture: rohan
+twilight: '2'
+game_text: ! |-
+  To play, spot a [Rohan] Man. Bearer must be a Man, Elf, or Wizard. At the start of each skirmish involving bearer, each minion skirmishing bearer must exert.
+flavor_text: ! |-
+  “Very swift were the horses of Rohan.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04283

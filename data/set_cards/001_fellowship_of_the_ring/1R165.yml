@@ -1,0 +1,21 @@
+---
+key: 1R165
+name: Cave Troll of Moria, Scourge of the Black Pit
+title: Cave Troll of Moria
+subtitle: Scourge of the Black Pit
+set: fellowship_of_the_ring
+rarity: rare
+card_type: minion
+subtype: troll
+alignment: shadow
+culture: moria
+strength: '15'
+vitality: '4'
+twilight: '10'
+unique: true
+site_number: '4'
+game_text: ! |-
+  Damage +1. Fierce. To play, spot a [Moria] Orc. At an underground site, Cave Troll of Moria's twilight cost is -3.
+flavor_text: ! |-
+  Frodo's quest nearly ended before his companions halted the Cave Troll's ferocious attack.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01165

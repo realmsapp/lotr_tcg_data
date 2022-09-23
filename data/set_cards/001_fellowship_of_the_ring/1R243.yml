@@ -1,0 +1,15 @@
+---
+key: 1R243
+name: Despair
+title: Despair
+set: fellowship_of_the_ring
+rarity: rare
+card_type: event
+alignment: shadow
+culture: sauron
+twilight: '2'
+game_text: ! |-
+  Maneuver: If the total number of burdens and companions in the dead pile is at least 12, spot a [Sauron] Orc to corrupt the Ring-bearer.
+flavor_text: ! |-
+  ”'The Nameless Enemy has arisen again. Smoke rises once more from Orodruin that we call Mount Doom.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01243

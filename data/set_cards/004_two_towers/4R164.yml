@@ -1,0 +1,20 @@
+---
+key: 4R164
+name: Orthanc Champion
+title: Orthanc Champion
+set: two_towers
+rarity: rare
+card_type: minion
+subtype: uruk-hai
+alignment: shadow
+culture: isengard
+strength: '12'
+vitality: '2'
+twilight: '5'
+unique: true
+site_number: '5'
+game_text: ! |-
+  Damage +1. Assignment: Exert Orthanc Champion to assign it to an unbound companion. That companion may exert to prevent this.
+flavor_text: ! |-
+  A warrior trained in single combat, he tore a swath through the defenders.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04164

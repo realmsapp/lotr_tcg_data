@@ -1,0 +1,16 @@
+---
+key: 1C3
+name: Axe Strike
+title: Axe Strike
+set: fellowship_of_the_ring
+rarity: common
+card_type: event
+alignment: free_people
+culture: dwarven
+twilight: '0'
+game_text: ! |-
+  Skirmish: Make a Dwarf strength +2 (or +3 if bearing a [Dwarven] hand weapon).
+flavor_text: ! |-
+  Though Gimli's words were praised by the Lady of Light, he proved his best skill was swinging his axe.
+notes: Game text is a clarification.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01003

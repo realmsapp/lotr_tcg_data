@@ -1,0 +1,21 @@
+---
+key: 4C49
+name: Gimli, Unbidden Guest
+title: Gimli
+subtitle: Unbidden Guest
+set: two_towers
+rarity: common
+card_type: companion
+subtype: dwarf
+alignment: free_people
+culture: dwarven
+signet: gandalf
+strength: '6'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  Damage +1. Skirmish: Exert Gimli to make an unbound companion strength +1 (or +2 if that companion is Legolas).
+flavor_text: ! |-
+  “But a small dark figure that none had observed sprang out of the shadows”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04049

@@ -1,0 +1,16 @@
+---
+key: 6C29
+name: Ent Moot
+title: Ent Moot
+set: ents_of_fangorn
+rarity: common
+card_type: condition
+alignment: free_people
+culture: gandalf
+strength: "+2"
+twilight: '1'
+game_text: ! |-
+  To play, exert an unbound Hobbit. Bearer must be an Ent. Limit 1 per bearer.
+flavor_text: ! |-
+  “But when the Ents all gathered round Treebeard,… then the Hobbits saw that they were all of the same kindred, and all had the same eyes….”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06029

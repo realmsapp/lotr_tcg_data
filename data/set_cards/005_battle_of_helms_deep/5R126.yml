@@ -1,0 +1,21 @@
+---
+key: 5R126
+name: Army of Haradrim (AI)
+title: Army of Haradrim (AI)
+set: battle_of_helms_deep
+rarity: rare
+card_type: minion
+subtype: man
+alignment: shadow
+culture: raider
+strength: '14'
+vitality: '4'
+twilight: '7'
+unique: true
+site_number: '4'
+game_text: ! |-
+  Southron. Skirmish: Remove (3) to play a [Raider] mount from your discard pile.
+flavor_text: ! |-
+  Lacking shields and armor, Southron forces rely on speed and numbers.
+notes: Alternate image.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05126

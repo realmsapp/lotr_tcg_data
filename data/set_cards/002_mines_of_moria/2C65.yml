@@ -1,0 +1,19 @@
+---
+key: 2C65
+name: Goblin Spearman
+title: Goblin Spearman
+set: mines_of_moria
+rarity: common
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: moria
+strength: '6'
+vitality: '1'
+twilight: '2'
+site_number: '4'
+game_text: ! |-
+  While bearing a Goblin Spear, this minion is damage +2.
+flavor_text: ! |-
+  ”…with the speed of a striking snake, he charged into the Company and thrust with his spear….”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02065

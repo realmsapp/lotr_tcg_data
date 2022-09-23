@@ -1,0 +1,15 @@
+---
+key: 1C122
+name: Breeding Pit
+title: Breeding Pit
+set: fellowship_of_the_ring
+rarity: common
+card_type: event
+alignment: shadow
+culture: isengard
+twilight: '1'
+game_text: ! |-
+  Response: If you play an Uruk-hai, take all copies of that card in your discard pile and place them beneath your draw deck.
+flavor_text: ! |-
+  ”'He is breeding an army in the Caverns of Isengard. An army that can move in sunlight and cover great distance at speed.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01122

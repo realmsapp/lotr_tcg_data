@@ -1,0 +1,19 @@
+---
+key: 8R92
+name: Theoden, Tall and Proud
+title: Theoden
+subtitle: Tall and Proud
+set: siege_of_gondor
+rarity: rare
+card_type: companion
+subtype: man
+alignment: free_people
+culture: rohan
+signet: aragorn
+strength: '7'
+vitality: '3'
+twilight: '3'
+unique: true
+game_text: ! |-
+  Valiant. While you can spot a [Rohan] Man, Theoden's twilight cost is -1. When Theoden is killed, you may play a [Rohan] companion from your discard pile or draw deck.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr08092

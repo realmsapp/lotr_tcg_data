@@ -1,0 +1,21 @@
+---
+key: 4R311
+name: Merry, Unquenchable Hobbit
+title: Merry
+subtitle: Unquenchable Hobbit
+set: two_towers
+rarity: rare
+card_type: companion
+subtype: hobbit
+alignment: free_people
+culture: shire
+signet: gandalf
+strength: '3'
+vitality: '4'
+twilight: '1'
+unique: true
+game_text: ! |-
+  Skirmish: If Merry is not assigned to a skirmish, discard him to remove a [Sauron] Orc from a skirmish involving an unbound companion.
+flavor_text: ! |-
+  ”'All Wizards should have a hobbit or two in their care - to teach them the meaning of the word, and to correct them.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04311

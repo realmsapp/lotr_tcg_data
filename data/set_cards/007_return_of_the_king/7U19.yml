@@ -1,0 +1,13 @@
+---
+key: 7U19
+name: Careful Study
+title: Careful Study
+set: return_of_the_king
+rarity: uncommon
+card_type: event
+alignment: free_people
+culture: elven
+twilight: '1'
+game_text: ! |-
+  Spot an Elf and discard 3 cards from hand to reconcile your hand.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07019

@@ -1,0 +1,15 @@
+---
+key: 7U203
+name: Nazgul Scimitar
+title: Nazgul Scimitar
+set: return_of_the_king
+rarity: uncommon
+card_type: possession
+subtype: hand_weapon
+alignment: shadow
+culture: wraith
+strength: "+1"
+twilight: '1'
+game_text: ! |-
+  Bearer must be a [Wraith] minion. While you can spot 5 threats, bearer is damage +1.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07203

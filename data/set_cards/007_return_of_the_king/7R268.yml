@@ -1,0 +1,14 @@
+---
+key: 7R268
+name: Encirclement
+title: Encirclement
+set: return_of_the_king
+rarity: rare
+card_type: condition
+alignment: shadow
+culture: sauron
+twilight: '2'
+unique: true
+game_text: ! |-
+  For each 2 sites you control, the twilight cost of each of your [Sauron] cards is -1. Regroup: Spot a [Sauron] minion to draw a card (or draw 2 cards instead if that minion is a besieger). Discard this condition.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07268

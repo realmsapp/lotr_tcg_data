@@ -1,0 +1,15 @@
+---
+key: 1U136
+name: Saruman's Power
+title: Saruman's Power
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: event
+alignment: shadow
+culture: isengard
+twilight: '2'
+game_text: ! |-
+  Spell. Shadow: Exert a [Isengard] minion to discard all conditions.
+flavor_text: ! |-
+  The Uruks of Saruman are bred to be the instruments of his will, destroying his enemies with foul cruelty.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01136

@@ -1,0 +1,19 @@
+---
+key: 1R143
+name: Troop of Uruk-hai
+title: Troop of Uruk-hai
+set: fellowship_of_the_ring
+rarity: rare
+card_type: minion
+subtype: uruk-hai
+alignment: shadow
+culture: isengard
+strength: '9'
+vitality: '4'
+twilight: '5'
+site_number: '5'
+game_text: ! |-
+  Damage +1. A character skirmishing this minion does not gain strength bonuses from weapons.
+flavor_text: ! |-
+  Attacking in swarming hordes, the Urukhai close with the enemy rapidly to make weapons useless.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01143

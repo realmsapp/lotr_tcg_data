@@ -1,0 +1,16 @@
+---
+key: 4U159
+name: Many Riddles
+title: Many Riddles
+set: two_towers
+rarity: uncommon
+card_type: condition
+alignment: shadow
+culture: isengard
+strength: "-1"
+twilight: '1'
+game_text: ! |-
+  Search. To play, exert an [Isengard] tracker. Plays on a companion (except the Ring-bearer). Assignment: Exert an [Isengard] tracker and remove (2) to assign that tracker to bearer. Bearer may exert to prevent this.
+flavor_text: ! |-
+  ”'It will be hard news for Frodo….'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04159

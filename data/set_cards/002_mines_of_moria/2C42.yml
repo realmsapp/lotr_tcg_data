@@ -1,0 +1,19 @@
+---
+key: 2C42
+name: Goblin Man
+title: Goblin Man
+set: mines_of_moria
+rarity: common
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: isengard
+strength: '6'
+vitality: '2'
+twilight: '2'
+site_number: '2'
+game_text: ! |-
+  Discard this minion if underground. Shadow: Exert this minion to look at the Free Peoples player's hand.
+flavor_text: ! |-
+  ”'He looks more than half like a goblin.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02042

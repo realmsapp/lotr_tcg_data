@@ -1,0 +1,14 @@
+---
+key: 10C107
+name: Great Heart
+title: Great Heart
+set: mount_doom
+rarity: common
+card_type: condition
+alignment: free_people
+culture: shire
+vitality: "-1"
+twilight: '1'
+game_text: ! |-
+  Play this condition only during a skirmish. Bearer must be a Hobbit. When this condition is played, wound a minion skirmishing bearer.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10107

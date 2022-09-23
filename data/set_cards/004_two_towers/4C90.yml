@@ -1,0 +1,21 @@
+---
+key: 4C90
+name: Gandalf, The White Wizard
+title: Gandalf
+subtitle: The White Wizard
+set: two_towers
+rarity: common
+card_type: companion
+subtype: wizard
+alignment: free_people
+culture: gandalf
+signet: gandalf
+strength: '7'
+vitality: '4'
+twilight: '4'
+unique: true
+game_text: ! |-
+  While you can spot 3 twilight tokens, Gandalf is strength +3.
+flavor_text: ! |-
+  ”'Behold, I am not Gandalf the Grey, whom you betrayed. I am Gandalf the White, who has returned from death.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04090

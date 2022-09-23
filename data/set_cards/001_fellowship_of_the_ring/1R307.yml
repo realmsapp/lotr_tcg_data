@@ -1,0 +1,22 @@
+---
+key: 1R307
+name: Pippin, Hobbit of Some Intelligence
+title: Pippin
+subtitle: Hobbit of Some Intelligence
+set: fellowship_of_the_ring
+rarity: rare
+card_type: companion
+subtype: hobbit
+alignment: free_people
+culture: shire
+signet: gandalf
+strength: '3'
+vitality: '4'
+twilight: '1'
+unique: true
+game_text: ! |-
+  When you play Pippin, remove a burden or wound from a companion.
+flavor_text: ! |-
+  ”'Anyway, you need people of intelligence on this sort of mission… quest… thing.'”
+notes: 'Version: +.'
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01307

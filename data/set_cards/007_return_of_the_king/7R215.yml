@@ -1,0 +1,19 @@
+---
+key: 7R215
+name: Ulaire Nelya, Assailing Minion
+title: Ulaire Nelya
+subtitle: Assailing Minion
+set: return_of_the_king
+rarity: rare
+card_type: minion
+subtype: nazgul
+alignment: shadow
+culture: wraith
+strength: '10'
+vitality: '3'
+twilight: '5'
+unique: true
+site_number: '2'
+game_text: ! |-
+  Fierce. Skirmish: Discard a [Wraith] minion to make Ulaire Nelya strength +2.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07215

@@ -1,0 +1,19 @@
+---
+key: 7R7
+name: Gimli, Feared Axeman
+title: Gimli
+subtitle: Feared Axeman
+set: return_of_the_king
+rarity: rare
+card_type: companion
+subtype: dwarf
+alignment: free_people
+culture: dwarven
+signet: aragorn
+strength: '6'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  Damage +1. Response: if a [Dwarven] condition is about to be discarded by an opponent, exert a Dwarf or discard a [Dwarven] card from hand to prevent that.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07007

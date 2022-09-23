@@ -1,0 +1,22 @@
+---
+key: 1R45
+name: Galadriel, Lady of Light
+title: Galadriel
+subtitle: Lady of Light
+set: fellowship_of_the_ring
+rarity: rare
+card_type: ally
+alignment: free_people
+culture: elven
+strength: '3'
+vitality: '3'
+twilight: '3'
+unique: true
+site_number: '6'
+game_text: ! |-
+  At the start of each of your turns, heal every ally whose home is site 6. Fellowship: Exert Galadriel to play an Elf for free.
+flavor_text: ! |-
+  “Very tall they were, and the Lady no less tall than the Lord; and they were grave and beautiful … and the hair of the Lady was of deep gold….”
+notes: 'Lists: EXL, MXL. The twilight cost of an Elf played using Galadriel''s text
+  is zero, and cannot be raised or lowered.'
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01045

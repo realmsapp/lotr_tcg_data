@@ -1,0 +1,22 @@
+---
+key: 5U111
+name: Frodo, Master of the Precious
+title: Frodo
+subtitle: Master of the Precious
+set: battle_of_helms_deep
+rarity: uncommon
+card_type: companion
+subtype: hobbit
+alignment: free_people
+culture: shire
+signet: aragorn
+strength: '3'
+vitality: '4'
+twilight: '0'
+unique: true
+ring_bearer: true
+game_text: ! |-
+  Ring-bearer (resistance 10). Fellowship: Add a burden to play Smeagol from your discard pile.
+flavor_text: ! |-
+  ”'We promises, yes I promise!…”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05111

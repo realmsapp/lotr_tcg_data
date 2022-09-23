@@ -1,0 +1,21 @@
+---
+key: 3R8
+name: Arwen, Lady Undomiel
+title: Arwen
+subtitle: Lady Undomiel
+set: realms_of_the_elf_lords
+rarity: rare
+card_type: companion
+subtype: elf
+alignment: free_people
+culture: elven
+signet: gandalf
+strength: '6'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  While you can spot 3 [Elven] allies whose home is site 3, each minion skirmishing Arwen is strength -3.
+flavor_text: ! |-
+  “Queenly she looked, and thought and knowledge were in her glance, as of one who has known many things that the years bring.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr03008

@@ -1,0 +1,20 @@
+---
+key: 5R19
+name: Lindenroot, Elder Shepherd
+title: Lindenroot
+subtitle: Elder Shepherd
+set: battle_of_helms_deep
+rarity: rare
+card_type: companion
+subtype: ent
+alignment: free_people
+culture: gandalf
+strength: '10'
+vitality: '4'
+twilight: '4'
+unique: true
+game_text: ! |-
+  Unhasty. Assignment: Exert an unbound Hobbit or discard 2 cards from hand to allow Lidenroot to skirmish. Skirmish: Exert Lidenroot to wound an [Isengard] minion he is skirmishing.
+flavor_text: ! |-
+  A most well-founded and considerate Ent.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05019

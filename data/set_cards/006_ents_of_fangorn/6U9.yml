@@ -1,0 +1,15 @@
+---
+key: 6U9
+name: Lend Us Your Aid
+title: Lend Us Your Aid
+set: ents_of_fangorn
+rarity: uncommon
+card_type: event
+alignment: free_people
+culture: dwarven
+twilight: '0'
+game_text: ! |-
+  Maneuver: Exert Gimli twice to make him and each Elf companion strength +3 until the regroup phase.
+flavor_text: ! |-
+  “He hewed a two-handed stroke and laid the last Orc before his feet. 'Now my count passes Master Legolas again.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06009

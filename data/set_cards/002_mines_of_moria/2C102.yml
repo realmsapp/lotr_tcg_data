@@ -1,0 +1,22 @@
+---
+key: 2C102
+name: Frodo, Reluctant Adventurer
+title: Frodo
+subtitle: Reluctant Adventurer
+set: mines_of_moria
+rarity: common
+card_type: companion
+subtype: hobbit
+alignment: free_people
+culture: shire
+signet: aragorn
+strength: '3'
+vitality: '4'
+twilight: '0'
+unique: true
+ring_bearer: true
+game_text: ! |-
+  Ring-bearer (resistance 10). The cost of each artifact, possession, and [Shire] tale played on Frodo is -1.
+flavor_text: ! |-
+  ”'I am not made for perilous quests. I wish I had never seen the Ring! Why did it come to me? Why was I chosen?'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02102

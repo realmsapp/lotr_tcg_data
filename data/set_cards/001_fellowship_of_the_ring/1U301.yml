@@ -1,0 +1,20 @@
+---
+key: 1U301
+name: Master Proudfoot, Distant Relative of Bilbo
+title: Master Proudfoot
+subtitle: Distant Relative of Bilbo
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: ally
+alignment: free_people
+culture: shire
+strength: '2'
+vitality: '2'
+twilight: '1'
+unique: true
+site_number: '1'
+game_text: ! |-
+  Fellowship: If the twilight pool has fewer than 3 twilight tokens, add (2) to reveal the top 3 cards of your draw deck. Take all [Shire] cards revealed into hand and discard the rest.
+flavor_text: ! |-
+  “His name, of course, was Proudfoot, and well merited; his feet were large, exceptionally furry….”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01301

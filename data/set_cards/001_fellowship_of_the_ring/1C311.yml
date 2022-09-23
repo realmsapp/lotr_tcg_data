@@ -1,0 +1,22 @@
+---
+key: 1C311
+name: Sam, Son of Hamfast
+title: Sam
+subtitle: Son of Hamfast
+set: fellowship_of_the_ring
+rarity: common
+card_type: companion
+subtype: hobbit
+alignment: free_people
+culture: shire
+signet: aragorn
+strength: '3'
+vitality: '4'
+twilight: '2'
+unique: true
+game_text: ! |-
+  Fellowship: Exert Sam to remove a burden. Response: If Frodo dies, make Sam the Ring-bearer (resistance 5).
+flavor_text: ! |-
+  ”'Oh, I've never held a girl's hand before. I … I think I might just have myself another ale.'”
+notes: 'Lists: EXL'
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01311

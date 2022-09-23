@@ -1,0 +1,13 @@
+---
+key: 7R183
+name: Mind and Body
+title: Mind and Body
+set: return_of_the_king
+rarity: rare
+card_type: event
+alignment: shadow
+culture: wraith
+twilight: '1'
+game_text: ! |-
+  If a Nazgul kills a character, wound each character bearing a [Wraith] condition.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07183

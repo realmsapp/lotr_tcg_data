@@ -1,0 +1,15 @@
+---
+key: 4U320
+name: Store-room
+title: Store-room
+set: two_towers
+rarity: uncommon
+card_type: event
+alignment: free_people
+culture: shire
+twilight: '1'
+game_text: ! |-
+  Regroup: Heal an unbound Hobbit once (or twice if you spot Gandalf).
+flavor_text: ! |-
+  ”'Saruman kept enough wisdom not to trust his Orcs. He had Men to guard his gates…. Anyway, they were favoured and got good provisions.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04320

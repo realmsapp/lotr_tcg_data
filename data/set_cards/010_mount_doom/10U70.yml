@@ -1,0 +1,19 @@
+---
+key: 10U70
+name: Ulaire Nelya, Thrall of the One
+title: Ulaire Nelya
+subtitle: Thrall of the One
+set: mount_doom
+rarity: uncommon
+card_type: minion
+subtype: nazgul
+alignment: shadow
+culture: wraith
+strength: '10'
+vitality: '3'
+twilight: '5'
+unique: true
+site_number: '2'
+game_text: ! |-
+  Enduring. Fierce. Shadow cards cannot exert Ulaire Nelya during a skirmish phase. Skirmish: Heal Ulaire Nelya to add (1) for each burden.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10070

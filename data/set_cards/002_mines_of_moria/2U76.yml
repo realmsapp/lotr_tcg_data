@@ -1,0 +1,15 @@
+---
+key: 2U76
+name: Helpless
+title: Helpless
+set: mines_of_moria
+rarity: uncommon
+card_type: condition
+alignment: shadow
+culture: wraith
+twilight: '0'
+game_text: ! |-
+  To play, spot Frodo and a Nazgul. Plays on Sam. Sam's game text does not apply.
+flavor_text: ! |-
+  “He heard Frodo's voice, but it seemed to come from a great distance, or from under the earth, crying out strange words.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02076

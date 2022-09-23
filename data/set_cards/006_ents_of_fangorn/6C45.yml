@@ -1,0 +1,20 @@
+---
+key: 6C45
+name: Smeagol, Poor Creature
+title: Smeagol
+subtitle: Poor Creature
+set: ents_of_fangorn
+rarity: common
+card_type: companion
+alignment: free_people
+culture: gollum_free_people
+signet: frodo
+strength: '3'
+vitality: '4'
+twilight: '0'
+unique: true
+game_text: ! |-
+  Ring-bound. To play, add a burden. Skirmish: Discard a card from hand to make Smeagol strength +1.
+flavor_text: ! |-
+  ”'And we're so lonely… We'll be nice to them, very nice, if they'll be nice to us, won't we, yes, yess.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06045

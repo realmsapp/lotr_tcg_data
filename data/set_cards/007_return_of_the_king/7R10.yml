@@ -1,0 +1,14 @@
+---
+key: 7R10
+name: Loyalty Unshaken
+title: Loyalty Unshaken
+set: return_of_the_king
+rarity: rare
+card_type: condition
+alignment: free_people
+culture: dwarven
+twilight: '1'
+game_text: ! |-
+  When you play this condition, you may stack 2 cards from hand here and draw a card for each [Dwarven] card you stack. Skirmish: Make a Dwarf strength +2. Also, make that Dwarf damage +2 for each [Dwarven] card stacked on this condition. Discard this condition.
+notes: Game text is a clarification.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07010

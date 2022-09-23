@@ -1,0 +1,14 @@
+---
+key: 10C52
+name: Under Foot
+title: Under Foot
+set: mount_doom
+rarity: common
+card_type: condition
+alignment: shadow
+culture: raider
+twilight: '1'
+unique: true
+game_text: ! |-
+  Shadow: If you have initiative, spot a [Raider] Man and discard this condition to reconcile your hand. Skirmish: Discard this condition to make a [Raider] Man strength +2.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10052

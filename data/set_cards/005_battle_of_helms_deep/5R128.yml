@@ -1,0 +1,16 @@
+---
+key: 5R128
+name: Thundering Host (AI)
+title: Thundering Host (AI)
+set: battle_of_helms_deep
+rarity: rare
+card_type: condition
+alignment: free_people
+culture: rohan
+twilight: '1'
+game_text: ! |-
+  Plays to your support area. Skirmish: Discard this condition to make a mounted [Rohan] Man strength +3 (and heal that man if at a plains).
+flavor_text: ! |-
+  The roar of hooves was enough to rout the Uruk-hai without sword or spear.
+notes: Alternate image.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05128

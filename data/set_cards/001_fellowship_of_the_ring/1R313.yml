@@ -1,0 +1,19 @@
+---
+key: 1R313
+name: Sting
+title: Sting
+set: fellowship_of_the_ring
+rarity: rare
+card_type: possession
+subtype: hand_weapon
+alignment: free_people
+culture: shire
+strength: "+2"
+twilight: '1'
+unique: true
+game_text: ! |-
+  Bearer must be Frodo. Fellowship or Regroup: Exert Frodo to reveal an opponent's hand. Remove (1) for each Orc revealed (limit (4)).
+flavor_text: ! |-
+  ”'This is Sting …. Take it, if you like.'”
+notes: 'Lists: EXL, MXL'
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01313

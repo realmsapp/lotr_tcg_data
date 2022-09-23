@@ -1,0 +1,17 @@
+---
+key: 1R216
+name: Morgul Blade
+title: Morgul Blade
+set: fellowship_of_the_ring
+rarity: rare
+card_type: possession
+subtype: hand_weapon
+alignment: shadow
+culture: wraith
+strength: "+1"
+twilight: '1'
+game_text: ! |-
+  Bearer must be a Nazgul. This weapon may be borne in addition to 1 other hand weapon. Skirmish: Discard this possession to transfer Blade Tip from your support area or discard pile to a companion bearer is skirmishing.
+flavor_text: ! |-
+  The gates of Minas Morgul issued Nine Riders into the free lands, a blasphemy to ancient kings.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01216

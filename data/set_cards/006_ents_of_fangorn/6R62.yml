@@ -1,0 +1,15 @@
+---
+key: 6R62
+name: Fires and Foul Fumes
+title: Fires and Foul Fumes
+set: ents_of_fangorn
+rarity: rare
+card_type: event
+alignment: shadow
+culture: isengard
+twilight: '4'
+game_text: ! |-
+  Regroup: Discard 4 [Isengard] orcs to wound a companion 4 times (except the Ring-bearer).
+flavor_text: ! |-
+  ”'One of them… got caught in a spray of some liquid fire and burned like a torch: a horrible sight.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06062

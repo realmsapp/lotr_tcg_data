@@ -1,0 +1,15 @@
+---
+key: 4C7
+name: Dark Fury
+title: Dark Fury
+set: two_towers
+rarity: common
+card_type: event
+alignment: shadow
+culture: dunland
+twilight: '0'
+game_text: ! |-
+  Skirmish: Make a [Dunland] Man strength +2 (or +4 if at a sanctuary).
+flavor_text: ! |-
+  “Dunland and Dunlendings are the names that the Rohirrim gave to them, because they were swarthy and dark-haired….”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04007

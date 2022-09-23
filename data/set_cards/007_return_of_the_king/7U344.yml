@@ -1,0 +1,13 @@
+---
+key: 7U344
+name: City Gates
+title: City Gates
+set: return_of_the_king
+rarity: uncommon
+card_type: site
+twilight: '6'
+site_number: '5'
+game_text: ! |-
+  When the fellowship moves to this site, add 3 threats. When the fellowship moves from this site, remove 3 threats.
+notes: 'Version: +.'
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07344

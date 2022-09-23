@@ -1,0 +1,17 @@
+---
+key: 10C76
+name: Advance Marauder
+title: Advance Marauder
+set: mount_doom
+rarity: common
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '9'
+vitality: '3'
+twilight: '3'
+site_number: '6'
+game_text: ! |-
+  Skirmish: Exert this minion to make a roaming [Sauron] minion strength +3.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10076

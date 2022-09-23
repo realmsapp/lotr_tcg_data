@@ -1,0 +1,19 @@
+---
+key: 4C195
+name: Uruk Seeker
+title: Uruk Seeker
+set: two_towers
+rarity: common
+card_type: minion
+subtype: uruk-hai
+alignment: shadow
+culture: isengard
+strength: '6'
+vitality: '2'
+twilight: '2'
+site_number: '5'
+game_text: ! |-
+  Tracker. Fierce. While skirmishing a character bearing a search card, this minion is strength +2 and damage +1.
+flavor_text: ! |-
+  ”'No crying out, no trying to escape.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04195

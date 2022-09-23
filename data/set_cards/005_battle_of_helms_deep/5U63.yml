@@ -1,0 +1,21 @@
+---
+key: 5U63
+name: Uruk-hai Berserker
+title: Uruk-hai Berserker
+set: battle_of_helms_deep
+rarity: uncommon
+card_type: minion
+subtype: uruk-hai
+alignment: shadow
+culture: isengard
+strength: '7'
+vitality: '3'
+twilight: '4'
+site_number: '5'
+game_text: ! |-
+  Damage +1. This minion is strength +1 for each wound on a character in its skirmish.
+flavor_text: ! |-
+  Goatskins full of blood poured upon berserkers before battle instill their bloodlust.
+notes: The strength bonus for this minion is increased for any wound on any minion,
+  companion, or ally in its skirmish.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05063

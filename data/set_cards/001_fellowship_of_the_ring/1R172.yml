@@ -1,0 +1,19 @@
+---
+key: 1R172
+name: Goblin Archer
+title: Goblin Archer
+set: fellowship_of_the_ring
+rarity: rare
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: moria
+strength: '4'
+vitality: '3'
+twilight: '5'
+site_number: '4'
+game_text: ! |-
+  Archer. While you can spot another [Moria] Orc, the fellowship archery total is -6.
+flavor_text: ! |-
+  “An arrow whistled over Frodo's head.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01172

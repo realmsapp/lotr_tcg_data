@@ -1,0 +1,19 @@
+---
+key: 10P122
+name: Sam, Great Elf Warrior
+title: Sam
+subtitle: Great Elf Warrior
+set: mount_doom
+rarity: promo
+card_type: companion
+subtype: hobbit
+alignment: free_people
+culture: shire
+signet: gandalf
+strength: '3'
+vitality: '4'
+twilight: '2'
+unique: true
+game_text: ! |-
+  Ring-bound. Sam is strength +1 for each [Shire] companion you can spot. Response: If Frodo dies, make Sam the Ring-bearer (resistance 5).
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10122

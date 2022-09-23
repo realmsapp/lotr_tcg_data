@@ -1,0 +1,16 @@
+---
+key: 10C27
+name: Dead Man of Dunharrow
+title: Dead Man of Dunharrow
+set: mount_doom
+rarity: common
+card_type: companion
+subtype: wraith
+alignment: free_people
+culture: gondor
+strength: '6'
+vitality: '3'
+twilight: '2'
+game_text: ! |-
+  Enduring. To play, add a threat. When you play this companion, exert him twice.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10027

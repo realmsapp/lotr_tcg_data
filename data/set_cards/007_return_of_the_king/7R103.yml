@@ -1,0 +1,13 @@
+---
+key: 7R103
+name: Hearts Raised
+title: Hearts Raised
+set: return_of_the_king
+rarity: rare
+card_type: condition
+alignment: free_people
+culture: gondor
+twilight: '2'
+game_text: ! |-
+  At the start of your regroup phase, you may spot a [Gondor] Man and discard a card from hand to remove a threat.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07103

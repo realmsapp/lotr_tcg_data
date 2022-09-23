@@ -1,0 +1,15 @@
+---
+key: 1R99
+name: Change of Plans
+title: Change of Plans
+set: fellowship_of_the_ring
+rarity: rare
+card_type: event
+alignment: free_people
+culture: gondor
+twilight: '0'
+game_text: ! |-
+  Regroup: Exert a ranger to make an opponent shuffle his hand into his draw deck and draw 8 cards.
+flavor_text: ! |-
+  ”'Then let me help you. There are other ways, Frodo - other paths that we might take.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01099

@@ -1,0 +1,17 @@
+---
+key: 4C196
+name: Uruk Spear
+title: Uruk Spear
+set: two_towers
+rarity: common
+card_type: possession
+subtype: hand_weapon
+alignment: shadow
+culture: isengard
+strength: "+2"
+twilight: '1'
+game_text: ! |-
+  Bearer must be an Uruk-hai. Maneuver: Exert bearer to discard a Free Peoples mount.
+flavor_text: ! |-
+  The Uruk-hai braced their long pikes to challenge the oncoming Riders.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04196

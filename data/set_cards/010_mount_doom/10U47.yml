@@ -1,0 +1,13 @@
+---
+key: 10U47
+name: Rallying Call
+title: Rallying Call
+set: mount_doom
+rarity: uncommon
+card_type: condition
+alignment: shadow
+culture: raider
+twilight: '0'
+game_text: ! |-
+  To play, spot a [Raider] Man. Threats cannot be removed by Free Peoples cards. Shadow: Remove (1) and play a Southron to add a threat.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10047

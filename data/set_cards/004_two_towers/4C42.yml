@@ -1,0 +1,15 @@
+---
+key: 4C42
+name: Best Company
+title: Best Company
+set: two_towers
+rarity: common
+card_type: event
+alignment: free_people
+culture: dwarven
+twilight: '0'
+game_text: ! |-
+  Skirmish: Make a Dwarf strength +2 (or +4 if at a battleground).
+flavor_text: ! |-
+  “An axe swung and swept back. Two Orcs fell headless. The rest fled.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04042

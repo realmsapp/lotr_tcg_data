@@ -1,0 +1,17 @@
+---
+key: 4U62
+name: Elven Bow
+title: Elven Bow
+set: two_towers
+rarity: uncommon
+card_type: possession
+subtype: ranged_weapon
+alignment: free_people
+culture: elven
+twilight: '1'
+game_text: ! |-
+  Bearer must be an Elf. Bearer is an archer.
+flavor_text: ! |-
+  No finer bows could defend Helm's Deep than those of the Golden Wood.
+notes: 'Version: +.'
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04062

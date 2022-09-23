@@ -1,0 +1,14 @@
+---
+key: 8C61
+name: Haradwaith
+title: Haradwaith
+set: siege_of_gondor
+rarity: common
+card_type: condition
+alignment: shadow
+culture: raider
+twilight: '1'
+unique: true
+game_text: ! |-
+  While you can spot a [Raider] minion at site 4K, the Shadow has initiative, regardless of the Free Peoples player's hand. Response: If a companion is played, discard a [Raider] card from hand to add (5). Discard this condition.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr08061

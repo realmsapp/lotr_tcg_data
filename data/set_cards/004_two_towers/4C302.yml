@@ -1,0 +1,22 @@
+---
+key: 4C302
+name: Frodo, Tired Traveller
+title: Frodo
+subtitle: Tired Traveller
+set: two_towers
+rarity: common
+card_type: companion
+subtype: hobbit
+alignment: free_people
+culture: shire
+signet: gandalf
+strength: '3'
+vitality: '4'
+twilight: '0'
+unique: true
+ring_bearer: true
+game_text: ! |-
+  Ring-bearer (resistance 10). Fellowship: Play a Ring-bound companion to remove a burden.
+flavor_text: ! |-
+  ”'We have come by long ways - out of Rivendell, or Imladris as some call it.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04302

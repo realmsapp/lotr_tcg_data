@@ -1,0 +1,19 @@
+---
+key: 4C12
+name: Dunlending Madman
+title: Dunlending Madman
+set: two_towers
+rarity: common
+card_type: minion
+subtype: man
+alignment: shadow
+culture: dunland
+strength: '7'
+vitality: '1'
+twilight: '2'
+site_number: '3'
+game_text: ! |-
+  Each time this minion wins a skirmish, you may make him strength +2 and fierce until the regroup phase.
+flavor_text: ! |-
+  ”'They hate us, and they are glad; for our doom seems certain to them.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04012

@@ -1,0 +1,18 @@
+---
+key: 7C59
+name: Gollum, Vile Creature
+title: Gollum
+subtitle: Vile Creature
+set: return_of_the_king
+rarity: common
+card_type: minion
+alignment: shadow
+culture: gollum_shadow
+strength: '5'
+vitality: '4'
+twilight: '2'
+unique: true
+site_number: '3'
+game_text: ! |-
+  Skirmish: Exert Gollum twice or remove a threat to make him strength +2.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07059

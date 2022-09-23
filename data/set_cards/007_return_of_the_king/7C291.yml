@@ -1,0 +1,17 @@
+---
+key: 7C291
+name: Mordor Trooper
+title: Mordor Trooper
+set: return_of_the_king
+rarity: common
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '6'
+vitality: '2'
+twilight: '2'
+site_number: '6'
+game_text: ! |-
+  Skirmish: Remove 2 threats to make a [Sauron] Orc strength +6.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07291

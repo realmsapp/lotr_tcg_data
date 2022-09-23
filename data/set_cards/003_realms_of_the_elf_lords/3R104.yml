@@ -1,0 +1,15 @@
+---
+key: 3R104
+name: Tower of Barad-dur
+title: Tower of Barad-dur
+set: realms_of_the_elf_lords
+rarity: rare
+card_type: condition
+alignment: shadow
+culture: sauron
+twilight: '1'
+game_text: ! |-
+  To play, exert a [Sauron] minion. Plays to your support area. Each time the fellowship moves, the Free Peoples player must discard a card from hand.
+flavor_text: ! |-
+  “The Dark Tower had been rebuilt, it was said. From there the power was spreading….”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr03104

@@ -1,0 +1,19 @@
+---
+key: 4U232
+name: Elite Archer
+title: Elite Archer
+set: two_towers
+rarity: uncommon
+card_type: minion
+subtype: man
+alignment: shadow
+culture: raider
+strength: '8'
+vitality: '2'
+twilight: '4'
+site_number: '4'
+game_text: ! |-
+  Southron. Archer. Archery: Exert this minion to exert a companion (except the Ring-bearer); this minion does not add to the minion archery total.
+flavor_text: ! |-
+  Veteran bowmen are highly valued in the kingdoms of the South.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04232

@@ -1,0 +1,15 @@
+---
+key: 1U198
+name: Through the Misty Mountains
+title: Through the Misty Mountains
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: condition
+alignment: shadow
+culture: moria
+twilight: '1'
+game_text: ! |-
+  Search. To play, exert a [Moria] minion. Plays to your support area. Each time the fellowship moves to site 4, 5, or 6 and contains a Dwarf or Elf, the Free Peoples player discards 2 cards at random from hand.
+flavor_text: ! |-
+  ”'One must tread the path that need chooses.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01198

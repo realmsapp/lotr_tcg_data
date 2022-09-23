@@ -1,0 +1,16 @@
+---
+key: 7U93
+name: Footman's Armor
+title: Footman's Armor
+set: return_of_the_king
+rarity: uncommon
+card_type: possession
+subtype: armor
+alignment: free_people
+culture: gondor
+twilight: '1'
+game_text: ! |-
+  Bearer must be a [Gondor] Man. Response: if bearer is about to be overwhelmed, discard a [Gondor] fortification or a card from hand to make bearer strength +2.
+notes: Each time the response for this card is activated, the conditions for being
+  overwhelmed must be checked again.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07093

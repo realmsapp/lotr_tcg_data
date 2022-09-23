@@ -1,0 +1,18 @@
+---
+key: 4C130
+name: Ranger of Ithilien
+title: Ranger of Ithilien
+set: two_towers
+rarity: common
+card_type: companion
+subtype: man
+alignment: free_people
+culture: gondor
+strength: '6'
+vitality: '3'
+twilight: '3'
+game_text: ! |-
+  Ring-bound. Ranger. When this companion is in your starting fellowship, his twilight cost is -1. While skirmishing a roaming minion, this companion is strength +2.
+flavor_text: ! |-
+  ”…they were goodly men, pale-skinned, dark of hair, with grey eyes and faces sad and proud.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04130

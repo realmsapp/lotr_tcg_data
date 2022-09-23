@@ -1,0 +1,15 @@
+---
+key: 1R228
+name: The Twilight World
+title: The Twilight World
+set: fellowship_of_the_ring
+rarity: rare
+card_type: event
+alignment: shadow
+culture: wraith
+twilight: '0'
+game_text: ! |-
+  Response: If Ring-bearer puts on The One Ring, exert a Nazgul to add 2 burdens.
+flavor_text: ! |-
+  “Immediately, though everything else remained as before, dim and dark, the shapes became terribly clear. He was able to see beneath their black wrappings.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01228

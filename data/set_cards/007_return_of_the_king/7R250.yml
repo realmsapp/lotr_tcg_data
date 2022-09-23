@@ -1,0 +1,15 @@
+---
+key: 7R250
+name: Snowmane
+title: Snowmane
+set: return_of_the_king
+rarity: rare
+card_type: possession
+subtype: mount
+alignment: free_people
+culture: rohan
+twilight: '2'
+unique: true
+game_text: ! |-
+  Bearer must be a [Rohan] Man. At the start of each skirmish involving bearer, each minion skirmishing bearer must exert. Regroup: If bearer is Theoden, exert him to liberate a site. Any Shadow player may remove (2) to prevent this.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07250

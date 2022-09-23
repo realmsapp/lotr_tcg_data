@@ -1,0 +1,21 @@
+---
+key: 1C303
+name: Merry, From O'er the Brandywine
+title: Merry
+subtitle: From O'er the Brandywine
+set: fellowship_of_the_ring
+rarity: common
+card_type: companion
+subtype: hobbit
+alignment: free_people
+culture: shire
+signet: aragorn
+strength: '3'
+vitality: '4'
+twilight: '1'
+unique: true
+game_text: ! |-
+  While Merry bears a weapon, he is strength +2.
+flavor_text: ! |-
+  ”'I don't know why he's so upset, it's only a few carrots … my point is, he's overreacting.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01303

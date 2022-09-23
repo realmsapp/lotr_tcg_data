@@ -1,0 +1,19 @@
+---
+key: 6C72
+name: Rohirrim Traitor
+title: Rohirrim Traitor
+set: ents_of_fangorn
+rarity: common
+card_type: minion
+subtype: man
+alignment: shadow
+culture: isengard
+strength: '6'
+vitality: '2'
+twilight: '2'
+site_number: '3'
+game_text: ! |-
+  While you can spot a companion bearing an [Isengard] condition, this minion is strength +2.
+flavor_text: ! |-
+  ”'Once it was a man, and did you service in its fashion.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06072

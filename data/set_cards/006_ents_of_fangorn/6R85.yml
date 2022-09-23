@@ -1,0 +1,19 @@
+---
+key: 6R85
+name: Sword of Dol Guldur
+title: Sword of Dol Guldur
+set: ents_of_fangorn
+rarity: rare
+card_type: possession
+subtype: hand_weapon
+alignment: shadow
+culture: wraith
+strength: "+2"
+twilight: '2'
+unique: true
+game_text: ! |-
+  Bearer must be a Nazgul. While bearer is Ulaire Toldea, each time he wins a skirmish the Free Peoples player must discard a Free Peoples possession or a Free Peoples condition.
+flavor_text: ! |-
+  The weapons of the Nine are wrought with sorcery.
+notes: Game text is a clarification.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06085

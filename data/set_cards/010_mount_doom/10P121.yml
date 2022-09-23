@@ -1,0 +1,20 @@
+---
+key: 10P121
+name: Frodo, Resolute Hobbit
+title: Frodo
+subtitle: Resolute Hobbit
+set: mount_doom
+rarity: promo
+card_type: companion
+subtype: hobbit
+alignment: free_people
+culture: shire
+signet: frodo
+strength: '3'
+vitality: '4'
+twilight: '0'
+unique: true
+ring_bearer: true
+game_text: ! |-
+  Ring-bearer (resistance 12).
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10121

@@ -1,0 +1,20 @@
+---
+key: 4C68
+name: Ferevellon, Son of Thandronen
+title: Ferevellon
+subtitle: Son of Thandronen
+set: two_towers
+rarity: common
+card_type: companion
+subtype: elf
+alignment: free_people
+culture: elven
+strength: '5'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  To play, spot an Elf. Skirmish: Exert Ferevellon to make a minion skirmishing him strength -2.
+flavor_text: ! |-
+  The Uruks at Helm's Deep fell to his blade as easily as Goblins from the mountains.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04068

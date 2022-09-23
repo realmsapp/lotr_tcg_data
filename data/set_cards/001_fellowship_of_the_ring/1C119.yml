@@ -1,0 +1,15 @@
+---
+key: 1C119
+name: What Are They?
+title: What Are They?
+set: fellowship_of_the_ring
+rarity: common
+card_type: event
+alignment: free_people
+culture: gondor
+twilight: '1'
+game_text: ! |-
+  Maneuver: Spot a ranger to discard a roaming minion.
+flavor_text: ! |-
+  ”'They were men … once.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01119

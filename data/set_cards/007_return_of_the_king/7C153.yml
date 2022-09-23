@@ -1,0 +1,13 @@
+---
+key: 7C153
+name: Mumakil of the Harad
+title: Mumakil of the Harad
+set: return_of_the_king
+rarity: common
+card_type: event
+alignment: shadow
+culture: raider
+twilight: '1'
+game_text: ! |-
+  Spot a [Raider] minion to add (2) for each threat.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07153

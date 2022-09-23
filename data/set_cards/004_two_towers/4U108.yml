@@ -1,0 +1,15 @@
+---
+key: 4U108
+name: Wizardry Indeed
+title: Wizardry Indeed
+set: two_towers
+rarity: uncommon
+card_type: event
+alignment: free_people
+culture: gandalf
+twilight: '4'
+game_text: ! |-
+  Maneuver: If you can spot more minions than companions, exert Gandalf to make an opponent discard a minion.
+flavor_text: ! |-
+  “The hosts of Isengard roared, swaying this way and that, turning from fear to fear.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04108

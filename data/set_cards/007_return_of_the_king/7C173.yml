@@ -1,0 +1,13 @@
+---
+key: 7C173
+name: War Towers
+title: War Towers
+set: return_of_the_king
+rarity: common
+card_type: event
+alignment: shadow
+culture: raider
+twilight: '1'
+game_text: ! |-
+  Spot a [Raider] minion to add a threat. Add an additional threat for each companion over 4.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07173

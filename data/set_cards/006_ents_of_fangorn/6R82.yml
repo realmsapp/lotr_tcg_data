@@ -1,0 +1,15 @@
+---
+key: 6R82
+name: Trample
+title: Trample
+set: ents_of_fangorn
+rarity: rare
+card_type: event
+alignment: shadow
+culture: raider
+twilight: '0'
+game_text: ! |-
+  Maneuver: Spot a mounted [Raider] Man to discard a companion (except the Ring-bearer). The Free Peoples player may add (4) to prevent this.
+flavor_text: ! |-
+  ”'…I stomp round and round, / Never lie on the ground, / Not even to die. / Oliphaunt am I….'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06082

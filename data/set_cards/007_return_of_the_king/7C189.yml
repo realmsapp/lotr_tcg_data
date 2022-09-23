@@ -1,0 +1,17 @@
+---
+key: 7C189
+name: Morgul Cur
+title: Morgul Cur
+set: return_of_the_king
+rarity: common
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: wraith
+strength: '8'
+vitality: '2'
+twilight: '3'
+site_number: '4'
+game_text: ! |-
+  While you can spot a Nazgul, this minion is strength +2.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07189

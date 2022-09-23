@@ -1,0 +1,16 @@
+---
+key: 5U87
+name: Parapet
+title: Parapet
+set: battle_of_helms_deep
+rarity: uncommon
+card_type: condition
+alignment: free_people
+culture: rohan
+twilight: '1'
+unique: true
+game_text: ! |-
+  Fortification. Plays to your support area. Archery: Spot 2 [Rohan] Men to remove 2 tokens from a machine or to make the minion archery total -3. Discard this condition.
+flavor_text: ! |-
+  Upon the spur of rock from the cliff stood high walls of ancient stone.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05087

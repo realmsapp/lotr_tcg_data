@@ -1,0 +1,15 @@
+---
+key: 3C63
+name: One of You Must Do This
+title: One of You Must Do This
+set: realms_of_the_elf_lords
+rarity: common
+card_type: event
+alignment: shadow
+culture: isengard
+twilight: '1'
+game_text: ! |-
+  Maneuver: Exert an [Isengard] minion to make the Free Peoples player exert X companions, where X is the number of these races you can spot in the fellowship: Dwarf, Elf, Man, and Wizard.
+flavor_text: ! |-
+  ”'And if we fail, what then? What happens when Sauron takes back what is his?'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr03063

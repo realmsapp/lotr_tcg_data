@@ -1,0 +1,15 @@
+---
+key: 5R21
+name: Be Back Soon
+title: Be Back Soon
+set: battle_of_helms_deep
+rarity: rare
+card_type: event
+alignment: free_people
+culture: gollum_free_people
+twilight: '1'
+game_text: ! |-
+  Maneuver: Discard Smeagol to discard a minion. An opponent may exert a minion twice to prevent this.
+flavor_text: ! |-
+  ”'Now I wonder where he's got to?'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05021

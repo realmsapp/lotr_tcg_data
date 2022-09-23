@@ -1,0 +1,16 @@
+---
+key: 4R177
+name: Ugluk's Sword
+title: Ugluk's Sword
+set: two_towers
+rarity: rare
+card_type: possession
+subtype: hand_weapon
+alignment: shadow
+culture: isengard
+strength: "+3"
+twilight: '1'
+unique: true
+game_text: ! |-
+  Bearer must be an Uruk-hai. Shadow: If bearer is Ugluk, exert it and discard a minion from hand to play a minion. Its twilight cost is -3.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04177

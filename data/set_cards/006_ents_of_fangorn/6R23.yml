@@ -1,0 +1,19 @@
+---
+key: 6R23
+name: Naith Warband
+title: Naith Warband
+set: ents_of_fangorn
+rarity: rare
+card_type: companion
+subtype: elf
+alignment: free_people
+culture: elven
+strength: '9'
+vitality: '3'
+twilight: '4'
+unique: true
+game_text: ! |-
+  To play, spot 3 Elf companions. While Naith Warband bears a ranged weapon, it takes no more than 1 wound during each skirmish phase and does not add to the fellowship archery total.
+flavor_text: ! |-
+  ”'But do not think that only by singing amid the trees…….'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06023

@@ -1,0 +1,19 @@
+---
+key: 6C27
+name: Ent Avenger
+title: Ent Avenger
+set: ents_of_fangorn
+rarity: common
+card_type: companion
+subtype: ent
+alignment: free_people
+culture: gandalf
+strength: '6'
+vitality: '4'
+twilight: '4'
+game_text: ! |-
+  While you can spot 3 Ents, this companion is strength +2.
+flavor_text: ! |-
+  “As they drew near the flash and flicker of their eyes could be seen.”
+notes: 'Version: +.'
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06027

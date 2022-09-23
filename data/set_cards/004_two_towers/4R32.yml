@@ -1,0 +1,15 @@
+---
+key: 4R32
+name: Ravage the Defeated
+title: Ravage the Defeated
+set: two_towers
+rarity: rare
+card_type: event
+alignment: shadow
+culture: dunland
+twilight: '1'
+game_text: ! |-
+  Response: If your [Dunland] Man wins a skirmish, discard all Free Peoples cards borne by the companion or ally he was skirmishing.
+flavor_text: ! |-
+  What the Dunlendings cannot steal, they destroy.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04032

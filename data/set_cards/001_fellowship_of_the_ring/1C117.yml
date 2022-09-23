@@ -1,0 +1,15 @@
+---
+key: 1C117
+name: Swordsman of the Northern Kingdom
+title: Swordsman of the Northern Kingdom
+set: fellowship_of_the_ring
+rarity: common
+card_type: event
+alignment: free_people
+culture: gondor
+twilight: '0'
+game_text: ! |-
+  Skirmish: Make a ranger strength +2 (or +4 when skirmishing a roaming minion).
+flavor_text: ! |-
+  ”'This is no mere Ranger. He is Aragorn, son of Arathorn … and you owe him your allegiance.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01117

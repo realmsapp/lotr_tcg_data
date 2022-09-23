@@ -1,0 +1,15 @@
+---
+key: 8R103
+name: Grond, Hammer of the Underworld
+title: Grond
+subtitle: Hammer of the Underworld
+set: siege_of_gondor
+rarity: rare
+card_type: possession
+alignment: shadow
+culture: sauron
+twilight: '3'
+unique: true
+game_text: ! |-
+  Engine. Shadow: Play a [Sauron] minion to add a [Sauron] token here. Regroup: Remove X [Sauron] tokens here to discard a Free Peoples card (except a companion) with a twilight cost of X. Discard a [Sauron] minion or this possession.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr08103

@@ -1,0 +1,15 @@
+---
+key: 1U159
+name: Uruk-hai Rampage
+title: Uruk-hai Rampage
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: condition
+alignment: shadow
+culture: isengard
+twilight: '0'
+game_text: ! |-
+  To play, spot an Uruk-hai. Plays to your support area. Response: If your Uruk-hai wins a skirmish, remove (3) to make him fierce until the regroup phase.
+flavor_text: ! |-
+  Victory breeds rage in Saruman's foul creations.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01159

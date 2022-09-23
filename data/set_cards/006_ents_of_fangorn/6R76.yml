@@ -1,0 +1,21 @@
+---
+key: 6R76
+name: The Balrog, Terror of Flame and Shadow
+title: The Balrog
+subtitle: Terror of Flame and Shadow
+set: ents_of_fangorn
+rarity: rare
+card_type: minion
+subtype: balrog
+alignment: shadow
+culture: moria
+strength: '17'
+vitality: '5'
+twilight: '14'
+unique: true
+site_number: '4'
+game_text: ! |-
+  Damage +2. The twilight cost of The Balrog is -3 if you can spot a [Moria] minion. The Balrog cannot be assigned to skirmish companions or allies of strength less than 6.
+flavor_text: ! |-
+  ”'…he burst into new flame.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06076

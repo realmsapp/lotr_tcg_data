@@ -1,0 +1,20 @@
+---
+key: 4U264
+name: Ceorl, Weary Horseman
+title: Ceorl
+subtitle: Weary Horseman
+set: two_towers
+rarity: uncommon
+card_type: companion
+subtype: man
+alignment: free_people
+culture: rohan
+strength: '6'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  Response: If your opponent is about to take control of a site, exert Ceorl and a villager to prevent this.
+flavor_text: ! |-
+  ”'We were driven back yesterday over the Isen with great loss; many perished at the crossing.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04264

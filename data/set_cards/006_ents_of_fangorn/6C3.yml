@@ -1,0 +1,19 @@
+---
+key: 6C3
+name: Dunlending Footmen
+title: Dunlending Footmen
+set: ents_of_fangorn
+rarity: common
+card_type: minion
+subtype: man
+alignment: shadow
+culture: dunland
+strength: '11'
+vitality: '2'
+twilight: '5'
+site_number: '3'
+game_text: ! |-
+  The twilight cost of this minion during a skirmish phase is -2.
+flavor_text: ! |-
+  Driven by Saruman's ranting, waves of Dunlendings descended upon the holdings of Rohan.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06003

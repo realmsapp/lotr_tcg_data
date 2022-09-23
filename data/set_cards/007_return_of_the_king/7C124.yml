@@ -1,0 +1,17 @@
+---
+key: 7C124
+name: Targon
+title: Targon
+set: return_of_the_king
+rarity: common
+card_type: companion
+subtype: man
+alignment: free_people
+culture: gondor
+strength: '6'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  Ranger. Skirmish: If you have initiative, discard 2 cards from hand to wound a Man Targon is skirmishing.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07124

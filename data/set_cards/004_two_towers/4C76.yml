@@ -1,0 +1,18 @@
+---
+key: 4C76
+name: Lorien Guardian
+title: Lorien Guardian
+set: two_towers
+rarity: common
+card_type: companion
+subtype: elf
+alignment: free_people
+culture: elven
+strength: '5'
+vitality: '3'
+twilight: '2'
+game_text: ! |-
+  Regroup: Exert this companion to make a Shadow player wound a minion.
+flavor_text: ! |-
+  Haldir's Elven bowmen were experienced defenders of the borders of the Golden Wood
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04076

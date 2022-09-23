@@ -1,0 +1,17 @@
+---
+key: 10C81
+name: Cirith Ungol Guard
+title: Cirith Ungol Guard
+set: mount_doom
+rarity: common
+card_type: minion
+subtype: uruk-hai
+alignment: shadow
+culture: sauron
+strength: '9'
+vitality: '2'
+twilight: '3'
+site_number: '6'
+game_text: ! |-
+  Damage +1.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10081

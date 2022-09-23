@@ -1,0 +1,14 @@
+---
+key: 7C83
+name: City of Men
+title: City of Men
+set: return_of_the_king
+rarity: common
+card_type: event
+alignment: free_people
+culture: gondor
+twilight: '1'
+game_text: ! |-
+  Make a [Gondor] Man strength +2. If that Man is skirmishing a [Sauron] minion, discard that minion at the end of the skirmish.
+notes: You may discard only one [Sauron] minion for each copy of this card played.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07083

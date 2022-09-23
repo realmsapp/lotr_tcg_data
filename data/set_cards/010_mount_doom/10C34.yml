@@ -1,0 +1,13 @@
+---
+key: 10C34
+name: Last Throw
+title: Last Throw
+set: mount_doom
+rarity: common
+card_type: event
+alignment: free_people
+culture: gondor
+twilight: '5'
+game_text: ! |-
+  If no opponent controls a site, spot 2 [Gondor] Men to make the move limit +1 for this turn.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10034

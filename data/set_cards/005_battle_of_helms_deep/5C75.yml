@@ -1,0 +1,19 @@
+---
+key: 5C75
+name: Southron Runner
+title: Southron Runner
+set: battle_of_helms_deep
+rarity: common
+card_type: minion
+subtype: man
+alignment: shadow
+culture: raider
+strength: '4'
+vitality: '1'
+twilight: '3'
+site_number: '4'
+game_text: ! |-
+  Southron. Ambush (2). While you can spot a Southron, this minion's twilight cost is - 2.
+flavor_text: ! |-
+  Swift scouts track enemy movements to set up surprise attacks.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05075

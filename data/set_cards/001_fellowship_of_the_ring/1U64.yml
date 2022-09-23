@@ -1,0 +1,15 @@
+---
+key: 1U64
+name: Support of the Last Homely House
+title: Support of the Last Homely House
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: event
+alignment: free_people
+culture: elven
+twilight: '1'
+game_text: ! |-
+  Maneuver: Exert an Elf ally whose home is site 3. Until the regroup phase, that ally is strength +3 and participates in archery fire and skirmishes.
+flavor_text: ! |-
+  “Merely to be there was a cure for weariness, fear, and sadness.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01064

@@ -1,0 +1,19 @@
+---
+key: 7C323
+name: Pippin, Sworn to Service
+title: Pippin
+subtitle: Sworn to Service
+set: return_of_the_king
+rarity: common
+card_type: companion
+subtype: hobbit
+alignment: free_people
+culture: shire
+signet: gandalf
+strength: '3'
+vitality: '4'
+twilight: '1'
+unique: true
+game_text: ! |-
+  While you cannot spot 4 threats, Pippin is strength +1 for each threat you can spot.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07323

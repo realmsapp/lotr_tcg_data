@@ -1,0 +1,15 @@
+---
+key: 4U242
+name: Raiders From the East
+title: Raiders From the East
+set: two_towers
+rarity: uncommon
+card_type: condition
+alignment: shadow
+culture: raider
+twilight: '0'
+game_text: ! |-
+  Plays to your support area. Shadow: Remove (3) and exert a [Raider] Man to place a [Raider] token here. Maneuver: Remove a [Raider] token here to add (1).
+flavor_text: ! |-
+  The Easterlings raid their enemies to gather supplies and equipment.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04242

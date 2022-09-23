@@ -1,0 +1,15 @@
+---
+key: 2C91
+name: Southern Spies
+title: Southern Spies
+set: mines_of_moria
+rarity: common
+card_type: event
+alignment: shadow
+culture: sauron
+twilight: '0'
+game_text: ! |-
+  Response: If the Ring-bearer puts on The One Ring, spot a [Sauron] minion to make the Free Peoples player discard his or her hand.
+flavor_text: ! |-
+  ”'They will know all the news now, for they have visited Bill Ferny; and probably that Southerner was a spy as well.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02091

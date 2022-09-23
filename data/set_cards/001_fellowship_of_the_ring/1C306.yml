@@ -1,0 +1,21 @@
+---
+key: 1C306
+name: Pippin, Friend to Frodo
+title: Pippin
+subtitle: Friend to Frodo
+set: fellowship_of_the_ring
+rarity: common
+card_type: companion
+subtype: hobbit
+alignment: free_people
+culture: shire
+signet: frodo
+strength: '3'
+vitality: '4'
+twilight: '1'
+unique: true
+game_text: ! |-
+  Your opponent may not discard your [Shire] tales from play.
+flavor_text: ! |-
+  ”'Baggins? Sure I know a Baggins - Frodo's my second cousin once-removed, on his mother's side and my third cousin twice-removed on his father's side, if you follow me.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01306

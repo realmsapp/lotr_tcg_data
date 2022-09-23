@@ -1,0 +1,20 @@
+---
+key: 4R158
+name: Lieutenant of Orthanc
+title: Lieutenant of Orthanc
+set: two_towers
+rarity: rare
+card_type: minion
+subtype: uruk-hai
+alignment: shadow
+culture: isengard
+strength: '12'
+vitality: '3'
+twilight: '7'
+unique: true
+site_number: '5'
+game_text: ! |-
+  Damage +1. Maneuver: Exert Lieutenant of Orthanc to make another Uruk-hai fierce until the regroup phase.
+flavor_text: ! |-
+  ”'Do you wish to see the greatness of our army? We are the fighting Uruk-hai.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04158

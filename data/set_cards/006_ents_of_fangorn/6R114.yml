@@ -1,0 +1,21 @@
+---
+key: 6R114
+name: Pippin, Hastiest of All
+title: Pippin
+subtitle: Hastiest of All
+set: ents_of_fangorn
+rarity: rare
+card_type: companion
+subtype: hobbit
+alignment: free_people
+culture: shire
+signet: aragorn
+strength: '3'
+vitality: '4'
+twilight: '1'
+unique: true
+game_text: ! |-
+  Regroup: Discard Pippin to choose a Shadow player who must wound one of his or her minions.
+flavor_text: ! |-
+  ”'By root and twig, but this is a strange business: up sprout a little folk that are not in the old lists….'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06114

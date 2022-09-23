@@ -1,0 +1,15 @@
+---
+key: 6C53
+name: Mortal Men
+title: Mortal Men
+set: ents_of_fangorn
+rarity: common
+card_type: event
+alignment: free_people
+culture: gondor
+twilight: '0'
+game_text: ! |-
+  Skirmish: Make a [Gondor] Man strength +2 (and exert a minion if you spot a [Rohan] token).
+flavor_text: ! |-
+  ”'I fear neither death nor pain.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06053

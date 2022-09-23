@@ -1,0 +1,13 @@
+---
+key: 7R269
+name: Fires Raged Unchecked
+title: Fires Raged Unchecked
+set: return_of_the_king
+rarity: rare
+card_type: condition
+alignment: shadow
+culture: sauron
+twilight: '1'
+game_text: ! |-
+  The site number of each [Sauron] Orc is -1 for each threat. While you can spot 3 threats, each [Sauron] Orc that is not roaming is strength +1
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07269

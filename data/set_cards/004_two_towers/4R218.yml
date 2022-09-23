@@ -1,0 +1,18 @@
+---
+key: 4R218
+name: Desert Legion
+title: Desert Legion
+set: two_towers
+rarity: rare
+card_type: minion
+subtype: man
+alignment: shadow
+culture: raider
+strength: '13'
+vitality: '3'
+twilight: '6'
+unique: true
+site_number: '4'
+game_text: ! |-
+  Southron. Ambush (1). While you can spot 4 burdens, this minion is strength +5. While you can spot 5 burdens, this minion is fierce. While you can spot 6 burdens, this minion is damage +1.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04218

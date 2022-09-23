@@ -1,0 +1,21 @@
+---
+key: 4R40
+name: Wulf, Dunlending Chieftain
+title: Wulf
+subtitle: Dunlending Chieftain
+set: two_towers
+rarity: rare
+card_type: minion
+subtype: man
+alignment: shadow
+culture: dunland
+strength: '10'
+vitality: '2'
+twilight: '4'
+unique: true
+site_number: '3'
+game_text: ! |-
+  Fierce. Response: If another [Dunland] Man wins a skirmish, exert Wulf to take control of a site.
+flavor_text: ! |-
+  ”'Do you not hear their voices?'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04040

@@ -1,0 +1,17 @@
+---
+key: 6C59
+name: Banner of Isengard
+title: Banner of Isengard
+set: ents_of_fangorn
+rarity: common
+card_type: possession
+subtype: hand_weapon
+alignment: shadow
+culture: isengard
+strength: "+1"
+twilight: '0'
+game_text: ! |-
+  Bearer must be an [Isengard] minion. Each time bearer wins a skirmish, the Free Peoples player must exert a companion for each site you control.
+flavor_text: ! |-
+  ”…blazoned upon every helm and shield the ghastly hand of Isengard was seen.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06059

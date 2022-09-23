@@ -1,0 +1,17 @@
+---
+key: 7C96
+name: Gondorian Captain
+title: Gondorian Captain
+set: return_of_the_king
+rarity: common
+card_type: companion
+subtype: man
+alignment: free_people
+culture: gondor
+strength: '6'
+vitality: '3'
+twilight: '2'
+game_text: ! |-
+  Knight. Fellowship: Discard a fortification to remove a threat.
+notes: 'Lists: MXL'
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07096

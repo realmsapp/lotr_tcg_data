@@ -1,0 +1,21 @@
+---
+key: 5P122
+name: Eowyn, Daughter of Eomund
+title: Eowyn
+subtitle: Daughter of Eomund
+set: battle_of_helms_deep
+rarity: promo
+card_type: companion
+subtype: man
+alignment: free_people
+culture: rohan
+signet: gandalf
+strength: '6'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  Valiant. Maneuver: Play a [Rohan] possession on Eowyn to heal her.
+flavor_text: ! |-
+  ””
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05122

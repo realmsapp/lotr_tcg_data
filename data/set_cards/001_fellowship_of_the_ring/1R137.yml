@@ -1,0 +1,15 @@
+---
+key: 1R137
+name: Saruman's Reach
+title: Saruman's Reach
+set: fellowship_of_the_ring
+rarity: rare
+card_type: event
+alignment: shadow
+culture: isengard
+twilight: '0'
+game_text: ! |-
+  Search. Maneuver: Exert an Uruk-hai to make the opponent choose to either exert 2 companions or make the Ring-bearer put on The One Ring until the regroup phase.
+flavor_text: ! |-
+  Saruman used both magic and minions to impose his will.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01137

@@ -1,0 +1,17 @@
+---
+key: 7R241
+name: Merry's Armor
+title: Merry's Armor
+set: return_of_the_king
+rarity: rare
+card_type: possession
+subtype: armor
+alignment: free_people
+culture: rohan
+strength: "+2"
+vitality: "-1"
+twilight: '0'
+unique: true
+game_text: ! |-
+  Bearer must be Merry. While you can spot 3 [Rohan] Men, Merry cannot be overwhelmed unless his strength is tripled.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07241

@@ -1,0 +1,19 @@
+---
+key: 10R21
+name: Gollum, Mad Thing
+title: Gollum
+subtitle: Mad Thing
+set: mount_doom
+rarity: rare
+card_type: minion
+alignment: shadow
+culture: gollum_shadow
+strength: '5'
+vitality: '4'
+twilight: '2'
+unique: true
+site_number: '3'
+game_text: ! |-
+  To assign Gollum to a skirmish, the Free Peoples player must make Gollum strength +3 until the regroup phase or add a burden.
+notes: Gollum's game text does not apply if a Shadow player assigns him to a skirmish.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10021

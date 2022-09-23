@@ -1,0 +1,21 @@
+---
+key: 4C117
+name: Faramir, Son of Denethor
+title: Faramir
+subtitle: Son of Denethor
+set: two_towers
+rarity: common
+card_type: companion
+subtype: man
+alignment: free_people
+culture: gondor
+signet: frodo
+strength: '7'
+vitality: '3'
+twilight: '3'
+unique: true
+game_text: ! |-
+  Ring-bound. Ranger. An opponent may not play skirmish events or use skirmish special abilities during skirmishes involving Faramir.
+flavor_text: ! |-
+  “He could see Faramir's face, which was now unmasked; it was stern and commanding, and a keen wit lay behind his searching glance.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04117

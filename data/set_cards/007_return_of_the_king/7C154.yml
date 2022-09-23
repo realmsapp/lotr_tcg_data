@@ -1,0 +1,13 @@
+---
+key: 7C154
+name: New Strength Came Now
+title: New Strength Came Now
+set: return_of_the_king
+rarity: common
+card_type: event
+alignment: shadow
+culture: raider
+twilight: '2'
+game_text: ! |-
+  Make a [Raider] Man strength +3 (or +6 if you have initiative).
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07154

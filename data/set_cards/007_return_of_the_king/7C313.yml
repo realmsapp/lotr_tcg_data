@@ -1,0 +1,13 @@
+---
+key: 7C313
+name: Some Secret Art of Flame
+title: Some Secret Art of Flame
+set: return_of_the_king
+rarity: common
+card_type: condition
+alignment: shadow
+culture: sauron
+twilight: '1'
+game_text: ! |-
+  To play, spot a [Sauron] Orc. Regroup: Play a [Sauron] condition to place a [Sauron] token on this card. While there are 3 tokens on this card, the Shadow has initiative, regardless of the Free Peoples player's hand.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07313

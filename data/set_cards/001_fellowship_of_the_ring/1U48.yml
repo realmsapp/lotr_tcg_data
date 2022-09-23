@@ -1,0 +1,20 @@
+---
+key: 1U48
+name: Haldir, Elf of the Golden Wood
+title: Haldir
+subtitle: Elf of the Golden Wood
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: companion
+subtype: elf
+alignment: free_people
+culture: elven
+strength: '5'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  To play, spot an Elf. While Haldir is at site 6, 7, or 8, he is strength +2.
+flavor_text: ! |-
+  ”'But there are some of us still who go abroad for the gathering of news and the watching of our enemies …. I am one. Haldir is my name.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01048

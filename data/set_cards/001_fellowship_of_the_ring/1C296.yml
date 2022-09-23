@@ -1,0 +1,15 @@
+---
+key: 1C296
+name: Hobbit Intuition
+title: Hobbit Intuition
+set: fellowship_of_the_ring
+rarity: common
+card_type: event
+alignment: free_people
+culture: shire
+twilight: '1'
+game_text: ! |-
+  Stealth. Skirmish: At sites 1 to 4, cancel a skirmish involving a Hobbit. At any other site, make a Hobbit strength +3.
+flavor_text: ! |-
+  ”'What? That were just a little detour, that's all … a shortcut.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01296

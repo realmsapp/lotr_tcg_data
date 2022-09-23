@@ -1,0 +1,20 @@
+---
+key: 5U10
+name: Balglin, Elven Warrior
+title: Balglin
+subtitle: Elven Warrior
+set: battle_of_helms_deep
+rarity: uncommon
+card_type: companion
+subtype: elf
+alignment: free_people
+culture: elven
+strength: '5'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  To play, spot an Elf. While skirmishing a wounded minion, Balglin takes no more than 1 wound during each skirmish phase.
+flavor_text: ! |-
+  He is a strong fighter. He asks for no quarter and gives none.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05010

@@ -1,0 +1,21 @@
+---
+key: 1P364
+name: Gandalf, The Grey Wizard
+title: Gandalf
+subtitle: The Grey Wizard
+set: fellowship_of_the_ring
+rarity: promo
+card_type: companion
+subtype: wizard
+alignment: free_people
+culture: gandalf
+signet: gandalf
+strength: '7'
+vitality: '4'
+twilight: '4'
+unique: true
+game_text: ! |-
+  Fellowship: Exert Gandalf to play a companion who has the Gandalf signet. The twilight cost of that companion is -2.
+flavor_text: ! |-
+  ”…his long white hair, his sweeping silver beard, and his broad shoulders, made him look like some wise king of ancient legend.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01364

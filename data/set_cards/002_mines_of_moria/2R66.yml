@@ -1,0 +1,19 @@
+---
+key: 2R66
+name: Huge Tentacle
+title: Huge Tentacle
+set: mines_of_moria
+rarity: rare
+card_type: minion
+subtype: creature
+alignment: shadow
+culture: moria
+strength: '7'
+vitality: '2'
+twilight: '2'
+site_number: '4'
+game_text: ! |-
+  Tentacle. Damage +1. When you play this minion, you may play Watcher in the Water from your draw deck. This minion may not bear possessions and is discarded if not at a marsh.
+flavor_text: ! |-
+  “Out from the water a long sinuous tentacle had crawled; it was pale-green and luminous and wet.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02066

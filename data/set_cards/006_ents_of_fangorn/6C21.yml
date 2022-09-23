@@ -1,0 +1,17 @@
+---
+key: 6C21
+name: Naith Longbow
+title: Naith Longbow
+set: ents_of_fangorn
+rarity: common
+card_type: possession
+subtype: ranged_weapon
+alignment: free_people
+culture: elven
+strength: "+1"
+twilight: '1'
+game_text: ! |-
+  Bearer must be an Elf companion. Archery: Exert bearer to discard the top card of your draw deck. If it is an [Elven] card, exert a minion.
+flavor_text: ! |-
+  ”'Show them no mercy, for you shall receive none.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06021

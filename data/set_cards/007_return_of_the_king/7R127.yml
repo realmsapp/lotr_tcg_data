@@ -1,0 +1,17 @@
+---
+key: 7R127
+name: Vorondil
+title: Vorondil
+set: return_of_the_king
+rarity: rare
+card_type: companion
+subtype: man
+alignment: free_people
+culture: gondor
+strength: '5'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  While no opponent controls a site, Vorondil is strength +2. Regroup: Exert 3 [Gondor] Men or 2 knights to liberate a site.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07127

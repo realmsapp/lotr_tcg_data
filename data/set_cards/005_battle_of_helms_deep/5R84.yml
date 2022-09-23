@@ -1,0 +1,15 @@
+---
+key: 5R84
+name: I Am Here
+title: I Am Here
+set: battle_of_helms_deep
+rarity: rare
+card_type: event
+alignment: free_people
+culture: rohan
+twilight: '3'
+game_text: ! |-
+  Fellowship: Exert Theoden twice to heal every other companion with the Theoden signet twice.
+flavor_text: ! |-
+  ”'The last host of the Eorlingas has ridden forth. It will not return without battle.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05084

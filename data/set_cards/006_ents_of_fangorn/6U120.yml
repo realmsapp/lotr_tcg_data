@@ -1,0 +1,12 @@
+---
+key: 6U120
+name: Saruman's Laboratory
+title: Saruman's Laboratory
+set: ents_of_fangorn
+rarity: uncommon
+card_type: site
+twilight: '9'
+site_number: '9'
+game_text: ! |-
+  Response: If your minion is about to take a wound, discard 2 cards from hand to prevent that wound.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06120

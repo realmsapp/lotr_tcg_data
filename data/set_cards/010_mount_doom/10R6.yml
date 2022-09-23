@@ -1,0 +1,19 @@
+---
+key: 10R6
+name: Arwen, Queen of Elves and Men
+title: Arwen
+subtitle: Queen of Elves and Men
+set: mount_doom
+rarity: rare
+card_type: companion
+subtype: elf
+alignment: free_people
+culture: elven
+signet: frodo
+strength: '6'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  Each minion skirmishing Arwen is strength -2 for each wounded minion you can spot.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10006

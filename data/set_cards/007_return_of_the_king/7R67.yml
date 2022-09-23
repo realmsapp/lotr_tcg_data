@@ -1,0 +1,14 @@
+---
+key: 7R67
+name: Plotting
+title: Plotting
+set: return_of_the_king
+rarity: rare
+card_type: condition
+alignment: shadow
+culture: gollum_shadow
+twilight: '5'
+unique: true
+game_text: ! |-
+  To play, spot Gollum and add up to 9 threats. Gollum is strength +2. Discard this condition and remove 9 threats at the start of the regroup phase.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07067

@@ -1,0 +1,15 @@
+---
+key: 4U66
+name: Feathered
+title: Feathered
+set: two_towers
+rarity: uncommon
+card_type: event
+alignment: free_people
+culture: elven
+twilight: '1'
+game_text: ! |-
+  Skirmish: Make a minion skirmishing an Elf strength -2 for each wound on that minion.
+flavor_text: ! |-
+  Elven swords found the same targets as their arrows.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04066

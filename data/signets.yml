@@ -1,6 +1,11 @@
+---
+- key: none
+  name: None
 - key: aragorn
   name: Aragorn
 - key: frodo
   name: Frodo
 - key: gandalf
   name: Gandalf
+- key: theoden
+  name: Theoden

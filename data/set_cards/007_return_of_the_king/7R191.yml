@@ -1,0 +1,17 @@
+---
+key: 7R191
+name: Morgul Detachment
+title: Morgul Detachment
+set: return_of_the_king
+rarity: rare
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: wraith
+strength: '15'
+vitality: '4'
+twilight: '7'
+site_number: '4'
+game_text: ! |-
+  While you can spot a Nazgul, this minion is fierce and damage +1.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07191

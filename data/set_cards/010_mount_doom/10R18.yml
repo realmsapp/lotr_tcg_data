@@ -1,0 +1,18 @@
+---
+key: 10R18
+name: Treebeard, Keeper of the Watchwood
+title: Treebeard
+subtitle: Keeper of the Watchwood
+set: mount_doom
+rarity: rare
+card_type: companion
+subtype: ent
+alignment: free_people
+culture: gandalf
+strength: '12'
+vitality: '4'
+twilight: '5'
+unique: true
+game_text: ! |-
+  To play, spot 3 [Gandalf] companions. Regroup: Exert Treebeard twice to play a [Gandalf] condition from your discard pile and make an opponent discard one of his or her conditions.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10018

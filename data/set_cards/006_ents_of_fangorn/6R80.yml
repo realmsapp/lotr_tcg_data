@@ -1,0 +1,19 @@
+---
+key: 6R80
+name: Southron Archer Legion
+title: Southron Archer Legion
+set: ents_of_fangorn
+rarity: rare
+card_type: minion
+subtype: man
+alignment: shadow
+culture: raider
+strength: '13'
+vitality: '4'
+twilight: '8'
+site_number: '4'
+game_text: ! |-
+  Southron. Archer. Archery: Remove (3) to add 1 to the minion archery total for each companion over 4 (limit +4).
+flavor_text: ! |-
+  ”'But I've heard tales of the big folk down away in the Sunlands.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06080

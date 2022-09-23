@@ -1,0 +1,13 @@
+---
+key: 8U19
+name: On Your Doorstep
+title: On Your Doorstep
+set: siege_of_gondor
+rarity: uncommon
+card_type: event
+alignment: free_people
+culture: gandalf
+twilight: '1'
+game_text: ! |-
+  Spot Gandalf and exert a companion to place a card of that companion's culture from your discard pile on top of your draw deck.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr08019

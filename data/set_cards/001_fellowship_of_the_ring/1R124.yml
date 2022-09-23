@@ -1,0 +1,15 @@
+---
+key: 1R124
+name: Cruel Caradhras
+title: Cruel Caradhras
+set: fellowship_of_the_ring
+rarity: rare
+card_type: event
+alignment: shadow
+culture: isengard
+twilight: '2'
+game_text: ! |-
+  Spell. Weather. Maneuver: Exert a [Isengard] minion to make the opponent choose to either exert the Ring-bearer or add a burden.
+flavor_text: ! |-
+  ”'Yonder stands Barazinbar, the Redhorn, cruel Caradhras….'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01124

@@ -1,0 +1,13 @@
+---
+key: 7R249
+name: Seeking New Foes
+title: Seeking New Foes
+set: return_of_the_king
+rarity: rare
+card_type: condition
+alignment: free_people
+culture: rohan
+twilight: '2'
+game_text: ! |-
+  Skirmishes are resolved in an order decided by the first Shadow player. Each time a [Rohan] Man wins a skirmish, place a [Rohan] token here. Each [Rohan] Man is strength +1 for each token here. Discard this condition during the regroup phase.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07249

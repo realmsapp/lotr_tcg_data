@@ -1,0 +1,21 @@
+---
+key: 4R48
+name: Gimli, Lockbearer
+title: Gimli
+subtitle: Lockbearer
+set: two_towers
+rarity: rare
+card_type: companion
+subtype: dwarf
+alignment: free_people
+culture: dwarven
+signet: aragorn
+strength: '6'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  Damage +1. Gimli is strength +1 for each unbound Hobbit companion you can spot.
+flavor_text: ! |-
+  ”'You speak evil of that which is fair beyond the reach of your thought, and only little wit can excuse you.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04048

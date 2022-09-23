@@ -1,0 +1,16 @@
+---
+key: 1R263
+name: Orc Banner
+title: Orc Banner
+set: fellowship_of_the_ring
+rarity: rare
+card_type: condition
+alignment: shadow
+culture: sauron
+twilight: '1'
+game_text: ! |-
+  Plays to your support area. Each time a companion or ally loses a skirmish that involves a [Sauron] Orc, each [Sauron] Orc is strength +1 until the regroup phase.
+flavor_text: ! |-
+  Tribes of Orcs from throughout Mordor rally to the banner of the Dark Tower.
+notes: Game text is a clarification.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01263

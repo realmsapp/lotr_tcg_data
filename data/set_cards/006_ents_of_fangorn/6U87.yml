@@ -1,0 +1,21 @@
+---
+key: 6U87
+name: Ulaire Nertea, Winged Hunter
+title: Ulaire Nertea
+subtitle: Winged Hunter
+set: ents_of_fangorn
+rarity: uncommon
+card_type: minion
+subtype: nazgul
+alignment: shadow
+culture: wraith
+strength: '9'
+vitality: '2'
+twilight: '4'
+unique: true
+site_number: '3'
+game_text: ! |-
+  When you play Ulaire Nertea, spot another Nazgul to make the Free Peoples player exert a Ring-bound companion for each Free Peoples culture you can spot over 2.
+flavor_text: ! |-
+  “A vast winged shape passed over the moon like a black cloud… The stars fainted before it….”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06087

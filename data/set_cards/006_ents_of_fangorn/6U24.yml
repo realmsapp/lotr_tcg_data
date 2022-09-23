@@ -1,0 +1,15 @@
+---
+key: 6U24
+name: Boomed and Trumpeted
+title: Boomed and Trumpeted
+set: ents_of_fangorn
+rarity: uncommon
+card_type: event
+alignment: free_people
+culture: gandalf
+twilight: '0'
+game_text: ! |-
+  Skirmish: Make an Ent strength +X and damage +X, where X is the number of unbound Hobbits you can spot.
+flavor_text: ! |-
+  ”'For bole and bough are burning now, the furnace roars-we go to war!'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06024

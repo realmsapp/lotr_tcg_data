@@ -1,0 +1,17 @@
+---
+key: 10U26
+name: Cursed of Erech
+title: Cursed of Erech
+set: mount_doom
+rarity: uncommon
+card_type: companion
+subtype: wraith
+alignment: free_people
+culture: gondor
+strength: '7'
+vitality: '3'
+twilight: '3'
+unique: true
+game_text: ! |-
+  Enduring. To play, add a threat. When you play Cursed of Erech, exert him twice. At the start of the maneuver phase, you may exert another [Gondor] Wraith to make Cursed of Erech defender +1 until the regroup phase.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10026

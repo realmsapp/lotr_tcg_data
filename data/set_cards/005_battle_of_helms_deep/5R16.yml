@@ -1,0 +1,15 @@
+---
+key: 5R16
+name: Down From the Hills
+title: Down From the Hills
+set: battle_of_helms_deep
+rarity: rare
+card_type: event
+alignment: free_people
+culture: gandalf
+twilight: '5'
+game_text: ! |-
+  Spell. Maneuver: Exert Gandalf 3 times to make an unbound companion with the Gandalf signet strength +5, defender +1, damage +2, and unable to take wounds until the regroup phase.
+flavor_text: ! |-
+  “Down leaped Shadowfax, like a deer….”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05016

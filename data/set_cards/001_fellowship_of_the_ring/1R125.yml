@@ -1,0 +1,15 @@
+---
+key: 1R125
+name: Greed
+title: Greed
+set: fellowship_of_the_ring
+rarity: rare
+card_type: condition
+alignment: shadow
+culture: isengard
+twilight: '1'
+game_text: ! |-
+  To play, spot an Uruk-hai. Plays to your support area. Maneuver: Spot 6 companions and remove (2) to wound a companion (except the Ring-bearer).
+flavor_text: ! |-
+  ”'It is a strange fate that we should suffer so much fear and doubt over so small a thing….'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01125

@@ -1,0 +1,17 @@
+---
+key: 1C269
+name: Orc Scimitar
+title: Orc Scimitar
+set: fellowship_of_the_ring
+rarity: common
+card_type: possession
+subtype: hand_weapon
+alignment: shadow
+culture: sauron
+strength: "+2"
+twilight: '1'
+game_text: ! |-
+  Bearer must be a [Sauron] Orc. Skirmish: Remove (1) to make bearer strength +1 (limit +3).
+flavor_text: ! |-
+  An Orc's weapon reflects his passion for war and cruelty.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01269

@@ -1,0 +1,17 @@
+---
+key: 4C142
+name: Broad-bladed Sword
+title: Broad-bladed Sword
+set: two_towers
+rarity: common
+card_type: possession
+subtype: hand_weapon
+alignment: shadow
+culture: isengard
+strength: "+2"
+twilight: '1'
+game_text: ! |-
+  Bearer must be an Uruk-hai. Bearer may not take wounds (except during skirmish phases).
+flavor_text: ! |-
+  “They were armed with short broad-bladed swords, not with the curved scimitars usual with Orcs….”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04142

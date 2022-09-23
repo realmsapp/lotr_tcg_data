@@ -1,0 +1,15 @@
+---
+key: 1U227
+name: Threshold of Shadow
+title: Threshold of Shadow
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: event
+alignment: shadow
+culture: wraith
+twilight: '1'
+game_text: ! |-
+  Skirmish: Make a Nazgul strength +2 (or +4 if you spot 5 burdens).
+flavor_text: ! |-
+  ”'They did not need the guidance of their horses any longer: you had become visible to them….”'
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01227

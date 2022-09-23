@@ -1,0 +1,15 @@
+---
+key: 4R243
+name: Rapid Fire
+title: Rapid Fire
+set: two_towers
+rarity: rare
+card_type: event
+alignment: shadow
+culture: raider
+twilight: '6'
+game_text: ! |-
+  Archery: Exert a [Raider] archer to make the minion archery total +1 for each burden (limit +5).
+flavor_text: ! |-
+  Wars between the southern kingdoms taught speed and precision to the archers of the Haradrim.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04243

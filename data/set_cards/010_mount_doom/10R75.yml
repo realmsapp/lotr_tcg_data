@@ -1,0 +1,18 @@
+---
+key: 10R75
+name: Advance Captain
+title: Advance Captain
+set: mount_doom
+rarity: rare
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '10'
+vitality: '3'
+twilight: '3'
+unique: true
+site_number: '6'
+game_text: ! |-
+  Each roaming [Sauron] minion is damage +1.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10075

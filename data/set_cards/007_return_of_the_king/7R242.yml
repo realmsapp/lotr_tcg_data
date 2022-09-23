@@ -1,0 +1,16 @@
+---
+key: 7R242
+name: Merry's Sword
+title: Merry's Sword
+set: return_of_the_king
+rarity: rare
+card_type: possession
+subtype: hand_weapon
+alignment: free_people
+culture: rohan
+strength: "+2"
+twilight: '1'
+unique: true
+game_text: ! |-
+  Bearer must be Merry. Maneuver: Exert Merry twice to exert a minion once for each [Rohan] companion you spot.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07242

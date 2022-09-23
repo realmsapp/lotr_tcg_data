@@ -1,0 +1,15 @@
+---
+key: 2U28
+name: Wielder of the Flame
+title: Wielder of the Flame
+set: mines_of_moria
+rarity: uncommon
+card_type: event
+alignment: free_people
+culture: gandalf
+twilight: '1'
+game_text: ! |-
+  Spell. Maneuver: Spot Gandalf to make a companion defender +1 until the regroup phase. Any Shadow player may remove (3) to prevent this.
+flavor_text: ! |-
+  “The Balrog made no answer. The fire in it seemed to die, but the darkness grew.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02028

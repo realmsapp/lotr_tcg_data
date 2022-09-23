@@ -1,0 +1,15 @@
+---
+key: 1R36
+name: Curse Their Foul Feet!
+title: Curse Their Foul Feet!
+set: fellowship_of_the_ring
+rarity: rare
+card_type: event
+alignment: free_people
+culture: elven
+twilight: '0'
+game_text: ! |-
+  Fellowship: Exert an Elf to reveal an opponent's hand. That player discards a card from hand for each Orc revealed.
+flavor_text: ! |-
+  ”'A strong company of Orcs has passed. They crossed the Nimrodel - curse their foul feet in its clean water!'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01036

@@ -1,0 +1,18 @@
+---
+key: 7C285
+name: Mordor Defender
+title: Mordor Defender
+set: return_of_the_king
+rarity: common
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '7'
+vitality: '2'
+twilight: '2'
+site_number: '6'
+game_text: ! |-
+  Skirmish: Exert this minion and spot another [Sauron] minion to add a threat.
+notes: Game text is a clarification.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07285

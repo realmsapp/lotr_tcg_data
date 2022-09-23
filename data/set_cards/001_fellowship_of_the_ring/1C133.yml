@@ -1,0 +1,15 @@
+---
+key: 1C133
+name: Saruman's Ambition
+title: Saruman's Ambition
+set: fellowship_of_the_ring
+rarity: common
+card_type: condition
+alignment: shadow
+culture: isengard
+twilight: '0'
+game_text: ! |-
+  Plays to your support area. The twilight cost of your [Isengard] events is -1. Skirmish: Discard this condition to make an Uruk-hai strength +2.
+flavor_text: ! |-
+  ”'I did not expect you to show wisdom, even in your own behalf; but I gave you the chance of aiding me willingly, and so saving yourself much trouble and pain.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01133

@@ -1,0 +1,13 @@
+---
+key: 7C243
+name: Morning Came
+title: Morning Came
+set: return_of_the_king
+rarity: common
+card_type: event
+alignment: free_people
+culture: rohan
+twilight: '1'
+game_text: ! |-
+  Make a [Rohan] Man strength +4. Any Shadow player may place a random card from hand beneath his or her draw deck to make that Man strength +2 instead.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07243

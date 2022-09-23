@@ -1,0 +1,19 @@
+---
+key: 4C265
+name: Elite Rider
+title: Elite Rider
+set: two_towers
+rarity: common
+card_type: companion
+subtype: man
+alignment: free_people
+culture: rohan
+strength: '6'
+vitality: '3'
+twilight: '3'
+game_text: ! |-
+  When this companion is in your starting fellowship, his twilight cost is -1. While skirmishing a wounded minion, this companion is strength +2.
+flavor_text: ! |-
+  “After him they rode: a long line of mailclad men, swift, shining, fell and fair to look upon.”
+notes: 'Version: +.'
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04265

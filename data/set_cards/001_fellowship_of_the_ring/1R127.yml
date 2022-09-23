@@ -1,0 +1,21 @@
+---
+key: 1R127
+name: Lurtz, Servant of Isengard
+title: Lurtz
+subtitle: Servant of Isengard
+set: fellowship_of_the_ring
+rarity: rare
+card_type: minion
+subtype: uruk-hai
+alignment: shadow
+culture: isengard
+strength: '13'
+vitality: '3'
+twilight: '7'
+unique: true
+site_number: '5'
+game_text: ! |-
+  Archer. Damage +1. Maneuver: Spot another Uruk-hai to make Lurtz fierce until the regroup phase.
+flavor_text: ! |-
+  ”'And now… perfected. Grown beyond the height of Men - straight-limbed and strong, fearing nothing.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01127

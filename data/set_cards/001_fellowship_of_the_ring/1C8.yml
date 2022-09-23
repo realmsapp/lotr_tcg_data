@@ -1,0 +1,16 @@
+---
+key: 1C8
+name: Dwarven Armor
+title: Dwarven Armor
+set: fellowship_of_the_ring
+rarity: common
+card_type: possession
+subtype: armor
+alignment: free_people
+culture: dwarven
+twilight: '0'
+game_text: ! |-
+  Bearer must be a Dwarf. Bearer may not be overwhelmed unless his strength is tripled.
+flavor_text: ! |-
+  The strongest armour still being made in Middle-earth is forged by Dwarves. It is so heavy that only they can bear it.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01008

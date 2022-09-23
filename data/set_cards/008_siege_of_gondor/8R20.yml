@@ -1,0 +1,14 @@
+---
+key: 8R20
+name: Saved From the Fire
+title: Saved From the Fire
+set: siege_of_gondor
+rarity: rare
+card_type: event
+alignment: free_people
+culture: gandalf
+twilight: '3'
+game_text: ! |-
+  Spot Gandalf and place a companion (except the Ring-bearer) in the dead pile to take 3 cards from that companion's culture into hand from your draw deck. Shuffle your draw deck.
+notes: Game text is a clarification.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr08020

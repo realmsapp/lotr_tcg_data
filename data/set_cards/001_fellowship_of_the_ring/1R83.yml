@@ -1,0 +1,15 @@
+---
+key: 1R83
+name: Servant of the Secret Fire
+title: Servant of the Secret Fire
+set: fellowship_of_the_ring
+rarity: rare
+card_type: event
+alignment: free_people
+culture: gandalf
+twilight: '1'
+game_text: ! |-
+  Spell. Skirmish: Spot Gandalf to make a minion strength -3.
+flavor_text: ! |-
+  ”'I am a servant of the Secret Fire, wielder of the flame of Anor. You cannot pass.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01083

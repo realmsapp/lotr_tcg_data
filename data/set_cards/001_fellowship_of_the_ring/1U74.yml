@@ -1,0 +1,17 @@
+---
+key: 1U74
+name: Gandalf's Pipe
+title: Gandalf's Pipe
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: possession
+subtype: pipe
+alignment: free_people
+culture: gandalf
+twilight: '0'
+unique: true
+game_text: ! |-
+  Bearer must be Gandalf. Fellowship: Discard a pipeweed possession and spot X pipes to remove X burdens.
+flavor_text: ! |-
+  ”'I know what is the matter with me,' he muttered, as he sat down by the door. 'I need smoke!'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01074

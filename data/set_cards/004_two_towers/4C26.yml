@@ -1,0 +1,17 @@
+---
+key: 4C26
+name: Iron Axe
+title: Iron Axe
+set: two_towers
+rarity: common
+card_type: possession
+subtype: hand_weapon
+alignment: shadow
+culture: dunland
+strength: "+3"
+twilight: '1'
+game_text: ! |-
+  Bearer must be a [Dunland] Man.
+flavor_text: ! |-
+  Saruman armed the Dunlendings with weapons forged by his Orcs in Isengard.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04026

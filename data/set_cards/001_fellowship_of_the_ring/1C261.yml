@@ -1,0 +1,21 @@
+---
+key: 1C261
+name: Orc Ambusher
+title: Orc Ambusher
+set: fellowship_of_the_ring
+rarity: common
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '5'
+vitality: '2'
+twilight: '1'
+site_number: '6'
+game_text: ! |-
+  Tracker. The roaming penalty for each [Sauron] minion you play is -1. Response: If a Free Peoples regroup event is played, exert this minion to cancel that event.
+flavor_text: ! |-
+  ”'Orcs will often pursue foes for many leagues….'”
+notes: This The Fellowship of the Ring card was misprinted in the Gimli Mines of Moria
+  starter deck. The word “non-native” should be ”roaming. “
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01261

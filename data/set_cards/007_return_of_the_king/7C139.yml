@@ -1,0 +1,17 @@
+---
+key: 7C139
+name: Easterling Aggressor
+title: Easterling Aggressor
+set: return_of_the_king
+rarity: common
+card_type: minion
+subtype: man
+alignment: shadow
+culture: raider
+strength: '8'
+vitality: '2'
+twilight: '3'
+site_number: '4'
+game_text: ! |-
+  Easterling. Skirmish: If you have initiative or you spot 3 Easterlings, discard 2 cards from hand to heal another Easterling.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07139

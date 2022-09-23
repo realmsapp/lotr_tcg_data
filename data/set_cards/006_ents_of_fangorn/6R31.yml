@@ -1,0 +1,19 @@
+---
+key: 6R31
+name: Glamdring, Lightning Brand
+title: Glamdring
+subtitle: Lightning Brand
+set: ents_of_fangorn
+rarity: rare
+card_type: possession
+subtype: hand_weapon
+alignment: free_people
+culture: gandalf
+strength: "+2"
+twilight: '2'
+unique: true
+game_text: ! |-
+  Bearer must be Gandalf. He is damage +1. Each time you play a spell during a skirmish, you may make Gandalf damage +1 until the end of that skirmish.
+flavor_text: ! |-
+  ”'Thunder they heard, and lightning… smote upon Celebdil, and leaped back broken into tongues of fire.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06031

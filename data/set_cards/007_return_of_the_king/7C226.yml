@@ -1,0 +1,16 @@
+---
+key: 7C226
+name: Enraged Horseman
+title: Enraged Horseman
+set: return_of_the_king
+rarity: common
+card_type: companion
+subtype: man
+alignment: free_people
+culture: rohan
+strength: '5'
+vitality: '3'
+twilight: '2'
+game_text: ! |-
+  While you can spot another [Rohan] Man and this companion is skirmishing a wounded minion, this companion is strength +2 and damage +1.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07226

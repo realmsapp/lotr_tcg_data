@@ -1,0 +1,15 @@
+---
+key: 3R41
+name: Gondor Bowmen
+title: Gondor Bowmen
+set: realms_of_the_elf_lords
+rarity: rare
+card_type: condition
+alignment: free_people
+culture: gondor
+twilight: '0'
+game_text: ! |-
+  Tale. Plays to your support area. Archery: Exert a [Gondor] companion and discard this condition to make the fellowship archery total +2.
+flavor_text: ! |-
+  Arrows of the Last Alliance brought death to Sauron's forces.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr03041

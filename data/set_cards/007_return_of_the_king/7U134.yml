@@ -1,0 +1,18 @@
+---
+key: 7U134
+name: Desert Scout
+title: Desert Scout
+set: return_of_the_king
+rarity: uncommon
+card_type: minion
+subtype: man
+alignment: shadow
+culture: raider
+strength: '8'
+vitality: '2'
+twilight: '3'
+site_number: '4'
+game_text: ! |-
+  Southron. Ambush (1). When the Free Peoples player assigns this minion to a character and you have initiative, you may wound that character.
+notes: Game text is a clarification.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07134

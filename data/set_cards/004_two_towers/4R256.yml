@@ -1,0 +1,17 @@
+---
+key: 4R256
+name: Southron Troop
+title: Southron Troop
+set: two_towers
+rarity: rare
+card_type: minion
+subtype: man
+alignment: shadow
+culture: raider
+strength: '14'
+vitality: '4'
+twilight: '7'
+site_number: '4'
+game_text: ! |-
+  Southron. Archer. Ambush (1). To play, spot a Southron. Assignment: Spot 7 companions to assign this minion to the Ringbearer. The Free Peoples player may make you discard a companion (except the Ring-bearer) to prevent this.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04256

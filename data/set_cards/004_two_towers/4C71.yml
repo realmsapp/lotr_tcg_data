@@ -1,0 +1,20 @@
+---
+key: 4C71
+name: Haldir, Emissary of the Galadhrim
+title: Haldir
+subtitle: Emissary of the Galadhrim
+set: two_towers
+rarity: common
+card_type: companion
+subtype: elf
+alignment: free_people
+culture: elven
+strength: '5'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  While no opponent controls a site, Haldir is strength +2. Regroup: Exert Haldir at a battleground and exert another Elf to liberate a site.
+flavor_text: ! |-
+  ”'In days of old, my people stood beside the King of Gondor - we come to honor that allegiance.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04071

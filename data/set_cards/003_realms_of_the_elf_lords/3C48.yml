@@ -1,0 +1,16 @@
+---
+key: 3C48
+name: We Must Go Warily
+title: We Must Go Warily
+set: realms_of_the_elf_lords
+rarity: common
+card_type: event
+alignment: free_people
+culture: gondor
+twilight: '0'
+game_text: ! |-
+  Response: If the fellowship moves in the regroup phase, exert a [Gondor] companion twice to make each minion's twilight cost +1 until the next regroup phase.
+flavor_text: ! |-
+  ”'This is the lawn of Parth Galen: a fair place in the summer days of old. Let us hope that no evil has yet come here.'”
+notes: Game text is an erratum.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr03048

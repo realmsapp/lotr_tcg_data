@@ -1,0 +1,14 @@
+---
+key: 7U13
+name: Reckless Pride
+title: Reckless Pride
+set: return_of_the_king
+rarity: uncommon
+card_type: condition
+alignment: free_people
+culture: dwarven
+twilight: '2'
+unique: true
+game_text: ! |-
+  Bearer must be a [Dwarven] companion. Each minion gains this ability: 'Assignment: Assign this minion to bearer of Reckless Pride.' Regroup: Discard this condition to draw 4 cards.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07013

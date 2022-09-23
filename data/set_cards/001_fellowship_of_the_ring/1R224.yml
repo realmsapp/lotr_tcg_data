@@ -1,0 +1,16 @@
+---
+key: 1R224
+name: Return to Its Master
+title: Return to Its Master
+set: fellowship_of_the_ring
+rarity: rare
+card_type: event
+alignment: shadow
+culture: wraith
+twilight: '0'
+game_text: ! |-
+  Response: If the Ring-bearer wears The One Ring at the end of a skirmish phase, cancel all remaining assignments and assign a Nazgul to skirmish the Ring-bearer; The One Ring's game text does not apply during this skirmish.
+flavor_text: ! |-
+  ”'The Riders made straight for you….”'
+notes: This card creates a skirmish in addition to regular and fierce skirmishes.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01224

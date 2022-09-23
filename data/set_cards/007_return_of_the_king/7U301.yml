@@ -1,0 +1,17 @@
+---
+key: 7U301
+name: Orc Marauder
+title: Orc Marauder
+set: return_of_the_king
+rarity: uncommon
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '11'
+vitality: '3'
+twilight: '4'
+site_number: '6'
+game_text: ! |-
+  While you can spot 3 other [Sauron] Orcs, this minion is strength +5.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07301

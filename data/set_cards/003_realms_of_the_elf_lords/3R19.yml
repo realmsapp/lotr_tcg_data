@@ -1,0 +1,16 @@
+---
+key: 3R19
+name: Gift of the Evenstar
+title: Gift of the Evenstar
+set: realms_of_the_elf_lords
+rarity: rare
+card_type: condition
+alignment: free_people
+culture: elven
+twilight: '1'
+unique: true
+game_text: ! |-
+  To play, spot Arwen. Bearer must be Aragorn. Skirmish: Exert Aragorn or discard 2 cards from hand to make a minion skirmishing Aragorn strength -1.
+flavor_text: ! |-
+  ”'It is mine to give to whom I will… like my heart.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr03019

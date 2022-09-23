@@ -1,0 +1,17 @@
+---
+key: 5U114
+name: Rare Good Ballast
+title: Rare Good Ballast
+set: battle_of_helms_deep
+rarity: uncommon
+card_type: condition
+alignment: free_people
+culture: shire
+vitality: "+1"
+twilight: '1'
+unique: true
+game_text: ! |-
+  Plays on Sam. Response: If a regroup special ability is used, discard Smeagol or Gollum to cancel that action.
+flavor_text: ! |-
+  ”'What a hobbit needs with coney… is some herbs and roots, especially taters - not to mention bread.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05114

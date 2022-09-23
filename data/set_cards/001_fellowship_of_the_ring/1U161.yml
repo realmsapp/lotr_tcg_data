@@ -1,0 +1,15 @@
+---
+key: 1U161
+name: Wariness
+title: Wariness
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: event
+alignment: shadow
+culture: isengard
+twilight: '0'
+game_text: ! |-
+  Search. Response: If a stealth event is played, exert or discard your Uruk-hai to cancel that event.
+flavor_text: ! |-
+  Even Hobbits have trouble evading the Uruk-hai.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01161

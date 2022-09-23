@@ -1,0 +1,15 @@
+---
+key: 1U105
+name: Foes of Mordor
+title: Foes of Mordor
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: condition
+alignment: free_people
+culture: gondor
+twilight: '1'
+game_text: ! |-
+  Plays to your support area. Maneuver: Exert a [Gondor] character to wound a [Sauron] minion.
+flavor_text: ! |-
+  Through the long years, the Men of the Tower of Guard have shielded the West from the minions of the Eye.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01105

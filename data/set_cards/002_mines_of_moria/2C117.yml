@@ -1,0 +1,11 @@
+---
+key: 2C117
+name: Town Center
+title: Town Center
+set: mines_of_moria
+rarity: common
+card_type: site
+site_number: '1'
+game_text: ! |-
+  Fellowship: Play a [Shire] ally to draw a card.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02117

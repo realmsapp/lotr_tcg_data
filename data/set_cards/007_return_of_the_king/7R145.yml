@@ -1,0 +1,18 @@
+---
+key: 7R145
+name: Easterling Regiment
+title: Easterling Regiment
+set: return_of_the_king
+rarity: rare
+card_type: minion
+subtype: man
+alignment: shadow
+culture: raider
+strength: '11'
+vitality: '3'
+twilight: '5'
+unique: true
+site_number: '4'
+game_text: ! |-
+  Easterling. Fierce. Each time Easterling Regiment wins a skirmish, you may add (1) for each burden.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07145

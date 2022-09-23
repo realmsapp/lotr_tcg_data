@@ -1,0 +1,15 @@
+---
+key: 3C16
+name: Friends of Old
+title: Friends of Old
+set: realms_of_the_elf_lords
+rarity: common
+card_type: event
+alignment: free_people
+culture: elven
+twilight: '1'
+game_text: ! |-
+  Fellowship: Reveal a card at random from an opponent's hand. Heal X [Elven] allies, where X is the twilight cost of the card revealed.
+flavor_text: ! |-
+  ”'You have been summoned here to answer the threat of Mordor.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr03016

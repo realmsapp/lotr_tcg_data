@@ -1,0 +1,21 @@
+---
+key: 4R116
+name: Faramir, Captain of Gondor
+title: Faramir
+subtitle: Captain of Gondor
+set: two_towers
+rarity: rare
+card_type: companion
+subtype: man
+alignment: free_people
+culture: gondor
+signet: aragorn
+strength: '7'
+vitality: '3'
+twilight: '3'
+unique: true
+game_text: ! |-
+  Ring-bound. Ranger. The twilight cost of each other [Gondor] Man in your starting fellowship is -1. While skirmishing a roaming minion, Faramir is strength +2.
+flavor_text: ! |-
+  ”'He leads us now in all perilous ventures.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04116

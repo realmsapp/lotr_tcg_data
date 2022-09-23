@@ -1,0 +1,15 @@
+---
+key: 1C25
+name: Still Draws Breath
+title: Still Draws Breath
+set: fellowship_of_the_ring
+rarity: common
+card_type: event
+alignment: free_people
+culture: dwarven
+twilight: '0'
+game_text: ! |-
+  Response: If a Dwarf wins a skirmish, heal that Dwarf.
+flavor_text: ! |-
+  “When thirteen had fallen the rest fled shrieking, leaving the defenders unharmed….”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01025

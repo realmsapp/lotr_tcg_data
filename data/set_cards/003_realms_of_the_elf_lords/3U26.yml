@@ -1,0 +1,15 @@
+---
+key: 3U26
+name: Something Draws Near
+title: Something Draws Near
+set: realms_of_the_elf_lords
+rarity: uncommon
+card_type: event
+alignment: free_people
+culture: elven
+twilight: '0'
+game_text: ! |-
+  Fellowship or Maneuver: Exert an Elf to discard an [Isengard] possession or [Isengard] artifact.
+flavor_text: ! |-
+  ”'We have hunted and slain many Orcs in the woods….'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr03026

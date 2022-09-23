@@ -1,0 +1,15 @@
+---
+key: 2U87
+name: The Eye of Sauron
+title: The Eye of Sauron
+set: mines_of_moria
+rarity: uncommon
+card_type: event
+alignment: shadow
+culture: sauron
+twilight: '1'
+game_text: ! |-
+  Shadow: Exert a [Sauron] Orc and spot X burdens to draw X cards (limit 5).
+flavor_text: ! |-
+  ”'…he has indeed arisen again and left his hold in Mirkwood and returned to his ancient fastness in the Dark Tower of Mordor.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02087

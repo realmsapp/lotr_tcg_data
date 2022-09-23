@@ -1,0 +1,19 @@
+---
+key: 7R213
+name: Ulaire Lemenya, Assailing Minion
+title: Ulaire Lemenya
+subtitle: Assailing Minion
+set: return_of_the_king
+rarity: rare
+card_type: minion
+subtype: nazgul
+alignment: shadow
+culture: wraith
+strength: '9'
+vitality: '2'
+twilight: '4'
+unique: true
+site_number: '3'
+game_text: ! |-
+  Ulaire Lemenya is strength +1 for each other [Wraith] minion you spot. While you can spot 3 [Wraith] minions Ulaire Lemenya is fierce. While you can spot 4 [Wraith] minions Ulaire Lemenya is damage +1.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07213

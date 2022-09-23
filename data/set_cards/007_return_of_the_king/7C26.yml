@@ -1,0 +1,19 @@
+---
+key: 7C26
+name: Legolas, Nimble Warrior
+title: Legolas
+subtitle: Nimble Warrior
+set: return_of_the_king
+rarity: common
+card_type: companion
+subtype: elf
+alignment: free_people
+culture: elven
+signet: theoden
+strength: '6'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  Archer. Archery: If you cannot spot a threat, add a threat to make the fellowship archery total +1.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07026

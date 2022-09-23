@@ -1,0 +1,15 @@
+---
+key: 4R213
+name: What Did You Discover?
+title: What Did You Discover?
+set: two_towers
+rarity: rare
+card_type: condition
+alignment: shadow
+culture: isengard
+twilight: '1'
+game_text: ! |-
+  Search. Plays to your support area. Each time the fellowship moves during the regroup phase, you may discard 2 cards from hand to take an [Isengard] tracker from your discard pile into hand.
+flavor_text: ! |-
+  ”'The scouts have come back at last.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04213

@@ -1,0 +1,19 @@
+---
+key: 1U257
+name: Morgul Skirmisher
+title: Morgul Skirmisher
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '9'
+vitality: '3'
+twilight: '3'
+site_number: '6'
+game_text: ! |-
+  Maneuver: Remove (3) to exert a Hobbit (except the Ring-bearer).
+flavor_text: ! |-
+  The Orcs of Mordor, heartened by the promise of blood and plunder, are dangerous foes in battle.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01257

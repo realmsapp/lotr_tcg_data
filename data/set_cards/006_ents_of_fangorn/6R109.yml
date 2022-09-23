@@ -1,0 +1,14 @@
+---
+key: 6R109
+name: Held
+title: Held
+set: ents_of_fangorn
+rarity: rare
+card_type: condition
+alignment: free_people
+culture: shire
+twilight: '1'
+game_text: ! |-
+  Bearer must be Frodo. Each time Frodo is about to be killed by a wound, add a burden instead. When the fellowship moves to site 9, Frodo is corrupted. Regroup: If you can spot no minions, discard this condition.
+notes: The “site 9” referred to on this card is any site 9 card from any block.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06109

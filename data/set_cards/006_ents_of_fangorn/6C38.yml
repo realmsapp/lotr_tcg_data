@@ -1,0 +1,15 @@
+---
+key: 6C38
+name: Don't Follow the Lights
+title: Don't Follow the Lights
+set: ents_of_fangorn
+rarity: common
+card_type: event
+alignment: free_people
+culture: gollum_free_people
+twilight: '0'
+game_text: ! |-
+  Response: If Smeagol wins a skirmish, add a burden to discard a minion.
+flavor_text: ! |-
+  ”'Careful, careful now or Hobbits go down to join the dead ones and light little candles.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06038

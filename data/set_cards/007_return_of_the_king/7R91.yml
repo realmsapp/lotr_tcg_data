@@ -1,0 +1,19 @@
+---
+key: 7R91
+name: Faramir, Wizard's Pupil
+title: Faramir
+subtitle: Wizard's Pupil
+set: return_of_the_king
+rarity: rare
+card_type: companion
+subtype: man
+alignment: free_people
+culture: gondor
+signet: frodo
+strength: '7'
+vitality: '3'
+twilight: '3'
+unique: true
+game_text: ! |-
+  Ranger. Fellowship: Play a [Rohan] Man to heal Faramir. Skirmish: Exert Faramir to make an unbound Hobbit strength +2. Skirmish: Exert Gandalf to prevent all wounds to Faramir.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07091

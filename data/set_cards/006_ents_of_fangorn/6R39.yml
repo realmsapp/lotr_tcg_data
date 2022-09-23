@@ -1,0 +1,15 @@
+---
+key: 6R39
+name: Don't Look at Them
+title: Don't Look at Them
+set: ents_of_fangorn
+rarity: rare
+card_type: condition
+alignment: free_people
+culture: gollum_free_people
+twilight: '1'
+game_text: ! |-
+  Plays to your support area. Skirmish: Spot Smeagol and discard 3 cards from hand to wound a minion Smeagol is skirmishing once (or twice if that minion is a [Wraith] minion).
+flavor_text: ! |-
+  ”'You should not look in when the candles are lit.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06039

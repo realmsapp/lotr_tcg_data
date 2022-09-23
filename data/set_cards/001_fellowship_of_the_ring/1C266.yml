@@ -1,0 +1,19 @@
+---
+key: 1C266
+name: Orc Chieftain
+title: Orc Chieftain
+set: fellowship_of_the_ring
+rarity: common
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '7'
+vitality: '2'
+twilight: '2'
+site_number: '6'
+game_text: ! |-
+  When you play a weapon on this minion, add (2) (limit once per turn).
+flavor_text: ! |-
+  Orc chieftains are the most cruel of a heartless race. Both strength and malice are needed to lead such followers.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01266

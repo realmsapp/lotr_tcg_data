@@ -1,0 +1,22 @@
+---
+key: 1C290
+name: Frodo, Son of Drogo
+title: Frodo
+subtitle: Son of Drogo
+set: fellowship_of_the_ring
+rarity: common
+card_type: companion
+subtype: hobbit
+alignment: free_people
+culture: shire
+signet: frodo
+strength: '3'
+vitality: '4'
+twilight: '0'
+unique: true
+ring_bearer: true
+game_text: ! |-
+  Ring-bearer (resistance 10). Fellowship: Exert another companion who has the Frodo signet to heal Frodo.
+flavor_text: ! |-
+  ”'I think you'll find there's more to this Hobbit than meets the eye.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01290

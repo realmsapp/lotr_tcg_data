@@ -1,0 +1,18 @@
+---
+key: 7R79
+name: Anduril, Flame of the West
+title: Anduril
+subtitle: Flame of the West
+set: return_of_the_king
+rarity: rare
+card_type: artifact
+subtype: hand_weapon
+alignment: free_people
+culture: gondor
+strength: "+2"
+vitality: "+1"
+twilight: '3'
+unique: true
+game_text: ! |-
+  Bearer must be Aragorn. Discard any other weapon he bears. He is damage +1 and cannot bear other weapons. Fellowship or Regroup: If the fellowship is at any site 2 or any site 5, play the fellowship's next site (replacing opponent's site if necessary).
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07079

@@ -1,0 +1,17 @@
+---
+key: 7U190
+name: Morgul Destroyer
+title: Morgul Destroyer
+set: return_of_the_king
+rarity: uncommon
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: wraith
+strength: '6'
+vitality: '2'
+twilight: '2'
+site_number: '4'
+game_text: ! |-
+  When you play this minion, you may spot a Nazgul to add 2 threats. The Free Peoples player may wound the Ring-bearer to prevent this. Skirmish: Remove a threat to make this minion strength +3.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07190

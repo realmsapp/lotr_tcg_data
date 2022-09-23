@@ -1,0 +1,15 @@
+---
+key: 1R212
+name: Fear
+title: Fear
+set: fellowship_of_the_ring
+rarity: rare
+card_type: event
+alignment: shadow
+culture: wraith
+twilight: '1'
+game_text: ! |-
+  Search. Maneuver: Exert your Nazgul to discard an ally.
+flavor_text: ! |-
+  ”'Never has such a thing happened in my time! … Guests unable to sleep in their beds, and good bolsters ruined and all! What are we coming to?'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01212

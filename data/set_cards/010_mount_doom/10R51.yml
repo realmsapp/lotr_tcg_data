@@ -1,0 +1,13 @@
+---
+key: 10R51
+name: Stampeded
+title: Stampeded
+set: mount_doom
+rarity: rare
+card_type: event
+alignment: shadow
+culture: raider
+twilight: '0'
+game_text: ! |-
+  If a Free Peoples possession is played, spot a [Raider] card to discard that possession. If that possession was a [Gondor] or [Rohan] possession, wound an unbound Man.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10051

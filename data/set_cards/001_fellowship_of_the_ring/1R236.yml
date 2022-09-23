@@ -1,0 +1,21 @@
+---
+key: 1R236
+name: Ulaire Toldea, Messenger of Morgul
+title: Ulaire Toldea
+subtitle: Messenger of Morgul
+set: fellowship_of_the_ring
+rarity: rare
+card_type: minion
+subtype: nazgul
+alignment: shadow
+culture: wraith
+strength: '12'
+vitality: '3'
+twilight: '6'
+unique: true
+site_number: '3'
+game_text: ! |-
+  Fierce. Assignment: Spot 4 burdens to assign a companion (except the Ring-bearer) to skirmish Ulaire Toldea.
+flavor_text: ! |-
+  ”'Open, in the name of Mordor!' said a voice thin and menacing.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01236

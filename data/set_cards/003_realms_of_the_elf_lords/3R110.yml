@@ -1,0 +1,21 @@
+---
+key: 3R110
+name: Melilot Brandybuck, Merry Dancer
+title: Melilot Brandybuck
+subtitle: Merry Dancer
+set: realms_of_the_elf_lords
+rarity: rare
+card_type: ally
+alignment: free_people
+culture: shire
+strength: '2'
+vitality: '2'
+twilight: '1'
+unique: true
+site_number: '1'
+game_text: ! |-
+  Response: If a burden is about to be added by a Shadow card, exert Melilot Brandybuck to prevent that burden.
+flavor_text: ! |-
+  “Master Everard Took and Miss Melilot Brandybuck got on a table and with bells in their hands began to dance the Springle-ring: a pretty dance, but rather vigorous.”
+notes: Game text is a clarification.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr03110

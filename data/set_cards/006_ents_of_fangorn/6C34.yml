@@ -1,0 +1,15 @@
+---
+key: 6C34
+name: Roused
+title: Roused
+set: ents_of_fangorn
+rarity: common
+card_type: event
+alignment: free_people
+culture: gandalf
+twilight: '1'
+game_text: ! |-
+  Skirmish: Exert an Ent to make him strength +1 for each Ent you spot (limit +4).
+flavor_text: ! |-
+  ”'To Isengard!' the Ents cried in many voices.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06034

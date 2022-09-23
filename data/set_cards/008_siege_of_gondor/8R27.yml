@@ -1,0 +1,18 @@
+---
+key: 8R27
+name: Smeagol, Slippery Sneak
+title: Smeagol
+subtitle: Slippery Sneak
+set: siege_of_gondor
+rarity: rare
+card_type: companion
+alignment: free_people
+culture: gollum_free_people
+signet: frodo
+strength: '3'
+vitality: '4'
+twilight: '0'
+unique: true
+game_text: ! |-
+  Ring-bound. To play, add a burden. Skirmish: Add threats equal to the total vitality of the minions Smeagol is skirmishing to discard Smeagol. Regroup: Discard Smeagol to take a [Gollum] minion from your discard pile into hand.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr08027

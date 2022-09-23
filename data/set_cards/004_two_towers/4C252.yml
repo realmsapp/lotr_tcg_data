@@ -1,0 +1,19 @@
+---
+key: 4C252
+name: Southron Scout
+title: Southron Scout
+set: two_towers
+rarity: common
+card_type: minion
+subtype: man
+alignment: shadow
+culture: raider
+strength: '3'
+vitality: '1'
+twilight: '1'
+site_number: '4'
+game_text: ! |-
+  Southron. Ambush (2).
+flavor_text: ! |-
+  ”'They have black eyes, and long black hair, and gold rings in their ears….'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04252

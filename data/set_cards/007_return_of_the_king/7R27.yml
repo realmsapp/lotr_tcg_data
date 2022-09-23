@@ -1,0 +1,13 @@
+---
+key: 7R27
+name: Mirkwood Bowman
+title: Mirkwood Bowman
+set: return_of_the_king
+rarity: rare
+card_type: event
+alignment: free_people
+culture: elven
+twilight: '1'
+game_text: ! |-
+  Exert 2 [Elven] companions to discard the top 3 cards of your draw deck. Make the fellowship archery total +1 for each [Elven] card discarded.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07027

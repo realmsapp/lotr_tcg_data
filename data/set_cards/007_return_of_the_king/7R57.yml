@@ -1,0 +1,14 @@
+---
+key: 7R57
+name: Fat One Wants It
+title: Fat One Wants It
+set: return_of_the_king
+rarity: rare
+card_type: condition
+alignment: shadow
+culture: gollum_shadow
+twilight: '1'
+unique: true
+game_text: ! |-
+  Each time Gollum or Smeagol is played, add a threat. Regroup: Discard this condition to return Gollum to his owner's hand.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07057

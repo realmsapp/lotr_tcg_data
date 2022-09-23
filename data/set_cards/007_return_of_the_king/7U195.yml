@@ -1,0 +1,14 @@
+---
+key: 7U195
+name: Morgul on the March
+title: Morgul on the March
+set: return_of_the_king
+rarity: uncommon
+card_type: condition
+alignment: shadow
+culture: wraith
+twilight: '1'
+unique: true
+game_text: ! |-
+  To play, spot a Nazgul. Each time the Free Peoples player draws a card (except during the regroup phase), add a threat. Regroup: Discard a Nazgul and this condition to add a threat.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07195

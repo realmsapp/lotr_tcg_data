@@ -1,0 +1,81 @@
+---
+- key: none
+  name: None
+- key: hand_weapon
+  name: Hand Weapon
+- key: dwarf
+  name: Dwarf
+- key: armor
+  name: Armor
+- key: helm
+  name: Helm
+- key: elf
+  name: Elf
+- key: mount
+  name: Mount
+- key: ranged_weapon
+  name: Ranged Weapon
+- key: cloak
+  name: Cloak
+- key: staff
+  name: Staff
+- key: wizard
+  name: Wizard
+- key: pipe
+  name: Pipe
+- key: man
+  name: Man
+- key: shield
+  name: Shield
+- key: sword
+  name: Sword
+- key: uruk-hai
+  name: Uruk-Hai
+- key: orc
+  name: Orc
+- key: troll
+  name: Troll
+- key: nazgul
+  name: Nazgul
+- key: hobbit
+  name: Hobbit
+- key: bracers
+  name: Bracers
+- key: balrog
+  name: Balrog
+- key: creature
+  name: Creature
+- key: ring
+  name: Ring
+- key: palantir
+  name: Palantir
+- key: brooch
+  name: Brooch
+- key: gauntlets
+  name: Gauntlets
+- key: ent
+  name: Ent
+- key: wraith
+  name: Wraith
+- key: spider
+  name: Spider
+# - key: skirmish
+#   name: Skirmish
+# - key: fellowship
+#   name: Fellowship
+# - key: support_area
+#   name: Support Area
+# - key: maneuver
+#   name: Maneuver
+# - key: regroup
+#   name: Regroup
+# - key: archery
+#   name: Archery
+# - key: response
+#   name: Response
+# - key: shadow
+#   name: Shadow
+# - key: fellowship_or_regroup
+#   name: Fellowship or Regroup
+# - key: assignment
+#   name: Assignment

@@ -1,0 +1,19 @@
+---
+key: 1U262
+name: Orc Assassin
+title: Orc Assassin
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '6'
+vitality: '2'
+twilight: '2'
+site_number: '6'
+game_text: ! |-
+  Tracker. The roaming penalty for each [Sauron] minion you play is -1. Assignment: Spot 2 Hobbit companions to make the Free Peoples player assign a Hobbit to skirmish this minion.
+notes: This The Fellowship of the Ring card was misprinted in the Gimli Mines of Moria
+  starter deck. The word “non-native” should be ”roaming. “
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01262

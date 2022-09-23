@@ -1,0 +1,16 @@
+---
+key: 4U170
+name: Ranks Without Number
+title: Ranks Without Number
+set: two_towers
+rarity: uncommon
+card_type: condition
+alignment: shadow
+culture: isengard
+twilight: '1'
+unique: true
+game_text: ! |-
+  Plays to your support area. Each time the Free Peoples player assigns an ally to a skirmish, you may play an [Isengard] minion from your discard pile. That minion's twilight cost is -2.
+flavor_text: ! |-
+  ”'All Isengard must be emptied….'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04170

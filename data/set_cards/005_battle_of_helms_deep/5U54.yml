@@ -1,0 +1,17 @@
+---
+key: 5U54
+name: Isengard Scimitar
+title: Isengard Scimitar
+set: battle_of_helms_deep
+rarity: uncommon
+card_type: possession
+subtype: hand_weapon
+alignment: shadow
+culture: isengard
+strength: "+2"
+twilight: '0'
+game_text: ! |-
+  Bearer must be an [Isengard] Orc. When you play this weapon, you may add (1) for each site you control.
+flavor_text: ! |-
+  Orcs from Isengard favor a short, curved sword when mounted.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05054

@@ -1,0 +1,18 @@
+---
+key: 3R23
+name: Nenya
+title: Nenya
+set: realms_of_the_elf_lords
+rarity: rare
+card_type: artifact
+subtype: ring
+alignment: free_people
+culture: elven
+vitality: "+1"
+twilight: '0'
+unique: true
+game_text: ! |-
+  Bearer must be Galadriel. At the start of each regroup phase, you may discard up to 2 cards from hand to draw the same number of cards.
+flavor_text: ! |-
+  ”'Verily it is in the land of L�rien upon the finger of Galadriel that one of the Three remains. This is Nenya, the Ring of Adamant, and I am its keeper.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr03023

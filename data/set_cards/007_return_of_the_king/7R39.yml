@@ -1,0 +1,17 @@
+---
+key: 7R39
+name: Glamdring, Elven Blade
+title: Glamdring
+subtitle: Elven Blade
+set: return_of_the_king
+rarity: rare
+card_type: possession
+subtype: hand_weapon
+alignment: free_people
+culture: gandalf
+strength: "+2"
+twilight: '2'
+unique: true
+game_text: ! |-
+  Bearer must be Gandalf. He is damage +1. Skirmish: If you have more cards in hand than each opponent, discard 2 cards from hand to make an opponent exert a minion.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07039

@@ -1,0 +1,15 @@
+---
+key: 1R114
+name: The Saga of Elendil
+title: The Saga of Elendil
+set: fellowship_of_the_ring
+rarity: rare
+card_type: condition
+alignment: free_people
+culture: gondor
+vitality: "+1"
+twilight: '1'
+unique: true
+game_text: ! |-
+  Tale. Bearer must be a [Gondor] companion. Skirmish: Discard this condition to make bearer strength +2.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01114

@@ -1,0 +1,15 @@
+---
+key: 1U213
+name: Frozen by Fear
+title: Frozen by Fear
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: event
+alignment: shadow
+culture: wraith
+twilight: '1'
+game_text: ! |-
+  Skirmish: Make a Nazgul strength +2 (or +3 if the Ring-bearer is assigned to a skirmish that has not resolved).
+flavor_text: ! |-
+  ”…he was quaking as if he was bitter cold, but his terror was swallowed up in a sudden temptation to put on the Ring.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01213

@@ -1,0 +1,15 @@
+---
+key: 7C156
+name: Raider Halberd
+title: Raider Halberd
+set: return_of_the_king
+rarity: common
+card_type: possession
+subtype: hand_weapon
+alignment: shadow
+culture: raider
+strength: "+2"
+twilight: '0'
+game_text: ! |-
+  Bearer must be a [Raider] Man. Skirmish: Exert bearer to add (2).
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07156

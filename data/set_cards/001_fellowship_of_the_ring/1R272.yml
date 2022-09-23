@@ -1,0 +1,19 @@
+---
+key: 1R272
+name: Orc War Band
+title: Orc War Band
+set: fellowship_of_the_ring
+rarity: rare
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '10'
+vitality: '2'
+twilight: '4'
+site_number: '6'
+game_text: ! |-
+  Skirmish: Exert this minion to wound a character it is skirmishing.
+flavor_text: ! |-
+  Sauron has countless armies of Orcs at his disposal.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01272

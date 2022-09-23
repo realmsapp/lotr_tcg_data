@@ -1,0 +1,18 @@
+---
+key: 10U4
+name: Aegnor, Elven Escort
+title: Aegnor
+subtitle: Elven Escort
+set: mount_doom
+rarity: uncommon
+card_type: companion
+subtype: elf
+alignment: free_people
+culture: elven
+strength: '6'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  Skirmish: Exert Aegnor to make a minion skirmishing an unbound [Elven] companion strength -1 for each archer you spot.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10004

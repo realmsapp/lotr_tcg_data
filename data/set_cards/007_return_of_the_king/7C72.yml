@@ -1,0 +1,18 @@
+---
+key: 7C72
+name: Smeagol, Hurried Guide
+title: Smeagol
+subtitle: Hurried Guide
+set: return_of_the_king
+rarity: common
+card_type: companion
+alignment: free_people
+culture: gollum_free_people
+signet: frodo
+strength: '3'
+vitality: '4'
+twilight: '0'
+unique: true
+game_text: ! |-
+  Ring-bound. To play, add a burden. Skirmish: If you have initiative, discard 2 cards from your hand. Smeagol cannot be overwhelmed unless his strength is tripled.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07072

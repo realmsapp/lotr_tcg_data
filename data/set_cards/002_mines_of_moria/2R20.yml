@@ -1,0 +1,15 @@
+---
+key: 2R20
+name: Secret Sentinels
+title: Secret Sentinels
+set: mines_of_moria
+rarity: rare
+card_type: event
+alignment: free_people
+culture: elven
+twilight: '2'
+game_text: ! |-
+  Maneuver: Exert an Elf ally to discard a condition (or 2 conditions if you spot an Orc).
+flavor_text: ! |-
+  ”'Yet so little faith and trust do we find now in the world beyond Lothlórien… that we dare not by our own trust endanger our land.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02020

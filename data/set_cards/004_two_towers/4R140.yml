@@ -1,0 +1,15 @@
+---
+key: 4R140
+name: Beyond All Hope
+title: Beyond All Hope
+set: two_towers
+rarity: rare
+card_type: event
+alignment: shadow
+culture: isengard
+twilight: '5'
+game_text: ! |-
+  Maneuver: Exert 2 Uruk-hai to add a burden for each card in the dead pile.
+flavor_text: ! |-
+  ”'How shall any tower withstand such numbers and such reckless hate?'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04140

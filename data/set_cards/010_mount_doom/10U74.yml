@@ -1,0 +1,13 @@
+---
+key: 10U74
+name: Unyielding
+title: Unyielding
+set: mount_doom
+rarity: uncommon
+card_type: event
+alignment: free_people
+culture: rohan
+twilight: '1'
+game_text: ! |-
+  If your [Rohan] Man wins a skirmish, discard a [Rohan] possession to wound a minion or to liberate a site.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10074

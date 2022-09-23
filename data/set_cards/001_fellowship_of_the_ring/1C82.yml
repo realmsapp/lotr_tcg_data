@@ -1,0 +1,15 @@
+---
+key: 1C82
+name: Risk a Little Light
+title: Risk a Little Light
+set: fellowship_of_the_ring
+rarity: common
+card_type: event
+alignment: free_people
+culture: gandalf
+twilight: '1'
+game_text: ! |-
+  Spell. Fellowship: If the twilight pool has fewer than 2 twilight tokens, spot Gandalf to look at the top 2 cards of your draw deck. Take one into hand and discard the other.
+flavor_text: ! |-
+  ”'Let me risk a little more light.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01082

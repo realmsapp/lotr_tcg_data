@@ -1,0 +1,20 @@
+---
+key: 3C94
+name: Orc Butcher
+title: Orc Butcher
+set: realms_of_the_elf_lords
+rarity: common
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '6'
+vitality: '2'
+twilight: '2'
+site_number: '6'
+game_text: ! |-
+  For each [Sauron] condition you can spot, this minion is strength +1.
+flavor_text: ! |-
+  ”'And yet we see that Sauron can torture and destroy the very hills.'”
+notes: 'Version: +.'
+wiki_url: https://lotrtcgwiki.com/wiki/lotr03094

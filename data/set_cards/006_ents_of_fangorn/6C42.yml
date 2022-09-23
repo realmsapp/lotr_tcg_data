@@ -1,0 +1,16 @@
+---
+key: 6C42
+name: Nasty, Foul Hobbitses
+title: Nasty
+subtitle: Foul Hobbitses
+set: ents_of_fangorn
+rarity: common
+card_type: event
+alignment: shadow
+culture: gollum_shadow
+twilight: '0'
+game_text: ! |-
+  Response: If Gollum wins a skirmish, add a burden.
+flavor_text: ! |-
+  ”'We ought to wring their filthy little necks!'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06042

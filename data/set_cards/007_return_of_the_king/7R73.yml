@@ -1,0 +1,13 @@
+---
+key: 7R73
+name: Sneaking!
+title: Sneaking!
+set: return_of_the_king
+rarity: rare
+card_type: event
+alignment: free_people
+culture: gollum_free_people
+twilight: '2'
+game_text: ! |-
+  Stealth. Heal Smeagol (or cancel Smeagol's skirmish if he has more vitality than the minion or minions he is skirmishing).
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07073

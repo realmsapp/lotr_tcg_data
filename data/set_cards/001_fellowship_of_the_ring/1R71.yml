@@ -1,0 +1,15 @@
+---
+key: 1R71
+name: Durin's Secret
+title: Durin's Secret
+set: fellowship_of_the_ring
+rarity: rare
+card_type: event
+alignment: free_people
+culture: gandalf
+twilight: '2'
+game_text: ! |-
+  Fellowship: Spot Gandalf, a Dwarf, and an Elf to make the move limit for this turn +1.
+flavor_text: ! |-
+  ”'They are wrought of ithildin that mirrors only starlight and moonlight, and sleeps until it is touched by one who speaks words now long forgotten in Middle-earth.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01071

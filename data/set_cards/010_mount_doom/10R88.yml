@@ -1,0 +1,19 @@
+---
+key: 10R88
+name: Gothmog, Lieutenant of Morgul
+title: Gothmog
+subtitle: Lieutenant of Morgul
+set: mount_doom
+rarity: rare
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '13'
+vitality: '3'
+twilight: '6'
+unique: true
+site_number: '4'
+game_text: ! |-
+  Besieger. When you play Gothmog, the Free Peoples player must wound a companion for each site you control. While you control a site, Gothmog is fierce.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10088

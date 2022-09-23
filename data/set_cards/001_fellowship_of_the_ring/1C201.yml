@@ -1,0 +1,15 @@
+---
+key: 1C201
+name: Unfamiliar Territory
+title: Unfamiliar Territory
+set: fellowship_of_the_ring
+rarity: common
+card_type: event
+alignment: shadow
+culture: moria
+twilight: '0'
+game_text: ! |-
+  Skirmish: Make a [Moria] Orc strength +2 (or +4 if skirmishing an archer).
+flavor_text: ! |-
+  Knowing the dark terrain of Moria gives Orcs a strategic advantage when attacking their foes.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01201

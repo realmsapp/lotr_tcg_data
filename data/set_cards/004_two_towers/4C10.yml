@@ -1,0 +1,17 @@
+---
+key: 4C10
+name: Dunlending Brigand
+title: Dunlending Brigand
+set: two_towers
+rarity: common
+card_type: minion
+subtype: man
+alignment: shadow
+culture: dunland
+strength: '8'
+vitality: '1'
+twilight: '2'
+site_number: '3'
+flavor_text: ! |-
+  ”'This was a rich vale and had many homesteads. Alas for my folk!'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04010

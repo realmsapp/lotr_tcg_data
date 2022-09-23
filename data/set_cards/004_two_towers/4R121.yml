@@ -1,0 +1,16 @@
+---
+key: 4R121
+name: Forests of Ithilien
+title: Forests of Ithilien
+set: two_towers
+rarity: rare
+card_type: condition
+alignment: free_people
+culture: gondor
+twilight: '0'
+unique: true
+game_text: ! |-
+  Plays to your support area. While the fellowship is at site 5T, the site number of each Man in a skirmish is +2. Regroup: Discard this condition and exert a Ring-bound Man to liberate a site.
+flavor_text: ! |-
+  ”…a fair country of climbing woods and swift-falling streams.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04121

@@ -1,0 +1,17 @@
+---
+key: 4C287
+name: Rider's Mount
+title: Rider's Mount
+set: two_towers
+rarity: common
+card_type: possession
+subtype: mount
+alignment: free_people
+culture: rohan
+twilight: '1'
+game_text: ! |-
+  Bearer must be a [Rohan] Man. At the start of each skirmish involving bearer, each minion skirmishing bearer must exert.
+flavor_text: ! |-
+  “Their horses were of great stature, strong and clean-limbed; their grey coats glistened, their long tails flowed in the wind….”
+notes: 'Version: +.'
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04287

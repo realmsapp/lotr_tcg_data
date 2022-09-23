@@ -1,0 +1,13 @@
+---
+key: 8R65
+name: Ships of Great Draught
+title: Ships of Great Draught
+set: siege_of_gondor
+rarity: rare
+card_type: possession
+alignment: shadow
+culture: raider
+twilight: '2'
+game_text: ! |-
+  Shadow: Remove a threat or discard a [Raider] card from hand to add a [Raider] token here. Regroup: Remove 2 [Raider] tokens here to place a [Raider] card from your discard pile on top of your draw deck.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr08065

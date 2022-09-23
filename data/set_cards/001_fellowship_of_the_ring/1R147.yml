@@ -1,0 +1,19 @@
+---
+key: 1R147
+name: Uruk Guard
+title: Uruk Guard
+set: fellowship_of_the_ring
+rarity: rare
+card_type: minion
+subtype: uruk-hai
+alignment: shadow
+culture: isengard
+strength: '9'
+vitality: '2'
+twilight: '4'
+site_number: '5'
+game_text: ! |-
+  Damage +1. Assignment: Exert this minion and spot a companion to prevent the opponent from assigning that companion to this minion.
+flavor_text: ! |-
+  ”'SWolves and orcs were housed in Isengard, for Saruman was mustering a great force….'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01147

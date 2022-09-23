@@ -1,0 +1,16 @@
+---
+key: 5U8
+name: Horn of Helm
+title: Horn of Helm
+set: battle_of_helms_deep
+rarity: uncommon
+card_type: possession
+alignment: free_people
+culture: dwarven
+twilight: '2'
+unique: true
+game_text: ! |-
+  Plays to your support area. Maneuver: Exert a Dwarf companion to make each minion at a battleground lose all damage bonuses until the regroup phase.
+flavor_text: ! |-
+  ”…sudden and terrible, from the tower above, the sound of the great horn of Helm rang out.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05008

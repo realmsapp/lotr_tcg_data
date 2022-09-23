@@ -1,0 +1,15 @@
+---
+key: 3C51
+name: Coming for the Ring
+title: Coming for the Ring
+set: realms_of_the_elf_lords
+rarity: common
+card_type: event
+alignment: shadow
+culture: isengard
+twilight: '2'
+game_text: ! |-
+  Regroup: Reveal a card at random from the Free Peoples player's hand. Heal X [Isengard] minions, where X is the twilight cost of the card revealed.
+flavor_text: ! |-
+  ”'This evil cannot be concealed by the power of the Elves….'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr03051

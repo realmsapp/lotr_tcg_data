@@ -1,0 +1,20 @@
+---
+key: 6R18
+name: Galadriel, Keeper of Nenya
+title: Galadriel
+subtitle: Keeper of Nenya
+set: ents_of_fangorn
+rarity: rare
+card_type: ally
+alignment: free_people
+culture: elven
+strength: '3'
+vitality: '3'
+twilight: '3'
+unique: true
+site_number: '6'
+game_text: ! |-
+  At the start of each turn, heal Galadriel. Skirmish: Exert Galadriel to discard the top card of your draw deck. If it is a Shadow card, make a minion skirmishing an Elf strength -3.
+flavor_text: ! |-
+  ”Mortal Men.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06018

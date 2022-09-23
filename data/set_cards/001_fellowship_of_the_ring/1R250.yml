@@ -1,0 +1,15 @@
+---
+key: 1R250
+name: Hate
+title: Hate
+set: fellowship_of_the_ring
+rarity: rare
+card_type: event
+alignment: shadow
+culture: sauron
+twilight: '0'
+game_text: ! |-
+  Maneuver: Exert a [Sauron] Orc to wound a companion (except the Ring-bearer).
+flavor_text: ! |-
+  Orcs are filled with hatred not only for their foes, but for all that lives.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01250

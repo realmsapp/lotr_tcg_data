@@ -1,0 +1,20 @@
+---
+key: 4C104
+name: Treebeard, Oldest Living Thing
+title: Treebeard
+subtitle: Oldest Living Thing
+set: two_towers
+rarity: common
+card_type: ally
+alignment: free_people
+culture: gandalf
+strength: '12'
+vitality: '4'
+twilight: '4'
+unique: true
+site_number: 2T, 8T
+game_text: ! |-
+  Unhasty. Fellowship: Exert Treebeard and discard an unbound companion from hand to heal an unbound companion.
+flavor_text: ! |-
+  ”'No, I am not tired. I do not easily get tired. And I do not sit down. I am not very, hm, bendable.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04104

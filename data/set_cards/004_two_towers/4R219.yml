@@ -1,0 +1,20 @@
+---
+key: 4R219
+name: Desert Lord
+title: Desert Lord
+set: two_towers
+rarity: rare
+card_type: minion
+subtype: man
+alignment: shadow
+culture: raider
+strength: '11'
+vitality: '3'
+twilight: '6'
+unique: true
+site_number: '4'
+game_text: ! |-
+  Southron. Archer. Archery: Exert Desert Lord to exert a companion (except the Ring-bearer); Desert Lord does not add to the minion archery total.
+flavor_text: ! |-
+  Southron legends tell of powerful warrior leaders and the kingdoms they have conquered.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04219

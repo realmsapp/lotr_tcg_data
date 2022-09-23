@@ -1,0 +1,16 @@
+---
+key: 6C52
+name: Garrison of Osgiliath
+title: Garrison of Osgiliath
+set: ents_of_fangorn
+rarity: common
+card_type: condition
+alignment: free_people
+culture: gondor
+twilight: '2'
+unique: true
+game_text: ! |-
+  Fortification. Plays to your support area. When you play this condition, you may spot a [Gondor] Man to place 2 [Gondor] tokens here. Skirmish: Discard this condition or remove a [Gondor] token from here to make a [Gondor] Man strength +1.
+flavor_text: ! |-
+  ”'So ever do we watch the shores nigh Osgiliath….'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06052

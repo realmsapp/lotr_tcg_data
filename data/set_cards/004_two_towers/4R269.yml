@@ -1,0 +1,20 @@
+---
+key: 4R269
+name: Eothain, Scout of the Mark
+title: Eothain
+subtitle: Scout of the Mark
+set: two_towers
+rarity: rare
+card_type: companion
+subtype: man
+alignment: free_people
+culture: rohan
+strength: '6'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  Each time the fellowship moves to a plains site, each minion must exert.
+flavor_text: ! |-
+  ”'Time is pressing…. We must hasten south, lord.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04269

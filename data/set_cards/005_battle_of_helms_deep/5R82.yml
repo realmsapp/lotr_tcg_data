@@ -1,0 +1,18 @@
+---
+key: 5R82
+name: Gamling, Warrior of Rohan
+title: Gamling
+subtitle: Warrior of Rohan
+set: battle_of_helms_deep
+rarity: rare
+card_type: companion
+subtype: man
+alignment: free_people
+culture: rohan
+strength: '6'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  Valiant. To play spot a [Rohan] Man. Skirmish: Play a [Rohan] possession on Gamling to make him strength +2 and damage +1.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05082

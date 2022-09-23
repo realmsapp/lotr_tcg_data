@@ -1,0 +1,17 @@
+---
+key: 10U54
+name: Cirith Ungol Scavenger
+title: Cirith Ungol Scavenger
+set: mount_doom
+rarity: uncommon
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: wraith
+strength: '8'
+vitality: '2'
+twilight: '3'
+site_number: '4'
+game_text: ! |-
+  Each time this minion wins a skirmish, you may exert it to discard a possession borne by a character this minion is skirmishing.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10054

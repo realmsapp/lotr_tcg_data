@@ -1,0 +1,17 @@
+---
+key: 1U285
+name: Bilbo's Pipe
+title: Bilbo's Pipe
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: possession
+subtype: pipe
+alignment: free_people
+culture: shire
+twilight: '1'
+unique: true
+game_text: ! |-
+  Bearer must be a Hobbit. Fellowship: Discard a pipeweed possession and spot X pipes to shuffle X tales from your discard pile into your draw deck.
+flavor_text: ! |-
+  Bilbo has a fine pipe, carved for him by his Dwarven friends.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01285

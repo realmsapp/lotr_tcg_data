@@ -1,0 +1,20 @@
+---
+key: 4R20
+name: Hill Chief
+title: Hill Chief
+set: two_towers
+rarity: rare
+card_type: minion
+subtype: man
+alignment: shadow
+culture: dunland
+strength: '10'
+vitality: '2'
+twilight: '4'
+unique: true
+site_number: '3'
+game_text: ! |-
+  Shadow: Spot a site you control and exert Hill Chief to draw 3 cards.
+flavor_text: ! |-
+  ”'…Saruman has armed the wild hillmen and herdfolk of Dunland beyond the rivers, and these also he loosed upon us.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04020

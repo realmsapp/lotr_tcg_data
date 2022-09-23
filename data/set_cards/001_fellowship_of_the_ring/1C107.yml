@@ -1,0 +1,16 @@
+---
+key: 1C107
+name: Great Shield
+title: Great Shield
+set: fellowship_of_the_ring
+rarity: common
+card_type: possession
+subtype: shield
+alignment: free_people
+culture: gondor
+twilight: '1'
+game_text: ! |-
+  Bearer must be a Man. The minion archery total is -1.
+flavor_text: ! |-
+  The Kingdom of Gondor has smiths much practiced in creating strong tools of war.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01107

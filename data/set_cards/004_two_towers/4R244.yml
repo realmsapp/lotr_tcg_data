@@ -1,0 +1,20 @@
+---
+key: 4R244
+name: Regiment of Haradrim
+title: Regiment of Haradrim
+set: two_towers
+rarity: rare
+card_type: minion
+subtype: man
+alignment: shadow
+culture: raider
+strength: '16'
+vitality: '4'
+twilight: '8'
+unique: true
+site_number: '4'
+game_text: ! |-
+  Southron. To play, spot a [Raider] Man. Regroup: Exert Regiment of Haradrim twice to take control of a site.
+flavor_text: ! |-
+  ”'One of their regiments is due by our reckoning to pass by, some time ere noon….'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04244

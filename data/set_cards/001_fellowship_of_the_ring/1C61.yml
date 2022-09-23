@@ -1,0 +1,15 @@
+---
+key: 1C61
+name: Songs of the Blessed Realm
+title: Songs of the Blessed Realm
+set: fellowship_of_the_ring
+rarity: common
+card_type: condition
+alignment: free_people
+culture: elven
+twilight: '1'
+game_text: ! |-
+  Plays to your support area. Each time you play an [Elven] tale, you may remove a burden.
+flavor_text: ! |-
+  Elves seem to like music and poetry and tales as much as Hobbits like food.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01061

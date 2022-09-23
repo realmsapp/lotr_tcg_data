@@ -1,0 +1,15 @@
+---
+key: 1U194
+name: Relentless
+title: Relentless
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: event
+alignment: shadow
+culture: moria
+twilight: '0'
+game_text: ! |-
+  Search. Response: If a stealth event is played, spot 3 [Moria] minions to cancel that event.
+flavor_text: ! |-
+  ”'Then dig a hole in the ground,' said Legolas, 'if that is more after the fashion of your kind. But you must dig swift and deep, if you wish to hide from Orcs.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01194

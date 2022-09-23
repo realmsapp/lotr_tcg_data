@@ -1,0 +1,20 @@
+---
+key: 3C14
+name: Erestor, Chief Advisor to Elrond
+title: Erestor
+subtitle: Chief Advisor to Elrond
+set: realms_of_the_elf_lords
+rarity: common
+card_type: ally
+alignment: free_people
+culture: elven
+strength: '5'
+vitality: '2'
+twilight: '2'
+unique: true
+site_number: '3'
+game_text: ! |-
+  To play, spot an Elf. Response: If an Elf is about to take a wound from a [Sauron] minion or [Sauron] event, exert Erestor to prevent that wound.
+flavor_text: ! |-
+  ”'Then there are but two courses… to hide the Ring for ever, or to unmake it.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr03014

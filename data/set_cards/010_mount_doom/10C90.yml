@@ -1,0 +1,17 @@
+---
+key: 10C90
+name: Mordor Brute
+title: Mordor Brute
+set: mount_doom
+rarity: common
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '9'
+vitality: '3'
+twilight: '3'
+site_number: '6'
+game_text: ! |-
+  Each [Sauron] Orc bearing a possession cannot take wounds (except during skirmish phases).
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10090

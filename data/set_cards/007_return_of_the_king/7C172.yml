@@ -1,0 +1,17 @@
+---
+key: 7C172
+name: Troop of Haradrim
+title: Troop of Haradrim
+set: return_of_the_king
+rarity: common
+card_type: minion
+subtype: man
+alignment: shadow
+culture: raider
+strength: '10'
+vitality: '3'
+twilight: '5'
+site_number: '4'
+game_text: ! |-
+  Southron. While you can spot 2 threats, this minion is an archer. While you can spot 3 threats, this minion is fierce. While you can spot 4 threats, this minion is damage +1.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07172

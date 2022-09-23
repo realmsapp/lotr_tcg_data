@@ -1,0 +1,21 @@
+---
+key: 1R72
+name: Gandalf, Friend of the Shirefolk
+title: Gandalf
+subtitle: Friend of the Shirefolk
+set: fellowship_of_the_ring
+rarity: rare
+card_type: companion
+subtype: wizard
+alignment: free_people
+culture: gandalf
+signet: frodo
+strength: '6'
+vitality: '4'
+twilight: '4'
+unique: true
+game_text: ! |-
+  Gandalf is strength +1 for each of these races you can spot in the fellowship: Hobbit, Dwarf, Elf, and Man.
+flavor_text: ! |-
+  ”'Among the Wise I am the only one that goes in for hobbit-lore: an obscure branch of knowledge, but full of surprises.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01072

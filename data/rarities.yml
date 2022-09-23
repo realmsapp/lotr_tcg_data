@@ -1,0 +1,11 @@
+---
+- key: common
+  name: Common
+- key: uncommon
+  name: Uncommon
+- key: rare
+  name: Rare
+- key: none
+  name: None
+- key: promo
+  name: Promotional

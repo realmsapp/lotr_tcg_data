@@ -1,0 +1,19 @@
+---
+key: 1C179
+name: Goblin Scavengers
+title: Goblin Scavengers
+set: fellowship_of_the_ring
+rarity: common
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: moria
+strength: '8'
+vitality: '1'
+twilight: '3'
+site_number: '4'
+game_text: ! |-
+  When you play this minion, you may play a weapon from your discard pile on your [Moria] Orc.
+flavor_text: ! |-
+  ”'The Orcs have often plundered Moria; there is nothing left in the upper halls.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01179

@@ -1,0 +1,18 @@
+---
+key: 1C7
+name: Dwarf Guard
+title: Dwarf Guard
+set: fellowship_of_the_ring
+rarity: common
+card_type: companion
+subtype: dwarf
+alignment: free_people
+culture: dwarven
+strength: '4'
+vitality: '2'
+twilight: '1'
+game_text: ! |-
+  To play, spot a Dwarf.
+flavor_text: ! |-
+  Dwarves from Dain's people are stout companions, trustworthy and loyal.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01007

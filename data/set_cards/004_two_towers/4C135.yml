@@ -1,0 +1,15 @@
+---
+key: 4C135
+name: War and Valor
+title: War and Valor
+set: two_towers
+rarity: common
+card_type: event
+alignment: free_people
+culture: gondor
+twilight: '0'
+game_text: ! |-
+  Skirmish: Make a [Gondor] Man strength +2 (or +3 and damage +1 if skirmishing a roaming minion).
+flavor_text: ! |-
+  ”'So even was my brother, Boromir: a man of prowess, and for that he was accounted the best man in Gondor.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04135

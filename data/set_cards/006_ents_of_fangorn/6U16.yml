@@ -1,0 +1,15 @@
+---
+key: 6U16
+name: Forearmed
+title: Forearmed
+set: ents_of_fangorn
+rarity: uncommon
+card_type: event
+alignment: free_people
+culture: elven
+twilight: '1'
+game_text: ! |-
+  Skirmish: Reveal the top card of your draw deck to make a minion skirmishing an Elf strength -X, where X is the twilight cost of the revealed card.
+flavor_text: ! |-
+  ”'Give them a volley.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06016

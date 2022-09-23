@@ -1,0 +1,15 @@
+---
+key: 7C240
+name: Long Spear
+title: Long Spear
+set: return_of_the_king
+rarity: common
+card_type: possession
+subtype: hand_weapon
+alignment: free_people
+culture: rohan
+strength: "+2"
+twilight: '1'
+game_text: ! |-
+  Bearer must be a [Rohan] Man. You may add a threat to play this possession anytime you could play a skirmish event.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07240

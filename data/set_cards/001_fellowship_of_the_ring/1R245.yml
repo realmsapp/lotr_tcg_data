@@ -1,0 +1,16 @@
+---
+key: 1R245
+name: Desperate Measures
+title: Desperate Measures
+set: fellowship_of_the_ring
+rarity: rare
+card_type: event
+alignment: shadow
+culture: sauron
+twilight: '2'
+game_text: ! |-
+  Maneuver: Spot a [Sauron] Orc and remove a burden to make the Free Peoples player discard top 5 cards from his draw deck.
+flavor_text: ! |-
+  ”'Go back, Sam. You can't swim. I'm going to Mordor alone.'”
+notes: Should read “discard <i>the</i> top 5 cards…“
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01245

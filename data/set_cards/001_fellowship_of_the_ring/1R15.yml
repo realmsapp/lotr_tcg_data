@@ -1,0 +1,17 @@
+---
+key: 1R15
+name: Gimli's Helm
+title: Gimli's Helm
+set: fellowship_of_the_ring
+rarity: rare
+card_type: possession
+subtype: helm
+alignment: free_people
+culture: dwarven
+twilight: '0'
+unique: true
+game_text: ! |-
+  Bearer must be Gimli. He takes no more than 1 wound during each skirmish phase. Skirmish: Discard Gimli's Helm to prevent all wounds to him.
+flavor_text: ! |-
+  A helm fashioned under the Lonely Mountain protects the head of Gimli the Dwarf.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01015

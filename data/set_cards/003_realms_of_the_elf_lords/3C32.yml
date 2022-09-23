@@ -1,0 +1,15 @@
+---
+key: 3C32
+name: Fireworks
+title: Fireworks
+set: realms_of_the_elf_lords
+rarity: common
+card_type: event
+alignment: free_people
+culture: gandalf
+twilight: '1'
+game_text: ! |-
+  Spell. Fellowship: Spot Gandalf to shuffle up to 2 [Gandalf] or up to 2 [Shire] cards from your discard pile into your draw deck.
+flavor_text: ! |-
+  ”'The finest rockets ever seen: / they burst in stars of blue and green….'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr03032

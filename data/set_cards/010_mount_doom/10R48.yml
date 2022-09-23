@@ -1,0 +1,14 @@
+---
+key: 10R48
+name: Seasoned Leader
+title: Seasoned Leader
+set: mount_doom
+rarity: rare
+card_type: condition
+alignment: shadow
+culture: raider
+vitality: "+1"
+twilight: '1'
+game_text: ! |-
+  Bearer must be a Southron. Bearer is enduring. Skirmish: Remove a threat to play a [Raider] condition from your discard pile.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10048

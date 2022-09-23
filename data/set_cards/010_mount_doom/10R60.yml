@@ -1,0 +1,16 @@
+---
+key: 10R60
+name: Gorbag's Sword
+title: Gorbag's Sword
+set: mount_doom
+rarity: rare
+card_type: possession
+subtype: hand_weapon
+alignment: shadow
+culture: wraith
+strength: "+2"
+twilight: '2'
+unique: true
+game_text: ! |-
+  Bearer must be a [Wraith] Orc. When you play this possession, you may discard a possession. Its owner may place it on top of his or her draw deck instead. If bearer is Gorbag, he is fierce.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10060

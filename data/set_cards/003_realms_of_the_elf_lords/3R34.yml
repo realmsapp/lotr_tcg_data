@@ -1,0 +1,18 @@
+---
+key: 3R34
+name: Narya
+title: Narya
+set: realms_of_the_elf_lords
+rarity: rare
+card_type: artifact
+subtype: ring
+alignment: free_people
+culture: gandalf
+vitality: "+1"
+twilight: '0'
+unique: true
+game_text: ! |-
+  Bearer must be Gandalf. At the start of each of your turns, you may add (3) to remove a burden.
+flavor_text: ! |-
+  ”'For this is the Ring of Fire, and with it you may rekindle hearts in a world that grows chill.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr03034

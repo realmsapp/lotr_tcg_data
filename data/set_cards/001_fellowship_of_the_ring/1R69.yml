@@ -1,0 +1,20 @@
+---
+key: 1R69
+name: Albert Dreary, Entertainer From Bree
+title: Albert Dreary
+subtitle: Entertainer From Bree
+set: fellowship_of_the_ring
+rarity: rare
+card_type: ally
+alignment: free_people
+culture: gandalf
+strength: '3'
+vitality: '3'
+twilight: '1'
+unique: true
+site_number: '1'
+game_text: ! |-
+  To play, spot Gandalf. Maneuver: Exert Albert Dreary to discard a [Isengard] or [Moria] condition.
+flavor_text: ! |-
+  Typical of Bree-folk, Albert is a plain but stout-hearted fellow. He does not seek trouble, but he is willing to protect his home.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01069

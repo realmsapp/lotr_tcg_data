@@ -1,0 +1,15 @@
+---
+key: 7C265
+name: Besieging Pike
+title: Besieging Pike
+set: return_of_the_king
+rarity: common
+card_type: possession
+subtype: hand_weapon
+alignment: shadow
+culture: sauron
+strength: "+2"
+twilight: '0'
+game_text: ! |-
+  Bearer must be a [Sauron] Orc. If you have initiative, bearer is strength +3.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07265

@@ -1,0 +1,15 @@
+---
+key: 4C235
+name: Gathering to the Summons
+title: Gathering to the Summons
+set: two_towers
+rarity: common
+card_type: event
+alignment: shadow
+culture: raider
+twilight: '0'
+game_text: ! |-
+  Skirmish: Spot a [Raider] Man skirmishing a Ring-bound companion to add a burden.
+flavor_text: ! |-
+  “These were Men of other race, out of the wide Eastlands….”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04235

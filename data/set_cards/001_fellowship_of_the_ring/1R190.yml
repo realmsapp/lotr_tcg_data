@@ -1,0 +1,17 @@
+---
+key: 1R190
+name: Moria Axe
+title: Moria Axe
+set: fellowship_of_the_ring
+rarity: rare
+card_type: possession
+subtype: hand_weapon
+alignment: shadow
+culture: moria
+strength: "+2"
+twilight: '1'
+game_text: ! |-
+  Bearer must be a [Moria] Orc. Bearer is damage +1. Skirmish: Exert bearer to make him strength +2.
+flavor_text: ! |-
+  Goblins without scimitars wrest axes from the remains of fallen Dwarves.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01190

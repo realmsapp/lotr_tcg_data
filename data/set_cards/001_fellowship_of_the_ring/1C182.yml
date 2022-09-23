@@ -1,0 +1,17 @@
+---
+key: 1C182
+name: Goblin Spear
+title: Goblin Spear
+set: fellowship_of_the_ring
+rarity: common
+card_type: possession
+subtype: hand_weapon
+alignment: shadow
+culture: moria
+strength: "+2"
+twilight: '1'
+game_text: ! |-
+  Bearer must be a [Moria] minion. If bearer kills a companion in a skirmish, add 1 burden (or 2 burdens if that companion was a Hobbit).
+flavor_text: ! |-
+  Simple creatures with simple weapons can be as deadly as an armoured warrior with a fine sword.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01182

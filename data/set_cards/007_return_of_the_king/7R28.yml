@@ -1,0 +1,14 @@
+---
+key: 7R28
+name: Shadow Between
+title: Shadow Between
+set: return_of_the_king
+rarity: rare
+card_type: condition
+alignment: free_people
+culture: elven
+twilight: '2'
+unique: true
+game_text: ! |-
+  To play, spot an Elf. At the start of your regroup phase, you may discard this condition or a card from hand to heal an Elf.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07028

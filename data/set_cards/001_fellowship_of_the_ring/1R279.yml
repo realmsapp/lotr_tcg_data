@@ -1,0 +1,16 @@
+---
+key: 1R279
+name: Thin and Stretched
+title: Thin and Stretched
+set: fellowship_of_the_ring
+rarity: rare
+card_type: condition
+alignment: shadow
+culture: sauron
+twilight: '0'
+unique: true
+game_text: ! |-
+  To play, exert a [Sauron] Orc. Plays on the Ring-bearer. Add a burden at the end of each turn during which bearer was not assigned to a skirmish (and another companion was).
+flavor_text: ! |-
+  ”'I am old, Gandalf. I don't look it….'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01279

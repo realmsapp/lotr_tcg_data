@@ -1,0 +1,19 @@
+---
+key: 7R210
+name: Ulaire Attea, Wraith on Wings
+title: Ulaire Attea
+subtitle: Wraith on Wings
+set: return_of_the_king
+rarity: rare
+card_type: minion
+subtype: nazgul
+alignment: shadow
+culture: wraith
+strength: '12'
+vitality: '3'
+twilight: '6'
+unique: true
+site_number: '3'
+game_text: ! |-
+  Fierce. Shadow: If you have initiative, exert Ulaire Attea and spot another [Wraith] minion to add a burden.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07210

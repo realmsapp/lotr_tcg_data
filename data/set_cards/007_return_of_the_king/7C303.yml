@@ -1,0 +1,20 @@
+---
+key: 7C303
+name: Orc Pursuer
+title: Orc Pursuer
+set: return_of_the_king
+rarity: common
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '5'
+vitality: '2'
+twilight: '1'
+site_number: '6'
+game_text: ! |-
+  Tracker. The site number of each [Sauron] Orc is -1. While you have initiative, this minion is strength +5.
+notes: This card from The Return of the King set has the same name as card 5C108 from
+  the Battle of Helm's Deep set. You may have up to four copies of 5C108 and up to
+  four copies of 7C303 in your deck.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07303

@@ -1,0 +1,20 @@
+---
+key: 1R199
+name: Troll's Keyward
+title: Troll's Keyward
+set: fellowship_of_the_ring
+rarity: rare
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: moria
+strength: '8'
+vitality: '3'
+twilight: '3'
+unique: true
+site_number: '4'
+game_text: ! |-
+  Cave Troll of Moria's twilight cost is -2.
+flavor_text: ! |-
+  Though shorter than a Man, the Troll's Keyward is a deadly adversary.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01199

@@ -1,0 +1,16 @@
+---
+key: 1C304
+name: Noble Intentions
+title: Noble Intentions
+set: fellowship_of_the_ring
+rarity: common
+card_type: event
+alignment: free_people
+culture: shire
+twilight: '0'
+game_text: ! |-
+  Skirmish: Exert a companion (except a Hobbit) to make a Hobbit strength +3.
+flavor_text: ! |-
+  ”'You carry the fate of us all, little one …. If this is indeed the will of the Council, then Gondor will see it done.'”
+notes: 'Version: +.'
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01304

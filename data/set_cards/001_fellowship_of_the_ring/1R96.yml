@@ -1,0 +1,21 @@
+---
+key: 1R96
+name: Boromir, Lord of Gondor
+title: Boromir
+subtitle: Lord of Gondor
+set: fellowship_of_the_ring
+rarity: rare
+card_type: companion
+subtype: man
+alignment: free_people
+culture: gondor
+signet: aragorn
+strength: '7'
+vitality: '3'
+twilight: '3'
+unique: true
+game_text: ! |-
+  Ranger. Boromir is not overwhelmed unless his strength is tripled.
+flavor_text: ! |-
+  ”'…Boromir will also be in the Company. He is a valiant man.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01096

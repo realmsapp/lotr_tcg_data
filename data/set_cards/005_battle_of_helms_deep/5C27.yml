@@ -1,0 +1,16 @@
+---
+key: 5C27
+name: Poor Wretch
+title: Poor Wretch
+set: battle_of_helms_deep
+rarity: common
+card_type: condition
+alignment: free_people
+culture: gollum_free_people
+strength: "+1"
+twilight: '1'
+game_text: ! |-
+  Plays on Smeagol. Skirmish: Discard this condition to make Smeagol damage +1.
+flavor_text: ! |-
+  ”'Throttle us in our sleep, that's his plan.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05027

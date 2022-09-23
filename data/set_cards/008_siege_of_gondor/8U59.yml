@@ -1,0 +1,13 @@
+---
+key: 8U59
+name: Corsair War Galley
+title: Corsair War Galley
+set: siege_of_gondor
+rarity: uncommon
+card_type: possession
+alignment: shadow
+culture: raider
+twilight: '1'
+game_text: ! |-
+  When you play this possession, you may add a [Raider] token here. While you can spot 6 [Raider] tokens and a [Raider] Man, the Shadow has initiative, regardless of the Free Peoples player's hand. Regroup: Add (1) for each [Raider] token you can spot. Discard this possession.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr08059

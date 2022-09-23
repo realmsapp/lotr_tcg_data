@@ -1,0 +1,15 @@
+---
+key: 4R240
+name: New Fear
+title: New Fear
+set: two_towers
+rarity: rare
+card_type: event
+alignment: shadow
+culture: raider
+twilight: '4'
+game_text: ! |-
+  Regroup: Exert a [Raider] Man to add a burden for each companion over 4. The Free Peoples player may discard 2 companions (except the Ring-bearer) to prevent this.
+flavor_text: ! |-
+  “They heard singing and coarse shouting. At first it seemed a long way off, but it drew nearer….”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04240

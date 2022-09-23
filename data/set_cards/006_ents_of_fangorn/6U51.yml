@@ -1,0 +1,16 @@
+---
+key: 6U51
+name: Banner of Westernesse
+title: Banner of Westernesse
+set: ents_of_fangorn
+rarity: uncommon
+card_type: possession
+subtype: hand_weapon
+alignment: free_people
+culture: gondor
+twilight: '1'
+game_text: ! |-
+  Bearer must be a [Gondor] companion. Each time bearer wins a skirmish, you may heal another [Gondor] companion. Response: If bearer wins a skirmish, discard this possession to liberate a site.
+flavor_text: ! |-
+  ”'What brought they from the foundered land / Over the flowing sea?… / and one white tree.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06051

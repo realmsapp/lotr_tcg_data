@@ -1,0 +1,19 @@
+---
+key: 6C99
+name: Corpse Lights
+title: Corpse Lights
+set: ents_of_fangorn
+rarity: common
+card_type: minion
+subtype: wraith
+alignment: shadow
+culture: sauron
+strength: '7'
+vitality: '2'
+twilight: '3'
+site_number: '4'
+game_text: ! |-
+  Twilight. Skirmish: Exert this minion to make a [Sauron] or twilight minion strength +1 for each twilight minion you can spot.
+flavor_text: ! |-
+  ”'I tried once; but you cannot reach them. Only shapes to see, perhaps, not to touch.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06099

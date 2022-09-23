@@ -1,0 +1,15 @@
+---
+key: 4U27
+name: Living Off Rock
+title: Living Off Rock
+set: two_towers
+rarity: uncommon
+card_type: condition
+alignment: shadow
+culture: dunland
+twilight: '0'
+game_text: ! |-
+  Plays to your support area. Each time a [Dunland] Man wins a skirmish involving a [Rohan] Man, you may make that minion strength +2 and fierce until the regroup phase.
+flavor_text: ! |-
+  ”'The Horsemen took your land; they drove your people into the hills to scratch living off rock.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04027

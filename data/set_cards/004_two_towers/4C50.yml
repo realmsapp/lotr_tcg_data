@@ -1,0 +1,16 @@
+---
+key: 4C50
+name: Here Is Good Rock
+title: Here Is Good Rock
+set: two_towers
+rarity: common
+card_type: condition
+alignment: free_people
+culture: dwarven
+twilight: '1'
+unique: true
+game_text: ! |-
+  Tale.Plays to your support area. Skirmish: Stack a Free Peoples card from hand here to make a Dwarf damage +1.
+flavor_text: ! |-
+  ”'Give me a year and a hundred of my kin and I would make this a place that armies would break upon like water.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04050

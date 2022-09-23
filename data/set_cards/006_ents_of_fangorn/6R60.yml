@@ -1,0 +1,18 @@
+---
+key: 6R60
+name: Berserk Butcher
+title: Berserk Butcher
+set: ents_of_fangorn
+rarity: rare
+card_type: minion
+subtype: uruk-hai
+alignment: shadow
+culture: isengard
+strength: '12'
+vitality: '3'
+twilight: '6'
+unique: true
+site_number: '5'
+game_text: ! |-
+  Damage +1. Berserk Butcher is strength +1 for each wound on each character in its skirmish. Maneuver: Remove an [Isengard] token from a machine and exert Berserk Butcher twice to prevent all wounds to Uruk-hai until the assignment phase.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06060

@@ -1,0 +1,15 @@
+---
+key: 1U44
+name: Foul Creation
+title: Foul Creation
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: event
+alignment: free_people
+culture: elven
+twilight: '1'
+game_text: ! |-
+  Fellowship: Exert an Elf to reveal an opponent's hand. You may discard a [Isengard] minion revealed to draw 2 cards.
+flavor_text: ! |-
+  Saruman's Uruk-hai mirrored the singular focus of their master, viewing with contempt and disgust all they encountered.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01044

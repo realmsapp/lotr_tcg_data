@@ -1,0 +1,18 @@
+---
+key: 8R43
+name: Shadow Host
+title: Shadow Host
+set: siege_of_gondor
+rarity: rare
+card_type: companion
+subtype: wraith
+alignment: free_people
+culture: gondor
+signet: aragorn
+strength: '9'
+vitality: '3'
+twilight: '5'
+unique: true
+game_text: ! |-
+  Enduring. To play, spot 2 exhausted [Gondor] Wraiths and add 2 threats. While Shadow Host is exhausted, it is defender +1.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr08043

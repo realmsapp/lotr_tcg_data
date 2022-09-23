@@ -1,0 +1,16 @@
+---
+key: 5R102
+name: Morannon
+title: Morannon
+set: battle_of_helms_deep
+rarity: rare
+card_type: condition
+alignment: shadow
+culture: sauron
+twilight: '0'
+unique: true
+game_text: ! |-
+  Plays to your support area. The twilight cost of the first [Sauron] Orc played at site 4T is -3. Shadow: Spot 2 [Sauron] Orcs and discard 4 cards from hand to draw 3 cards. Discard this condition.
+flavor_text: ! |-
+  The black gate of Mordor was called the Morannon.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05102

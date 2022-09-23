@@ -1,0 +1,20 @@
+---
+key: 4U127
+name: Mablung, Soldier of Gondor
+title: Mablung
+subtitle: Soldier of Gondor
+set: two_towers
+rarity: uncommon
+card_type: companion
+subtype: man
+alignment: free_people
+culture: gondor
+strength: '6'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  Ring-bound. Ranger. To play, spot a Ring-bound Man. Skirmish: Exert Mablung to exhaust a roaming minion he is skirmishing.
+flavor_text: ! |-
+  ”'…we have a new errand on this journey….'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04127

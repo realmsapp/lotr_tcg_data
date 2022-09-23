@@ -1,0 +1,14 @@
+---
+key: 7R316
+name: Troop Tower
+title: Troop Tower
+set: return_of_the_king
+rarity: rare
+card_type: condition
+alignment: shadow
+culture: sauron
+twilight: '1'
+unique: true
+game_text: ! |-
+  Engine. To play, spot a [Sauron] Orc. All [Sauron] Orcs are strength +1 for each besieger stacked on a site. Regroup: Discard a besieger to take control of a site. Discard this condition.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07316

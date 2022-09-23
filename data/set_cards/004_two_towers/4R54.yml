@@ -1,0 +1,15 @@
+---
+key: 4R54
+name: Rest by Blind Night
+title: Rest by Blind Night
+set: two_towers
+rarity: rare
+card_type: event
+alignment: free_people
+culture: dwarven
+twilight: '0'
+game_text: ! |-
+  Regroup: Shuffle any number of [Dwarven] conditions (and all cards stacked on them) into your draw deck.
+flavor_text: ! |-
+  ”'And yet even I, Dwarf of many journeys… cannot run all the way to Isengard without any pause….'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04054

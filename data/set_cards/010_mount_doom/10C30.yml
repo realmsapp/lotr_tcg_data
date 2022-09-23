@@ -1,0 +1,13 @@
+---
+key: 10C30
+name: End of the Game
+title: End of the Game
+set: mount_doom
+rarity: common
+card_type: event
+alignment: free_people
+culture: gondor
+twilight: '0'
+game_text: ! |-
+  Make an exhausted [Gondor] companion strength +2. If that companion wins this skirmish, heal that companion or make him or her damage +1.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10030

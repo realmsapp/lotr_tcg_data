@@ -1,0 +1,17 @@
+---
+key: 7R286
+name: Mordor Fighter
+title: Mordor Fighter
+set: return_of_the_king
+rarity: rare
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '7'
+vitality: '2'
+twilight: '2'
+site_number: '6'
+game_text: ! |-
+  While you can spot a threat and another [Sauron] Orc, the Shadow has initiative, regardless of the Free Peoples player's hand.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07286

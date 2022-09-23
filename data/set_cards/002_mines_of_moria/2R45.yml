@@ -1,0 +1,15 @@
+---
+key: 2R45
+name: Too Much Attention
+title: Too Much Attention
+set: mines_of_moria
+rarity: rare
+card_type: event
+alignment: shadow
+culture: isengard
+twilight: '1'
+game_text: ! |-
+  Response: If the Ring-bearer puts on The One Ring, spot an [Isengard] minion to make the Free Peoples player discard the top 5 cards of his or her draw deck.
+flavor_text: ! |-
+  ”'A little more caution from you - that is not a trinket you carry.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02045

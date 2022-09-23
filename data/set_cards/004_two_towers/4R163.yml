@@ -1,0 +1,15 @@
+---
+key: 4R163
+name: No Dawn for Men
+title: No Dawn for Men
+set: two_towers
+rarity: rare
+card_type: event
+alignment: shadow
+culture: isengard
+twilight: '2'
+game_text: ! |-
+  Maneuver: Exert an Uruk-hai to exert X unbound companions, where X is the number of sites you control.
+flavor_text: ! |-
+  ”'This night, the land will be stained with the blood of Rohan….'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04163

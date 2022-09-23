@@ -1,0 +1,15 @@
+---
+key: 1R115
+name: Strength of Kings
+title: Strength of Kings
+set: fellowship_of_the_ring
+rarity: rare
+card_type: event
+alignment: free_people
+culture: gondor
+twilight: '0'
+game_text: ! |-
+  Response: If a Skirmish event is played during a skirmish involving a [Gondor] Man, cancel that event.
+flavor_text: ! |-
+  ””
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01115

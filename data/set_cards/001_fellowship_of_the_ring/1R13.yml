@@ -1,0 +1,21 @@
+---
+key: 1R13
+name: Gimli, Son of Gloin
+title: Gimli
+subtitle: Son of Gloin
+set: fellowship_of_the_ring
+rarity: rare
+card_type: companion
+subtype: dwarf
+alignment: free_people
+culture: dwarven
+signet: gandalf
+strength: '6'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  Damage +1. Skirmish: Exert Gimli to make him strength +2.
+flavor_text: ! |-
+  “”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01013

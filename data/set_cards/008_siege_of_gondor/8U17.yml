@@ -1,0 +1,13 @@
+---
+key: 8U17
+name: Mighty Steed
+title: Mighty Steed
+set: siege_of_gondor
+rarity: uncommon
+card_type: event
+alignment: free_people
+culture: gandalf
+twilight: '3'
+game_text: ! |-
+  If Gandalf is not assigned to a skirmish, spot Shadowfax or exert Gandalf to have Gandalf replace an unbound companion in a skirmish.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr08017

@@ -1,0 +1,19 @@
+---
+key: 1C268
+name: Orc Inquisitor
+title: Orc Inquisitor
+set: fellowship_of_the_ring
+rarity: common
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '9'
+vitality: '3'
+twilight: '3'
+site_number: '6'
+game_text: ! |-
+  When you play this minion, you may make the Free Peoples player discard a card at random from hand.
+flavor_text: ! |-
+  Cruel questioners of Mordor tore the secret from poor Gollum, that Sauron's most prized possession once again was found.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01268

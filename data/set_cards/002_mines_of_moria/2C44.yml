@@ -1,0 +1,15 @@
+---
+key: 2C44
+name: No Business of Ours
+title: No Business of Ours
+set: mines_of_moria
+rarity: common
+card_type: condition
+alignment: shadow
+culture: isengard
+twilight: '0'
+game_text: ! |-
+  To play, spot an [Isengard] minion. Plays to your support area. The Free Peoples player may not look at or reveal cards in any Shadow player's hand.
+flavor_text: ! |-
+  ”'Goblins? Cobblers! Far-off tales and children's stories, that's all that is!'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02044

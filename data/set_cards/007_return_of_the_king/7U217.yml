@@ -1,0 +1,19 @@
+---
+key: 7U217
+name: Ulaire Nertea, Black-Mantled Wraith
+title: Ulaire Nertea
+subtitle: Black-Mantled Wraith
+set: return_of_the_king
+rarity: uncommon
+card_type: minion
+subtype: nazgul
+alignment: shadow
+culture: wraith
+strength: '9'
+vitality: '2'
+twilight: '4'
+unique: true
+site_number: '3'
+game_text: ! |-
+  Regroup: If you have initiative, discard Ulaire Nertea to add a burden.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07217

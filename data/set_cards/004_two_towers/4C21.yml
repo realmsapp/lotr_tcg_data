@@ -1,0 +1,19 @@
+---
+key: 4C21
+name: Hillman Band
+title: Hillman Band
+set: two_towers
+rarity: common
+card_type: minion
+subtype: man
+alignment: shadow
+culture: dunland
+strength: '9'
+vitality: '1'
+twilight: '3'
+site_number: '3'
+game_text: ! |-
+  Each time the fellowship moves, you may spot another [Dunland] Man to take control of a site.
+flavor_text: ! |-
+  As in years past, the Dunlendings marched in force to the west.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04021

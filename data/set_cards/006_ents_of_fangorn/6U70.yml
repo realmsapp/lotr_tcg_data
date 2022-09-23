@@ -1,0 +1,19 @@
+---
+key: 6U70
+name: Isengard Tender
+title: Isengard Tender
+set: ents_of_fangorn
+rarity: uncommon
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: isengard
+strength: '5'
+vitality: '2'
+twilight: '1'
+site_number: '4'
+game_text: ! |-
+  Regroup: If stacked on an [Isengard] card, discard this card and remove (2) to exhaust a companion.
+flavor_text: ! |-
+  Unfortunate Orcs assisted in Saruman's foul wizardry.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06070

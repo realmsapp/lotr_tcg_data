@@ -1,0 +1,15 @@
+---
+key: 2U41
+name: Evil Afoot
+title: Evil Afoot
+set: mines_of_moria
+rarity: uncommon
+card_type: event
+alignment: shadow
+culture: isengard
+twilight: '0'
+game_text: ! |-
+  Shadow: Exert an Uruk-hai and spot X burdens to shuffle X minions from your discard pile into your draw deck.
+flavor_text: ! |-
+  ”'It is not the Eastern Shore I am worried about. A shadow and a threat has been growing in my mind. Something draws near, I can feel it.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02041

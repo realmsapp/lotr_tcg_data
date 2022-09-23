@@ -1,0 +1,14 @@
+---
+key: 6C111
+name: Kept Safe
+title: Kept Safe
+set: ents_of_fangorn
+rarity: common
+card_type: condition
+alignment: free_people
+culture: shire
+twilight: '2'
+unique: true
+game_text: ! |-
+  Plays to your support area. When you play this condition, place 2 [Shire] tokens here. Response: If an unbound Hobbit is about to take a wound, discard this condition or remove a [Shire] token from here to prevent that wound.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06111

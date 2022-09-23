@@ -1,0 +1,15 @@
+---
+key: 1R38
+name: Double Shot
+title: Double Shot
+set: fellowship_of_the_ring
+rarity: rare
+card_type: event
+alignment: free_people
+culture: elven
+twilight: '0'
+game_text: ! |-
+  Archery: Spot an Elf archer companion to make the fellowship archery total +1.
+flavor_text: ! |-
+  “The affray was sharp, but the orcs were dismayed by the fierceness of the defence. Legolas shot two through the throat.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01038

@@ -1,0 +1,15 @@
+---
+key: 2C26
+name: Speak "Friend" and Enter
+title: Speak "Friend" and Enter
+set: mines_of_moria
+rarity: common
+card_type: event
+alignment: free_people
+culture: gandalf
+twilight: '1'
+game_text: ! |-
+  Fellowship or Regroup: Spot Gandalf to play the fellowship's next site (replacing opponent's site if necessary). Draw a card if you play an underground site.
+flavor_text: ! |-
+  “Picking up his staff he stood before the rock and said in a clear voice: Mellon!”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02026

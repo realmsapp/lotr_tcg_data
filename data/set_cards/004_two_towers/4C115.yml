@@ -1,0 +1,15 @@
+---
+key: 4C115
+name: Defend It and Hope
+title: Defend It and Hope
+set: two_towers
+rarity: common
+card_type: event
+alignment: free_people
+culture: gondor
+twilight: '0'
+game_text: ! |-
+  Maneuver: Exert a [Gondor] Man to wound a minion once (or twice if that minion is an Uruk-hai).
+flavor_text: ! |-
+  ”'Is it not said that no foe has ever taken the Hornburg, if men defended it?'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04115

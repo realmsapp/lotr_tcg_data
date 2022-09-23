@@ -1,0 +1,21 @@
+---
+key: 1U309
+name: Rosie Cotton, Hobbiton Lass
+title: Rosie Cotton
+subtitle: Hobbiton Lass
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: ally
+alignment: free_people
+culture: shire
+strength: '1'
+vitality: '2'
+twilight: '1'
+unique: true
+site_number: '1'
+game_text: ! |-
+  Sam is strength +1. Fellowship: Exert Rosie Cotton to heal Sam.
+flavor_text: ! |-
+  ”'Go on Sam, ask Rosie for a dance.'”
+notes: Game text is a clarification.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01309

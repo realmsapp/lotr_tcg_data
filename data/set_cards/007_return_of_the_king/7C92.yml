@@ -1,0 +1,14 @@
+---
+key: 7C92
+name: First Level
+title: First Level
+set: return_of_the_king
+rarity: common
+card_type: condition
+alignment: free_people
+culture: gondor
+strength: "-1"
+twilight: '1'
+game_text: ! |-
+  Fortification. Maneuver: Exert a [Gondor] Man or spot a knight to transfer this condition from your support area to a minion.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07092

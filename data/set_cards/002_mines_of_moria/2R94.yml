@@ -1,0 +1,15 @@
+---
+key: 2R94
+name: Verily I Come
+title: Verily I Come
+set: mines_of_moria
+rarity: rare
+card_type: condition
+alignment: shadow
+culture: sauron
+twilight: '0'
+game_text: ! |-
+  To play, exert a [Sauron] Orc. Plays on the Ring-bearer. Each time the Free Peoples player draws a card (or takes a card into hand) during the fellowship phase, add a burden.
+flavor_text: ! |-
+  “There was an eye in the Dark Tower that did not sleep. He knew that it had become aware of his gaze.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02094

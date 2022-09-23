@@ -1,0 +1,17 @@
+---
+key: 1U98
+name: Boromir's Cloak
+title: Boromir's Cloak
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: possession
+subtype: cloak
+alignment: free_people
+culture: gondor
+twilight: '0'
+unique: true
+game_text: ! |-
+  Bearer must be Boromir. Maneuver: Exert Boromir to discard a weather condition.
+flavor_text: ! |-
+  “He was cloaked and booted as if for a journey on horseback; and indeed though his garments were rich, and his cloak was lined with fur, they were stained with long travel.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01098

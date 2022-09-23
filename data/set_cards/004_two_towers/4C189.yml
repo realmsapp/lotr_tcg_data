@@ -1,0 +1,20 @@
+---
+key: 4C189
+name: Uruk Plains Runner
+title: Uruk Plains Runner
+set: two_towers
+rarity: common
+card_type: minion
+subtype: uruk-hai
+alignment: shadow
+culture: isengard
+strength: '7'
+vitality: '1'
+twilight: '2'
+site_number: '5'
+game_text: ! |-
+  Tracker. Fierce. During a fierce skirmish involving this minion, it is strength +3 and damage +1.
+flavor_text: ! |-
+  ”'Run! Or you'll never see your beloved holes again!'”
+notes: Image fixed.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04189

@@ -1,0 +1,15 @@
+---
+key: 1R22
+name: Mithril Shaft
+title: Mithril Shaft
+set: fellowship_of_the_ring
+rarity: rare
+card_type: event
+alignment: free_people
+culture: dwarven
+twilight: '0'
+game_text: ! |-
+  Maneuver: Exert a Dwarf to discard cards from the top of your draw deck until you choose to stop (limit 5). Add (1) for each card discarded in this way. Take the last card discarded into hand.
+flavor_text: ! |-
+  ”'Mithril! All folk desired it.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01022

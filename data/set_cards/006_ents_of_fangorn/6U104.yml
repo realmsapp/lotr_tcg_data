@@ -1,0 +1,20 @@
+---
+key: 6U104
+name: Orc Insurgent
+title: Orc Insurgent
+set: ents_of_fangorn
+rarity: uncommon
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '11'
+vitality: '3'
+twilight: '4'
+unique: true
+site_number: '6'
+game_text: ! |-
+  Shadow: Exert this minion to draw X cards and add (X), where X is the number of Free Peoples cultures you spot over 2.
+flavor_text: ! |-
+  ””
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06104

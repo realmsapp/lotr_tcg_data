@@ -1,0 +1,17 @@
+---
+key: 1U251
+name: A Host Avails Little
+title: A Host Avails Little
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: event
+alignment: shadow
+culture: sauron
+twilight: '3'
+game_text: ! |-
+  Search. Maneuver: Spot a [Sauron] Orc and 6 companions to wound a companion (except the Ring-bearer). Do this once for each companion over 5.
+flavor_text: ! |-
+  ”'Had I a host of Elves in armour of the Elder Days, it would avail little….'”
+notes: If you can spot 7 or more companions, you may wound the same companion more
+  than once.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01251

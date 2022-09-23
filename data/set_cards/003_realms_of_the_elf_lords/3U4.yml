@@ -1,0 +1,15 @@
+---
+key: 3U4
+name: A Royal Welcome
+title: A Royal Welcome
+set: realms_of_the_elf_lords
+rarity: uncommon
+card_type: condition
+alignment: free_people
+culture: dwarven
+twilight: '2'
+game_text: ! |-
+  Plays to your support area. Regroup: Exert a Dwarf ally to heal a Dwarf companion.
+flavor_text: ! |-
+  ”'There is even a chance that Dwarves are there, and that in some deep hall of his fathers, Balin son of Fundin may be found.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr03004

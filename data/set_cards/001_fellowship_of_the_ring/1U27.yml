@@ -1,0 +1,20 @@
+---
+key: 1U27
+name: Thrarin, Dwarven Smith
+title: Thrarin
+subtitle: Dwarven Smith
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: ally
+alignment: free_people
+culture: dwarven
+strength: '4'
+vitality: '2'
+twilight: '1'
+unique: true
+site_number: '3'
+game_text: ! |-
+  Maneuver: Exert Thrarin to allow him to participate in archery fire and skirmishes until the regroup phase.
+flavor_text: ! |-
+  A blacksmith by trade, Thrarin puts down his hammer and takes up his axe to fight when the need arises.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01027

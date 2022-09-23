@@ -1,0 +1,15 @@
+---
+key: 1U242
+name: The Dark Lord's Summons
+title: The Dark Lord's Summons
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: condition
+alignment: shadow
+culture: sauron
+twilight: '1'
+game_text: ! |-
+  Search. To play, spot a [Sauron] Orc. Plays to your support area. Shadow: Remove (3) to reveal the top card of your draw deck. If it is a [Sauron] card, take it into hand. Otherwise, discard it and one other card from hand.
+flavor_text: ! |-
+  Orcs obey the Dark Lord unquestioningly.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01242

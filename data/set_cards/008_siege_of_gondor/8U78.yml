@@ -1,0 +1,14 @@
+---
+key: 8U78
+name: Streaming to the Field
+title: Streaming to the Field
+set: siege_of_gondor
+rarity: uncommon
+card_type: condition
+alignment: shadow
+culture: wraith
+twilight: '3'
+unique: true
+game_text: ! |-
+  For each [Wraith] Orc you can spot, the Free Peoples player must have an additional card in hand to have initiative. Skirmish: Discard this condition to make a [Wraith] Orc strength +2.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr08078

@@ -1,0 +1,20 @@
+---
+key: 4R103
+name: Treebeard, Earthborn
+title: Treebeard
+subtitle: Earthborn
+set: two_towers
+rarity: rare
+card_type: ally
+alignment: free_people
+culture: gandalf
+strength: '12'
+vitality: '4'
+twilight: '4'
+unique: true
+site_number: 2T, 8T
+game_text: ! |-
+  Unhasty. Response: If an unbound Hobbit is about to be discarded, stack him here instead. Fellowship: Exert Treebeard and add(1) to play an unbound Hobbit stacked here.
+flavor_text: ! |-
+  ”'Do not be hasty, that is my motto.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04103

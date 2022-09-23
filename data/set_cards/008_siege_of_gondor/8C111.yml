@@ -1,0 +1,14 @@
+---
+key: 8C111
+name: So Fair, So Desperate
+title: So Fair
+subtitle: So Desperate
+set: siege_of_gondor
+rarity: common
+card_type: event
+alignment: free_people
+culture: shire
+twilight: '1'
+game_text: ! |-
+  If the Shadow has initiative, add a threat to make an unbound Hobbit strength +1 for each [Shire] card you spot.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr08111

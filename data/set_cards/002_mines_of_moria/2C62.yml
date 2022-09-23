@@ -1,0 +1,19 @@
+---
+key: 2C62
+name: Goblin Pursuer
+title: Goblin Pursuer
+set: mines_of_moria
+rarity: common
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: moria
+strength: '6'
+vitality: '1'
+twilight: '2'
+site_number: '4'
+game_text: ! |-
+  If the fellowship has moved more than once this turn, this minion is strength +3.
+flavor_text: ! |-
+  Had the fellowship remained in Dimrill Dale, pursuers from Moria would have overwhelmed them.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02062

@@ -1,0 +1,15 @@
+---
+key: 8R88
+name: Eowyn's Shield
+title: Eowyn's Shield
+set: siege_of_gondor
+rarity: rare
+card_type: possession
+subtype: shield
+alignment: free_people
+culture: rohan
+twilight: '1'
+unique: true
+game_text: ! |-
+  Bearer must be a [Rohan] Man. The minion archery total is -1. Skirmish: If bearer is Eowyn, add a threat and discard Eowyn's Shield to discard a hand weapon borne by a minion she is skirmishing.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr08088

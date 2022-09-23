@@ -1,0 +1,16 @@
+---
+key: 1C92
+name: Armor
+title: Armor
+set: fellowship_of_the_ring
+rarity: common
+card_type: possession
+subtype: armor
+alignment: free_people
+culture: gondor
+twilight: '1'
+game_text: ! |-
+  Bearer must be a Man. Bearer takes no more than 1 wound during each skirmish phase.
+flavor_text: ! |-
+  “Then Elendil the Tall….”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01092

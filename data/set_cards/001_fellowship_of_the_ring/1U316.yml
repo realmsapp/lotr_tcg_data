@@ -1,0 +1,17 @@
+---
+key: 1U316
+name: A Talent for Not Being Seen
+title: A Talent for Not Being Seen
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: condition
+alignment: free_people
+culture: shire
+twilight: '0'
+unique: true
+game_text: ! |-
+  Stealth. To play, exert a Hobbit. Plays to your support area. Each time the fellowship moves, spot 2 Hobbit companions to make the shadow number -1 (or spot 4 to make it -2).
+flavor_text: ! |-
+  With their small size, Hobbits use any hole to hide in, and their trail is difficult to detect.
+notes: 'Lists: EXL'
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01316

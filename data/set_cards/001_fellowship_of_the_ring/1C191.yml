@@ -1,0 +1,19 @@
+---
+key: 1C191
+name: Moria Scout
+title: Moria Scout
+set: fellowship_of_the_ring
+rarity: common
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: moria
+strength: '6'
+vitality: '2'
+twilight: '2'
+site_number: '4'
+game_text: ! |-
+  When you play this minion, spot an Elf to add (2).
+flavor_text: ! |-
+  Like their kindred in the North, the Orcs of Moria have keen noses, often following their prey by scent.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01191

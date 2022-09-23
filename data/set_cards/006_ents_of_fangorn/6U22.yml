@@ -1,0 +1,19 @@
+---
+key: 6U22
+name: Naith Troop
+title: Naith Troop
+set: ents_of_fangorn
+rarity: uncommon
+card_type: companion
+subtype: elf
+alignment: free_people
+culture: elven
+strength: '8'
+vitality: '3'
+twilight: '3'
+unique: true
+game_text: ! |-
+  To play, spot 3 Elf companions. Skirmish: Exert Naith Troop to discard the top card of your draw deck. If it is an [Elven] card, make a minion skirmishing Naith Troop strength -2.
+flavor_text: ! |-
+  Now only the bow and the sword can forestall the coming of the Shadow.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06022

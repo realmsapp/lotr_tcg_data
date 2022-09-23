@@ -1,0 +1,20 @@
+---
+key: 1U17
+name: Grimir, Dwarven Elder
+title: Grimir
+subtitle: Dwarven Elder
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: ally
+alignment: free_people
+culture: dwarven
+strength: '3'
+vitality: '3'
+twilight: '1'
+unique: true
+site_number: '3'
+game_text: ! |-
+  Fellowship: Exert Grimir to shuffle a [Dwarven] event from your discard pile into your draw deck.
+flavor_text: ! |-
+  Old and grey after many years spent in exile before the Lonely Mountain was reclaimed, Grimir can still wield his axe with strength.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01017

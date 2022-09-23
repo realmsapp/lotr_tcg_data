@@ -1,0 +1,19 @@
+---
+key: 6C5
+name: Dunlending Reserve
+title: Dunlending Reserve
+set: ents_of_fangorn
+rarity: common
+card_type: minion
+subtype: man
+alignment: shadow
+culture: dunland
+strength: '10'
+vitality: '1'
+twilight: '4'
+site_number: '3'
+game_text: ! |-
+  The twilight cost of this minion during a skirmish phase is -2.
+flavor_text: ! |-
+  The relentless campaign of the hillmen drove citizens of the Westfold to the shelter of their capital.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06005

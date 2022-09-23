@@ -1,0 +1,15 @@
+---
+key: 1C116
+name: Swordarm of the White Tower
+title: Swordarm of the White Tower
+set: fellowship_of_the_ring
+rarity: common
+card_type: event
+alignment: free_people
+culture: gondor
+twilight: '0'
+game_text: ! |-
+  Skirmish: Make a [Gondor] companion strength +2 (or +4 if he is defender +1).
+flavor_text: ! |-
+  ”'By our valour the wild folk of the East are still restrained, and the terror of Morgul kept at bay; and thus alone are peace and freedom maintained in the lands behind us, bulwark of the West.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01116

@@ -1,0 +1,15 @@
+---
+key: 1C6
+name: Delving
+title: Delving
+set: fellowship_of_the_ring
+rarity: common
+card_type: event
+alignment: free_people
+culture: dwarven
+twilight: '1'
+game_text: ! |-
+  Fellowship: Exert a Dwarf companion to draw 3 cards.
+flavor_text: ! |-
+  ”'…they delved too greedily and too deep, and disturbed that from which they fled, Durin's Bane.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01006

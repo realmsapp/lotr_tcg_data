@@ -1,0 +1,15 @@
+---
+key: 1C68
+name: The White Arrows of Lorien
+title: The White Arrows of Lorien
+set: fellowship_of_the_ring
+rarity: common
+card_type: condition
+alignment: free_people
+culture: elven
+twilight: '1'
+game_text: ! |-
+  Tale. Bearer must be an Elf companion. Archery: If bearer is an archer, exert bearer to make an opponent discard 2 cards at random from hand.
+flavor_text: ! |-
+  Straight and true, the arrows of the Golden Wood are known to leave a deadly mark.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01068

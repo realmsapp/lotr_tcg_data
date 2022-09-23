@@ -1,0 +1,19 @@
+---
+key: 4R200
+name: Uruk Vanguard
+title: Uruk Vanguard
+set: two_towers
+rarity: rare
+card_type: minion
+subtype: uruk-hai
+alignment: shadow
+culture: isengard
+strength: '17'
+vitality: '4'
+twilight: '10'
+site_number: '5'
+game_text: ! |-
+  Damage +1 (or damage +2 if at a battleground). To play, spot an Uruk-hai. While at a battleground, this minion is fierce.
+flavor_text: ! |-
+  ”'These are Uruk-hai - their armour is thick, their shields broad.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04200

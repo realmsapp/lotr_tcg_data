@@ -1,0 +1,14 @@
+---
+key: 10R1
+name: Great Day, Great Hour
+title: Great Day
+subtitle: Great Hour
+set: mount_doom
+rarity: rare
+card_type: event
+alignment: free_people
+culture: dwarven
+twilight: '3'
+game_text: ! |-
+  If an opponent plays a minion, exert a Dwarf who is damage +X to exert that minion X times.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10001

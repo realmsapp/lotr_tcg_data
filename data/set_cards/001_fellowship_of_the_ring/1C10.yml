@@ -1,0 +1,15 @@
+---
+key: 1C10
+name: Dwarven Heart
+title: Dwarven Heart
+set: fellowship_of_the_ring
+rarity: common
+card_type: condition
+alignment: free_people
+culture: dwarven
+twilight: '0'
+game_text: ! |-
+  Bearer must be a Dwarf. When you play this condition, heal bearer up to 2 times. At the start of each of your turns, exert bearer.
+flavor_text: ! |-
+  ”'…a Dwarf goes on, be the burden twice his own weight….'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01010

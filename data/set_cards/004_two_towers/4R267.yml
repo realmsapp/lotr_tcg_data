@@ -1,0 +1,21 @@
+---
+key: 4R267
+name: Eomer, Third Marshal of Riddermark
+title: Eomer
+subtitle: Third Marshal of Riddermark
+set: two_towers
+rarity: rare
+card_type: companion
+subtype: man
+alignment: free_people
+culture: rohan
+signet: theoden
+strength: '7'
+vitality: '3'
+twilight: '3'
+unique: true
+game_text: ! |-
+  While you can spot a [Rohan] Man, Eomer's twilight cost is -1. Eomer is strength +2 for each wound on each minion he is skirmishing.
+flavor_text: ! |-
+  “Then one rode forward, a tall man, taller than the rest; from his helm as a crest a white horsetail flowed.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04267

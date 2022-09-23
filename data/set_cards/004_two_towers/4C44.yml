@@ -1,0 +1,16 @@
+---
+key: 4C44
+name: Courtesy of My Hall
+title: Courtesy of My Hall
+set: two_towers
+rarity: common
+card_type: condition
+alignment: free_people
+culture: dwarven
+twilight: '1'
+unique: true
+game_text: ! |-
+  Plays to your support area. When you play this condition, stack a card from your discard pile here. Fellowship: Discard a Free Peoples card stacked here to heal a Dwarf.
+flavor_text: ! |-
+  ”'Now my guests, come!… Come and take such refreshment as haste allows.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04044

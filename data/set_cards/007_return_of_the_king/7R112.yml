@@ -1,0 +1,14 @@
+---
+key: 7R112
+name: Noble Leaders
+title: Noble Leaders
+set: return_of_the_king
+rarity: rare
+card_type: condition
+alignment: free_people
+culture: gondor
+twilight: '1'
+unique: true
+game_text: ! |-
+  When you play this condition, place a [Gondor] token here for each of the following characters you can spot: Aragorn, Boromir, Denethor or Faramir. Skirmish: Remove a token from here or discard this condition to make a [Gondor] companion strength +1 and damage +1.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07112

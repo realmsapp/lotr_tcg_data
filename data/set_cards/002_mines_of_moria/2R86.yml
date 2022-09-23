@@ -1,0 +1,15 @@
+---
+key: 2R86
+name: Wraith-world
+title: Wraith-world
+set: mines_of_moria
+rarity: rare
+card_type: event
+alignment: shadow
+culture: wraith
+twilight: '1'
+game_text: ! |-
+  Skirmish: Spot a twilight Nazgul and the Ring-bearer wearing The One Ring to add 3 burdens.
+flavor_text: ! |-
+  ”'He is passing into the shadow world, he will soon become a wraith like them.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02086

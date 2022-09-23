@@ -1,0 +1,19 @@
+---
+key: 6R28
+name: Ent Horde
+title: Ent Horde
+set: ents_of_fangorn
+rarity: rare
+card_type: companion
+subtype: ent
+alignment: free_people
+culture: gandalf
+strength: '10'
+vitality: '5'
+twilight: '15'
+unique: true
+game_text: ! |-
+  To play, spot 2 Ent companions. Ent Horde's twilight cost is -2 for each Ent or unbound Hobbit you can spot. While you can spot more minions than companions, Ent Horde is defender +1.
+flavor_text: ! |-
+  ”'With doom we come, with doom we come!'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06028

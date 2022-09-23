@@ -1,0 +1,15 @@
+---
+key: 5C43
+name: War Must Be
+title: War Must Be
+set: battle_of_helms_deep
+rarity: common
+card_type: event
+alignment: free_people
+culture: gondor
+twilight: '0'
+game_text: ! |-
+  Skirmish: Make a [Gondor] Man strength +2 (or +4 if skirmishing a minion bearing a [Gondor] fortification).
+flavor_text: ! |-
+  ”'…we defend ourselves against a destroyer who would devour all….'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05043

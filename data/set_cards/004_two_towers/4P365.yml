@@ -1,0 +1,21 @@
+---
+key: 4P365
+name: Theoden, Lord of the Mark
+title: Theoden
+subtitle: Lord of the Mark
+set: two_towers
+rarity: promo
+card_type: companion
+subtype: man
+alignment: free_people
+culture: rohan
+signet: theoden
+strength: '6'
+vitality: '2'
+twilight: '2'
+unique: true
+game_text: ! |-
+  Fellowship: Play a [Rohan] possession on a [Rohan] companion to heal that companion (limit once per turn).
+flavor_text: ! |-
+  ”'Every man and strong lad able to bear arms, all who have horses, let them be ready in the saddle at the gate ere the second hour from noon!'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04365

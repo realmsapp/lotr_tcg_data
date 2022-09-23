@@ -1,0 +1,20 @@
+---
+key: 6R94
+name: Hama, Doorward of Theoden
+title: Hama
+subtitle: Doorward of Theoden
+set: ents_of_fangorn
+rarity: rare
+card_type: companion
+subtype: man
+alignment: free_people
+culture: rohan
+strength: '6'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  To play, spot a [Rohan] Man. Skirmish: Exert Hama to discard a possession borne by a minion he is skirmishing.
+flavor_text: ! |-
+  ”'Yet in doubt a man of worth will trust to his own wisdom. I believe you are friends and folk worthy of honour, who have no evil purpose.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06094

@@ -1,0 +1,19 @@
+---
+key: 4U205
+name: Uruk-hai Mob
+title: Uruk-hai Mob
+set: two_towers
+rarity: uncommon
+card_type: minion
+subtype: uruk-hai
+alignment: shadow
+culture: isengard
+strength: '10'
+vitality: '3'
+twilight: '5'
+site_number: '5'
+game_text: ! |-
+  Damage +1. The twilight cost of this minion is -1 for each site you control.
+flavor_text: ! |-
+  ”'Let the fighting Uruk-hai do the work, as usual.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04205

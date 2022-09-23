@@ -1,0 +1,15 @@
+---
+key: 2C9
+name: Great Works Begun There
+title: Great Works Begun There
+set: mines_of_moria
+rarity: common
+card_type: condition
+alignment: free_people
+culture: dwarven
+twilight: '1'
+game_text: ! |-
+  Tale. Plays to your support area. Each time you play a Dwarf, you may discard the top 2 cards from your draw deck to take a [Dwarven] event into hand from your discard pile.
+flavor_text: ! |-
+  ”'Moria! Moria!… Long have its vast mansions lain empty since the children of Durin fled.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02009

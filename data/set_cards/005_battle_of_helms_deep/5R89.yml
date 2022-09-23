@@ -1,0 +1,16 @@
+---
+key: 5R89
+name: Rohirrim Helm
+title: Rohirrim Helm
+set: battle_of_helms_deep
+rarity: rare
+card_type: possession
+subtype: helm
+alignment: free_people
+culture: rohan
+twilight: '1'
+game_text: ! |-
+  Bearer must be [Rohan] Man. Skirmish: Discard this possession to cancel a skirmish involving bearer. A minion in this skirmish may exert to prevent this.
+flavor_text: ! |-
+  The armory of Helm's Deep provided raiment of war for her defenders.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05089

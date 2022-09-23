@@ -1,0 +1,17 @@
+---
+key: 8U94
+name: Gorgoroth Agitator
+title: Gorgoroth Agitator
+set: siege_of_gondor
+rarity: uncommon
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '9'
+vitality: '2'
+twilight: '3'
+site_number: '5'
+game_text: ! |-
+  Besieger. To play, spot a [Sauron] Orc. When you play this minion, if you can spot another besieger, you may add a threat for each companion over 4. Shadow: Remove a threat to play a [Sauron] engine from your discard pile.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr08094

@@ -1,0 +1,15 @@
+---
+key: 4C260
+name: Whirling Strike
+title: Whirling Strike
+set: two_towers
+rarity: common
+card_type: event
+alignment: shadow
+culture: raider
+twilight: '3'
+game_text: ! |-
+  Skirmish: Wound a companion or ally skirmishing a [Raider] Man.
+flavor_text: ! |-
+  The Southrons fight with tactics the men of Gondor have never before seen.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04260

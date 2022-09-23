@@ -1,0 +1,20 @@
+---
+key: 1R163
+name: Ancient Chieftain
+title: Ancient Chieftain
+set: fellowship_of_the_ring
+rarity: rare
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: moria
+strength: '9'
+vitality: '2'
+twilight: '4'
+unique: true
+site_number: '4'
+game_text: ! |-
+  For each other [Moria] Orc you can spot, Ancient Chieftain is strength +1.
+flavor_text: ! |-
+  ”…a huge orc-chieftain, almost man-high, clad in black mail from head to foot, leaped into the chamber; behind him his followers clustered in the doorway.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01163

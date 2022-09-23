@@ -1,0 +1,21 @@
+---
+key: 2R73
+name: Watcher in the Water, Keeper of Westgate
+title: Watcher in the Water
+subtitle: Keeper of Westgate
+set: mines_of_moria
+rarity: rare
+card_type: minion
+subtype: creature
+alignment: shadow
+culture: moria
+strength: '11'
+vitality: '4'
+twilight: '4'
+unique: true
+site_number: '4'
+game_text: ! |-
+  Damage +1. While you can spot Watcher in the Water, discard all other minions (except tentacles). Each tentacle is strength +2 and damage +1. This minion may not bear possessions and is discarded if not at a marsh.
+flavor_text: ! |-
+  “The dark water boiled… there was a hideous stench.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02073

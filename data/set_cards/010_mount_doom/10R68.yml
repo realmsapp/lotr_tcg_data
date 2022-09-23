@@ -1,0 +1,19 @@
+---
+key: 10R68
+name: Ulaire Enquea, Thrall of the One
+title: Ulaire Enquea
+subtitle: Thrall of the One
+set: mount_doom
+rarity: rare
+card_type: minion
+subtype: nazgul
+alignment: shadow
+culture: wraith
+strength: '11'
+vitality: '4'
+twilight: '6'
+unique: true
+site_number: '3'
+game_text: ! |-
+  Enduring. Shadow cards cannot exert Ulaire Enquea during a skirmish phase. Skirmish: If Ulaire Enquea is skirmishing, heal him to add a burden.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10068

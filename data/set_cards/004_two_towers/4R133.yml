@@ -1,0 +1,16 @@
+---
+key: 4R133
+name: Ruins of Osgiliath
+title: Ruins of Osgiliath
+set: two_towers
+rarity: rare
+card_type: condition
+alignment: free_people
+culture: gondor
+twilight: '0'
+unique: true
+game_text: ! |-
+  Plays to your support area. While the fellowship is at site 7T, each Ring-bound Man is defender +1. Skirmish: Spot a Ringbound Man and discard this condition to wound an opponent's Man.
+flavor_text: ! |-
+  The Citadel of the Stars had fallen into ruin.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04133

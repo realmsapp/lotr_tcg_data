@@ -1,0 +1,13 @@
+---
+key: 7C149
+name: Great Beasts
+title: Great Beasts
+set: return_of_the_king
+rarity: common
+card_type: condition
+alignment: shadow
+culture: raider
+twilight: '0'
+game_text: ! |-
+  To play, spot a [Raider] Man. Regroup: Remove (9) and spot 3 [Raider] Men to make the move limit -1.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07149

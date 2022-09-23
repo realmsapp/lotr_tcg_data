@@ -1,0 +1,15 @@
+---
+key: 6R11
+name: Toss Me
+title: Toss Me
+set: ents_of_fangorn
+rarity: rare
+card_type: event
+alignment: free_people
+culture: dwarven
+twilight: '1'
+game_text: ! |-
+  While this card is stacked on a [Dwarven] condition, Gimli is strength +1. Fellowship: Place this card or another [Dwarven] card from hand on top of or beneath your draw deck.
+flavor_text: ! |-
+  ”'Don't tell the Elf.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06011

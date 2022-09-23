@@ -1,0 +1,21 @@
+---
+key: 2C51
+name: The Balrog, Durin's Bane
+title: The Balrog
+subtitle: Durin's Bane
+set: mines_of_moria
+rarity: common
+card_type: minion
+subtype: balrog
+alignment: shadow
+culture: moria
+strength: '17'
+vitality: '5'
+twilight: '12'
+unique: true
+site_number: '4'
+game_text: ! |-
+  Damage +1. Fierce. While you can spot The Balrog, discard all other minions. Skip the archery phase. Discard The Balrog if not underground.
+flavor_text: ! |-
+  ”'Indeed I saw upon the bridge that which haunts our darkest dreams….'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02051

@@ -1,0 +1,17 @@
+---
+key: 10U57
+name: Cirith Ungol Watchman
+title: Cirith Ungol Watchman
+set: mount_doom
+rarity: uncommon
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: wraith
+strength: '9'
+vitality: '2'
+twilight: '4'
+site_number: '4'
+game_text: ! |-
+  Each companion skirmishing this minion loses all damage and strength bonuses from possessions.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10057

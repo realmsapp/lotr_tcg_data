@@ -1,0 +1,19 @@
+---
+key: 7R180
+name: Gorbag, Lieutenant of Cirith Ungol
+title: Gorbag
+subtitle: Lieutenant of Cirith Ungol
+set: return_of_the_king
+rarity: rare
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: wraith
+strength: '11'
+vitality: '3'
+twilight: '5'
+unique: true
+site_number: '4'
+game_text: ! |-
+  While you can spot a Nazgul, Gorbag is strength +2 and damage +1.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07180

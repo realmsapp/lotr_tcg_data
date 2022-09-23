@@ -1,0 +1,15 @@
+---
+key: 5U22
+name: Evil-smelling Fens
+title: Evil-smelling Fens
+set: battle_of_helms_deep
+rarity: uncommon
+card_type: condition
+alignment: shadow
+culture: gollum_shadow
+twilight: '1'
+game_text: ! |-
+  Plays to your support area. Each site on the adventure path is a marsh. Shadow: Exert Gollum twice and discard this condition to play a minion from your discard pile.
+flavor_text: ! |-
+  ”'No birds here. There are snakeses, wormses, things in the pools. Lots of things, lots of nasty things.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05022

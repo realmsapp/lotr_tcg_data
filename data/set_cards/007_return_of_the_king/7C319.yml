@@ -1,0 +1,16 @@
+---
+key: 7C319
+name: Hobbit Sword
+title: Hobbit Sword
+set: return_of_the_king
+rarity: common
+card_type: possession
+subtype: hand_weapon
+alignment: free_people
+culture: shire
+strength: "+2"
+twilight: '1'
+game_text: ! |-
+  Bearer must be a Hobbit.
+notes: 'Version: ++.'
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07319

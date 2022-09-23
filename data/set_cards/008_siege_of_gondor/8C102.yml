@@ -1,0 +1,17 @@
+---
+key: 8C102
+name: Great Hill Troll
+title: Great Hill Troll
+set: siege_of_gondor
+rarity: common
+card_type: minion
+subtype: troll
+alignment: shadow
+culture: sauron
+strength: '16'
+vitality: '4'
+twilight: '9'
+site_number: '6'
+game_text: ! |-
+  Besieger. Fierce. The twilight cost of this minion is -1 for each [Sauron] engine you spot. When you play this minion at sites 5K to 9K, you may discard a Free Peoples condition.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr08102

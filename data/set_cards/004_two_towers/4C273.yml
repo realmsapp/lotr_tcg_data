@@ -1,0 +1,15 @@
+---
+key: 4C273
+name: Fight for the Villagers
+title: Fight for the Villagers
+set: two_towers
+rarity: common
+card_type: event
+alignment: free_people
+culture: rohan
+twilight: '1'
+game_text: ! |-
+  Skirmish: Make a [Rohan] Man strength +2 (or +3 if you spot a villager).
+flavor_text: ! |-
+  ”'Bar the gates, set a watch on the surrounds, and get the women and children to the caves.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04273

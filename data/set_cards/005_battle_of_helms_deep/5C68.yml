@@ -1,0 +1,15 @@
+---
+key: 5C68
+name: Wolf-voices
+title: Wolf-voices
+set: battle_of_helms_deep
+rarity: common
+card_type: event
+alignment: shadow
+culture: isengard
+twilight: '1'
+game_text: ! |-
+  Skirmish: Make an [Isengard] Orc strength +2 (and heal it if mounted).
+flavor_text: ! |-
+  ”'…these howls freeze my blood.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05068

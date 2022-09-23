@@ -1,0 +1,15 @@
+---
+key: 4C156
+name: Kill Them Now
+title: Kill Them Now
+set: two_towers
+rarity: common
+card_type: event
+alignment: shadow
+culture: isengard
+twilight: '0'
+game_text: ! |-
+  Skirmish: Make an [Isengard] tracker strength +2 (or +4 if skirmishing a character bearing a search card).
+flavor_text: ! |-
+  ”'They're a cursed nuisance, and we're in a hurry.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04156

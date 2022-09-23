@@ -1,0 +1,18 @@
+---
+key: 1C286
+name: Bounder
+title: Bounder
+set: fellowship_of_the_ring
+rarity: common
+card_type: ally
+alignment: free_people
+culture: shire
+strength: '2'
+vitality: '2'
+twilight: '1'
+site_number: '2'
+game_text: ! |-
+  Skirmish: Exert this ally to prevent a Hobbit from being overwhelmed unless that Hobbit's strength is tripled.
+flavor_text: ! |-
+  ”'Aye, reckon we're in for a quiet night … mind how you go.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01286

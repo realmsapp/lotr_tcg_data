@@ -1,0 +1,14 @@
+---
+key: 6C1
+name: Bound By Rage
+title: Bound By Rage
+set: ents_of_fangorn
+rarity: common
+card_type: condition
+alignment: shadow
+culture: dunland
+twilight: '3'
+unique: true
+game_text: ! |-
+  Plays to your support area. When you play this condition, you may spot 2 [Dunland] Men to place 2 [Dunland] tokens here. Response: If a [Dunland] Man is about to take a wound, discard this condition or remove a [Dunland] token from here to prevent that wound.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06001

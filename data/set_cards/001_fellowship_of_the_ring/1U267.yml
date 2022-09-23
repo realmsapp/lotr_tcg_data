@@ -1,0 +1,19 @@
+---
+key: 1U267
+name: Orc Hunters
+title: Orc Hunters
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '9'
+vitality: '2'
+twilight: '3'
+site_number: '6'
+game_text: ! |-
+  Skirmish: Exert this minion to wound a character he is skirmishing.
+flavor_text: ! |-
+  Bred for battle, Sauron's soldiers live for the thrill of the fight - and the spoils of victory.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01267

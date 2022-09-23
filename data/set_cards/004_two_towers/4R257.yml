@@ -1,0 +1,19 @@
+---
+key: 4R257
+name: Southron Veterans
+title: Southron Veterans
+set: two_towers
+rarity: rare
+card_type: minion
+subtype: man
+alignment: shadow
+culture: raider
+strength: '10'
+vitality: '3'
+twilight: '5'
+site_number: '4'
+game_text: ! |-
+  Southron. Ambush (1). Maneuver: Exert this minion and spot 6 companions to make the Free Peoples player exert 2 companions.
+flavor_text: ! |-
+  “He caught a glimpse of swarthy men… running down the slope some way off….”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04257

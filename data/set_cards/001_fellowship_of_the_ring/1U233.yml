@@ -1,0 +1,22 @@
+---
+key: 1U233
+name: Ulaire Nelya, Lieutenant of Morgul
+title: Ulaire Nelya
+subtitle: Lieutenant of Morgul
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: minion
+subtype: nazgul
+alignment: shadow
+culture: wraith
+strength: '10'
+vitality: '3'
+twilight: '5'
+unique: true
+site_number: '2'
+game_text: ! |-
+  Fierce. Shadow: Exert Ulaire Nelya and spot an opponent's site to replace it with your site of the same number.
+flavor_text: ! |-
+  Many of the Nine were princes of majesty and power.
+notes: 'Lists: EXL. This card can replace sites only in the Fellowship block format.'
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01233

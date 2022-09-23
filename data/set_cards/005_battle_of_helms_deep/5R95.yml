@@ -1,0 +1,14 @@
+---
+key: 5R95
+name: Dead Marshes
+title: Dead Marshes
+set: battle_of_helms_deep
+rarity: rare
+card_type: condition
+alignment: shadow
+culture: sauron
+twilight: '0'
+unique: true
+game_text: ! |-
+  Plays to your support area. While the fellowship is at site 4T, Ring-bound companions skirmishing [Sauron] orcs are strength -1. Maneuver: Spot 2 [Sauron] Orcs to play up to 2 [Sauron] conditions from your discard pile. Discard this condition.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05095

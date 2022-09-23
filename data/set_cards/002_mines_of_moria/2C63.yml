@@ -1,0 +1,19 @@
+---
+key: 2C63
+name: Goblin Reinforcements
+title: Goblin Reinforcements
+set: mines_of_moria
+rarity: common
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: moria
+strength: '8'
+vitality: '1'
+twilight: '3'
+site_number: '4'
+game_text: ! |-
+  When you play this minion, you may heal a [Moria] minion.
+flavor_text: ! |-
+  ”'We don't have a moment! Come nightfall these hills will swarm with Orcs!'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02063

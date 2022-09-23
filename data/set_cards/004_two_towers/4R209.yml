@@ -1,0 +1,15 @@
+---
+key: 4R209
+name: Volley Fire
+title: Volley Fire
+set: two_towers
+rarity: rare
+card_type: event
+alignment: shadow
+culture: isengard
+twilight: '3'
+game_text: ! |-
+  Archery: Discard 2 [Isengard] archers to exhaust an unbound companion.
+flavor_text: ! |-
+  Defenders on the walls made perfect targets for the Isengard crossbowmen.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04209

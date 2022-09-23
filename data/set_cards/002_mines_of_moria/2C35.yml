@@ -1,0 +1,15 @@
+---
+key: 2C35
+name: Natural Cover
+title: Natural Cover
+set: mines_of_moria
+rarity: common
+card_type: condition
+alignment: free_people
+culture: gondor
+twilight: '1'
+game_text: ! |-
+  To play, spot a ranger. Plays to your support area. While the fellowship is at a forest, the minion archery total is -2.
+flavor_text: ! |-
+  The tree, the bough, the leaf. To a ranger, these are all defenses against the enemy.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02035

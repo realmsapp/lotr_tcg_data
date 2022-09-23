@@ -1,0 +1,17 @@
+---
+key: 10U39
+name: Corsair Ruffian
+title: Corsair Ruffian
+set: mount_doom
+rarity: uncommon
+card_type: minion
+subtype: man
+alignment: shadow
+culture: raider
+strength: '9'
+vitality: '2'
+twilight: '4'
+site_number: '4'
+game_text: ! |-
+  Corsair. When you play this minion, you may spot another corsair and discard the top card of the Free Peoples player's draw deck to add 2 [Raider] tokens to a card that already has a [Raider] token on it.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10039

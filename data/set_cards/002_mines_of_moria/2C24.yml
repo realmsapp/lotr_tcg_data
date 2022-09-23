@@ -1,0 +1,20 @@
+---
+key: 2C24
+name: Hugin, Emissary from Laketown
+title: Hugin
+subtitle: Emissary from Laketown
+set: mines_of_moria
+rarity: common
+card_type: ally
+alignment: free_people
+culture: gandalf
+strength: '4'
+vitality: '2'
+twilight: '1'
+unique: true
+site_number: '3'
+game_text: ! |-
+  To play, spot Gandalf. Fellowship: Exert Hugin to reveal a Free Peoples card from your discard pile and place it beneath your draw deck.
+flavor_text: ! |-
+  Several wise Bardings were sent to Elrond to tell of the Dark Lord's new offer.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02024

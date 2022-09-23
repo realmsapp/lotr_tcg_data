@@ -1,0 +1,17 @@
+---
+key: 10U93
+name: Mordor Wretch
+title: Mordor Wretch
+set: mount_doom
+rarity: uncommon
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '9'
+vitality: '3'
+twilight: '3'
+site_number: '6'
+game_text: ! |-
+  Shadow: Spot 4 Free Peoples cultures and exert another [Sauron] minion twice to add (3) and draw a card.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10093

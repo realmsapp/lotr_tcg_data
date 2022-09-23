@@ -1,0 +1,21 @@
+---
+key: 5R51
+name: Grima, Chief Counselor
+title: Grima
+subtitle: Chief Counselor
+set: battle_of_helms_deep
+rarity: rare
+card_type: minion
+subtype: man
+alignment: shadow
+culture: isengard
+strength: '4'
+vitality: '3'
+twilight: '2'
+unique: true
+site_number: '3'
+game_text: ! |-
+  Maneuver: Spot 4 Free Peoples cultures and exert Grima to return an unbound companion, and all cards on him or her, to their owners' hands.
+flavor_text: ! |-
+  ”'I care for you and yours as best I may…. Let others deal with these irksome guests.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05051

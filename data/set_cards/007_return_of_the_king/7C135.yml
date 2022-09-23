@@ -1,0 +1,18 @@
+---
+key: 7C135
+name: Desert Sneak
+title: Desert Sneak
+set: return_of_the_king
+rarity: common
+card_type: minion
+subtype: man
+alignment: shadow
+culture: raider
+strength: '5'
+vitality: '2'
+twilight: '1'
+site_number: '4'
+game_text: ! |-
+  Southron. Ambush (1). When the Free Peoples player assigns this minion to a character and you have initiative, you may wound that character.
+notes: Game text is a clarification.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07135

@@ -1,0 +1,16 @@
+---
+key: 1R139
+name: Savagery to Match Their Numbers
+title: Savagery to Match Their Numbers
+set: fellowship_of_the_ring
+rarity: rare
+card_type: event
+alignment: shadow
+culture: isengard
+twilight: '0'
+game_text: ! |-
+  Skirmish: Make an Uruk-hai strength +2, or spot 5 companions to make an Uruk-hai strength +4 and fierce until the regroup phase.
+flavor_text: ! |-
+  Uruk-hai match their enemies' strength with their own feral rage.
+notes: 'Lists: ERL, MXL. The strength +4 bonus lasts until the regroup phase.'
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01139

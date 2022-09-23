@@ -1,0 +1,16 @@
+---
+key: 7C246
+name: Rohirrim Guard
+title: Rohirrim Guard
+set: return_of_the_king
+rarity: common
+card_type: companion
+subtype: man
+alignment: free_people
+culture: rohan
+strength: '6'
+vitality: '3'
+twilight: '2'
+game_text: ! |-
+  Skirmish: Discard a card from hand to exert a minion skirmishing this companion.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07246

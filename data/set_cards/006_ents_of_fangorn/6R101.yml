@@ -1,0 +1,20 @@
+---
+key: 6R101
+name: Gate Picket
+title: Gate Picket
+set: ents_of_fangorn
+rarity: rare
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '11'
+vitality: '3'
+twilight: '4'
+unique: true
+site_number: '6'
+game_text: ! |-
+  Maneuver: Exert this minion twice to make the Free Peoples player name 3 cultures. Wound each companion and ally not of a named culture.
+flavor_text: ! |-
+  “Now the watch-towers, which had fallen into decay, were repaired, and filled with arms, and garrisoned with ceaseless vigilance.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06101

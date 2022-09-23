@@ -1,0 +1,13 @@
+---
+key: 7R68
+name: Scouting
+title: Scouting
+set: return_of_the_king
+rarity: rare
+card_type: condition
+alignment: free_people
+culture: gollum_free_people
+twilight: '2'
+game_text: ! |-
+  To play, spot Smeagol. Each time the fellowship moves, add a threat or discard this condition. Maneuver: Discard Smeagol to discard a minion. An opponent may exert a minion twice to prevent this.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07068

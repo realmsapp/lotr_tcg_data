@@ -1,0 +1,17 @@
+---
+key: 1U46
+name: Gift of Boats
+title: Gift of Boats
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: condition
+alignment: free_people
+culture: elven
+twilight: '1'
+unique: true
+game_text: ! |-
+  To play, exert an Elf ally. Plays to your support area. When the fellowship moves from a river during the fellowship phase, the move limit for this turn is +1.
+flavor_text: ! |-
+  ”'They will not sink, lade them as you will; but they are wayward if mishandled.'”
+notes: Game text is an erratum.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01046

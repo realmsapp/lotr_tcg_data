@@ -1,0 +1,15 @@
+---
+key: 2U8
+name: Golden Light on the Land
+title: Golden Light on the Land
+set: mines_of_moria
+rarity: uncommon
+card_type: condition
+alignment: free_people
+culture: dwarven
+twilight: '0'
+game_text: ! |-
+  To play, spot a Dwarf. Plays to your support area. At a site which is not underground, each [Moria] Orc's twilight cost is +2. Discard this condition during the regroup phase.
+flavor_text: ! |-
+  ”'The Orcs will not, maybe, come out till after dusk, but we must be far away before nightfall.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02008

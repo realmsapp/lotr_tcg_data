@@ -1,0 +1,20 @@
+---
+key: 1C67
+name: Uruviel, Maid of Lorien
+title: Uruviel
+subtitle: Maid of Lorien
+set: fellowship_of_the_ring
+rarity: common
+card_type: ally
+alignment: free_people
+culture: elven
+strength: '5'
+vitality: '2'
+twilight: '2'
+unique: true
+site_number: '6'
+game_text: ! |-
+  While you can spot your site 6, Uruviel has the game text of that site.
+flavor_text: ! |-
+  An Elf-maid of the Galadhrim, Uruviel has dwelt for years beneath the mallorn-trees
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01067

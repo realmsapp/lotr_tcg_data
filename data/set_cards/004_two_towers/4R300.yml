@@ -1,0 +1,16 @@
+---
+key: 4R300
+name: Escape
+title: Escape
+set: two_towers
+rarity: rare
+card_type: condition
+alignment: free_people
+culture: shire
+vitality: "+1"
+twilight: '0'
+game_text: ! |-
+  Stealth. Bearer must be an unbound Hobbit. Limit 1 per character. Skirmish: Exert bearer twice to cancel a skirmish involving him. Any Shadow player may remove (1) to prevent this.
+flavor_text: ! |-
+  “Suddenly Merry and Pippin realized that without moving they were now outside the circle….”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04300

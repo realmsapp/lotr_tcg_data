@@ -1,0 +1,22 @@
+---
+key: 1R289
+name: Frodo, Old Bilbo's Heir
+title: Frodo
+subtitle: Old Bilbo's Heir
+set: fellowship_of_the_ring
+rarity: rare
+card_type: companion
+subtype: hobbit
+alignment: free_people
+culture: shire
+signet: gandalf
+strength: '3'
+vitality: '4'
+twilight: '0'
+unique: true
+ring_bearer: true
+game_text: ! |-
+  Ring-bearer (resistance 10). At the start of each of your turns, you may heal a Hobbit ally.
+flavor_text: ! |-
+  ”'But be that as it may, Mr. Frodo is as nice a young hobbit as you could wish to meet.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01289

@@ -1,0 +1,19 @@
+---
+key: 6C69
+name: Isengard Plodder
+title: Isengard Plodder
+set: ents_of_fangorn
+rarity: common
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: isengard
+strength: '7'
+vitality: '3'
+twilight: '3'
+site_number: '4'
+game_text: ! |-
+  Regroup: Discard an [Isengard] Orc to make the Free Peoples player wound a companion.
+flavor_text: ! |-
+  Saruman dispatched his trusted Orcs to aid in the sack of Rohan.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06069

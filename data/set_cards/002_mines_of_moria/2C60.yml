@@ -1,0 +1,19 @@
+---
+key: 2C60
+name: Goblin Bowman
+title: Goblin Bowman
+set: mines_of_moria
+rarity: common
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: moria
+strength: '4'
+vitality: '1'
+twilight: '2'
+site_number: '4'
+game_text: ! |-
+  Archer.
+flavor_text: ! |-
+  The crude arrows of the Goblins served notice of the dangers of Moria.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02060

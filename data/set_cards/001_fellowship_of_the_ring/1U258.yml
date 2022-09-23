@@ -1,0 +1,19 @@
+---
+key: 1U258
+name: Morgul Skulker
+title: Morgul Skulker
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '7'
+vitality: '2'
+twilight: '2'
+site_number: '6'
+game_text: ! |-
+  When you play this minion, you may shuffle up to 2 [Wraith] cards from your discard pile into your draw deck.
+flavor_text: ! |-
+  Sly servants of the Ringwraiths of Morgul Vale, Morgul Orcs are alert to the desires of their masters.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01258

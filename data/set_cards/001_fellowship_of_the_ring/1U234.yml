@@ -1,0 +1,23 @@
+---
+key: 1U234
+name: Ulaire Nertea, Messenger of Dol Guldur
+title: Ulaire Nertea
+subtitle: Messenger of Dol Guldur
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: minion
+subtype: nazgul
+alignment: shadow
+culture: wraith
+strength: '9'
+vitality: '2'
+twilight: '4'
+unique: true
+site_number: '3'
+game_text: ! |-
+  When you play Ulaire Nertea, for each companion over 4, you may play 1 minion from your discard pile.
+flavor_text: ! |-
+  Some accepted Sauron's gift for glory and a notion of great deeds.
+notes: 'Lists: MXL. If two or more minions are played, the Shadow player decides in
+  what order those minions are played.'
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01234

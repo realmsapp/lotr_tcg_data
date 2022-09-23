@@ -1,0 +1,17 @@
+---
+key: 7R97
+name: Gondorian Merchant
+title: Gondorian Merchant
+set: return_of_the_king
+rarity: rare
+card_type: ally
+alignment: free_people
+culture: gondor
+strength: '6'
+vitality: '1'
+twilight: '1'
+unique: true
+site_number: 3T
+game_text: ! |-
+  Maneuver: If you have initiative, discard 2 cards from hand to make the site number of a minion +2 until the regroup phase.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07097

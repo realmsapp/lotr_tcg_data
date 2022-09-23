@@ -1,0 +1,15 @@
+---
+key: 5C40
+name: Take Cover
+title: Take Cover
+set: battle_of_helms_deep
+rarity: common
+card_type: event
+alignment: free_people
+culture: gondor
+twilight: '0'
+game_text: ! |-
+  Fellowship: Exert a knight to play a [Gondor] fortification from your discard pile.
+flavor_text: ! |-
+  Gondor forces at Osgiliath were too few to fight the advancing armies in the field.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05040

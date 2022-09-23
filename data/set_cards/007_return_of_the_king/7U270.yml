@@ -1,0 +1,17 @@
+---
+key: 7U270
+name: Gorgoroth Attacker
+title: Gorgoroth Attacker
+set: return_of_the_king
+rarity: uncommon
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '9'
+vitality: '2'
+twilight: '3'
+site_number: '5'
+game_text: ! |-
+  Besieger. When you play this minion from a site you control, add a burden for each site you control.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07270

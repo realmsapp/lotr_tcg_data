@@ -1,0 +1,19 @@
+---
+key: 7C81
+name: Aragorn, Captain of Gondor
+title: Aragorn
+subtitle: Captain of Gondor
+set: return_of_the_king
+rarity: common
+card_type: companion
+subtype: man
+alignment: free_people
+culture: gondor
+signet: aragorn
+strength: '8'
+vitality: '4'
+twilight: '4'
+unique: true
+game_text: ! |-
+  Knight. At the start of each fellowship phase, you may add (2) to heal another [Gondor] companion.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07081

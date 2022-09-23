@@ -1,0 +1,19 @@
+---
+key: 4R174
+name: Saruman's Staff, Wizard's Device
+title: Saruman's Staff
+subtitle: Wizard's Device
+set: two_towers
+rarity: rare
+card_type: artifact
+subtype: staff
+alignment: shadow
+culture: isengard
+strength: "+2"
+twilight: '2'
+unique: true
+game_text: ! |-
+  Plays on Saruman. He is fierce and damage +1. Maneuver: Make the first sentence of Saruman's game text not apply until the regroup phase.
+flavor_text: ! |-
+  “His hand clutched his heavy black staff like a claw.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04174

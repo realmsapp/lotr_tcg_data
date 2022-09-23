@@ -1,0 +1,14 @@
+---
+key: 8C1
+name: Aggression
+title: Aggression
+set: siege_of_gondor
+rarity: common
+card_type: condition
+alignment: free_people
+culture: dwarven
+twilight: '1'
+game_text: ! |-
+  While you have initiative, each Dwarf is damage +1. Fellowship: Spot a Dwarf who is damage +X to draw X cards. Discard this condition.
+notes: 'Lists: SXL, EXL, MXL'
+wiki_url: https://lotrtcgwiki.com/wiki/lotr08001

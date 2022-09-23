@@ -1,0 +1,20 @@
+---
+key: 2C101
+name: Filibert Bolger, Wily Rascal
+title: Filibert Bolger
+subtitle: Wily Rascal
+set: mines_of_moria
+rarity: common
+card_type: ally
+alignment: free_people
+culture: shire
+strength: '1'
+vitality: '2'
+twilight: '1'
+unique: true
+site_number: '1'
+game_text: ! |-
+  Skirmish: Exert a Hobbit companion twice to cancel a fierce skirmish involving that Hobbit.
+flavor_text: ! |-
+  Filibert knows paths and tracks that few have trodden. He is not adventurous by nature, but his escapades often require rapid departures.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02101

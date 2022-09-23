@@ -1,0 +1,15 @@
+---
+key: 2U17
+name: Dismay Our Enemies
+title: Dismay Our Enemies
+set: mines_of_moria
+rarity: uncommon
+card_type: event
+alignment: free_people
+culture: elven
+twilight: '0'
+game_text: ! |-
+  Response: If an Elf archer wins a skirmish, make an opponent choose a minion to discard. That opponent may remove (3) to prevent this.
+flavor_text: ! |-
+  Reeling from the bite of an arrow, the Cave Troll became enraged trying to strike the nimble Elf.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02017

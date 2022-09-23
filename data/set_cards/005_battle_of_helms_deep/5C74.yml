@@ -1,0 +1,19 @@
+---
+key: 5C74
+name: Southron Marcher
+title: Southron Marcher
+set: battle_of_helms_deep
+rarity: common
+card_type: minion
+subtype: man
+alignment: shadow
+culture: raider
+strength: '6'
+vitality: '1'
+twilight: '4'
+site_number: '4'
+game_text: ! |-
+  Southron. Ambush (2). While you can spot a Southron, this minion's twilight cost is - 2.
+flavor_text: ! |-
+  Hardy desert warriors needed little rest.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05074

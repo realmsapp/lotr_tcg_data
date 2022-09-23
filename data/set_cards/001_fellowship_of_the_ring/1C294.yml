@@ -1,0 +1,15 @@
+---
+key: 1C294
+name: Hobbit Appetite
+title: Hobbit Appetite
+set: fellowship_of_the_ring
+rarity: common
+card_type: event
+alignment: free_people
+culture: shire
+twilight: '0'
+game_text: ! |-
+  Fellowship: Add (X) to heal a Hobbit companion X times.
+flavor_text: ! |-
+  ”'What about Elevenses, Luncheon, Afternoon Tea and Supper - he knows about them, doesn't he?'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01294

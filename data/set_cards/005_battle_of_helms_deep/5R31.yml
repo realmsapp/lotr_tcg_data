@@ -1,0 +1,20 @@
+---
+key: 5R31
+name: Alcarin, Warrior of Lamedon
+title: Alcarin
+subtitle: Warrior of Lamedon
+set: battle_of_helms_deep
+rarity: rare
+card_type: companion
+subtype: man
+alignment: free_people
+culture: gondor
+strength: '7'
+vitality: '3'
+twilight: '3'
+unique: true
+game_text: ! |-
+  Knight. The twilight cost of each other knight in your starting fellowship is -1. Assignment: Assign Alcarin to a minion bearing a [Gondor] fortification to heal Alcarin.
+flavor_text: ! |-
+  Named for a mighty king, Alcarin is determined to prove himself in battle.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05031

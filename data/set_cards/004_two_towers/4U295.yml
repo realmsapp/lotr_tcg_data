@@ -1,0 +1,20 @@
+---
+key: 4U295
+name: Weland, Smith of the Riddermark
+title: Weland
+subtitle: Smith of the Riddermark
+set: two_towers
+rarity: uncommon
+card_type: ally
+alignment: free_people
+culture: rohan
+strength: '4'
+vitality: '2'
+twilight: '1'
+unique: true
+site_number: 4T
+game_text: ! |-
+  Villager. Discard Weland if an opponent controls his home site. Fellowship: Exert Weland to heal a mounted companion.
+flavor_text: ! |-
+  A tender of horses, Weland found much work at Helm's Deep.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04295

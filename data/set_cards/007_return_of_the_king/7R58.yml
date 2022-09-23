@@ -1,0 +1,18 @@
+---
+key: 7R58
+name: Gollum, Plotting Deceiver
+title: Gollum
+subtitle: Plotting Deceiver
+set: return_of_the_king
+rarity: rare
+card_type: minion
+alignment: shadow
+culture: gollum_shadow
+strength: '5'
+vitality: '4'
+twilight: '2'
+unique: true
+site_number: '3'
+game_text: ! |-
+  If you have initiative during the Shadow phase, you may play this minion from your discard pile.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07058

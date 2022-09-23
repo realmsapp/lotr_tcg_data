@@ -1,0 +1,17 @@
+---
+key: 4U263
+name: Brego
+title: Brego
+set: two_towers
+rarity: uncommon
+card_type: possession
+subtype: mount
+alignment: free_people
+culture: rohan
+twilight: '1'
+unique: true
+game_text: ! |-
+  To play, spot a [Rohan] Man. Bearer must be a Man, Elf, or Wizard. When you play Brego, you may heal bearer. At the start of each skirmish involving bearer, each minion skirmishing bearer must exert.
+flavor_text: ! |-
+  Brego was named for the second King of Rohan.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04263

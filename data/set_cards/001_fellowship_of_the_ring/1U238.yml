@@ -1,0 +1,15 @@
+---
+key: 1U238
+name: Wreathed in Shadow
+title: Wreathed in Shadow
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: condition
+alignment: shadow
+culture: wraith
+twilight: '0'
+game_text: ! |-
+  To play, spot a Nazgul. Plays to your support area. Archery: Remove (1) to make the fellowship archery total -1.
+flavor_text: ! |-
+  They are beings in twilight, without form to catch the points of weapons.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01238

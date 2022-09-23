@@ -1,0 +1,15 @@
+---
+key: 2C23
+name: Gandalf's Wisdom
+title: Gandalf's Wisdom
+set: mines_of_moria
+rarity: common
+card_type: condition
+alignment: free_people
+culture: gandalf
+twilight: '0'
+game_text: ! |-
+  Plays to your support area. The twilight cost of each possession or artifact played on Gandalf or a character who has the Gandalf signet is -1.
+flavor_text: ! |-
+  “Now as the companions sat or walked together they spoke of Gandalf, and all that each had known and seen of him came clear before their minds.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02023

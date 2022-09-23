@@ -1,0 +1,27 @@
+---
+key: 4R301
+name: Frodo, Courteous Halfling
+title: Frodo
+subtitle: Courteous Halfling
+set: two_towers
+rarity: rare
+card_type: companion
+subtype: hobbit
+alignment: free_people
+culture: shire
+signet: frodo
+strength: '3'
+vitality: '4'
+twilight: '0'
+unique: true
+ring_bearer: true
+game_text: ! |-
+  Ring-bearer (resistance 10). While you can spot 3 unbound companions, Shadow cards may not discard cards from your hand or from the top of your draw deck.
+flavor_text: ! |-
+  ”'But as for us, we are Hobbits of the Shire, far to the North and West, beyond many rivers.'”
+notes: 'This card only prevents Shadow cards that make you discard from hand or draw
+  deck. If a Shadow card gives you a choice, you may choose to discard. For example:
+  if a Dunlending Rampager is played, Courteous Halfling does not prevent the Free
+  Peoples player from discarding. Since the game text of the Rampager says “may discard,
+  ” a choice is provided.'
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04301

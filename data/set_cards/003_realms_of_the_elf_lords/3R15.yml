@@ -1,0 +1,15 @@
+---
+key: 3R15
+name: Forests of Lothlorien
+title: Forests of Lothlorien
+set: realms_of_the_elf_lords
+rarity: rare
+card_type: condition
+alignment: free_people
+culture: elven
+twilight: '1'
+game_text: ! |-
+  Plays to your support area. Each time the fellowship moves, you may spot 3 [Elven] allies to wound a minion.
+flavor_text: ! |-
+  ””
+wiki_url: https://lotrtcgwiki.com/wiki/lotr03015

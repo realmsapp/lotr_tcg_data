@@ -1,0 +1,19 @@
+---
+key: 4C206
+name: Uruk-hai Patrol
+title: Uruk-hai Patrol
+set: two_towers
+rarity: common
+card_type: minion
+subtype: uruk-hai
+alignment: shadow
+culture: isengard
+strength: '9'
+vitality: '2'
+twilight: '4'
+site_number: '5'
+game_text: ! |-
+  Damage +1(or damage +2 while you control a site).
+flavor_text: ! |-
+  ”'We are the servants of Saruman the Wise….'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04206

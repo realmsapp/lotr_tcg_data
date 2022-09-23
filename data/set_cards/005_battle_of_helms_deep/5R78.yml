@@ -1,0 +1,17 @@
+---
+key: 5R78
+name: War Mumak
+title: War Mumak
+set: battle_of_helms_deep
+rarity: rare
+card_type: possession
+subtype: mount
+alignment: shadow
+culture: raider
+strength: "+4"
+twilight: '3'
+game_text: ! |-
+  Bearer must be a Southron. Bearer is fierce. Each time bearer overwhelms a character, you may add (5).
+flavor_text: ! |-
+  “Big as a house, much bigger than a house, it looked to him, a grey-clad moving hill.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05078

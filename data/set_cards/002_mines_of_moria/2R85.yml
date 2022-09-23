@@ -1,0 +1,21 @@
+---
+key: 2R85
+name: The Witch-king, Lord of the Nazgul
+title: The Witch-king
+subtitle: Lord of the Nazgul
+set: mines_of_moria
+rarity: rare
+card_type: minion
+subtype: nazgul
+alignment: shadow
+culture: wraith
+strength: '14'
+vitality: '4'
+twilight: '8'
+unique: true
+site_number: '3'
+game_text: ! |-
+  Twilight. Return to Its Master may not be played. Each time The Witch-king wins a skirmish, you may exert him to wound the Ring-bearer twice.
+flavor_text: ! |-
+  ”'A great king and sorcerer he was of old, and now he wields a deadly fear.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02085

@@ -1,0 +1,19 @@
+---
+key: 4C258
+name: Southron Wanderer
+title: Southron Wanderer
+set: two_towers
+rarity: common
+card_type: minion
+subtype: man
+alignment: shadow
+culture: raider
+strength: '8'
+vitality: '2'
+twilight: '3'
+site_number: '4'
+game_text: ! |-
+  Southron. Ambush (1). Assignment: Exert this minion and spot 5 companions to assign this minion to the Ringbearer. The Free Peoples player may add (4) to prevent this.
+flavor_text: ! |-
+  Some desert warriors have no allegiance and work for any faction that will pay them.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04258

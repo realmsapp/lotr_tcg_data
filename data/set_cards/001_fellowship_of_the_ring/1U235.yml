@@ -1,0 +1,22 @@
+---
+key: 1U235
+name: Ulaire Otsea, Lieutenant of Morgul
+title: Ulaire Otsea
+subtitle: Lieutenant of Morgul
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: minion
+subtype: nazgul
+alignment: shadow
+culture: wraith
+strength: '9'
+vitality: '3'
+twilight: '4'
+unique: true
+site_number: '3'
+game_text: ! |-
+  Shadow: Exert Ulaire Otsea to make a [Wraith] minion fierce until the regroup phase.
+flavor_text: ! |-
+  ”…under their mantles were long grey robes; upon their grey hairs were helms of silver; in their haggard hands were swords of steel.”
+notes: Card title and game text are errata. Image fixed
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01235

@@ -1,0 +1,15 @@
+---
+key: 6C112
+name: Long Slow Wrath
+title: Long Slow Wrath
+set: ents_of_fangorn
+rarity: common
+card_type: event
+alignment: free_people
+culture: shire
+twilight: '1'
+game_text: ! |-
+  Skirmish: Exert an unbound Hobbit to make him strength +1 and damage +1 for each [Gandalf] companion you can spot.
+flavor_text: ! |-
+  ”'The coming of the hobbits and the tidings that they brought have spilled it: it will soon be running like a flood….'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06112

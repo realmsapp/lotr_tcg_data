@@ -1,0 +1,15 @@
+---
+key: 2U70
+name: Power and Terror
+title: Power and Terror
+set: mines_of_moria
+rarity: uncommon
+card_type: event
+alignment: shadow
+culture: moria
+twilight: '0'
+game_text: ! |-
+  Shadow: Reveal any number of [Moria] Orcs from your hand to play The Balrog. Its twilight cost is -2 for each Orc revealed.
+flavor_text: ! |-
+  “The ranks of the orcs had opened, and they crowded away, as if they themselves were afraid.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02070

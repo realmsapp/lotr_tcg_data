@@ -1,0 +1,15 @@
+---
+key: 7C108
+name: Knight's Spear
+title: Knight's Spear
+set: return_of_the_king
+rarity: common
+card_type: possession
+subtype: hand_weapon
+alignment: free_people
+culture: gondor
+strength: "+2"
+twilight: '1'
+game_text: ! |-
+  Bearer must be a [Gondor] Man. Skirmish: If you cannot spot 2 threats, add a threat to make bearer strength +1.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07108

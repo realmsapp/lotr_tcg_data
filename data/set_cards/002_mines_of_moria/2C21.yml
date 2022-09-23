@@ -1,0 +1,20 @@
+---
+key: 2C21
+name: Erland, Advisor to Brand
+title: Erland
+subtitle: Advisor to Brand
+set: mines_of_moria
+rarity: common
+card_type: ally
+alignment: free_people
+culture: gandalf
+strength: '5'
+vitality: '2'
+twilight: '2'
+unique: true
+site_number: '3'
+game_text: ! |-
+  To play, spot Gandalf. Shadow players may not look at or reveal cards in your hand.
+flavor_text: ! |-
+  ”'They are good folk the Bardings. The grandson of Bard the Bowman rules them, Brand son of Bain son of Bard.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02021

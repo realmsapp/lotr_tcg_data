@@ -1,0 +1,15 @@
+---
+key: 7R50
+name: Terrible and Evil
+title: Terrible and Evil
+set: return_of_the_king
+rarity: rare
+card_type: event
+alignment: free_people
+culture: gandalf
+twilight: '3'
+game_text: ! |-
+  Spell. Exert Gandalf X times to wound a minion X times. If that minion is a Nazgul, wound it again.
+notes: If Gandalf is exhausted, he cannot exert to pay the cost of this card, even
+  if X is equal to zero.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07050

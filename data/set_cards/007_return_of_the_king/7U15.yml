@@ -1,0 +1,14 @@
+---
+key: 7U15
+name: Ancient Blade
+title: Ancient Blade
+set: return_of_the_king
+rarity: uncommon
+card_type: condition
+alignment: free_people
+culture: elven
+twilight: '2'
+unique: true
+game_text: ! |-
+  Bearer must be an [Elven] companion. Each minion gains this ability: 'Assignment: Assign this minion to bearer of Ancient Blade.' Regroup: Discard this condition to discard a minion and reconcile your hand.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07015

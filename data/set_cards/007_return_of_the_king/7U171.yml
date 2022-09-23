@@ -1,0 +1,13 @@
+---
+key: 7U171
+name: Thrice Outnumbered
+title: Thrice Outnumbered
+set: return_of_the_king
+rarity: uncommon
+card_type: event
+alignment: shadow
+culture: raider
+twilight: '3'
+game_text: ! |-
+  Spot a threat and X [Raider] Men to make the Free Peoples player exert X companions (limit 3).
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07171

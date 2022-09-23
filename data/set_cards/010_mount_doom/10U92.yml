@@ -1,0 +1,17 @@
+---
+key: 10U92
+name: Mordor Pillager
+title: Mordor Pillager
+set: mount_doom
+rarity: uncommon
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '9'
+vitality: '2'
+twilight: '3'
+site_number: '5'
+game_text: ! |-
+  Besieger. Fierce. Shadow: Exert this minion and spot another [Sauron] minion to control a site. If you cannot spot 3 Free Peoples cultures, the Free Peoples player may exert a companion to prevent this.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10092

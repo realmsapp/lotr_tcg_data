@@ -1,0 +1,17 @@
+---
+key: 1C177
+name: Goblin Patrol Troop
+title: Goblin Patrol Troop
+set: fellowship_of_the_ring
+rarity: common
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: moria
+strength: '13'
+vitality: '3'
+twilight: '6'
+site_number: '4'
+flavor_text: ! |-
+  “As they ran they heard the beat and echo of many hurrying feet behind. A shrill yell went up: they had been seen. There was a ring and clash of steel.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01177

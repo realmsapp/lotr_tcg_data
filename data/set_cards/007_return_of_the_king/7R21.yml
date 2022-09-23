@@ -1,0 +1,18 @@
+---
+key: 7R21
+name: Elrond, Elven Lord
+title: Elrond
+subtitle: Elven Lord
+set: return_of_the_king
+rarity: rare
+card_type: companion
+subtype: elf
+alignment: free_people
+culture: elven
+strength: '8'
+vitality: '4'
+twilight: '4'
+unique: true
+game_text: ! |-
+  To play, spot Aragorn or an Elf. At the start of each turn, you may exert Elrond to heal a character bearing an artifact.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07021

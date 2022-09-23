@@ -1,0 +1,15 @@
+---
+key: 4U60
+name: Blades Drawn
+title: Blades Drawn
+set: two_towers
+rarity: uncommon
+card_type: condition
+alignment: free_people
+culture: elven
+twilight: '1'
+game_text: ! |-
+  To play, spot 3 Elves. Plays to your support area. For each wound on each minion, that minion is strength -2. Discard this condition during the regroup phase.
+flavor_text: ! |-
+  The sword skills of the Elven archers were unexpected.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04060

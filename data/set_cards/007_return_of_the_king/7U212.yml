@@ -1,0 +1,19 @@
+---
+key: 7U212
+name: Ulaire Enquea, Faster Than Winds
+title: Ulaire Enquea
+subtitle: Faster Than Winds
+set: return_of_the_king
+rarity: uncommon
+card_type: minion
+subtype: nazgul
+alignment: shadow
+culture: wraith
+strength: '11'
+vitality: '4'
+twilight: '6'
+unique: true
+site_number: '3'
+game_text: ! |-
+  Fierce. While you can spot 6 companions, Ulaire Enquea is damage +1. Each time a companion is killed, you may exert Ulaire Enquea to exert the Ring-bearer.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07212

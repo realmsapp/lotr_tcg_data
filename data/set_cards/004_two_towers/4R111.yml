@@ -1,0 +1,18 @@
+---
+key: 4R111
+name: Boromir, My Brother
+title: Boromir
+subtitle: My Brother
+set: two_towers
+rarity: rare
+card_type: condition
+alignment: free_people
+culture: gondor
+vitality: "+1"
+twilight: '0'
+unique: true
+game_text: ! |-
+  Bearer must be Faramir. Skirmish: Discard a [Gondor] card from hand to make a Ringbound Man strength +1.
+flavor_text: ! |-
+  ”'Where is thy horn? Whither goest thou? O Boromir! But he was gone.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04111

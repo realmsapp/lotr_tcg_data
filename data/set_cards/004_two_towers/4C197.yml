@@ -1,0 +1,19 @@
+---
+key: 4C197
+name: Uruk Stalker
+title: Uruk Stalker
+set: two_towers
+rarity: common
+card_type: minion
+subtype: uruk-hai
+alignment: shadow
+culture: isengard
+strength: '8'
+vitality: '2'
+twilight: '3'
+site_number: '5'
+game_text: ! |-
+  Damage +1. While an ally is in the dead pile, this minion is strength +3 and fierce.
+flavor_text: ! |-
+  “A moment they hesitated, and then on they came.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04197

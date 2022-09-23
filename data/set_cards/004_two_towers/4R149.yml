@@ -1,0 +1,15 @@
+---
+key: 4R149
+name: Driven Back
+title: Driven Back
+set: two_towers
+rarity: rare
+card_type: event
+alignment: shadow
+culture: isengard
+twilight: '3'
+game_text: ! |-
+  Archery: Spot 2 [Isengard] archers to make the minion archery total +1 for each card in the dead pile.
+flavor_text: ! |-
+  With each fallen defender, the morale of the attacking army rose.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04149

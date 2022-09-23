@@ -1,0 +1,15 @@
+---
+key: 2R1
+name: Beneath the Mountains
+title: Beneath the Mountains
+set: mines_of_moria
+rarity: rare
+card_type: condition
+alignment: free_people
+culture: dwarven
+twilight: '1'
+game_text: ! |-
+  Tale. Plays to your support area. Fellowship: Discard the top 3 cards from your draw deck to play a [Dwarven] weapon from your discard pile.
+flavor_text: ! |-
+  ”'There forged was blade, and bound was hilt; / The delver mined, the mason built.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02001

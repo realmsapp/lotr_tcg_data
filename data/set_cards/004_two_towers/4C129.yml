@@ -1,0 +1,15 @@
+---
+key: 4C129
+name: Pathfinder
+title: Pathfinder
+set: two_towers
+rarity: common
+card_type: event
+alignment: free_people
+culture: gondor
+twilight: '0'
+game_text: ! |-
+  Fellowship or Regroup: Spot a ranger to play the fellowship's next site (replacing opponent's site if necessary).
+flavor_text: ! |-
+  ”'If you take my counsel, you will not turn eastward yet. Go straight on, for thus you will have the cover of the woodland for many miles.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04129

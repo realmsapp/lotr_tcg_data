@@ -1,0 +1,19 @@
+---
+key: 7R221
+name: The Witch-king, Morgul King
+title: The Witch-king
+subtitle: Morgul King
+set: return_of_the_king
+rarity: rare
+card_type: minion
+subtype: nazgul
+alignment: shadow
+culture: wraith
+strength: '14'
+vitality: '4'
+twilight: '8'
+unique: true
+site_number: '3'
+game_text: ! |-
+  Fierce. When you play the Witch-King, you may remove a threat to take a [Wraith] card into hand from your discard pile. The Ring-bearer cannot take threat wounds.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07221

@@ -1,0 +1,21 @@
+---
+key: 4C153
+name: Grima, Son of Galmod
+title: Grima
+subtitle: Son of Galmod
+set: two_towers
+rarity: common
+card_type: minion
+subtype: man
+alignment: shadow
+culture: isengard
+strength: '4'
+vitality: '3'
+twilight: '2'
+unique: true
+site_number: '3'
+game_text: ! |-
+  Each unbound companion (or ally) bearing a Shadow condition is strength -1.
+flavor_text: ! |-
+  ”'Did I not counsel you, lord, to forbid his staff?'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04153

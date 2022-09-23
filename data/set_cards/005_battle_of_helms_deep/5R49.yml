@@ -1,0 +1,16 @@
+---
+key: 5R49
+name: Devilry of Orthanc
+title: Devilry of Orthanc
+set: battle_of_helms_deep
+rarity: rare
+card_type: condition
+alignment: shadow
+culture: isengard
+twilight: '2'
+unique: true
+game_text: ! |-
+  Machine. Plays to your support area. Shadow: Exert an Uruk-Hai to place an [Isengard] token on this card. Maneuver: Spot 8 [Isengard] tokens to exert every character. Discard this condition.
+flavor_text: ! |-
+  ”'They have a blasting fire, and… they took the Wall.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05049

@@ -1,0 +1,15 @@
+---
+key: 1C5
+name: Cleaving Blow
+title: Cleaving Blow
+set: fellowship_of_the_ring
+rarity: common
+card_type: event
+alignment: free_people
+culture: dwarven
+twilight: '1'
+game_text: ! |-
+  Skirmish: Make a Dwarf strength +2 and damage +1.
+flavor_text: ! |-
+  The shoddy workmanship of Orc-smiths cannot withstand the fury of Durin's folk.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01005

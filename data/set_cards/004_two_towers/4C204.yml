@@ -1,0 +1,19 @@
+---
+key: 4C204
+name: Uruk-hai Marauder
+title: Uruk-hai Marauder
+set: two_towers
+rarity: common
+card_type: minion
+subtype: uruk-hai
+alignment: shadow
+culture: isengard
+strength: '8'
+vitality: '2'
+twilight: '3'
+site_number: '5'
+game_text: ! |-
+  Damage +1. The twilight cost of this minion is -1 for each site you control.
+flavor_text: ! |-
+  ”'We shall have some fun later.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04204

@@ -1,0 +1,18 @@
+---
+key: 7U110
+name: Madril, Faramir's Aide
+title: Madril
+subtitle: Faramir's Aide
+set: return_of_the_king
+rarity: uncommon
+card_type: companion
+subtype: man
+alignment: free_people
+culture: gondor
+strength: '6'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  Ranger. Skirmish: If you have initiative, discard 2 cards from hand to wound a roaming minion Madril is skirmishing.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07110

@@ -1,0 +1,15 @@
+---
+key: 5U38
+name: Rally Point
+title: Rally Point
+set: battle_of_helms_deep
+rarity: uncommon
+card_type: condition
+alignment: free_people
+culture: gondor
+twilight: '1'
+game_text: ! |-
+  Plays to your support area. Regroup: Exert a knight to transfer a [Gondor] fortification borne by a minion to your support area.
+flavor_text: ! |-
+  A strategic fallback helps Gondorian knights to plan their counterattack.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05038

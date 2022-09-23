@@ -1,0 +1,19 @@
+---
+key: 8C34
+name: Faramir, Defender of Osgiliath
+title: Faramir
+subtitle: Defender of Osgiliath
+set: siege_of_gondor
+rarity: common
+card_type: companion
+subtype: man
+alignment: free_people
+culture: gondor
+signet: gandalf
+strength: '7'
+vitality: '3'
+twilight: '3'
+unique: true
+game_text: ! |-
+  Knight. When you play Faramir (except in your starting fellowship), you may reveal the top 10 cards of your draw deck. You may play a knight revealed. Shuffle your draw deck.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr08034

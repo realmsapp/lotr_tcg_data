@@ -1,0 +1,13 @@
+---
+key: 8C63
+name: Line of Defense
+title: Line of Defense
+set: siege_of_gondor
+rarity: common
+card_type: condition
+alignment: shadow
+culture: raider
+twilight: '3'
+game_text: ! |-
+  While you can spot a mounted [Raider] Man, [Raider] Men cannot take wounds (except during skirmishes).
+wiki_url: https://lotrtcgwiki.com/wiki/lotr08063

@@ -1,0 +1,21 @@
+---
+key: 1R50
+name: Legolas, Greenleaf
+title: Legolas
+subtitle: Greenleaf
+set: fellowship_of_the_ring
+rarity: rare
+card_type: companion
+subtype: elf
+alignment: free_people
+culture: elven
+signet: frodo
+strength: '6'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  Archer. Archery: Exert Legolas to wound a minion; Legolas does not add to the fellowship archery total.
+flavor_text: ! |-
+  ”'And I too will go with him,' said Legolas. 'It would be faithless now to say farewell.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01050

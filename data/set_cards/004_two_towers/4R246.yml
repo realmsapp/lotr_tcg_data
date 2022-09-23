@@ -1,0 +1,19 @@
+---
+key: 4R246
+name: Southron Assassin
+title: Southron Assassin
+set: two_towers
+rarity: rare
+card_type: minion
+subtype: man
+alignment: shadow
+culture: raider
+strength: '9'
+vitality: '2'
+twilight: '4'
+site_number: '4'
+game_text: ! |-
+  Southron. Each time a companion or ally loses a skirmish involving a Southron, you may remove (1) to make the Free Peoples player wound a Ring-bound companion.
+flavor_text: ! |-
+  ”'Some of the Southrons have broken from the trap and are flying from the road.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04246

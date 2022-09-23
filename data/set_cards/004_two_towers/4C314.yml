@@ -1,0 +1,21 @@
+---
+key: 4C314
+name: Pippin, Woolly-footed Rascal
+title: Pippin
+subtitle: Woolly-footed Rascal
+set: two_towers
+rarity: common
+card_type: companion
+subtype: hobbit
+alignment: free_people
+culture: shire
+signet: frodo
+strength: '3'
+vitality: '4'
+twilight: '1'
+unique: true
+game_text: ! |-
+  Skirmish: Add a burden to discard Pippin. Any Shadow player may remove (2) to prevent this.
+flavor_text: ! |-
+  ”'We had foul fare with the Orcs, and little enough for days before that. It seems a long while since we could eat to heart's content.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04314

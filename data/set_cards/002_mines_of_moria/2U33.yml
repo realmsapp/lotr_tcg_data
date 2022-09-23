@@ -1,0 +1,15 @@
+---
+key: 2U33
+name: Flee in Terror
+title: Flee in Terror
+set: mines_of_moria
+rarity: uncommon
+card_type: event
+alignment: free_people
+culture: gondor
+twilight: '0'
+game_text: ! |-
+  Response: If a [Gondor] companion wins a skirmish, discard an exhausted Orc. That minion's owner may remove (3) to prevent this.
+flavor_text: ! |-
+  “Aragorn smote to the ground the captain that stood in his path, and the rest fled in terror of his wrath.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02033

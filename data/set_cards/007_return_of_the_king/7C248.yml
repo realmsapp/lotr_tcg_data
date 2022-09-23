@@ -1,0 +1,15 @@
+---
+key: 7C248
+name: Rohirrim Javelin
+title: Rohirrim Javelin
+set: return_of_the_king
+rarity: common
+card_type: possession
+subtype: ranged_weapon
+alignment: free_people
+culture: rohan
+strength: "+1"
+twilight: '1'
+game_text: ! |-
+  Bearer must be a [Rohan] Man. Archery: Discard this possession to make the fellowship archery total +1.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07248

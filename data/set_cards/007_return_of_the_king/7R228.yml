@@ -1,0 +1,19 @@
+---
+key: 7R228
+name: Eowyn, Dernhelm
+title: Eowyn
+subtitle: Dernhelm
+set: return_of_the_king
+rarity: rare
+card_type: companion
+subtype: man
+alignment: free_people
+culture: rohan
+signet: theoden
+strength: '6'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  Valiant. While skirmishing a mounted minion, Eowyn is strength +2. While skirmishing a fierce minion, Eowyn is strength +2.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07228

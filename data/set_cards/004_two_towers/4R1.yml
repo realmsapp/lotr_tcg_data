@@ -1,0 +1,15 @@
+---
+key: 4R1
+name: The One Ring, Answer To All Riddles
+title: The One Ring
+subtitle: Answer To All Riddles
+set: two_towers
+rarity: rare
+card_type: the_one_ring
+vitality: "+2"
+unique: true
+game_text: ! |-
+  While wearing The One Ring, the Ring-bearer is strength +2, and each time he is about to take a wound in a skirmish, add a burden instead. Skirmish: Add a burden to wear The One Ring until the regroup phase.
+flavor_text: ! |-
+  ”'…thought to have perished from the world.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04001

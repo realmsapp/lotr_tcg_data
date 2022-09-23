@@ -1,0 +1,13 @@
+---
+key: 7R325
+name: Pressing On
+title: Pressing On
+set: return_of_the_king
+rarity: rare
+card_type: condition
+alignment: free_people
+culture: shire
+twilight: '0'
+game_text: ! |-
+  To play, spot 2 Hobbits. Each time the fellowship moves, add a threat or discard this condition. Regroup: Discard this condition and exert a Hobbit companion to play the fellowship's next site (replacing opponent's site if necessary).
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07325

@@ -1,0 +1,16 @@
+---
+key: 2R113
+name: Red Book of Westmarch
+title: Red Book of Westmarch
+set: mines_of_moria
+rarity: rare
+card_type: possession
+alignment: free_people
+culture: shire
+twilight: '2'
+unique: true
+game_text: ! |-
+  Tale. Plays to your support area. Each time you play a tale, you may spot Bilbo to draw a card.
+flavor_text: ! |-
+  ”'Don't adventures ever have an end? I suppose not. Someone else always has to carry on the story.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02113

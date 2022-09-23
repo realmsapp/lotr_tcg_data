@@ -1,0 +1,21 @@
+---
+key: 4C292
+name: Theoden, Son of Thengel
+title: Theoden
+subtitle: Son of Thengel
+set: two_towers
+rarity: common
+card_type: companion
+subtype: man
+alignment: free_people
+culture: rohan
+signet: aragorn
+strength: '6'
+vitality: '2'
+twilight: '2'
+unique: true
+game_text: ! |-
+  Regroup: Spot a [Rohan] ally and exert Theoden to liberate a site.
+flavor_text: ! |-
+  ”'I myself will go to war, to fall in the front of the battle, if it must be.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04292

@@ -1,0 +1,15 @@
+---
+key: 4R106
+name: Well Met Indeed
+title: Well Met Indeed
+set: two_towers
+rarity: rare
+card_type: event
+alignment: free_people
+culture: gandalf
+twilight: '5'
+game_text: ! |-
+  Fellowship: Spot an Elf, a [Gondor] Man, and a Dwarf to play Gandalf from your dead pile.
+flavor_text: ! |-
+  ”'And what may you be doing in these parts? An Elf, a Man, and a Dwarf, all clad in elvish fashion.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04106

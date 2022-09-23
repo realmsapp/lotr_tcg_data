@@ -1,0 +1,19 @@
+---
+key: 3R21
+name: Long-knives of Legolas
+title: Long-knives of Legolas
+set: realms_of_the_elf_lords
+rarity: rare
+card_type: possession
+subtype: hand_weapon
+alignment: free_people
+culture: elven
+strength: "+1"
+twilight: '1'
+unique: true
+game_text: ! |-
+  Bearer must be Legolas. Each Orc or Uruk-hai skirmishing Legolas is strength -2.
+flavor_text: ! |-
+  Sharp, bone-handled knives defend the Elves of Mirkwood at close quarters.
+notes: 'Version: +.'
+wiki_url: https://lotrtcgwiki.com/wiki/lotr03021

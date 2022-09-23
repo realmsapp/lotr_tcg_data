@@ -1,0 +1,21 @@
+---
+key: 4C316
+name: Sam, Samwise the Brave
+title: Sam
+subtitle: Samwise the Brave
+set: two_towers
+rarity: common
+card_type: companion
+subtype: hobbit
+alignment: free_people
+culture: shire
+signet: gandalf
+strength: '3'
+vitality: '4'
+twilight: '2'
+unique: true
+game_text: ! |-
+  Ring-bound. Response: If a Shadow card is about to add any number of burdens, spot Frodo and exert Sam to prevent this. Response: If Frodo is killed, make Sam the Ring-bearer (resistance 5).
+flavor_text: ! |-
+  ”'Frodo wouldn't have got far without Sam….'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04316

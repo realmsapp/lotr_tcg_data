@@ -1,0 +1,18 @@
+---
+key: 1U31
+name: Asfaloth
+title: Asfaloth
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: possession
+subtype: mount
+alignment: free_people
+culture: elven
+strength: "+2"
+twilight: '2'
+unique: true
+game_text: ! |-
+  Bearer must be an Elf. When played on Arwen, Asfaloth's twilight cost is -2. While at a plains site, bearer is strength +2. Discard Asfaloth when at an underground site.
+flavor_text: ! |-
+  ”'Noro lim, Asfaloth, noro lim!'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01031

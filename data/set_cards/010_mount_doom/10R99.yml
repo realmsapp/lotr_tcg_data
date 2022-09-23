@@ -1,0 +1,19 @@
+---
+key: 10R99
+name: Shagrat, Captain of Cirith Ungol
+title: Shagrat
+subtitle: Captain of Cirith Ungol
+set: mount_doom
+rarity: rare
+card_type: minion
+subtype: uruk-hai
+alignment: shadow
+culture: sauron
+strength: '13'
+vitality: '3'
+twilight: '5'
+unique: true
+site_number: '6'
+game_text: ! |-
+  Damage +1. Each time Shagrat loses a skirmish, you may exert a character.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10099

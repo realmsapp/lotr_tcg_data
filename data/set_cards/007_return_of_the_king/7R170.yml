@@ -1,0 +1,18 @@
+---
+key: 7R170
+name: Suzerain of Harad
+title: Suzerain of Harad
+set: return_of_the_king
+rarity: rare
+card_type: minion
+subtype: man
+alignment: shadow
+culture: raider
+strength: '11'
+vitality: '3'
+twilight: '6'
+unique: true
+site_number: '4'
+game_text: ! |-
+  Southron. Archer. While you have initiative, the Ring-bearer cannot take wounds during the archery phase and this minion is ambush (8).
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07170

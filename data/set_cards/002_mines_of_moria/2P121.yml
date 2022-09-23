@@ -1,0 +1,22 @@
+---
+key: 2P121
+name: Gimli, Dwarf of the Mountain-race
+title: Gimli
+subtitle: Dwarf of the Mountain-race
+set: mines_of_moria
+rarity: promo
+card_type: companion
+subtype: dwarf
+alignment: free_people
+culture: dwarven
+signet: frodo
+strength: '6'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  Damage +1. Each underground site's Shadow number is -2.
+flavor_text: ! |-
+  ”'In the ruins of the Dwarves, a dwarf's head will be less easy to bewilder than Elves or Men or Hobbits.'”
+notes: 'Lists: EXL'
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02121

@@ -1,0 +1,15 @@
+---
+key: 1U293
+name: Halfling Deftness
+title: Halfling Deftness
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: event
+alignment: free_people
+culture: shire
+twilight: '0'
+game_text: ! |-
+  Skirmish: Exert a Hobbit to make him strength +3.
+flavor_text: ! |-
+  ”…though they are inclined to be fat and do not hurry unnecessarily, they are nonetheless nimble and deft in their movements.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01293

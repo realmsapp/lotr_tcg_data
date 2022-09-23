@@ -1,0 +1,18 @@
+---
+key: 1C297
+name: Hobbit Party Guest
+title: Hobbit Party Guest
+set: fellowship_of_the_ring
+rarity: common
+card_type: ally
+alignment: free_people
+culture: shire
+strength: '2'
+vitality: '2'
+twilight: '1'
+site_number: '1'
+game_text: ! |-
+  At the start of each of your turns, heal this ally. Fellowship: Exert this ally to heal another Hobbit ally whose home is site 1.
+flavor_text: ! |-
+  ”'More promising still (to the hobbits' mind): an enourmous open-air kitchen was erected….'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01297

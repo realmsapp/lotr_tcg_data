@@ -1,0 +1,18 @@
+---
+key: 4U86
+name: Thonnas, Naith Captain
+title: Thonnas
+subtitle: Naith Captain
+set: two_towers
+rarity: uncommon
+card_type: companion
+subtype: elf
+alignment: free_people
+culture: elven
+strength: '6'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  To play, spot an Elf. While Thonnas bears a ranged weapon, each minion skirmishing him is strength -2 and Thonnas does not add to the fellowship archery total.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04086

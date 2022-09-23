@@ -1,0 +1,17 @@
+---
+key: 7C199
+name: Morgul Soldier
+title: Morgul Soldier
+set: return_of_the_king
+rarity: common
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: wraith
+strength: '6'
+vitality: '2'
+twilight: '2'
+site_number: '4'
+game_text: ! |-
+  Nazgul are strength +1.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07199

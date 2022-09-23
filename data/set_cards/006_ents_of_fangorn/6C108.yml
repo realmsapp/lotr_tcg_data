@@ -1,0 +1,19 @@
+---
+key: 6C108
+name: Wisp of Pale Sheen
+title: Wisp of Pale Sheen
+set: ents_of_fangorn
+rarity: common
+card_type: minion
+subtype: wraith
+alignment: shadow
+culture: sauron
+strength: '8'
+vitality: '2'
+twilight: '3'
+site_number: '4'
+game_text: ! |-
+  Twilight. Regroup: Spot another [Sauron] or twilight minion and discard this minion to add a burden.
+flavor_text: ! |-
+  ”'They do not see what lies ahead / When Sun has failed and Moon is dead.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06108

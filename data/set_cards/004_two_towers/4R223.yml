@@ -1,0 +1,15 @@
+---
+key: 4R223
+name: Discovered
+title: Discovered
+set: two_towers
+rarity: rare
+card_type: event
+alignment: shadow
+culture: raider
+twilight: '1'
+game_text: ! |-
+  Maneuver: Exert a [Raider] Man to discard a Free Peoples condition (or 2 Free Peoples conditions if you spot 3 burdens).
+flavor_text: ! |-
+  “The voices and the clink of weapons and harness were very close.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04223

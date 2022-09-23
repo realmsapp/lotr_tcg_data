@@ -1,0 +1,20 @@
+---
+key: 5U92
+name: Sigewulf, Brave Volunteer
+title: Sigewulf
+subtitle: Brave Volunteer
+set: battle_of_helms_deep
+rarity: uncommon
+card_type: ally
+alignment: free_people
+culture: rohan
+strength: '4'
+vitality: '2'
+twilight: '1'
+unique: true
+site_number: 4T
+game_text: ! |-
+  Villager. Regroup: Exert Sigewulf and spot 5 valiant Men to discard a minion.
+flavor_text: ! |-
+  The courage of Sigewulf and other Rohirrim like him will not be forgotten.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05092

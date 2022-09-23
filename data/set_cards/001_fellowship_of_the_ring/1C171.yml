@@ -1,0 +1,15 @@
+---
+key: 1C171
+name: Frenzy
+title: Frenzy
+set: fellowship_of_the_ring
+rarity: common
+card_type: event
+alignment: shadow
+culture: moria
+twilight: '2'
+game_text: ! |-
+  Assignment: Assign an exhausted companion (except the Ring-bearer) to skirmish a [Moria] Orc.
+flavor_text: ! |-
+  The Goblins of the Misty Mountains, like all of their race, use their teeming numbers to slaughter their foes.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01171

@@ -1,0 +1,21 @@
+---
+key: 2R84
+name: Ulaire Nelya, Ringwraith in Twilight
+title: Ulaire Nelya
+subtitle: Ringwraith in Twilight
+set: mines_of_moria
+rarity: rare
+card_type: minion
+subtype: nazgul
+alignment: shadow
+culture: wraith
+strength: '10'
+vitality: '3'
+twilight: '5'
+unique: true
+site_number: '2'
+game_text: ! |-
+  Twilight. While you can spot 2 burdens or 2 wounds on the Ring-bearer, Ulaire Nelya is fierce and damage +1.
+flavor_text: ! |-
+  “Over the lip of the little dell, on the side away from the hill, they felt, rather than saw, a shadow rise, one shadow or more than one.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02084

@@ -1,0 +1,21 @@
+---
+key: 2C104
+name: Merry, Horticulturalist
+title: Merry
+subtitle: Horticulturalist
+set: mines_of_moria
+rarity: common
+card_type: companion
+subtype: hobbit
+alignment: free_people
+culture: shire
+signet: gandalf
+strength: '3'
+vitality: '4'
+twilight: '1'
+unique: true
+game_text: ! |-
+  Fellowship: Exert Merry to play Farmer Maggot from your draw deck.
+flavor_text: ! |-
+  ”'Ow… I think I've broken somehing.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02104

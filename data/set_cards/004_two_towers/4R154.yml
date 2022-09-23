@@ -1,0 +1,21 @@
+---
+key: 4R154
+name: Grima, Wormtongue
+title: Grima
+subtitle: Wormtongue
+set: two_towers
+rarity: rare
+card_type: minion
+subtype: man
+alignment: shadow
+culture: isengard
+strength: '4'
+vitality: '3'
+twilight: '2'
+unique: true
+site_number: '3'
+game_text: ! |-
+  Maneuver: Exert Grima and spot an unbound companion bearing 3 or more cards to return each Free Peoples card that companion bears to its owner's hand.
+flavor_text: ! |-
+  ”'I care for you and yours as best I may. But do not weary yourself, or tax too heavily your strength.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04154

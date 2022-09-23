@@ -1,0 +1,18 @@
+---
+key: 7R306
+name: Orc Seeker
+title: Orc Seeker
+set: return_of_the_king
+rarity: rare
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '11'
+vitality: '3'
+twilight: '4'
+unique: true
+site_number: '6'
+game_text: ! |-
+  Tracker. The site number of each [Sauron] Orc is -1. If you have initiative when you play this minion, you may spot another [Sauron] Orc to draw 2 cards.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07306

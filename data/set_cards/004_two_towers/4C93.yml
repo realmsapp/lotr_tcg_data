@@ -1,0 +1,16 @@
+---
+key: 4C93
+name: Have Patience
+title: Have Patience
+set: two_towers
+rarity: common
+card_type: event
+alignment: free_people
+culture: gandalf
+twilight: '3'
+game_text: ! |-
+  Fellowship: Spot Gandalf to heal an unbound companion twice.
+flavor_text: ! |-
+  ”'Go where you must go, and hope!'”
+notes: 'Version: +.'
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04093

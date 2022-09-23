@@ -1,0 +1,15 @@
+---
+key: 4R214
+name: Where Has Grima Stowed It?
+title: Where Has Grima Stowed It?
+set: two_towers
+rarity: rare
+card_type: event
+alignment: shadow
+culture: isengard
+twilight: '2'
+game_text: ! |-
+  Maneuver: Spot Grima to discard a possession borne by an ally or unbound companion.
+flavor_text: ! |-
+  ”'Loth was he to render up the keys. Many other things are there which men have missed.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04214

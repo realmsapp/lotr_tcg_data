@@ -1,0 +1,20 @@
+---
+key: 4C277
+name: Guma, Plains Farmer
+title: Guma
+subtitle: Plains Farmer
+set: two_towers
+rarity: common
+card_type: ally
+alignment: free_people
+culture: rohan
+strength: '4'
+vitality: '2'
+twilight: '1'
+unique: true
+site_number: 4T
+game_text: ! |-
+  Villager. Discard Guma if an opponent controls his home site. Fellowship: Exert Guma to heal a [Rohan] Man.
+flavor_text: ! |-
+  Foodstores swelled as refugees like Guma brought provisions to the Hornburg.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04277

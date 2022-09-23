@@ -1,0 +1,15 @@
+---
+key: 7U49
+name: Steadfast Champion
+title: Steadfast Champion
+set: return_of_the_king
+rarity: uncommon
+card_type: condition
+alignment: free_people
+culture: gandalf
+twilight: '2'
+unique: true
+game_text: ! |-
+  Bearer must be Gandalf. Each minion gains this ability: 'Assignment: Assign this minion to Gandalf.' Regroup: Discard this condition to discard a minion and heal a companion 3 times.
+notes: 'Lists: SXL, OBRL, EXL, MXL'
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07049

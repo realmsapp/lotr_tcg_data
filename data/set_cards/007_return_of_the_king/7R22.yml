@@ -1,0 +1,14 @@
+---
+key: 7R22
+name: Hope Comes
+title: Hope Comes
+set: return_of_the_king
+rarity: rare
+card_type: condition
+alignment: free_people
+culture: elven
+twilight: '2'
+unique: true
+game_text: ! |-
+  To play, spot 2 Elves. Response: If an [Elven] skirmish event is played, discard this condition to draw 3 cards.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07022

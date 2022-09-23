@@ -1,0 +1,18 @@
+---
+key: 6R127
+name: Isengard Mechanics (AI)
+title: Isengard Mechanics (AI)
+set: ents_of_fangorn
+rarity: rare
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: isengard
+strength: '11'
+vitality: '4'
+twilight: '6'
+site_number: '4'
+game_text: ! |-
+  Regroup: Discard an [Isengard] Orc to make the Free Peoples player wound a companion (or 2 companions if you spot 6 companions). Regroup: If this minion is stacked on an [Isengard] card, spot an [Isengard] Orc and discard this minion to add (3).
+notes: Alternate image.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06127

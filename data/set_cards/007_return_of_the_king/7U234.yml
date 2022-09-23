@@ -1,0 +1,13 @@
+---
+key: 7U234
+name: Guarded Fastness
+title: Guarded Fastness
+set: return_of_the_king
+rarity: uncommon
+card_type: event
+alignment: free_people
+culture: rohan
+twilight: '1'
+game_text: ! |-
+  If you have initiative, discard 2 cards from hand to heal all [Rohan] allies.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07234

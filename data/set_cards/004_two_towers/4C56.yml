@@ -1,0 +1,15 @@
+---
+key: 4C56
+name: Search Far and Wide
+title: Search Far and Wide
+set: two_towers
+rarity: common
+card_type: event
+alignment: free_people
+culture: dwarven
+twilight: '0'
+game_text: ! |-
+  Fellowship: Spot a Dwarf and discard the top card of your draw deck to draw 2 cards.
+flavor_text: ! |-
+  ”'We have been set many riddles since we came to Tol Brandir, but this is the hardest to unravel.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04056

@@ -1,0 +1,13 @@
+---
+key: 10U32
+name: Fifth Level
+title: Fifth Level
+set: mount_doom
+rarity: uncommon
+card_type: condition
+alignment: free_people
+culture: gondor
+twilight: '1'
+game_text: ! |-
+  Fortification. Bearer is strength -1 for each Fortification you can spot. Maneuver: Exert 2 [Gondor] Men or spot 3 knights to transfer this condition to a minion.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10032

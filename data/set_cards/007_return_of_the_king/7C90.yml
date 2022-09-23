@@ -1,0 +1,19 @@
+---
+key: 7C90
+name: Faramir, Stout Captain
+title: Faramir
+subtitle: Stout Captain
+set: return_of_the_king
+rarity: common
+card_type: companion
+subtype: man
+alignment: free_people
+culture: gondor
+signet: theoden
+strength: '7'
+vitality: '3'
+twilight: '3'
+unique: true
+game_text: ! |-
+  Ranger. To play, spot a [Gondor] Man. Each time Faramir wins a skirmish involving a fierce minion, you may exert Faramir to discard that minion.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07090

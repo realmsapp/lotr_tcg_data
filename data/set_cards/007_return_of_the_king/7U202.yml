@@ -1,0 +1,17 @@
+---
+key: 7U202
+name: Morgul Whelp
+title: Morgul Whelp
+set: return_of_the_king
+rarity: uncommon
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: wraith
+strength: '3'
+vitality: '1'
+twilight: '1'
+site_number: '4'
+game_text: ! |-
+  While you can spot a wound on the Ring-bearer, this minion is strength +6.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07202

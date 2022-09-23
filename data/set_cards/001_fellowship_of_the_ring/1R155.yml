@@ -1,0 +1,19 @@
+---
+key: 1R155
+name: Uruk Spy
+title: Uruk Spy
+set: fellowship_of_the_ring
+rarity: rare
+card_type: minion
+subtype: uruk-hai
+alignment: shadow
+culture: isengard
+strength: '7'
+vitality: '2'
+twilight: '2'
+site_number: '5'
+game_text: ! |-
+  Response: If the Ring-bearer puts on The One Ring, exert this minion. Discard a card from the top of your draw deck for each [Isengard] minion you spot. Add a burden for each Shadow card discarded in this way.
+flavor_text: ! |-
+  A wary eye on the mission could undo the quest.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01155

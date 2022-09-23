@@ -1,0 +1,20 @@
+---
+key: 4R22
+name: Hillman Horde
+title: Hillman Horde
+set: two_towers
+rarity: rare
+card_type: minion
+subtype: man
+alignment: shadow
+culture: dunland
+strength: '14'
+vitality: '2'
+twilight: '6'
+unique: true
+site_number: '3'
+game_text: ! |-
+  While you control 2 sites, skip the archery phase. While you control 3 sites, each of your [Dunland] Men is fierce. While you control 4 sites, each of your [Dunland] Men is damage +1.
+flavor_text: ! |-
+  ”'They are fierce folk when roused.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04022

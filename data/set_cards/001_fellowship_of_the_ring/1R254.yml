@@ -1,0 +1,15 @@
+---
+key: 1R254
+name: Mordor Enraged
+title: Mordor Enraged
+set: fellowship_of_the_ring
+rarity: rare
+card_type: condition
+alignment: shadow
+culture: sauron
+twilight: '0'
+game_text: ! |-
+  Plays on a [Sauron] minion. Shadow: Exert bearer to add (1) for each archer companion.
+flavor_text: ! |-
+  The armies of Elendil and Gil-galad inflamed Sauron's anger and hatred.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01254

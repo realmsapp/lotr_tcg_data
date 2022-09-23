@@ -1,0 +1,19 @@
+---
+key: 10U5
+name: Arwen, Echo of Luthien
+title: Arwen
+subtitle: Echo of Luthien
+set: mount_doom
+rarity: uncommon
+card_type: companion
+subtype: elf
+alignment: free_people
+culture: elven
+signet: aragorn
+strength: '6'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  Skirmish: Discard a card from hand to discard the bottom card of your draw deck. If the bottom card was an [Elven] card, each minion skirmishing Arwen is strength -3.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10005

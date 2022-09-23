@@ -1,0 +1,19 @@
+---
+key: 7C229
+name: Eowyn, Restless Maiden
+title: Eowyn
+subtitle: Restless Maiden
+set: return_of_the_king
+rarity: common
+card_type: companion
+subtype: man
+alignment: free_people
+culture: rohan
+signet: aragorn
+strength: '6'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  Skirmish: Discard a possession borne by Eowyn to make her strength +2.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07229

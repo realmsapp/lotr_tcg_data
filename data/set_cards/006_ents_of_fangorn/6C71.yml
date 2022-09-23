@@ -1,0 +1,19 @@
+---
+key: 6C71
+name: Isengard Tinker
+title: Isengard Tinker
+set: ents_of_fangorn
+rarity: common
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: isengard
+strength: '5'
+vitality: '2'
+twilight: '1'
+site_number: '4'
+game_text: ! |-
+  Regroup: Discard an [Isengard] Orc to make the Free Peoples player wound a companion.
+flavor_text: ! |-
+  ”'I wonder if his fame was… due to his cleverness in settling at Isengard.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06071

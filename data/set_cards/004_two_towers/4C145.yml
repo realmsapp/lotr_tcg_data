@@ -1,0 +1,15 @@
+---
+key: 4C145
+name: Cloud of Arrows
+title: Cloud of Arrows
+set: two_towers
+rarity: common
+card_type: event
+alignment: shadow
+culture: isengard
+twilight: '0'
+game_text: ! |-
+  Archery: Exert an [Isengard] archer to make the minion archery total +1 and the fellowship archery total -1.
+flavor_text: ! |-
+  “Behind them orc-archers crowded, sending a hail of darts against the bowmen on the walls.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04145

@@ -1,0 +1,15 @@
+---
+key: 3R71
+name: Tower of Orthanc
+title: Tower of Orthanc
+set: realms_of_the_elf_lords
+rarity: rare
+card_type: condition
+alignment: shadow
+culture: isengard
+twilight: '1'
+game_text: ! |-
+  To play, spot an [Isengard] minion. Plays to your support area. Each time the fellowship moves, you may spot an exhausted companion to add (3).
+flavor_text: ! |-
+  ””
+wiki_url: https://lotrtcgwiki.com/wiki/lotr03071

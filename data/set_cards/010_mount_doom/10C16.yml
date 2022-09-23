@@ -1,0 +1,13 @@
+---
+key: 10C16
+name: Gathering Wind
+title: Gathering Wind
+set: mount_doom
+rarity: common
+card_type: event
+alignment: free_people
+culture: gandalf
+twilight: '2'
+game_text: ! |-
+  Exert your Wizard and choose a number. Make each minion with that twilight cost strength -2 until the regroup phase.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10016

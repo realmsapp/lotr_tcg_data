@@ -1,0 +1,22 @@
+---
+key: 3R38
+name: Aragorn, Heir to the White City
+title: Aragorn
+subtitle: Heir to the White City
+set: realms_of_the_elf_lords
+rarity: rare
+card_type: companion
+subtype: man
+alignment: free_people
+culture: gondor
+signet: frodo
+strength: '8'
+vitality: '4'
+twilight: '4'
+unique: true
+game_text: ! |-
+  Ranger. Each time the fellowship moves during the fellowship phase, remove (2).
+flavor_text: ! |-
+  ”'…his hood was cast back, and his dark hair was blowing in the wind, a light was in his eyes: a king returning from exile in his own land.'”
+notes: 'Lists: EXL, MXL'
+wiki_url: https://lotrtcgwiki.com/wiki/lotr03038

@@ -1,0 +1,21 @@
+---
+key: 2C47
+name: Uruk Scout
+title: Uruk Scout
+set: mines_of_moria
+rarity: common
+card_type: minion
+subtype: uruk-hai
+alignment: shadow
+culture: isengard
+strength: '7'
+vitality: '2'
+twilight: '3'
+site_number: '5'
+game_text: ! |-
+  Tracker. Damage +1. The roaming penalty for each [Isengard] minion you play is -1. Response: If an event is played that spots or exerts a ranger, exert this minion to cancel that event.
+flavor_text: ! |-
+  Forward Uruk troops caught the fellowship unaware.
+notes: The special ability of this minion may only cancel an event that specifically
+  requires a ranger in its game text.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02047

@@ -1,0 +1,19 @@
+---
+key: 1C9
+name: Dwarven Axe
+title: Dwarven Axe
+set: fellowship_of_the_ring
+rarity: common
+card_type: possession
+subtype: hand_weapon
+alignment: free_people
+culture: dwarven
+strength: "+2"
+twilight: '0'
+game_text: ! |-
+  Bearer must be a Dwarf. Each time a player's minion loses a skirmish to bearer, that player discards the top card from his draw deck.
+flavor_text: ! |-
+  ”'Buckler and corslet, axe and sword / And shining spears were laid in hoard.'”
+notes: This card can trigger only once for each Shadow player with a minion in that
+  skirmish, regardless of how many minions that player had.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01009

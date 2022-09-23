@@ -1,0 +1,19 @@
+---
+key: 2U67
+name: Moria Archer Troop
+title: Moria Archer Troop
+set: mines_of_moria
+rarity: uncommon
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: moria
+strength: '8'
+vitality: '3'
+twilight: '6'
+site_number: '4'
+game_text: ! |-
+  Archer. While you can spot another [Moria] archer, add 1 to the minion archery total.
+flavor_text: ! |-
+  Most of the Goblin arrows flew harmlessly into the chasm, but there were so many!
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02067

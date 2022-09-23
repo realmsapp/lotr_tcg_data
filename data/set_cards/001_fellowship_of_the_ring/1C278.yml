@@ -1,0 +1,15 @@
+---
+key: 1C278
+name: Strength Born of Fear
+title: Strength Born of Fear
+set: fellowship_of_the_ring
+rarity: common
+card_type: condition
+alignment: shadow
+culture: sauron
+twilight: '1'
+game_text: ! |-
+  Plays to your support area. Skirmish: Remove (3) to make a [Sauron] Orc strength +1.
+flavor_text: ! |-
+  Fear
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01278

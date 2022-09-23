@@ -1,0 +1,14 @@
+---
+key: 8R33
+name: Elessar's Edict
+title: Elessar's Edict
+set: siege_of_gondor
+rarity: rare
+card_type: event
+alignment: free_people
+culture: gondor
+twilight: '1'
+game_text: ! |-
+  If a [Gondor] Wraith is about to be killed, discard him and either exhaust another [Gondor] Wraith or spot another exhausted [Gondor] Wraith to prevent that.
+notes: Game text is a clarification.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr08033

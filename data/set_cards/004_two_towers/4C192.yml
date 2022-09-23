@@ -1,0 +1,23 @@
+---
+key: 4C192
+name: Uruk Regular
+title: Uruk Regular
+set: two_towers
+rarity: common
+card_type: minion
+subtype: uruk-hai
+alignment: shadow
+culture: isengard
+strength: '8'
+vitality: '2'
+twilight: '3'
+site_number: '5'
+game_text: ! |-
+  Damage +1. Shadow: Exert this minion to play an Uruk-hai; its twilight cost is -1 for each other Uruk-hai you can spot.
+flavor_text: ! |-
+  ”'We are the Uruk-hai; we do not stop the fight for night or day, for fair weather or for storm.'”
+notes: 'This card''s special ability makes the twilight cost of an Uruk-hai -1 for
+  each Uruk-hai you spot other than this card. For example: if you have four Uruk
+  Regulars in play and you use the special ability on one of them to play an Uruk
+  Searcher (twilight cost of 4), the Searcher''s twilight cost is 1.'
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04192

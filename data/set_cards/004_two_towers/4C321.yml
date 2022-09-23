@@ -1,0 +1,15 @@
+---
+key: 4C321
+name: Swiftly and Softly
+title: Swiftly and Softly
+set: two_towers
+rarity: common
+card_type: event
+alignment: free_people
+culture: shire
+twilight: '1'
+game_text: ! |-
+  Stealth. Skirmish: At sites 1T to 5T, cancel a skirmish involving a Hobbit. At any other site, prevent a Hobbit from taking more than 1 wound.
+flavor_text: ! |-
+  “In the deep of night under hard clear stars they set off.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04321

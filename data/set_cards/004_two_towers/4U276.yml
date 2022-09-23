@@ -1,0 +1,17 @@
+---
+key: 4U276
+name: Fortress Never Fallen
+title: Fortress Never Fallen
+set: two_towers
+rarity: uncommon
+card_type: condition
+alignment: free_people
+culture: rohan
+twilight: '2'
+unique: true
+game_text: ! |-
+  Plays to your support area. Each time a [Rohan] Man wins a skirmish, you may place a [Rohan] token on this card. Regroup: Discard a Shadow condition for each [Rohan] token here. Discard this condition.
+flavor_text: ! |-
+  ”'…it was the spirit of your people that held it strong.'”
+notes: 'Lists: ERL'
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04276

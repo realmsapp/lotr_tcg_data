@@ -1,0 +1,21 @@
+---
+key: 5C93
+name: Theoden, King of the Golden Hall
+title: Theoden
+subtitle: King of the Golden Hall
+set: battle_of_helms_deep
+rarity: common
+card_type: companion
+subtype: man
+alignment: free_people
+culture: rohan
+signet: gandalf
+strength: '6'
+vitality: '2'
+twilight: '2'
+unique: true
+game_text: ! |-
+  Valiant. Maneuver: Play a [Rohan] possession on Theoden to heal a [Rohan] ally.
+flavor_text: ! |-
+  ”'You thought I remained in Meduseld bent like an old tree under winter snow…. But a west wind has shaken the boughs.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05093

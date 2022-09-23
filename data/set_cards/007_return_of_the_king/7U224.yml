@@ -1,0 +1,18 @@
+---
+key: 7U224
+name: Elfhelm, Marshal of Rohan
+title: Elfhelm
+subtitle: Marshal of Rohan
+set: return_of_the_king
+rarity: uncommon
+card_type: companion
+subtype: man
+alignment: free_people
+culture: rohan
+strength: '6'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  Valiant. Skirmish: Exert Elfhelm to make him strength +1 for each uncontrolled plains site you can spot.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07224

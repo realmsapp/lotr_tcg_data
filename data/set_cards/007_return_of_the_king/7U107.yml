@@ -1,0 +1,17 @@
+---
+key: 7U107
+name: Iorlas
+title: Iorlas
+set: return_of_the_king
+rarity: uncommon
+card_type: companion
+subtype: man
+alignment: free_people
+culture: gondor
+strength: '6'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  Response: If a possession or engine is played by your opponent, remove a [Gondor] token from your condition to make that opponent remove (1). If he or she cannot, discard that possession or engine.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07107

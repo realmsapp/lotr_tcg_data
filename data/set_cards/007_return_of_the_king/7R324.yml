@@ -1,0 +1,19 @@
+---
+key: 7R324
+name: Pippin, Wearer of Black and Silver
+title: Pippin
+subtitle: Wearer of Black and Silver
+set: return_of_the_king
+rarity: rare
+card_type: companion
+subtype: hobbit
+alignment: free_people
+culture: shire
+signet: aragorn
+strength: '3'
+vitality: '4'
+twilight: '1'
+unique: true
+game_text: ! |-
+  Skirmish: If Pippin is not assigned to a skirmish, return him to your hand to wound a roaming minion twice.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07324

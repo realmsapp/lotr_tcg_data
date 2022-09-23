@@ -1,0 +1,18 @@
+---
+key: 1R33
+name: Bow of the Galadhrim
+title: Bow of the Galadhrim
+set: fellowship_of_the_ring
+rarity: rare
+card_type: possession
+subtype: ranged_weapon
+alignment: free_people
+culture: elven
+strength: "+1"
+twilight: '1'
+unique: true
+game_text: ! |-
+  Bearer must be Legolas. Each time Legolas wins a skirmish, you may wound a minion.
+flavor_text: ! |-
+  “To Legolas she gave a bow such as the Galadhrim used, longer and stouter than the bows of Mirkwood, and strung with a string of elfhair.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01033

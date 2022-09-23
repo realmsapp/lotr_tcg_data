@@ -1,0 +1,18 @@
+---
+key: 1C53
+name: Lorien Elf
+title: Lorien Elf
+set: fellowship_of_the_ring
+rarity: common
+card_type: companion
+subtype: elf
+alignment: free_people
+culture: elven
+strength: '4'
+vitality: '2'
+twilight: '1'
+game_text: ! |-
+  To play, spot an Elf.
+flavor_text: ! |-
+  ”'…we dwell now in the heart of the forest, and do not willingly have dealings with any other folk.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01053

@@ -1,0 +1,19 @@
+---
+key: 7U216
+name: Ulaire Nelya, Black-Mantled Wraith
+title: Ulaire Nelya
+subtitle: Black-Mantled Wraith
+set: return_of_the_king
+rarity: uncommon
+card_type: minion
+subtype: nazgul
+alignment: shadow
+culture: wraith
+strength: '10'
+vitality: '3'
+twilight: '5'
+unique: true
+site_number: '2'
+game_text: ! |-
+  Fierce. Regroup: If you have initiative, discard Ulaire Nelya to exert each Ring-bound companion.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07216

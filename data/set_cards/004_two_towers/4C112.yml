@@ -1,0 +1,17 @@
+---
+key: 4C112
+name: Boromir's Gauntlets
+title: Boromir's Gauntlets
+set: two_towers
+rarity: common
+card_type: possession
+subtype: gauntlets
+alignment: free_people
+culture: gondor
+twilight: '1'
+unique: true
+game_text: ! |-
+  Bearer must be a [Gondor] Man. Skirmish: Exert bearer to cancel a skirmish involving bearer. Any Shadow player may remove (1) to prevent this.
+flavor_text: ! |-
+  ”'…now Boromir has taken his road, and we must make haste to choose our own.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04112

@@ -1,0 +1,18 @@
+---
+key: 5C83
+name: Household Guard
+title: Household Guard
+set: battle_of_helms_deep
+rarity: common
+card_type: companion
+subtype: man
+alignment: free_people
+culture: rohan
+strength: '6'
+vitality: '3'
+twilight: '2'
+game_text: ! |-
+  Valiant.
+flavor_text: ! |-
+  “The king and the men of his household were in the Hornburg….”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05083

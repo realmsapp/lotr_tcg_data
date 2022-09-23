@@ -1,0 +1,19 @@
+---
+key: 6C102
+name: Gate Sentry
+title: Gate Sentry
+set: ents_of_fangorn
+rarity: common
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '9'
+vitality: '3'
+twilight: '3'
+site_number: '6'
+game_text: ! |-
+  Maneuver: Exert this minion twice and spot another [Sauron] minion to discard a condition.
+flavor_text: ! |-
+  “In it there was a single gate of iron, and upon its battlement sentinels paced unceasingly.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06102

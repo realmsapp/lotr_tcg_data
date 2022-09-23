@@ -1,0 +1,20 @@
+---
+key: 4R169
+name: Ranged Commander
+title: Ranged Commander
+set: two_towers
+rarity: rare
+card_type: minion
+subtype: uruk-hai
+alignment: shadow
+culture: isengard
+strength: '8'
+vitality: '2'
+twilight: '4'
+unique: true
+site_number: '5'
+game_text: ! |-
+  Archer. The twilight cost of each [Isengard] archer is -1. Archery: Exert Ranged Commander to make the Free Peoples player wound an unbound companion; this minion does not add to the minion archery total.
+flavor_text: ! |-
+  Hand-picked Uruks led Saruman's crossbowmen.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04169

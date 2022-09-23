@@ -1,0 +1,13 @@
+---
+key: 7C20
+name: Defiance
+title: Defiance
+set: return_of_the_king
+rarity: common
+card_type: event
+alignment: free_people
+culture: elven
+twilight: '1'
+game_text: ! |-
+  Make an Elf strength +2 (or +4 if skirmishing a Nazgul).
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07020

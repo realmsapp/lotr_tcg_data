@@ -1,0 +1,15 @@
+---
+key: 6U75
+name: Twisted Tales
+title: Twisted Tales
+set: ents_of_fangorn
+rarity: uncommon
+card_type: condition
+alignment: shadow
+culture: isengard
+twilight: '2'
+game_text: ! |-
+  Plays to your support area. Each time a companion or ally loses a skirmish involving a [Isengard] Man, you may spot a possession to stack that possession here.
+flavor_text: ! |-
+  ”'Too long have you sat in the shadows….'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06075

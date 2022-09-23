@@ -1,0 +1,17 @@
+---
+key: 7C192
+name: Morgul Hound
+title: Morgul Hound
+set: return_of_the_king
+rarity: common
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: wraith
+strength: '5'
+vitality: '2'
+twilight: '2'
+site_number: '4'
+game_text: ! |-
+  While you can spot 2 wounds on the Ring-bearer, this minion is strength +4 and fierce.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07192

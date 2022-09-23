@@ -1,0 +1,14 @@
+---
+key: 8U110
+name: Morgai Foothills
+title: Morgai Foothills
+set: siege_of_gondor
+rarity: uncommon
+card_type: condition
+alignment: free_people
+culture: shire
+twilight: '0'
+unique: true
+game_text: ! |-
+  When the fellowship moves from site 4K, remove (1) for each Ring-bound companion you spot. Regroup: Discard a card from hand for each Ring-bound companion you spot. Discard this condition.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr08110

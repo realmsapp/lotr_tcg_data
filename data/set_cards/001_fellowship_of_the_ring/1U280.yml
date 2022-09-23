@@ -1,0 +1,20 @@
+---
+key: 1U280
+name: Tower Lieutenant
+title: Tower Lieutenant
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '10'
+vitality: '3'
+twilight: '4'
+unique: true
+site_number: '6'
+game_text: ! |-
+  Each time this minion wins a skirmish, the Free Peoples player discards 2 cards at random from hand.
+flavor_text: ! |-
+  Sauron shows favour to those in his dungeons with the ambition to squeeze the information he needs from those caught spying out his borders.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01280

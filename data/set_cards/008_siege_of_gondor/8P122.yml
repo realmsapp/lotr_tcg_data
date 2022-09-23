@@ -1,0 +1,19 @@
+---
+key: 8P122
+name: Pippin, Guard of Minas Tirith
+title: Pippin
+subtitle: Guard of Minas Tirith
+set: siege_of_gondor
+rarity: promo
+card_type: companion
+subtype: hobbit
+alignment: free_people
+culture: shire
+signet: frodo
+strength: '5'
+vitality: '4'
+twilight: '2'
+unique: true
+game_text: ! |-
+  To play, spot a [Gondor] Man. Skirmish: Discard 4 cards from hand to wound a minion Pippin is skirmishing twice if that minion bears a fortification.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr08122

@@ -1,0 +1,15 @@
+---
+key: 3R77
+name: Depths of Moria
+title: Depths of Moria
+set: realms_of_the_elf_lords
+rarity: rare
+card_type: condition
+alignment: shadow
+culture: moria
+twilight: '1'
+game_text: ! |-
+  To play, spot a [Moria] Orc. Plays to your support area. Each time the fellowship moves during the regroup phase, add (2).
+flavor_text: ! |-
+  ”…a great fissure had opened. Out of it a fierce red light came, and now and again flames licked at the brink…. Wisps of dark smoke wavered in the hot air.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr03077

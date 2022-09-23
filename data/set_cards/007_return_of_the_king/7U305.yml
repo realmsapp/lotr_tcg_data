@@ -1,0 +1,17 @@
+---
+key: 7U305
+name: Orc Savage
+title: Orc Savage
+set: return_of_the_king
+rarity: uncommon
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '9'
+vitality: '3'
+twilight: '3'
+site_number: '6'
+game_text: ! |-
+  While you can spot 6 companions and another [Sauron] Orc, this minion is strength +9 and fierce.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07305

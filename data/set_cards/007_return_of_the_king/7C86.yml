@@ -1,0 +1,19 @@
+---
+key: 7C86
+name: Denethor, Wizened Steward
+title: Denethor
+subtitle: Wizened Steward
+set: return_of_the_king
+rarity: common
+card_type: companion
+subtype: man
+alignment: free_people
+culture: gondor
+signet: aragorn
+strength: '5'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  Denethor is strength +1 for each other [Gondor] Man you can spot (limit +4).
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07086

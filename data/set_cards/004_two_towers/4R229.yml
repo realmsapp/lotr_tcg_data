@@ -1,0 +1,19 @@
+---
+key: 4R229
+name: Easterling Skirmisher
+title: Easterling Skirmisher
+set: two_towers
+rarity: rare
+card_type: minion
+subtype: man
+alignment: shadow
+culture: raider
+strength: '5'
+vitality: '1'
+twilight: '1'
+site_number: '4'
+game_text: ! |-
+  Easterling. When you play this minion, you may spot another Easterling to add (1) for each burden (limit (4)).
+flavor_text: ! |-
+  Enemy formations are threatened by the spears of Easterling light troops.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04229

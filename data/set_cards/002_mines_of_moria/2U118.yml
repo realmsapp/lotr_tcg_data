@@ -1,0 +1,12 @@
+---
+key: 2U118
+name: Great Chasm
+title: Great Chasm
+set: mines_of_moria
+rarity: uncommon
+card_type: site
+twilight: '4'
+site_number: '4'
+game_text: ! |-
+  Underground. The twilight cost of the first [Moria] archer played each Shadow phase is -2.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02118

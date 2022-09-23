@@ -1,0 +1,15 @@
+---
+key: 4C128
+name: New Errand
+title: New Errand
+set: two_towers
+rarity: common
+card_type: event
+alignment: free_people
+culture: gondor
+twilight: '1'
+game_text: ! |-
+  Skirmish: Spot a Ring-bound Man to make a minion's site number +2. If that minion loses this skirmish, you may wound a minion.
+flavor_text: ! |-
+  ”'…we come to ambush the Men of Harad.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04128

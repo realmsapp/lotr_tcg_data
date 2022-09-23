@@ -1,0 +1,18 @@
+---
+key: 1R221
+name: The Pale Blade
+title: The Pale Blade
+set: fellowship_of_the_ring
+rarity: rare
+card_type: possession
+subtype: hand_weapon
+alignment: shadow
+culture: wraith
+strength: "+3"
+twilight: '2'
+unique: true
+game_text: ! |-
+  Bearer must be The Witch-king. He is damage +1. Response: If The Witch-king wins a skirmish, exert him to discard a Free Peoples condition.
+flavor_text: ! |-
+  In his wretched grip, the Captain raised a Pale Sword.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01221

@@ -1,0 +1,13 @@
+---
+key: 7U42
+name: King's Advisor
+title: King's Advisor
+set: return_of_the_king
+rarity: uncommon
+card_type: event
+alignment: free_people
+culture: gandalf
+twilight: '2'
+game_text: ! |-
+  Exert Gandalf twice to make an opponent exert a minion for each [Rohan] companion you spot.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07042

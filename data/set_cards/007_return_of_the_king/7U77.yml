@@ -1,0 +1,14 @@
+---
+key: 7U77
+name: We Hates Them
+title: We Hates Them
+set: return_of_the_king
+rarity: uncommon
+card_type: condition
+alignment: free_people
+culture: gollum_free_people
+twilight: '2'
+unique: true
+game_text: ! |-
+  Bearer must be Smeagol. Each minion gains this ability: 'Assignment: Assign this minion to Smeagol.' Regroup: Discard this condition to discard a minion and play a companion from your discard pile.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07077

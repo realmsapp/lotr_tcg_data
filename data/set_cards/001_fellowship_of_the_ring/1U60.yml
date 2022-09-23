@@ -1,0 +1,20 @@
+---
+key: 1U60
+name: Silinde, Elf of Mirkwood
+title: Silinde
+subtitle: Elf of Mirkwood
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: ally
+alignment: free_people
+culture: elven
+strength: '5'
+vitality: '2'
+twilight: '2'
+unique: true
+site_number: '3'
+game_text: ! |-
+  While you can spot your site 3, Silinde has the game text of that site.
+flavor_text: ! |-
+  Among the representatives of the Elves of Northern Mirkwood was Silinde, friend of the House of Thranduil.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01060

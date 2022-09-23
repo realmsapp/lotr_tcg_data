@@ -1,0 +1,23 @@
+---
+key: 5R47
+name: Berserk Slayer
+title: Berserk Slayer
+set: battle_of_helms_deep
+rarity: rare
+card_type: minion
+subtype: uruk-hai
+alignment: shadow
+culture: isengard
+strength: '12'
+vitality: '3'
+twilight: '7'
+unique: true
+site_number: '5'
+game_text: ! |-
+  Damage +1. Berserk Slayer is strength +2 for each wound on a character in its skirmish. Skirmish: Remove 5 [Isengard] tokens from a machine and exert Berserk Slayer twice to wound every companion.
+flavor_text: ! |-
+  Berserkers are the first wave of Uruks sent to battle.
+notes: The strength bonus for this minion is increased for any wound on any minion,
+  companion, or ally in its skirmish. The tokens removed for the special ability on
+  this card must all be removed from the same machine.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05047

@@ -1,0 +1,15 @@
+---
+key: 1C192
+name: Pinned Down
+title: Pinned Down
+set: fellowship_of_the_ring
+rarity: common
+card_type: condition
+alignment: shadow
+culture: moria
+twilight: '1'
+game_text: ! |-
+  Plays to your support area. While you can spot a [Moria] archer, the fellowship archery total is -1.
+flavor_text: ! |-
+  “Arrows whined and whistled down the corridor as he sprang back.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01192

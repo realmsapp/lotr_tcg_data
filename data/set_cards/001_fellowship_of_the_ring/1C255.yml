@@ -1,0 +1,15 @@
+---
+key: 1C255
+name: Mordor's Strength
+title: Mordor's Strength
+set: fellowship_of_the_ring
+rarity: common
+card_type: event
+alignment: shadow
+culture: sauron
+twilight: '1'
+game_text: ! |-
+  Skirmish: Exert a [Sauron] Orc to wound a character he is skirmishing.
+flavor_text: ! |-
+  ”'It should have ended that day, but evil was allowed to endure.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01255

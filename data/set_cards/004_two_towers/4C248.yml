@@ -1,0 +1,19 @@
+---
+key: 4C248
+name: Southron Bowman
+title: Southron Bowman
+set: two_towers
+rarity: common
+card_type: minion
+subtype: man
+alignment: shadow
+culture: raider
+strength: '6'
+vitality: '2'
+twilight: '3'
+site_number: '4'
+game_text: ! |-
+  Southron. Archer. Archery: Exert this minion to exert a companion (except the Ring-bearer); this minion does not add to the minion archery total.
+flavor_text: ! |-
+  The Southron armies deploy archers to harass enemy troop formations.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04248

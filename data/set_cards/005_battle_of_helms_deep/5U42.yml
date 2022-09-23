@@ -1,0 +1,20 @@
+---
+key: 5U42
+name: Turgon, Man of Belfalas
+title: Turgon
+subtitle: Man of Belfalas
+set: battle_of_helms_deep
+rarity: uncommon
+card_type: companion
+subtype: man
+alignment: free_people
+culture: gondor
+strength: '6'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  Knight. To play, spot a knight. Maneuver: Exert Turgon to wound a minion bearing a [Gondor] fortification.
+flavor_text: ! |-
+  He hopes to someday become one of the knights of Dol Amroth.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05042

@@ -1,0 +1,16 @@
+---
+key: 7C247
+name: Rohirrim Herdsman
+title: Rohirrim Herdsman
+set: return_of_the_king
+rarity: common
+card_type: ally
+alignment: free_people
+culture: rohan
+strength: '4'
+vitality: '2'
+twilight: '1'
+site_number: 3T
+game_text: ! |-
+  Villager. To play, spot 2 [Rohan] Men. Regroup: Discard 3 cards from hand to remove a threat.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07247

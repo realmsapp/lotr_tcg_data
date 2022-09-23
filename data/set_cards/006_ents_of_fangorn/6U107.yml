@@ -1,0 +1,17 @@
+---
+key: 6U107
+name: Troll's Chain
+title: Troll's Chain
+set: ents_of_fangorn
+rarity: uncommon
+card_type: possession
+subtype: hand_weapon
+alignment: shadow
+culture: sauron
+strength: "+2"
+twilight: '1'
+game_text: ! |-
+  Bearer must be a [Sauron] Troll. When you play this possession, you may draw a card.
+flavor_text: ! |-
+  “Trolls they were, but filled with the evil will of their master.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06107

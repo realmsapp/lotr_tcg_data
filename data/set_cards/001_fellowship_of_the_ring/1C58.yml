@@ -1,0 +1,15 @@
+---
+key: 1C58
+name: The Seen and the Unseen
+title: The Seen and the Unseen
+set: fellowship_of_the_ring
+rarity: common
+card_type: event
+alignment: free_people
+culture: elven
+twilight: '0'
+game_text: ! |-
+  Fellowship: Exert 2 Elves to discard a condition.
+flavor_text: ! |-
+  ”'You have entered the realm of the Lady of the Wood - you cannot go back.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01058

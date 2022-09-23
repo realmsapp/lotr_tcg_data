@@ -1,0 +1,17 @@
+---
+key: 1R208
+name: Black Steed
+title: Black Steed
+set: fellowship_of_the_ring
+rarity: rare
+card_type: possession
+subtype: mount
+alignment: shadow
+culture: wraith
+strength: "+2"
+twilight: '1'
+game_text: ! |-
+  Bearer must be a Nazgul. While at a plains site, bearer is strength +2. Discard this possession when at an underground site.
+flavor_text: ! |-
+  ”'…these horses are born and bred to the service of the Dark Lord in Mordor.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01208

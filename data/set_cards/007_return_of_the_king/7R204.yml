@@ -1,0 +1,14 @@
+---
+key: 7R204
+name: Out of Sight and Shot
+title: Out of Sight and Shot
+set: return_of_the_king
+rarity: rare
+card_type: condition
+alignment: shadow
+culture: wraith
+twilight: '1'
+unique: true
+game_text: ! |-
+  To play, spot a Nazgul. Each time a companion is played, the Free Peoples player must exert a companion. Shadow: Spot a Nazgul and discard this condition to play a Nazgul from your discard pile.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07204

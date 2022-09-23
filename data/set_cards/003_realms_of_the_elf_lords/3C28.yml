@@ -1,0 +1,15 @@
+---
+key: 3C28
+name: Voice of Nimrodel
+title: Voice of Nimrodel
+set: realms_of_the_elf_lords
+rarity: common
+card_type: event
+alignment: free_people
+culture: elven
+twilight: '2'
+game_text: ! |-
+  Tale. Skirmish: Exert an Elf at a river or forest to cancel a skirmish involving that Elf.
+flavor_text: ! |-
+  ”'Beside the falls of Nimrodel, / By water clear and cool, / Her voice as falling silver fell / Into the shining pool.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr03028

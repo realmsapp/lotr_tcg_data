@@ -1,0 +1,15 @@
+---
+key: 1U241
+name: Curse From Mordor
+title: Curse From Mordor
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: event
+alignment: shadow
+culture: sauron
+twilight: '0'
+game_text: ! |-
+  Shadow: Spot a [Sauron] Orc to discard an [Elven] condition.
+flavor_text: ! |-
+  The Dark Lord harbors an ancient hatred for descendants of Gil-galad and those that marched with his gleaming host.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01241

@@ -1,0 +1,15 @@
+---
+key: 1C315
+name: Stout and Sturdy
+title: Stout and Sturdy
+set: fellowship_of_the_ring
+rarity: common
+card_type: event
+alignment: free_people
+culture: shire
+twilight: '1'
+game_text: ! |-
+  Maneuver or Skirmish: Heal a Hobbit.
+flavor_text: ! |-
+  ”'You have a stout heart, little hobbit, but your courage alone will not save you.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01315

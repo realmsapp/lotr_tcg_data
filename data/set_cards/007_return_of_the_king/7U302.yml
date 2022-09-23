@@ -1,0 +1,18 @@
+---
+key: 7U302
+name: Orc Officer
+title: Orc Officer
+set: return_of_the_king
+rarity: uncommon
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '9'
+vitality: '3'
+twilight: '3'
+site_number: '6'
+game_text: ! |-
+  Each time a companion is overwhelmed in a skirmish that involves a [Sauron] Orc, add 3 burdens.
+notes: Game text is a clarification.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07302

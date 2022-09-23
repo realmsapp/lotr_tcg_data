@@ -1,0 +1,16 @@
+---
+key: 6U90
+name: Banner of the Mark
+title: Banner of the Mark
+set: ents_of_fangorn
+rarity: uncommon
+card_type: possession
+subtype: hand_weapon
+alignment: free_people
+culture: rohan
+twilight: '1'
+game_text: ! |-
+  Bearer must be a [Rohan] companion. Each time bearer wins a skirmish, you may exert a minion. Response: If bearer wins a skirmish, discard this possession to liberate a site.
+flavor_text: ! |-
+  ”'Fell deeds awake. Now for wrath. Now for ruin, and the red dawn.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06090

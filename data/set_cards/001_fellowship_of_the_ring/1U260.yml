@@ -1,0 +1,15 @@
+---
+key: 1U260
+name: The Number Must Be Few
+title: The Number Must Be Few
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: condition
+alignment: shadow
+culture: sauron
+twilight: '2'
+game_text: ! |-
+  Search. Plays to your support area. While you can spot 7 companions, the move limit for this turn is -1 (to a minimum of 1).
+flavor_text: ! |-
+  ”'The number must be few, since your hope is in speed and secrecy.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01260

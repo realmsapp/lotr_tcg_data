@@ -1,0 +1,21 @@
+---
+key: 6U86
+name: Ulaire Lemenya, Winged Hunter
+title: Ulaire Lemenya
+subtitle: Winged Hunter
+set: ents_of_fangorn
+rarity: uncommon
+card_type: minion
+subtype: nazgul
+alignment: shadow
+culture: wraith
+strength: '9'
+vitality: '2'
+twilight: '4'
+unique: true
+site_number: '3'
+game_text: ! |-
+  Regroup: Exert Ulaire Lemenya and discard 3 cards from hand to return a companion (except the Ring-bearer) to owner's hand.
+flavor_text: ! |-
+  ”…the helpless horror that had come with the cry in the wind and the shadow on the moon….”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06086

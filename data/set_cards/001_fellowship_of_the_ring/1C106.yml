@@ -1,0 +1,15 @@
+---
+key: 1C106
+name: Gondor's Vengeance
+title: Gondor's Vengeance
+set: fellowship_of_the_ring
+rarity: common
+card_type: event
+alignment: free_people
+culture: gondor
+twilight: '0'
+game_text: ! |-
+  Regroup: Exert a ranger companion to discard a minion.
+flavor_text: ! |-
+  A Ranger in the wild is a deadly foe for the forces of the Shadow.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01106

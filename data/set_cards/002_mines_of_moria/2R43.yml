@@ -1,0 +1,18 @@
+---
+key: 2R43
+name: Lurtz's Sword
+title: Lurtz's Sword
+set: mines_of_moria
+rarity: rare
+card_type: possession
+subtype: hand_weapon
+alignment: shadow
+culture: isengard
+strength: "+2"
+twilight: '1'
+unique: true
+game_text: ! |-
+  Bearer must be Lurtz. He is damage +1. Each time Lurtz wins a skirmish, the Free Peoples player must discard the top 2 cards of his or her draw deck.
+flavor_text: ! |-
+  The Uruk giant laid down his bow and drew a broad-bladed weapon.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02043

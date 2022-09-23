@@ -1,0 +1,17 @@
+---
+key: 7C198
+name: Morgul Ruffian
+title: Morgul Ruffian
+set: return_of_the_king
+rarity: common
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: wraith
+strength: '7'
+vitality: '1'
+twilight: '2'
+site_number: '4'
+game_text: ! |-
+  While you can spot a Nazgul, this minion may only take wounds during skirmish phases.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07198

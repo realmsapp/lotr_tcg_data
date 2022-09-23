@@ -1,0 +1,19 @@
+---
+key: 6C2
+name: Dunlending Elder
+title: Dunlending Elder
+set: ents_of_fangorn
+rarity: common
+card_type: minion
+subtype: man
+alignment: shadow
+culture: dunland
+strength: '7'
+vitality: '1'
+twilight: '2'
+site_number: '3'
+game_text: ! |-
+  While you control 2 sites, this minion is strength +5, fierce and damage +1.
+flavor_text: ! |-
+  Hatred of the Rohirrim is passed from generation to generation.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06002

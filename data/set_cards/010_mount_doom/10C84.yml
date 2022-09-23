@@ -1,0 +1,17 @@
+---
+key: 10C84
+name: Cirith Ungol Sentry
+title: Cirith Ungol Sentry
+set: mount_doom
+rarity: common
+card_type: minion
+subtype: uruk-hai
+alignment: shadow
+culture: sauron
+strength: '8'
+vitality: '2'
+twilight: '2'
+site_number: '6'
+game_text: ! |-
+  Damage +1.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10084

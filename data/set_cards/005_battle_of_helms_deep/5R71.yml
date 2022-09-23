@@ -1,0 +1,19 @@
+---
+key: 5R71
+name: Company of Haradrim
+title: Company of Haradrim
+set: battle_of_helms_deep
+rarity: rare
+card_type: minion
+subtype: man
+alignment: shadow
+culture: raider
+strength: '13'
+vitality: '3'
+twilight: '6'
+site_number: '4'
+game_text: ! |-
+  Southron. Regroup: Remove (9) and spot antother Southron to make the move limit -1 for this turn ( to a minimum of 1 ).
+flavor_text: ! |-
+  The quick movements of Southron soldiers cut off all paths of retreat.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05071

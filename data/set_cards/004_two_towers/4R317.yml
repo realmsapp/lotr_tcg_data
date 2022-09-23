@@ -1,0 +1,16 @@
+---
+key: 4R317
+name: Sam's Pack
+title: Sam's Pack
+set: two_towers
+rarity: rare
+card_type: possession
+alignment: free_people
+culture: shire
+twilight: '0'
+unique: true
+game_text: ! |-
+  Bearer must be a Ring-bound Hobbit. At the start of each turn, you may add (2) to heal a Ring-bound companion.
+flavor_text: ! |-
+  “He still hopefully carried some of his gear in his pack….”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04317

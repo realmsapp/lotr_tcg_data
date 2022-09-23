@@ -1,0 +1,18 @@
+---
+key: 10R63
+name: Morgul Vanguard
+title: Morgul Vanguard
+set: mount_doom
+rarity: rare
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: wraith
+strength: '12'
+vitality: '3'
+twilight: '6'
+unique: true
+site_number: '4'
+game_text: ! |-
+  Assignment: Assign this minion to an unbound companion bearing a hand weapon.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10063

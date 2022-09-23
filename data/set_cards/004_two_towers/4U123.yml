@@ -1,0 +1,15 @@
+---
+key: 4U123
+name: Hard Choice
+title: Hard Choice
+set: two_towers
+rarity: uncommon
+card_type: event
+alignment: free_people
+culture: gondor
+twilight: '1'
+game_text: ! |-
+  Fellowship: Spot Aragorn to heal a companion who has the Aragorn signet twice.
+flavor_text: ! |-
+  ”'Shall we rest by night, or shall we go on while our will and strength hold?'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04123

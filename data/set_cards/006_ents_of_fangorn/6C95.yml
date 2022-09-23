@@ -1,0 +1,20 @@
+---
+key: 6C95
+name: Hrethel, Rider of Rohan
+title: Hrethel
+subtitle: Rider of Rohan
+set: ents_of_fangorn
+rarity: common
+card_type: companion
+subtype: man
+alignment: free_people
+culture: rohan
+strength: '6'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  To play, spot a [Rohan] Man. Skirmish: Heal a minion skirmishing Hrethel to make Hrethel strength +3 (limit +3).
+flavor_text: ! |-
+  ”…gaining on the Orcs, gaining on them like a tide over the flats on folk straying in a quicksand.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06095

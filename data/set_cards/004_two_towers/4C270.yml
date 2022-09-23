@@ -1,0 +1,21 @@
+---
+key: 4C270
+name: Eowyn, Lady of Rohan
+title: Eowyn
+subtitle: Lady of Rohan
+set: two_towers
+rarity: common
+card_type: companion
+subtype: man
+alignment: free_people
+culture: rohan
+signet: theoden
+strength: '6'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  Valiant. Response: If an unbound companion is about to take a wound, exert Eowyn and add (1) to prevent that wound.
+flavor_text: ! |-
+  “Thus Aragorn…… and thought her fair, fair and cold, like a morning of pale spring that is not yet come to womanhood.”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04270

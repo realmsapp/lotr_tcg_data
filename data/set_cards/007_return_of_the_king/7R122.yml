@@ -1,0 +1,14 @@
+---
+key: 7R122
+name: Strong and Old
+title: Strong and Old
+set: return_of_the_king
+rarity: rare
+card_type: condition
+alignment: free_people
+culture: gondor
+twilight: '1'
+unique: true
+game_text: ! |-
+  To play, spot 2 [Gondor] Men. The twilight cost of each of your [Gondor] fortifications is -1. Response: If an opponent is about to control a site, discard 2 [Gondor] fortifications to prevent this.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07122

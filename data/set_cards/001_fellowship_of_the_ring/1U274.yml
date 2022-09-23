@@ -1,0 +1,15 @@
+---
+key: 1U274
+name: Sauron's Defenses
+title: Sauron's Defenses
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: condition
+alignment: shadow
+culture: sauron
+twilight: '1'
+game_text: ! |-
+  To play, exert [Sauron] a Orc. Plays to your support area. While there are 3 or more companions in the dead pile, the move limit for this turn is -1 (to a minimum of 1).
+flavor_text: ! |-
+  Sauron's minions are everywhere. Few roads escape the gaze of the Lidless Eye.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01274

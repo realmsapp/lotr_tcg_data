@@ -1,0 +1,21 @@
+---
+key: 6R50
+name: Aragorn, Defender of Free Peoples
+title: Aragorn
+subtitle: Defender of Free Peoples
+set: ents_of_fangorn
+rarity: rare
+card_type: companion
+subtype: man
+alignment: free_people
+culture: gondor
+signet: theoden
+strength: '8'
+vitality: '4'
+twilight: '4'
+unique: true
+game_text: ! |-
+  Skirmish: Remove an [Elven] token to make a minion skirmishing Aragorn strength -3. Skirmish: Remove a [Dwarven] token to heal a Dwarf. Regroup: If Aragorn is mounted, remove a [Rohan] token to wound a minion twice.
+flavor_text: ! |-
+  ”'…this is the hour when we draw swords together.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06050

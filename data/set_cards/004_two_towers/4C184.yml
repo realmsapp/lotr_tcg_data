@@ -1,0 +1,19 @@
+---
+key: 4C184
+name: Uruk Defender
+title: Uruk Defender
+set: two_towers
+rarity: common
+card_type: minion
+subtype: uruk-hai
+alignment: shadow
+culture: isengard
+strength: '9'
+vitality: '2'
+twilight: '4'
+site_number: '5'
+game_text: ! |-
+  Damage +1. Skirmish: Exert this minion at a battleground to make another Uruk-hai strength +2.
+flavor_text: ! |-
+  Saruman's Uruk army trained in formation tactics.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04184

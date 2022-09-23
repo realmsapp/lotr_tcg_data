@@ -1,0 +1,17 @@
+---
+key: 1R318
+name: Thror's Map
+title: Thror's Map
+set: fellowship_of_the_ring
+rarity: rare
+card_type: possession
+alignment: free_people
+culture: shire
+twilight: '0'
+unique: true
+game_text: ! |-
+  Plays to your support area. Fellowship or Regroup: Exert 2 Hobbits and discard Thror's Map to play the fellowship's next site (replacing opponent's site if necessary).
+flavor_text: ! |-
+  Bilbo still keeps a map of Erebor, the Lonely Mountain, as a memento of his journey with the Dwarves many years ago.
+notes: Game text is an erratum.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01318

@@ -1,0 +1,16 @@
+---
+key: 7R232
+name: Firefoot, Eomer's Steed
+title: Firefoot
+subtitle: Eomer's Steed
+set: return_of_the_king
+rarity: rare
+card_type: possession
+subtype: mount
+alignment: free_people
+culture: rohan
+twilight: '1'
+unique: true
+game_text: ! |-
+  Bearer must be a [Rohan] Man. At the start of each skirmish involving bearer, each minion skirmishing bearer must exert. Regroup: If bearer is Eomer, exert him to discard a condition. Any Shadow player may remove (1) to prevent this.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07232

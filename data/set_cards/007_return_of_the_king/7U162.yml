@@ -1,0 +1,17 @@
+---
+key: 7U162
+name: Southron Captain
+title: Southron Captain
+set: return_of_the_king
+rarity: uncommon
+card_type: minion
+subtype: man
+alignment: shadow
+culture: raider
+strength: '13'
+vitality: '3'
+twilight: '6'
+site_number: '4'
+game_text: ! |-
+  Southron. While you can spot 4 threats, this minion is damage +2.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07162

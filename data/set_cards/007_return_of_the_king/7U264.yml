@@ -1,0 +1,18 @@
+---
+key: 7U264
+name: Army of Udun
+title: Army of Udun
+set: return_of_the_king
+rarity: uncommon
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '19'
+vitality: '5'
+twilight: '9'
+unique: true
+site_number: '6'
+game_text: ! |-
+  Shadow: Discard a [Sauron] Orc to add a threat. Skirmish: Remove a threat to make Army of Udun strength +1. Regroup: Discard Army of Udun and X other [Sauron] Orcs to add X threats.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07264

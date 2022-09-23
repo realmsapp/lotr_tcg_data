@@ -1,0 +1,15 @@
+---
+key: 1R189
+name: Lost to the Goblins
+title: Lost to the Goblins
+set: fellowship_of_the_ring
+rarity: rare
+card_type: event
+alignment: shadow
+culture: moria
+twilight: '0'
+game_text: ! |-
+  Response: If the Ring-bearer exerts or takes a wound, discard a card from the top of your draw deck for each [Moria] minion you spot. For each Shadow card discarded in this way, add a burden (limit 3 burdens).
+flavor_text: ! |-
+  Dwarven graves stood open in plundered disarray.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01189

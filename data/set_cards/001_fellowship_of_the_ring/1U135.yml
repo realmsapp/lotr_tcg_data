@@ -1,0 +1,15 @@
+---
+key: 1U135
+name: Saruman's Frost
+title: Saruman's Frost
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: condition
+alignment: shadow
+culture: isengard
+twilight: '2'
+game_text: ! |-
+  Spell. Weather. To play, exert a [Isengard] minion. Plays on a site. Limit 1 per site. Each Hobbit at this site is strength -2. Discard this condition at the end of the turn.
+flavor_text: ! |-
+  The small and weak suffer first from the The White Wizard's powerful sorcery.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01135

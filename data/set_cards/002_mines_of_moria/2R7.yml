@@ -1,0 +1,20 @@
+---
+key: 2R7
+name: Gloin, Friend to Thorin
+title: Gloin
+subtitle: Friend to Thorin
+set: mines_of_moria
+rarity: rare
+card_type: companion
+subtype: dwarf
+alignment: free_people
+culture: dwarven
+strength: '5'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  For each [Dwarven] tale you can spot, Gloin is strength +1 (limit +4).
+flavor_text: ! |-
+  ”'But what then would happen, if the Ruling Ring were destroyed, as you counsel?'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02007

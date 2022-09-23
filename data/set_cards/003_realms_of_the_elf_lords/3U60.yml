@@ -1,0 +1,19 @@
+---
+key: 3U60
+name: Isengard Smith
+title: Isengard Smith
+set: realms_of_the_elf_lords
+rarity: uncommon
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: isengard
+strength: '8'
+vitality: '3'
+twilight: '4'
+site_number: '4'
+game_text: ! |-
+  Regroup: Exert this minion to discard a weapon (or all Free Peoples possessions if you can spot 5 companions).
+flavor_text: ! |-
+  ”'No other folk make such a trampling….'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr03060

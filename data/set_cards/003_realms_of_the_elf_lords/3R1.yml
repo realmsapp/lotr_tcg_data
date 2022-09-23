@@ -1,0 +1,16 @@
+---
+key: 3R1
+name: Book of Mazarbul
+title: Book of Mazarbul
+set: realms_of_the_elf_lords
+rarity: rare
+card_type: possession
+alignment: free_people
+culture: dwarven
+twilight: '2'
+unique: true
+game_text: ! |-
+  Tale. Bearer must be a Dwarf. At the start of each fellowship phase when the fellowship is at site 4 or higher, you may draw a card for each Dwarf companion.
+flavor_text: ! |-
+  ”'It seems to be a record of the fortunes of Balin's folk….'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr03001

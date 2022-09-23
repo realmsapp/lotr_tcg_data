@@ -1,0 +1,16 @@
+---
+key: 5C33
+name: City Wall
+title: City Wall
+set: battle_of_helms_deep
+rarity: common
+card_type: condition
+alignment: free_people
+culture: gondor
+strength: "-3"
+twilight: '1'
+game_text: ! |-
+  Fortification. Plays to your support area. Skirmish: Exert a [Gondor] Man or spot 3 knights to transfer this condition from your support area to a minion skirmishing a [Gondor] Man.
+flavor_text: ! |-
+  The war-weary defenses of Osgiliath still protected the Men of Gondor.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05033

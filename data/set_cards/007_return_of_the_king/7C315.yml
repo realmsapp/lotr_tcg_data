@@ -1,0 +1,14 @@
+---
+key: 7C315
+name: Tower Walkway
+title: Tower Walkway
+set: return_of_the_king
+rarity: common
+card_type: condition
+alignment: shadow
+culture: sauron
+twilight: '1'
+unique: true
+game_text: ! |-
+  Engine. To play, spot a [Sauron] Orc. Each besieger is strength +1 for each site you control. Regroup: Discard 3 [Sauron] Orcs to take control of a site. Discard this condition.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07315

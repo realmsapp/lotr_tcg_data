@@ -1,0 +1,15 @@
+---
+key: 6C56
+name: Trust
+title: Trust
+set: ents_of_fangorn
+rarity: common
+card_type: event
+alignment: free_people
+culture: gondor
+twilight: '0'
+game_text: ! |-
+  Skirmish: Make a [Gondor] Man strength +2 (and heal a companion if you spot an [Elven] token).
+flavor_text: ! |-
+  ”'You cannot falter now.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06056

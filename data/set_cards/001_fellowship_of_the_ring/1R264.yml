@@ -1,0 +1,15 @@
+---
+key: 1R264
+name: Orc Bowmen
+title: Orc Bowmen
+set: fellowship_of_the_ring
+rarity: rare
+card_type: condition
+alignment: shadow
+culture: sauron
+twilight: '3'
+game_text: ! |-
+  Plays to your support area. While you can spot a [Sauron] Orc, add 1 to the minion archery total.
+flavor_text: ! |-
+  Where volleys of Orcish arrows fly, the defenders of the West fall.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01264

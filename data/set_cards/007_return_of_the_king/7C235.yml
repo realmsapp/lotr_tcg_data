@@ -1,0 +1,18 @@
+---
+key: 7C235
+name: Guthlaf, Herald
+title: Guthlaf
+subtitle: Herald
+set: return_of_the_king
+rarity: common
+card_type: companion
+subtype: man
+alignment: free_people
+culture: rohan
+strength: '6'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  Skirmish: Discard a [Rohan] condition to make Guthlaf strength +1.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07235

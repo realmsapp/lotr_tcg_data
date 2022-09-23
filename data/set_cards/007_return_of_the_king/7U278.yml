@@ -1,0 +1,17 @@
+---
+key: 7U278
+name: Gorgoroth Soldier
+title: Gorgoroth Soldier
+set: return_of_the_king
+rarity: uncommon
+card_type: minion
+subtype: orc
+alignment: shadow
+culture: sauron
+strength: '9'
+vitality: '2'
+twilight: '3'
+site_number: '5'
+game_text: ! |-
+  Besieger. Response: If a besieger is about to take a wound, discard 2 cards from hand to prevent it.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07278

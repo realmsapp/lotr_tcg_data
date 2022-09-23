@@ -1,0 +1,14 @@
+---
+key: 10U33
+name: Hardy Garrison
+title: Hardy Garrison
+set: mount_doom
+rarity: uncommon
+card_type: condition
+alignment: free_people
+culture: gondor
+twilight: '2'
+unique: true
+game_text: ! |-
+  To play, spot 2 [Gondor] Men. Each time you lose initiative, you may wound a minion.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr10033

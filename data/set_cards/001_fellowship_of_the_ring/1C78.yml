@@ -1,0 +1,16 @@
+---
+key: 1C78
+name: Mysterious Wizard
+title: Mysterious Wizard
+set: fellowship_of_the_ring
+rarity: common
+card_type: event
+alignment: free_people
+culture: gandalf
+twilight: '2'
+game_text: ! |-
+  Spell. Skirmish: Make Gandalf strength +2 (or +4 if there are 4 or fewer burdens on the Ring-bearer).
+flavor_text: ! |-
+  ”'…there are older and fouler things than Orcs in the deep places of the world.'”
+notes: 'Version: +.'
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01078

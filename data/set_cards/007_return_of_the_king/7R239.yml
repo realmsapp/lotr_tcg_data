@@ -1,0 +1,17 @@
+---
+key: 7R239
+name: Leowyn
+title: Leowyn
+set: return_of_the_king
+rarity: rare
+card_type: ally
+alignment: free_people
+culture: rohan
+strength: '4'
+vitality: '2'
+twilight: '1'
+unique: true
+site_number: 3T
+game_text: ! |-
+  Villager. Fellowship: If you have initiative, discard 2 cards from hand to heal a [Rohan] Man.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07239

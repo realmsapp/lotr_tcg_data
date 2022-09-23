@@ -1,0 +1,15 @@
+---
+key: 1U63
+name: Stand Against Darkness
+title: Stand Against Darkness
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: event
+alignment: free_people
+culture: elven
+twilight: '1'
+game_text: ! |-
+  Maneuver: Exert an Elf to discard a [Sauron] minion, a [Sauron] condition, or a [Sauron] possession.
+flavor_text: ! |-
+  ”'What power still remains lies with us, here in Imladrisstrength, have we here the strength to withstand the Enemy…?'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01063

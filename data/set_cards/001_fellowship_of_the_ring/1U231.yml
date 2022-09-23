@@ -1,0 +1,21 @@
+---
+key: 1U231
+name: Ulaire Enquea, Lieutenant of Morgul
+title: Ulaire Enquea
+subtitle: Lieutenant of Morgul
+set: fellowship_of_the_ring
+rarity: uncommon
+card_type: minion
+subtype: nazgul
+alignment: shadow
+culture: wraith
+strength: '11'
+vitality: '4'
+twilight: '6'
+unique: true
+site_number: '3'
+game_text: ! |-
+  Fierce. Maneuver: Spot 6 companions (or 5 burdens) and exert Ulaire Enquea to wound a companion (except the Ring-bearer).
+flavor_text: ! |-
+  The Nine Riders were embodiments of Sauron's will, searching all of Middle-earth for his prize.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01231

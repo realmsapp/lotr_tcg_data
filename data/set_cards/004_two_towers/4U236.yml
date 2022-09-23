@@ -1,0 +1,16 @@
+---
+key: 4U236
+name: Howl of Harad
+title: Howl of Harad
+set: two_towers
+rarity: uncommon
+card_type: condition
+alignment: shadow
+culture: raider
+twilight: '1'
+game_text: ! |-
+  Plays to your support area. Each time a companion or ally loses a skirmish involving a Southron, you may remove (4) to make the Free Peoples Player wound a Ring-bound companion.
+flavor_text: ! |-
+  Blood-curdling cries rout the Southrons' enemies from the battlefield.
+notes: Game text is an erratum.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04236

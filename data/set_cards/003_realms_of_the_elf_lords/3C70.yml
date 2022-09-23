@@ -1,0 +1,15 @@
+---
+key: 3C70
+name: Servants to Saruman
+title: Servants to Saruman
+set: realms_of_the_elf_lords
+rarity: common
+card_type: event
+alignment: shadow
+culture: isengard
+twilight: '0'
+game_text: ! |-
+  Skirmish: Make an [Isengard] Orc strength +2 (or +3 if you have fewer than 3 cards in hand).
+flavor_text: ! |-
+  ”'This is grievous news concerning Saruman… for we trusted him and he is deep in all our counsels.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr03070

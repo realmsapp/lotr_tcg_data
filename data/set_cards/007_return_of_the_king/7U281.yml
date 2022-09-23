@@ -1,0 +1,13 @@
+---
+key: 7U281
+name: Great Siege-towers
+title: Great Siege-towers
+set: return_of_the_king
+rarity: uncommon
+card_type: condition
+alignment: shadow
+culture: sauron
+twilight: '1'
+game_text: ! |-
+  Engine. Shadow: Play a besieger to place a [Sauron] token here. Skirmish: Remove a [Sauron] token from a condition to make a [Sauron] Orc strength +1 (limit +2).
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07281

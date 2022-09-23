@@ -1,0 +1,18 @@
+---
+key: 5U64
+name: War-warg
+title: War-warg
+set: battle_of_helms_deep
+rarity: uncommon
+card_type: possession
+subtype: mount
+alignment: shadow
+culture: isengard
+strength: "+4"
+vitality: "+2"
+twilight: '4'
+game_text: ! |-
+  Bearer must a warg-rider. Response: If a skirmish special abiliy is used in a skirmish involving bearer, exert bearer to cancel that action.
+flavor_text: ! |-
+  Bigger and stronger wargs were ridden into battle.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05064

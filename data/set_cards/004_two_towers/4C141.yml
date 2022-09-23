@@ -1,0 +1,15 @@
+---
+key: 4C141
+name: Beyond Dark Mountains
+title: Beyond Dark Mountains
+set: two_towers
+rarity: common
+card_type: event
+alignment: shadow
+culture: isengard
+twilight: '0'
+game_text: ! |-
+  Response: If a companion or ally is killed, exert an [Isengard] minion to add a burden (or 2 burdens if Aragorn, Gandalf, or Theoden is killed).
+flavor_text: ! |-
+  “Where now was the Ring-bearer? How thin indeed was the thread upon which doom still hung!”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04141

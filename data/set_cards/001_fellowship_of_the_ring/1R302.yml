@@ -1,0 +1,21 @@
+---
+key: 1R302
+name: Merry, Friend to Sam
+title: Merry
+subtitle: Friend to Sam
+set: fellowship_of_the_ring
+rarity: rare
+card_type: companion
+subtype: hobbit
+alignment: free_people
+culture: shire
+signet: frodo
+strength: '3'
+vitality: '4'
+twilight: '1'
+unique: true
+game_text: ! |-
+  Skirmish: If Merry is not assigned to a skirmish, exert him twice to add his strength to another companion.
+flavor_text: ! |-
+  ”'We're coming too! You'll have to send us home tied up in a sack to stop us!'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01302

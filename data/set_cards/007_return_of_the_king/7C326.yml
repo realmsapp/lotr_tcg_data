@@ -1,0 +1,19 @@
+---
+key: 7C326
+name: Sam, Needer of Vittles
+title: Sam
+subtitle: Needer of Vittles
+set: return_of_the_king
+rarity: common
+card_type: companion
+subtype: hobbit
+alignment: free_people
+culture: shire
+signet: aragorn
+strength: '3'
+vitality: '4'
+twilight: '2'
+unique: true
+game_text: ! |-
+  Ring-bound. Fellowship: Play a Hobbit companion to remove a burden. Response: If Frodo is killed, make Sam the Ring-bearer (resistance 5).
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07326

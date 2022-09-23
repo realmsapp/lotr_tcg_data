@@ -1,0 +1,16 @@
+---
+key: 1C102
+name: Dagger Strike
+title: Dagger Strike
+set: fellowship_of_the_ring
+rarity: common
+card_type: event
+alignment: free_people
+culture: gondor
+twilight: '0'
+game_text: ! |-
+  Skirmish: Make a [Gondor] or [Shire] companion bearing a hand weapon strength +2 and damage +1.
+flavor_text: ! |-
+  Every warrior needs a sword, bow, or axe - but sometimes, a dagger is enough.
+notes: 'Version: +.'
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01102

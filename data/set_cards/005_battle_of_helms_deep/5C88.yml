@@ -1,0 +1,17 @@
+---
+key: 5C88
+name: Rohirrim Bow
+title: Rohirrim Bow
+set: battle_of_helms_deep
+rarity: common
+card_type: possession
+subtype: ranged_weapon
+alignment: free_people
+culture: rohan
+strength: "+1"
+twilight: '1'
+game_text: ! |-
+  Bearer must be a [Rohan] Man. Archery: Exert bearer and discard this possession to wound a minion.
+flavor_text: ! |-
+  ”'The Rohirrim have good bowmen after their fashion, but there are too few here, too few.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05088

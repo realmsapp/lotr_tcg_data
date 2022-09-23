@@ -1,0 +1,21 @@
+---
+key: 4R89
+name: Gandalf, Greyhame
+title: Gandalf
+subtitle: Greyhame
+set: two_towers
+rarity: rare
+card_type: companion
+subtype: wizard
+alignment: free_people
+culture: gandalf
+signet: theoden
+strength: '7'
+vitality: '4'
+twilight: '4'
+unique: true
+game_text: ! |-
+  Fellowship: If the twilight pool has fewer than 2 twilight tokens, add (2) to play a character from your discard pile.
+flavor_text: ! |-
+  ”'Dangerous!… And so am I, very dangerous; more dangerous than anything you will ever meet….'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04089

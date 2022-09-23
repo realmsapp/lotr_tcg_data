@@ -1,0 +1,21 @@
+---
+key: 2U83
+name: Ulaire Enquea, Ringwraith in Twilight
+title: Ulaire Enquea
+subtitle: Ringwraith in Twilight
+set: mines_of_moria
+rarity: uncommon
+card_type: minion
+subtype: nazgul
+alignment: shadow
+culture: wraith
+strength: '11'
+vitality: '4'
+twilight: '6'
+unique: true
+site_number: '3'
+game_text: ! |-
+  Twilight. Each time Ulaire Enquea wins a skirmish, you may exert him to wound the Ring-bearer once (or twice if you spot 5 burdens).
+flavor_text: ! |-
+  “In their white faces burned keen and merciless eyes….”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02083

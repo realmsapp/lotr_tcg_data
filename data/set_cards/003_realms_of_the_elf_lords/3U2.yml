@@ -1,0 +1,17 @@
+---
+key: 3U2
+name: Gimli's Pipe
+title: Gimli's Pipe
+set: realms_of_the_elf_lords
+rarity: uncommon
+card_type: possession
+subtype: pipe
+alignment: free_people
+culture: dwarven
+twilight: '1'
+unique: true
+game_text: ! |-
+  Bearer must be Gimli. Fellowship: Exert Gimli to add 1 to the number of pipes you can spot.
+flavor_text: ! |-
+  ”'And certainly it was from Bree that the art of smoking the genuine weed spread in the recent centuries among Dwarves and such other folk….'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr03002

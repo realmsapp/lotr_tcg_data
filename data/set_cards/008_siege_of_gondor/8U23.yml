@@ -1,0 +1,13 @@
+---
+key: 8U23
+name: Larder
+title: Larder
+set: siege_of_gondor
+rarity: uncommon
+card_type: possession
+alignment: shadow
+culture: gollum_shadow
+twilight: '1'
+game_text: ! |-
+  To play, spot a [Gollum] minion. Regroup: Discard an Orc from hand to add a [Gollum] token here. Skirmish: Remove a [Gollum] token here to make Shelob strength +3 (limit +6).
+wiki_url: https://lotrtcgwiki.com/wiki/lotr08023

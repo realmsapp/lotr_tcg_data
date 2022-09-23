@@ -1,0 +1,21 @@
+---
+key: 6R30
+name: Gandalf, Mithrandir
+title: Gandalf
+subtitle: Mithrandir
+set: ents_of_fangorn
+rarity: rare
+card_type: companion
+subtype: wizard
+alignment: free_people
+culture: gandalf
+signet: aragorn
+strength: '10'
+vitality: '4'
+twilight: '4'
+unique: true
+game_text: ! |-
+  Damage +1. Each time the fellowship moves, wound Gandalf.
+flavor_text: ! |-
+  ”'The Dark Lord has Nine. But we have One, mightier than they: the White Rider. He has passed through the fire and the abyss, and they shall fear him.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06030

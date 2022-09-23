@@ -1,0 +1,21 @@
+---
+key: 5U115
+name: Sam, Nice Sensible Hobbit
+title: Sam
+subtitle: Nice Sensible Hobbit
+set: battle_of_helms_deep
+rarity: uncommon
+card_type: companion
+subtype: hobbit
+alignment: free_people
+culture: shire
+signet: aragorn
+strength: '3'
+vitality: '4'
+twilight: '2'
+unique: true
+game_text: ! |-
+  Ring-bound. While you can spot Frodo and Smeagol, Sam may not be overwhelmed unless is strength is tripled. Response: If Frodo is killed, make Sam the Ring-bearer (resistance 5).
+flavor_text: ! |-
+  ”'Trust”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr05115

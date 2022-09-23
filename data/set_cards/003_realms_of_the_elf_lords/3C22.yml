@@ -1,0 +1,15 @@
+---
+key: 3C22
+name: Master of Healing
+title: Master of Healing
+set: realms_of_the_elf_lords
+rarity: common
+card_type: event
+alignment: free_people
+culture: elven
+twilight: '1'
+game_text: ! |-
+  Fellowship or Regroup: Spot Elrond (or 2 [Elven] allies) to heal a companion or ally.
+flavor_text: ! |-
+  ”'Elrond has cured you: he has tended you for days, ever since you were brought in.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr03022

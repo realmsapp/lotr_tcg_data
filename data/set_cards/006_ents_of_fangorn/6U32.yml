@@ -1,0 +1,19 @@
+---
+key: 6U32
+name: Host of Fangorn
+title: Host of Fangorn
+set: ents_of_fangorn
+rarity: uncommon
+card_type: companion
+subtype: ent
+alignment: free_people
+culture: gandalf
+strength: '10'
+vitality: '4'
+twilight: '13'
+unique: true
+game_text: ! |-
+  To play, spot 2 Ent companions. Host of Fangorn's twilight cost is -2 for each Ent or unbound Hobbit you can spot.
+flavor_text: ! |-
+  ”'Of course, it is likely enough, my friends…that we are going to our doom, the last march of the Ents.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr06032

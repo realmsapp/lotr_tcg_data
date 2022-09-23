@@ -1,0 +1,18 @@
+---
+key: 4C306
+name: Hobbit Sword
+title: Hobbit Sword
+set: two_towers
+rarity: common
+card_type: possession
+subtype: hand_weapon
+alignment: free_people
+culture: shire
+strength: "+2"
+twilight: '1'
+game_text: ! |-
+  Bearer must be a Hobbit.
+flavor_text: ! |-
+  Although the Ranger had never before seen a Hobbit, he recognized the swords they carried.
+notes: 'Version: +++.'
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04306

@@ -1,0 +1,16 @@
+---
+key: 7C115
+name: Ranger of Minas Tirith
+title: Ranger of Minas Tirith
+set: return_of_the_king
+rarity: common
+card_type: companion
+subtype: man
+alignment: free_people
+culture: gondor
+strength: '5'
+vitality: '3'
+twilight: '2'
+game_text: ! |-
+  Ranger. While skirmishing a roaming minion, this companion is strength +2 and damage +1.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr07115

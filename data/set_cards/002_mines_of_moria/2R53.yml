@@ -1,0 +1,21 @@
+---
+key: 2R53
+name: Cave Troll's Chain
+title: Cave Troll's Chain
+set: mines_of_moria
+rarity: rare
+card_type: possession
+alignment: shadow
+culture: moria
+strength: "+2"
+twilight: '1'
+unique: true
+game_text: ! |-
+  Bearer must be Cave Troll of Moria. The Free Peoples player may choose for the archery phase to be skipped. Each time Cave Troll of Moria takes a wound during the archery phase, you may wound an archer companion.
+flavor_text: ! |-
+  ”'They have a Cave Troll!'”
+notes: When an exhausted Cave Troll, armed with the Cave Troll's Chain, takes its
+  last wound during the archery phase, the Chain cannot be used to wound an archer
+  companion (since the wound is a required action and takes effect before the Chain
+  can be used).
+wiki_url: https://lotrtcgwiki.com/wiki/lotr02053

@@ -1,0 +1,15 @@
+---
+key: 1C134
+name: Saruman's Chill
+title: Saruman's Chill
+set: fellowship_of_the_ring
+rarity: common
+card_type: condition
+alignment: shadow
+culture: isengard
+twilight: '1'
+game_text: ! |-
+  Spell. Weather. To play, exert a [Isengard] minion. Plays on a site. Limit 1 per site. Each Hobbit who moves from this site must exert. Discard this condition at the end of the turn.
+flavor_text: ! |-
+  Saruman's hand can control the chill of winter.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr01134

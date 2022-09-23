@@ -1,0 +1,15 @@
+---
+key: 3U92
+name: Massing in the East
+title: Massing in the East
+set: realms_of_the_elf_lords
+rarity: uncommon
+card_type: event
+alignment: shadow
+culture: sauron
+twilight: '1'
+game_text: ! |-
+  Regroup: Exert a [Sauron] minion to discard a card from the top of the Free Peoples player's draw deck for each of these races you can spot in the fellowship: Dwarf, Elf, Man, and Wizard.
+flavor_text: ! |-
+  ”'The power of the Black Land grows….'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr03092

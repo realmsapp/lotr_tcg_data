@@ -1,0 +1,15 @@
+---
+key: 4R58
+name: Alliance Reforged
+title: Alliance Reforged
+set: two_towers
+rarity: rare
+card_type: event
+alignment: free_people
+culture: elven
+twilight: '3'
+game_text: ! |-
+  Tale. Fellowship: Draw a card for each Elf companion you spot.
+flavor_text: ! |-
+  ”'If we do not trust the strength of Men, then we trust to the victory of Sauron.'”
+wiki_url: https://lotrtcgwiki.com/wiki/lotr04058
