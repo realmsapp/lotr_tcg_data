@@ -1,0 +1,19 @@
+---
+key: 9R+48
+name: Sauron, The Lord of the Rings
+title: Sauron
+subtitle: The Lord of the Rings
+set: reflections
+rarity: rare_plus
+card_type: minion
+subtype: maia
+alignment: shadow
+culture: sauron
+strength: '24'
+vitality: '5'
+twilight: '18'
+unique: true
+site_number: '6'
+game_text: ! |-
+  Damage +2. Enduring. Fierce. For each burden you spot, threat you spot, and site you control, Sauron's twilight cost is -1.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr09048

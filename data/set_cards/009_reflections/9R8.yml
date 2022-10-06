@@ -1,0 +1,16 @@
+---
+key: 9R8
+name: Ring of Guile
+title: Ring of Guile
+set: reflections
+rarity: rare
+card_type: artifact
+subtype: ring
+alignment: free_people
+culture: dwarven
+strength: "+1"
+twilight: '0'
+unique: true
+game_text: ! |-
+  Bearer must be a Dwarf. Bearer is damage +1. Maneuver: Take a [Dwarven] event into hand from your discard pile. Discard this artifact.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr09008

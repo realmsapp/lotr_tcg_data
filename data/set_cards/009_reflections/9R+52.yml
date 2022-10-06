@@ -1,0 +1,18 @@
+---
+key: 9R+52
+name: Tom Bombadil, The Master
+title: Tom Bombadil
+subtitle: The Master
+set: reflections
+rarity: rare_plus
+card_type: ally
+alignment: free_people
+culture: shire
+strength: '14'
+vitality: '9'
+twilight: '5'
+unique: true
+site_number: '2'
+game_text: ! |-
+  To play, remove 2 burdens or 2 threats. Skirmish: Spot 2 [Shire] companions and exert Tom Bombadil X times, where X is the fellowship's site number, to cancel a skirmish involving a [Shire] companion.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr09052

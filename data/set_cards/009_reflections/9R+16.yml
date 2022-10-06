@@ -1,0 +1,18 @@
+---
+key: 9R+16
+name: Glorfindel, Revealed in Wrath
+title: Glorfindel
+subtitle: Revealed in Wrath
+set: reflections
+rarity: rare_plus
+card_type: companion
+subtype: elf
+alignment: free_people
+culture: elven
+strength: '9'
+vitality: '3'
+twilight: '4'
+unique: true
+game_text: ! |-
+  When Glorfindel is in your starting fellowship, his twilight cost is -2. Skirmish: Reveal the top card of your draw deck. You may exert Glorfindel to make a Nazgul he is skirmishing strength -X, where X is the twilight cost of the card revealed.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr09016

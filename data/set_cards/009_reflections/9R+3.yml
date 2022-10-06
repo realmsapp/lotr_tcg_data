@@ -1,0 +1,18 @@
+---
+key: 9R+3
+name: Durin III, Dwarven Lord
+title: Durin III
+subtitle: Dwarven Lord
+set: reflections
+rarity: rare_plus
+card_type: companion
+subtype: dwarf
+alignment: free_people
+culture: dwarven
+strength: '7'
+vitality: '4'
+twilight: '4'
+unique: true
+game_text: ! |-
+  Damage +1. While you can spot 2 Dwarves, Durin III is twilight cost -2. Durin III is strength +1 for each artifact and each possession he bears.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr09003

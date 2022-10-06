@@ -59,6 +59,10 @@
   name: Wraith
 - key: spider
   name: Spider
+- key: tree
+  name: Tree
+- key: maia
+  name: Maia
 # - key: skirmish
 #   name: Skirmish
 # - key: fellowship

@@ -5,6 +5,8 @@
   name: Uncommon
 - key: rare
   name: Rare
+- key: rare_plus
+  name: Rare+
 - key: none
   name: None
 - key: promo

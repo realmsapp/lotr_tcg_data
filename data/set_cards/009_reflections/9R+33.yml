@@ -1,0 +1,19 @@
+---
+key: 9R+33
+name: Isildur, Bearer of Heirlooms
+title: Isildur
+subtitle: Bearer of Heirlooms
+set: reflections
+rarity: rare_plus
+card_type: companion
+subtype: man
+alignment: free_people
+culture: gondor
+strength: '7'
+vitality: '3'
+twilight: '3'
+unique: true
+ring_bearer: true
+game_text: ! |-
+  While Isildur is the Ring-bearer, at the start of each skirmish involving him, add 2 burdens or exert 3 companions. While Isildur bears The One Ring or an artifact, each [Gondor] knight is strength +1.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr09033

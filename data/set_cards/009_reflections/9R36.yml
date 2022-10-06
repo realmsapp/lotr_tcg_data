@@ -1,0 +1,14 @@
+---
+key: 9R36
+name: Scroll of Isildur
+title: Scroll of Isildur
+set: reflections
+rarity: rare
+card_type: artifact
+alignment: free_people
+culture: gondor
+twilight: '1'
+unique: true
+game_text: ! |-
+  Tale.To play, spot a [Gondor] Man. The Ring-bearer is resistance +1 for each [Gondor] artifact you can spot (limit +3). Fellowship: Discard this artifact to play a ring from your discard pile.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr09036

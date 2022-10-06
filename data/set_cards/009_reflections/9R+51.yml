@@ -1,0 +1,18 @@
+---
+key: 9R+51
+name: Goldberry, River-daughter
+title: Goldberry
+subtitle: River-daughter
+set: reflections
+rarity: rare_plus
+card_type: ally
+alignment: free_people
+culture: shire
+strength: '4'
+vitality: '6'
+twilight: '3'
+unique: true
+site_number: '2'
+game_text: ! |-
+  Each time the fellowship moves to a river, heal Goldberry and Tom Bombadil. Skirmish: If the fellowship is at a river, exert Goldberry to make a companion strength +1.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr09051

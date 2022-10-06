@@ -1,0 +1,17 @@
+---
+key: 9R9
+name: Ring of Retribution
+title: Ring of Retribution
+set: reflections
+rarity: rare
+card_type: artifact
+subtype: ring
+alignment: free_people
+culture: dwarven
+strength: "+1"
+vitality: "+1"
+twilight: '0'
+unique: true
+game_text: ! |-
+  Bearer must be a Dwarf. Response: If bearer wins a skirmish, discard this artifact to exert each Orc.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr09009

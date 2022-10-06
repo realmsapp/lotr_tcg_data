@@ -1,0 +1,14 @@
+---
+key: 9R24
+name: Ent Draught
+title: Ent Draught
+set: reflections
+rarity: rare
+card_type: condition
+alignment: free_people
+culture: gandalf
+vitality: "+1"
+twilight: '1'
+game_text: ! |-
+  To play, spot an Ent. Bearer must be a companion. Limit 1 per bearer. Skirmish: Exert bearer to make him or her damage +1.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr09024

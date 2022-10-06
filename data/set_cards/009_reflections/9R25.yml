@@ -1,0 +1,16 @@
+---
+key: 9R25
+name: Huorn
+title: Huorn
+set: reflections
+rarity: rare
+card_type: companion
+subtype: tree
+alignment: free_people
+culture: gandalf
+strength: '6'
+vitality: '4'
+twilight: '2'
+game_text: ! |-
+  Damage +1. This companion is strength +1 for each Ent you spot. Response: If this companion is about to take a wound, exert an Ent to prevent that.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr09025

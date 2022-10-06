@@ -1,0 +1,17 @@
+---
+key: 9R20
+name: Nenya, Ring of Adamant
+title: Nenya
+subtitle: Ring of Adamant
+set: reflections
+rarity: rare
+card_type: artifact
+subtype: ring
+alignment: free_people
+culture: elven
+vitality: "+1"
+twilight: '0'
+unique: true
+game_text: ! |-
+  Bearer must be Galadriel. Maneuver: Heal 2 companions and place up to 2 cards from hand on top of your draw deck. Discard this artifact.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr09020

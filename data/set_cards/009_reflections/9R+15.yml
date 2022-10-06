@@ -1,0 +1,18 @@
+---
+key: 9R+15
+name: Gil-galad, Elven High King
+title: Gil-galad
+subtitle: Elven High King
+set: reflections
+rarity: rare_plus
+card_type: companion
+subtype: elf
+alignment: free_people
+culture: elven
+strength: '9'
+vitality: '4'
+twilight: '5'
+unique: true
+game_text: ! |-
+  To play, spot 2 [Elven] companions. Regroup: Exert Gil-Galad to wound each wounded minion.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr09015

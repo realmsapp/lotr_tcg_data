@@ -1,0 +1,19 @@
+---
+key: 9R+4
+name: Gimli, Bearer of Grudges
+title: Gimli
+subtitle: Bearer of Grudges
+set: reflections
+rarity: rare_plus
+card_type: companion
+subtype: dwarf
+alignment: free_people
+culture: dwarven
+strength: '6'
+vitality: '3'
+twilight: '2'
+unique: true
+ring_bearer: true
+game_text: ! |-
+  Damage +1. While Gimli is the Ring-bearer, at the start of each skirmish involving him, add 2 burdens or 2 threats. While Gimli is damage +X, he is resistance +X.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr09004

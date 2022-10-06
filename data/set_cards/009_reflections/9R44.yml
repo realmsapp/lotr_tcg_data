@@ -1,0 +1,16 @@
+---
+key: 9R44
+name: Ring of Rancor
+title: Ring of Rancor
+set: reflections
+rarity: rare
+card_type: artifact
+subtype: ring
+alignment: shadow
+culture: wraith
+vitality: "+1"
+twilight: '0'
+unique: true
+game_text: ! |-
+  Bearer must be a Nazgul. Maneuver: Remove a burden to heal each Nazgul. Response: If a player reconciles, return bearer to his owner's hand.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr09044

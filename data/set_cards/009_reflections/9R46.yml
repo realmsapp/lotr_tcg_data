@@ -1,0 +1,14 @@
+---
+key: 9R46
+name: The Red Arrow
+title: The Red Arrow
+set: reflections
+rarity: rare
+card_type: artifact
+alignment: free_people
+culture: rohan
+twilight: '0'
+unique: true
+game_text: ! |-
+  Assignment: Exert a [Gondor] Man to play a [Rohan] Man. You may exert that [Rohan] Man to play a possession on him or her. Discard this artifact.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr09046

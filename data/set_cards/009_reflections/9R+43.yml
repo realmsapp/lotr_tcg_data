@@ -1,0 +1,16 @@
+---
+key: 9R+43
+name: Ring of Ire
+title: Ring of Ire
+set: reflections
+rarity: rare_plus
+card_type: artifact
+subtype: ring
+alignment: shadow
+culture: wraith
+strength: "+1"
+twilight: '0'
+unique: true
+game_text: ! |-
+  Bearer must be The Witch-king. Skirmish: Exert bearer twice to make a [Wraith] minion damage +1. Response: If a player reconciles, return bearer to his owner's hand.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr09043

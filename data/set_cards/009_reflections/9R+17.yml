@@ -1,0 +1,16 @@
+---
+key: 9R+17
+name: Knife of the Galadhrim
+title: Knife of the Galadhrim
+set: reflections
+rarity: rare_plus
+card_type: possession
+subtype: hand_weapon
+alignment: free_people
+culture: elven
+strength: "+1"
+twilight: '1'
+unique: true
+game_text: ! |-
+  Bearer must be a [Gondor] Man. If bearer is Aragorn, he may bear this hand weapon in addition to 1 other hand weapon. Skirmish: Discard this weapon to wound a minion bearer is skirmishing.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr09017

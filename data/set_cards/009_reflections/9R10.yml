@@ -1,0 +1,18 @@
+---
+key: 9R10
+name: Sindri, Dwarven Lord
+title: Sindri
+subtitle: Dwarven Lord
+set: reflections
+rarity: rare
+card_type: companion
+subtype: dwarf
+alignment: free_people
+culture: dwarven
+strength: '6'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  You may play [Dwarven] skirmish events stacked on [Dwarven] conditions as if from hand.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr09010

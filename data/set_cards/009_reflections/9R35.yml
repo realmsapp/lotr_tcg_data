@@ -1,0 +1,13 @@
+---
+key: 9R35
+name: Sapling of the White Tree
+title: Sapling of the White Tree
+set: reflections
+rarity: rare
+card_type: artifact
+alignment: free_people
+culture: gondor
+twilight: '1'
+game_text: ! |-
+  To play, spot an unbound [Gondor] Man. Response: If a [Gondor] Man is about to take a wound, discard this artifact to prevent that.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr09035

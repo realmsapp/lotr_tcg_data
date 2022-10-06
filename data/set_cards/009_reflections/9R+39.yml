@@ -1,0 +1,14 @@
+---
+key: 9R+39
+name: Library of Orthanc
+title: Library of Orthanc
+set: reflections
+rarity: rare_plus
+card_type: artifact
+alignment: shadow
+culture: isengard
+twilight: '2'
+unique: true
+game_text: ! |-
+  Shadow: Play an [Isengard] minion to stack the top card of your draw deck on this card. Skirmish: Remove(1) and discard a Free Peoples card stacked here to make an [Isengard] minion strength +1. Regroup: Remove (1) to take an [Isengard] card stacked here into hand.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr09039

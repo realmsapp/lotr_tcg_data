@@ -1,0 +1,16 @@
+---
+key: 9R6
+name: Ring of Accretion
+title: Ring of Accretion
+set: reflections
+rarity: rare
+card_type: artifact
+subtype: ring
+alignment: free_people
+culture: dwarven
+strength: "+1"
+twilight: '0'
+unique: true
+game_text: ! |-
+  Bearer must be a Dwarf. Bearer is damage +1. Maneuver: For each Dwarf you spot, reveal a card from the top of your draw deck. Take all Free Peoples cards revealed into hand and discard the rest. Discard this artifact.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr09006

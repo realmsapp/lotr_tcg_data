@@ -1,0 +1,18 @@
+---
+key: 9R11
+name: Uri, Dwarven Lord
+title: Uri
+subtitle: Dwarven Lord
+set: reflections
+rarity: rare
+card_type: companion
+subtype: dwarf
+alignment: free_people
+culture: dwarven
+strength: '5'
+vitality: '4'
+twilight: '2'
+unique: true
+game_text: ! |-
+  Skirmish: If Uri is damage +X, exert him to make him strength +X.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr09011

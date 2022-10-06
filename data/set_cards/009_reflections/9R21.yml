@@ -1,0 +1,16 @@
+---
+key: 9R21
+name: Pippin's Dagger
+title: Pippin's Dagger
+set: reflections
+rarity: rare
+card_type: possession
+subtype: hand_weapon
+alignment: free_people
+culture: elven
+strength: "+2"
+twilight: '1'
+unique: true
+game_text: ! |-
+  Bearer must be Pippin. Skirmish: Exert Pippin twice or discard this possession to wound a minion an Elf is skirmishing. Any Shadow player may remove (1) to prevent this.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr09021

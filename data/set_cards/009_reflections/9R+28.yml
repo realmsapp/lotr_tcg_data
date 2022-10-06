@@ -1,0 +1,18 @@
+---
+key: 9R+28
+name: Gollum, Dark as Darkness
+title: Gollum
+subtitle: Dark as Darkness
+set: reflections
+rarity: rare_plus
+card_type: minion
+alignment: shadow
+culture: gollum_shadow
+strength: '5'
+vitality: '4'
+twilight: '2'
+unique: true
+site_number: '3'
+game_text: ! |-
+  Shadow: Exert Gollum twice to exert the Ring-bearer. Shadow: Remove a burden to add (1). Skirmish: Remove a burden to add (2). Regroup: Remove a burden to add (3). Regroup: Exert Gollum twice to wound the Ring-bearer.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr09028

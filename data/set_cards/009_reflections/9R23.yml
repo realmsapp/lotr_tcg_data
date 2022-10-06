@@ -1,0 +1,17 @@
+---
+key: 9R23
+name: Vilya, Ring of Air
+title: Vilya
+subtitle: Ring of Air
+set: reflections
+rarity: rare
+card_type: artifact
+subtype: ring
+alignment: free_people
+culture: elven
+vitality: "+1"
+twilight: '0'
+unique: true
+game_text: ! |-
+  Bearer must be Elrond or Gil-galad. Skirmish: Discard the top card of your draw deck. Make a minion skirmishing an Elf strength -X, where X is the twilight cost of the discarded card. Discard this artifact.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr09023

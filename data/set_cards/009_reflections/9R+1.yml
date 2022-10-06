@@ -1,0 +1,14 @@
+---
+key: 9R+1
+name: The One Ring, The Binding Ring
+title: The One Ring
+subtitle: The Binding Ring
+set: reflections
+rarity: rare_plus
+card_type: the_one_ring
+strength: "+1"
+vitality: "+1"
+unique: true
+game_text: ! |-
+  Fellowship: Add 2 burdens to play a ring from your draw deck. Maneuver: Exert bearer to wear The One Ring until the regroup phase. While wearing The One Ring, each time the Ring-bearer is about to take a wound, add a burden instead.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr09001

@@ -1,0 +1,20 @@
+---
+key: 9R+30
+name: Smeagol, Bearer of Great Secrets
+title: Smeagol
+subtitle: Bearer of Great Secrets
+set: reflections
+rarity: rare_plus
+card_type: companion
+alignment: free_people
+culture: gollum_free_people
+strength: '3'
+vitality: '4'
+twilight: '0'
+unique: true
+ring_bearer: true
+game_text: ! |-
+  Ring-bound. To play, add a burden. Each time the fellowship moves, place an unbound companion in the dead pile. Regroup: If Smeagol is the Ring-bearer, add 2 burdens to discard each minion.
+notes: You do not add a burden when you start this card as your Ring-bearer. (Your
+  Ring-bearer is placed on the table, not played.)
+wiki_url: https://lotrtcgwiki.com/wiki/lotr09030

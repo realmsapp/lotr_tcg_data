@@ -1,0 +1,14 @@
+---
+key: 9R+47
+name: Ithil Stone
+title: Ithil Stone
+set: reflections
+rarity: rare_plus
+card_type: artifact
+alignment: shadow
+culture: sauron
+twilight: '0'
+unique: true
+game_text: ! |-
+  To play, exert a [Wraith] or [Sauron] minion. At the start of each of your Shadow phases, you may draw a card. Shadow: Discard this artifact to play a [Sauron] minion. Its twilight cost is -3.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr09047

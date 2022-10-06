@@ -1,0 +1,16 @@
+---
+key: 9R42
+name: Ring of Asperity
+title: Ring of Asperity
+set: reflections
+rarity: rare
+card_type: artifact
+subtype: ring
+alignment: shadow
+culture: wraith
+strength: "+1"
+twilight: '0'
+unique: true
+game_text: ! |-
+  Bearer must be a Nazgul. When you play this artifact, you may wound an unwounded companion. Response: If a player reconciles, return bearer to his owner's hand.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr09042

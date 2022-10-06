@@ -1,0 +1,19 @@
+---
+key: 9R+31
+name: Boromir, Bearer of Council
+title: Boromir
+subtitle: Bearer of Council
+set: reflections
+rarity: rare_plus
+card_type: companion
+subtype: man
+alignment: free_people
+culture: gondor
+strength: '7'
+vitality: '3'
+twilight: '3'
+unique: true
+ring_bearer: true
+game_text: ! |-
+  While Boromir is the Ring-bearer, at the start of each skirmish involving him, add 3 burdens or wound him twice. Each time Boromir wins a skirmish, discard each minion he is skirmishing.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr09031

@@ -1,0 +1,19 @@
+---
+key: 9R+49
+name: Bilbo, Bearer of Things Burgled
+title: Bilbo
+subtitle: Bearer of Things Burgled
+set: reflections
+rarity: rare_plus
+card_type: companion
+subtype: hobbit
+alignment: free_people
+culture: shire
+strength: '3'
+vitality: '4'
+twilight: '2'
+unique: true
+ring_bearer: true
+game_text: ! |-
+  Ring-bound. Each time the fellowship moves, if the twilight pool has 2 or fewer twilight tokens, add 2 burdens or add (3). Regroup: Add a burden to play a [Shire] tale.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr09049

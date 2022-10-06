@@ -1,0 +1,14 @@
+---
+key: 9R38
+name: Seeing Stone of Orthanc
+title: Seeing Stone of Orthanc
+set: reflections
+rarity: rare
+card_type: artifact
+alignment: free_people
+culture: gondor
+twilight: '0'
+unique: true
+game_text: ! |-
+  To play, spot a [Gondor] Man with 3 or more vitality (or spot a [Gondor] Man and add 2 threats). Regroup: Add a threat or discard this artifact to remove (2) or to draw a card.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr09038

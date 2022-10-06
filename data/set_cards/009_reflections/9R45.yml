@@ -1,0 +1,15 @@
+---
+key: 9R45
+name: Horn of the Mark
+title: Horn of the Mark
+set: reflections
+rarity: rare
+card_type: possession
+alignment: free_people
+culture: rohan
+strength: "+1"
+twilight: '1'
+unique: true
+game_text: ! |-
+  Bearer must be Merry or Pippin. Bearer gains the Theoden signet. Response: If bearer wins a skirmish, exert him to discard each minion involved in that skirmish.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr09045

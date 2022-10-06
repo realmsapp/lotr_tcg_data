@@ -1,0 +1,19 @@
+---
+key: 9R+2
+name: Freca, Hungry Savage
+title: Freca
+subtitle: Hungry Savage
+set: reflections
+rarity: rare_plus
+card_type: minion
+subtype: man
+alignment: shadow
+culture: dunland
+strength: '9'
+vitality: '1'
+twilight: '4'
+unique: true
+site_number: '3'
+game_text: ! |-
+  When you play Freca, you may spot another [Dunland] Man to take control of a site. When Freca is killed, the Free Peoples player may liberate a site.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr09002

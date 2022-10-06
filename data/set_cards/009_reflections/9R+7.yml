@@ -1,0 +1,16 @@
+---
+key: 9R+7
+name: Ring of Fury
+title: Ring of Fury
+set: reflections
+rarity: rare_plus
+card_type: artifact
+subtype: ring
+alignment: free_people
+culture: dwarven
+strength: "+1"
+twilight: '0'
+unique: true
+game_text: ! |-
+  Bearer must be a Dwarf. Bearer is damage +2. Regroup: Spot a Dwarf that is damage +X to heal X Dwarves. Discard this artifact.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr09007

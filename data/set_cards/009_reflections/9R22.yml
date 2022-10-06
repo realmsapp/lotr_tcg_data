@@ -1,0 +1,14 @@
+---
+key: 9R22
+name: Strands of Elven Hair
+title: Strands of Elven Hair
+set: reflections
+rarity: rare
+card_type: possession
+alignment: free_people
+culture: elven
+twilight: '1'
+unique: true
+game_text: ! |-
+  To play, spot a Dwarf. When you play this possession, add 2 [Elven] tokens here. Fellowship: Discard this possession or remove an [Elven] token from here to reveal the top card of your draw deck. If it is a [Dwarven] or [Elven] card, you may take it into hand.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr09022

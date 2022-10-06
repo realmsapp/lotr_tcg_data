@@ -1,0 +1,19 @@
+---
+key: 9R+14
+name: Galadriel, Bearer of Wisdom
+title: Galadriel
+subtitle: Bearer of Wisdom
+set: reflections
+rarity: rare_plus
+card_type: companion
+subtype: elf
+alignment: free_people
+culture: elven
+strength: '3'
+vitality: '3'
+twilight: '3'
+unique: true
+ring_bearer: true
+game_text: ! |-
+  While Galadriel bears an artifact or The One Ring, she is resistance +1 for each [Elven] companion you can spot.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr09014

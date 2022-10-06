@@ -1,0 +1,17 @@
+---
+key: 9R+34
+name: Narsil, Blade of the Faithful
+title: Narsil
+subtitle: Blade of the Faithful
+set: reflections
+rarity: rare_plus
+card_type: artifact
+subtype: hand_weapon
+alignment: free_people
+culture: gondor
+vitality: "+1"
+twilight: '2'
+unique: true
+game_text: ! |-
+  Bearer must be a [Gondor] Man. If bearer is Elendil or Isildur, he is strength +1 for each [Gondor] artifact you can spot (limit +6). Response: If bearer is about to take a wound, exert 2 [Gondor] Men to prevent that.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr09034

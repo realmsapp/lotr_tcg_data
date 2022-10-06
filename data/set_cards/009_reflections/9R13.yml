@@ -1,0 +1,14 @@
+---
+key: 9R13
+name: Elven Rope
+title: Elven Rope
+set: reflections
+rarity: rare
+card_type: possession
+alignment: free_people
+culture: elven
+twilight: '1'
+unique: true
+game_text: ! |-
+  To play, spot an Elf. Bearer must be an Elf or Hobbit. Maneuver: Discard this possession to make a Shadow player return a minion with strength 6 or less to its owner's hand.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr09013

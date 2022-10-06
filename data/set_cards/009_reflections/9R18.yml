@@ -1,0 +1,16 @@
+---
+key: 9R18
+name: Merry's Dagger
+title: Merry's Dagger
+set: reflections
+rarity: rare
+card_type: possession
+subtype: hand_weapon
+alignment: free_people
+culture: elven
+strength: "+2"
+twilight: '1'
+unique: true
+game_text: ! |-
+  Bearer must be Merry. Skirmish: Exert Merry twice or discard this possession to wound a minion he is skirmishing. Any Shadow player may remove (1) to prevent this.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr09018

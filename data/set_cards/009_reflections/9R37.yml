@@ -1,0 +1,14 @@
+---
+key: 9R37
+name: Seeing Stone of Minas Anor
+title: Seeing Stone of Minas Anor
+set: reflections
+rarity: rare
+card_type: artifact
+alignment: free_people
+culture: gondor
+twilight: '0'
+unique: true
+game_text: ! |-
+  To play, spot a [Gondor] Man with 3 or more vitality (or spot a [Gondor] Man and add 2 threats). Regroup: Exert a [Gondor] Man or discard this artifact to discard your hand and draw 3 cards.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr09037

@@ -1,0 +1,18 @@
+---
+key: 9R5
+name: Linnar, Dwarven Lord
+title: Linnar
+subtitle: Dwarven Lord
+set: reflections
+rarity: rare
+card_type: companion
+subtype: dwarf
+alignment: free_people
+culture: dwarven
+strength: '7'
+vitality: '3'
+twilight: '2'
+unique: true
+game_text: ! |-
+  Each time a Dwarf wins a fierce skirmish, you may heal that Dwarf. Skirmish: Discard a [Dwarven] card from hand to make a Dwarf damage +1.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr09005

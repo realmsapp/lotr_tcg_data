@@ -1,0 +1,18 @@
+---
+key: 9R+32
+name: Elendil, The Tall
+title: Elendil
+subtitle: The Tall
+set: reflections
+rarity: rare_plus
+card_type: companion
+subtype: man
+alignment: free_people
+culture: gondor
+strength: '8'
+vitality: '5'
+twilight: '5'
+unique: true
+game_text: ! |-
+  To play, spot 2 [Gondor] Men. Fellowship: Play an artifact on Elendil to make the move limit +1 for this turn. Regroup: Discard a [Gondor] artifact to liberate a site.
+wiki_url: https://lotrtcgwiki.com/wiki/lotr09032
