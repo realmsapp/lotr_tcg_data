@@ -10,7 +10,7 @@ module LotrTcgData
 
         define_method :lookup do
           @lookup ||= LotrTcgData.load_local(path).map do |data|
-            new(data.transform_keys(&:to_sym))
+            new(**data.transform_keys(&:to_sym))
           end.index_by(&:key).freeze
         end
       end

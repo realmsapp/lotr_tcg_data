@@ -1,8 +1,10 @@
 module LotrTcgData
   class Variant
-    include ValueSemantics.for_attributes {
+    include Strict::Value
+
+    attributes do
       key String
       name String
-    }
+    end
   end
 end

@@ -1,9 +1,11 @@
 module LotrTcgData
   class Subtype
     extend Concerns::WithLocalData.new(path: "subtypes.yml")
-    include ValueSemantics.for_attributes {
+    include Strict::Value
+
+    attributes do
       key String
       name String
-    }
+    end
   end
 end

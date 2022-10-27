@@ -1,9 +1,11 @@
 module LotrTcgData
   class Rarity
     extend Concerns::WithLocalData.new(path: "rarities.yml")
-    include ValueSemantics.for_attributes {
+    include Strict::Value
+
+    attributes do
       key String
       name String
-    }
+    end
   end
 end

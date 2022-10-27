@@ -3,12 +3,13 @@ module LotrTcgData
     class ParseError < StandardError; end
 
     include Concerns::WithRealmsYaml.new(as_text: [:game_text, :flavor_text])
+    include Strict::Value
 
-    include ValueSemantics.for_attributes {
+    attributes do
       key String
       name String
-      title Either(String, nil), default: nil
-      subtitle Either(String, nil), default: nil
+      title AnyOf(String, nil), default: nil
+      subtitle AnyOf(String, nil), default: nil
       set Set
       rarity Rarity
       card_type CardType
@@ -18,21 +19,21 @@ module LotrTcgData
       signet Signet
       variants ArrayOf(Variant), default: []
 
-      strength Either(String, nil), default: nil
-      vitality Either(String, nil), default: nil
-      twilight Either(String, nil), default: nil
-      resistance Either(String, nil), default: nil
-      resistance Either(String, nil), default: nil
-      unique? Bool(), default: false
-      ring_bearer? Bool(), default: false
-      site_number Either(String, nil), default: nil
-      site_home Either(String, nil), default: nil
+      strength AnyOf(String, nil), default: nil
+      vitality AnyOf(String, nil), default: nil
+      twilight AnyOf(String, nil), default: nil
+      resistance AnyOf(String, nil), default: nil
+      resistance AnyOf(String, nil), default: nil
+      unique? Boolean(), default: false
+      ring_bearer? Boolean(), default: false
+      site_number AnyOf(String, nil), default: nil
+      site_home AnyOf(String, nil), default: nil
 
-      game_text Either(String, nil), default: nil
-      flavor_text Either(String, nil), default: nil
-      notes Either(String, nil), default: nil
-      wiki_url Either(String, nil), default: nil
-    }
+      game_text AnyOf(String, nil), default: nil
+      flavor_text AnyOf(String, nil), default: nil
+      notes AnyOf(String, nil), default: nil
+      wiki_url AnyOf(String, nil), default: nil
+    end
 
     def self.load(data)
       SetCard.new(

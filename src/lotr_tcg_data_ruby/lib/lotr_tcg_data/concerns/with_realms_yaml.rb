@@ -3,13 +3,11 @@ module LotrTcgData
     class WithRealmsYaml < Module
       def initialize(omit: [], as_text: [])
         define_method(:to_realms_yaml) do
-          attributes = instance_variables.each_with_object({}) do |ivar, memo|
-            name = ivar.name.slice(1..)
-            value = instance_variable_get(ivar)
+          attributes = to_h.each_with_object({}) do |(key, value), memo|
             if value.respond_to?(:key)
-              memo[name.to_sym] = value.key unless value.key == "none"
+              memo[key] = value.key unless value.key == "none"
             else
-              memo[name.to_sym] = value  unless value.blank?
+              memo[key] = value unless value.blank?
             end
           end
           attributes.slice(*as_text).each do |k,v|

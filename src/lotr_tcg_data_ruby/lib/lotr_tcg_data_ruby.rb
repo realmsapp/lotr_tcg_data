@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require "value_semantics"
+require "strict"
 require "yaml"
 require "active_support"
 require "active_support/core_ext"

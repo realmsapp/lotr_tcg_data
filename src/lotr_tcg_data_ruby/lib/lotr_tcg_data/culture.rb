@@ -1,9 +1,11 @@
 module LotrTcgData
   class Culture
     extend Concerns::WithLocalData.new(path: "cultures.yml")
-    include ValueSemantics.for_attributes {
+    include Strict::Value
+
+    attributes do
       key String
       name String
-    }
+    end
   end
 end
