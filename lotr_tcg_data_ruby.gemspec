@@ -23,8 +23,10 @@ Gem::Specification.new do |spec|
   spec.executables = spec.files.grep(%r{\Aexe/}) { |f| File.basename(f) }
   spec.require_paths = ["src/lotr_tcg_data_ruby/lib"]
 
+  spec.add_dependency "zeitwerk"
   spec.add_dependency "strict"
   spec.add_dependency "activesupport"
   spec.add_dependency "any_ascii"
   spec.add_development_dependency "terminal-table"
+  spec.add_development_dependency "debug"
 end
