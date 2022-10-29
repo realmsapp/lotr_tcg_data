@@ -1,6 +1,7 @@
 module LotrTcgData
   class Set
     extend Concerns::WithLocalData.new(path: "sets.yml")
+    include Concerns::WithRealmsYaml.new
     include Strict::Value
 
     attributes do

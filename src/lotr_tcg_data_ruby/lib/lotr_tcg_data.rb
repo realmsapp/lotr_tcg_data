@@ -22,4 +22,20 @@ module LotrTcgData
   def self.read_local(filename)
     File.read(File.join(root_path, "data/", filename))
   end
+
+  def self.registry
+    @registry ||= [
+      Alignment,
+      CardType,
+      Culture,
+      Format,
+      Keyword,
+      PrintFeature,
+      PrintFinish,
+      Rarity,
+      Set,
+      Signet,
+      Subtype,
+    ].each_with_object({}) { |e, memo| memo[e.name.demodulize.underscore.to_sym] = e }
+  end
 end

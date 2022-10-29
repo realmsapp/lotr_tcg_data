@@ -1,6 +1,7 @@
 module LotrTcgData
   class Culture
     extend Concerns::WithLocalData.new(path: "cultures.yml")
+    include Concerns::WithRealmsYaml.new
     include Strict::Value
 
     attributes do
