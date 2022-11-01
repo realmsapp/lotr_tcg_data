@@ -1,5 +1,7 @@
 ---
-- key: regular
-  name: Regular
+- key: standard
+  name: Standard
+  code: S
 - key: foil
   name: Foil
+  code: F

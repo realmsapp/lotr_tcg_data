@@ -3,6 +3,7 @@ module LotrTcgData
     class ParseError < StandardError; end
 
     include Concerns::WithRealmsYaml.new(as_text: [:game_text, :flavor_text])
+    include Concerns::Slugify
     include Strict::Value
 
     attributes do
@@ -35,6 +36,16 @@ module LotrTcgData
       wiki_url AnyOf(String, nil), default: nil
     end
 
+    def card_key
+      to_slug(name)
+    end
+
+    def self.lookup(set_card_key:)
+      path = Pathname.new(LotrTcgData.root_path).join("data/set_cards").glob("**/#{set_card_key}.yml")
+      data = YAML.load(path.first.read)
+      load(data.symbolize_keys)
+    end
+
     def self.load(data)
       SetCard.new(
         key: data.fetch(:key),
@@ -45,7 +56,7 @@ module LotrTcgData
         culture: Culture.fetch(data.fetch(:culture, "none")),
         rarity: Rarity.fetch(data.fetch(:rarity, "none")),
         signet: Signet.fetch(data.fetch(:signet, "none")),
-        variants: data.fetch(:variant_keys, []).map { |variant_key| Variant.load(variant_key) },
+        variants: data.fetch(:variants, []).map { |variant_key| Variant.load(variant_key) },
 
         name: data.fetch(:name),
         title: data.fetch(:title, nil),

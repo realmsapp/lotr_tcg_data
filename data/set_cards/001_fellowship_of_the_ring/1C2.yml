@@ -6,6 +6,9 @@ subtitle: The Ruling Ring
 set: fellowship_of_the_ring
 rarity: common
 card_type: the_one_ring
+variants:
+- 1C2-S
+- 1C2-F
 strength: "+1"
 unique: true
 game_text: ! |-

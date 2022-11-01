@@ -13,4 +13,10 @@ describe LotrTcgData::SetCard do
     generated_json = set_card.to_realms_json
     expect(generated_json).must_equal(JSON.generate(parsed))
   end
+
+  it "makes an instance" do
+    card = LotrTcgData::SetCard.lookup(set_card_key: "1C2")
+
+    expect(card.card_key).must_equal("the_one_ring_the_ruling_ring")
+  end
 end

@@ -1,7 +1,10 @@
 ---
 - key: none
   name: None
+  code: N
 - key: tengwar
   name: Tengwar
+  code: T
 - key: oversized
   name: Oversized
+  code: M

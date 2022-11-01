@@ -7,9 +7,6 @@ module LotrTcgData
     attributes do
       key String
       name String
-      min Integer
-      max Integer
-      attributes ArrayOf(Keyword), default: []
     end
   end
 end

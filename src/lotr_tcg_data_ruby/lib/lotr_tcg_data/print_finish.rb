@@ -7,6 +7,7 @@ module LotrTcgData
     attributes do
       key String
       name String
+      code String
     end
   end
 end

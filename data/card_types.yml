@@ -1,37 +1,19 @@
 ---
 - key: companion
   name: Companion
-  min: 0
-  max: 4
 - key: ally
   name: Ally
-  min: 0
-  max: 4
 - key: minion
   name: Minion
-  min: 0
-  max: 4
 - key: artifact
   name: Artifact
-  min: 0
-  max: 4
 - key: possession
   name: Possession
-  min: 0
-  max: 4
 - key: condition
   name: Condition
-  min: 0
-  max: 4
 - key: event
   name: Event
-  min: 0
-  max: 4
 - key: site
   name: Site
-  min: 0
-  max: 1
 - key: the_one_ring
   name: The One Ring
-  min: 0
-  max: 1

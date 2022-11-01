@@ -7,6 +7,9 @@ module LotrTcgData
     attributes do
       key String
       name String
+      code String
     end
+
+    def none? = key == "none"
   end
 end
