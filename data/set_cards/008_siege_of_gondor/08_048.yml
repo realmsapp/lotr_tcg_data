@@ -1,5 +1,5 @@
 ---
-key: 8C48
+key: '08_048'
 name: Swept Away
 title: Swept Away
 set: siege_of_gondor
@@ -7,6 +7,9 @@ rarity: common
 card_type: condition
 alignment: free_people
 culture: gondor
+variants:
+- '08_048-S'
+- '08_048-F'
 twilight: '0'
 game_text: ! |-
   Each time the fellowship moves, add a threat or discard this condition. While you have initiative, exhausted [Gondor] Wraiths cannot take wounds.

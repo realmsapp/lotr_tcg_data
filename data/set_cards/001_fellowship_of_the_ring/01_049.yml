@@ -1,5 +1,5 @@
 ---
-key: 1R49
+key: 01_049
 name: The Last Alliance of Elves and Men
 title: The Last Alliance of Elves and Men
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: free_people
 culture: elven
+variants:
+- 01_049-S
+- 01_049-F
 twilight: '1'
 game_text: ! |-
   Tale. Bearer must be a [Gondor] Man. Limit 1 per bearer. Bearer is strength +1 for each Elf you can spot (limit +3).

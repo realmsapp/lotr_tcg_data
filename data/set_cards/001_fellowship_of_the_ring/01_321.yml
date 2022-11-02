@@ -1,10 +1,13 @@
 ---
-key: 1U321
+key: '01_321'
 name: Farmer Maggot's Fields
 title: Farmer Maggot's Fields
 set: fellowship_of_the_ring
 rarity: uncommon
 card_type: site
+variants:
+- 01_321-S
+- 01_321-F
 site_number: '1'
 game_text: ! |-
   Fellowship: Exert a Hobbit to play Merry or Pippin from your draw deck.

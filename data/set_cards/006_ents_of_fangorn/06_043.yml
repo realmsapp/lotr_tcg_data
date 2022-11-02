@@ -1,5 +1,5 @@
 ---
-key: 6C43
+key: '06_043'
 name: Not Listening
 title: Not Listening
 set: ents_of_fangorn
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: gollum_free_people
+variants:
+- 06_043-S
+- 06_043-F
 twilight: '0'
 game_text: ! |-
   Response: If Smeagol wins a skirmish, heal him and remove 2 burdens.

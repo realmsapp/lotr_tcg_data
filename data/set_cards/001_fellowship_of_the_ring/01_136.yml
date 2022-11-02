@@ -1,5 +1,5 @@
 ---
-key: 1U136
+key: '01_136'
 name: Saruman's Power
 title: Saruman's Power
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: shadow
 culture: isengard
+variants:
+- 01_136-S
+- 01_136-F
 twilight: '2'
 game_text: ! |-
   Spell. Shadow: Exert a [Isengard] minion to discard all conditions.

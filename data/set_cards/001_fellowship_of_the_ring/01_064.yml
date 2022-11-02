@@ -1,5 +1,5 @@
 ---
-key: 1U64
+key: '01_064'
 name: Support of the Last Homely House
 title: Support of the Last Homely House
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: elven
+variants:
+- 01_064-S
+- 01_064-F
 twilight: '1'
 game_text: ! |-
   Maneuver: Exert an Elf ally whose home is site 3. Until the regroup phase, that ally is strength +3 and participates in archery fire and skirmishes.

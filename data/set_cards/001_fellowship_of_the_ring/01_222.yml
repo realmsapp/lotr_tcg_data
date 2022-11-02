@@ -1,5 +1,5 @@
 ---
-key: 1U222
+key: '01_222'
 name: Paths Seldom Trodden
 title: Paths Seldom Trodden
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: shadow
 culture: wraith
+variants:
+- 01_222-S
+- 01_222-F
 twilight: '1'
 game_text: ! |-
   Search. To play, spot a Nazgul. Plays to your support area. Shadow: Remove (3) to replace the fellowship's site with your version of the same site.

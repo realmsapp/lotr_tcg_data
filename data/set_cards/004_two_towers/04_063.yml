@@ -1,5 +1,5 @@
 ---
-key: 4U63
+key: '04_063'
 name: Elven Brooch
 title: Elven Brooch
 set: two_towers
@@ -8,6 +8,9 @@ card_type: possession
 subtype: brooch
 alignment: free_people
 culture: elven
+variants:
+- 04_063-S
+- 04_063-F
 twilight: '1'
 game_text: ! |-
   To play, spot an Elf. Bearer must be a companion. Response: If another possession borne by bearer is about to be discarded by a Shadow card, discard this possession instead.

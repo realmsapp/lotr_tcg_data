@@ -1,5 +1,5 @@
 ---
-key: 5R39
+key: 05_039
 name: Stone Tower
 title: Stone Tower
 set: battle_of_helms_deep
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: free_people
 culture: gondor
+variants:
+- 05_039-S
+- 05_039-F
 vitality: "-2"
 twilight: '1'
 unique: true

@@ -1,5 +1,5 @@
 ---
-key: 2C14
+key: '02_014'
 name: Till Durin Wakes Again
 title: Till Durin Wakes Again
 set: mines_of_moria
@@ -7,6 +7,9 @@ rarity: common
 card_type: condition
 alignment: free_people
 culture: dwarven
+variants:
+- 02_014-S
+- 02_014-F
 twilight: '0'
 game_text: ! |-
   Tale. Plays to your support area. Each time a Dwarf companion moves from an underground site, you may heal that Dwarf.

@@ -1,5 +1,5 @@
 ---
-key: 2R112
+key: '02_112'
 name: A Promise
 title: A Promise
 set: mines_of_moria
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: free_people
 culture: shire
+variants:
+- 02_112-S
+- 02_112-F
 twilight: '0'
 game_text: ! |-
   Plays to your support area. While you can spot Frodo and Sam and neither is exhausted, each is strength +1.

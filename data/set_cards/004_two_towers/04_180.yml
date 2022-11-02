@@ -1,5 +1,5 @@
 ---
-key: 4C180
+key: 04_180
 name: Uruk Besieger
 title: Uruk Besieger
 set: two_towers
@@ -8,6 +8,9 @@ card_type: minion
 subtype: uruk-hai
 alignment: shadow
 culture: isengard
+variants:
+- 04_180-S
+- 04_180-F
 strength: '6'
 vitality: '2'
 twilight: '2'

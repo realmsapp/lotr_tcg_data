@@ -1,5 +1,5 @@
 ---
-key: 1C39
+key: 01_039
 name: Elf-song
 title: Elf-song
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: elven
+variants:
+- 01_039-S
+- 01_039-F
 twilight: '1'
 game_text: ! |-
   Fellowship: Spot an Elf to remove a burden.

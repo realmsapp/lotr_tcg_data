@@ -1,5 +1,5 @@
 ---
-key: 8R81
+key: '08_081'
 name: Ulaire Otsea, Thrall of the One
 title: Ulaire Otsea
 subtitle: Thrall of the One
@@ -9,6 +9,9 @@ card_type: minion
 subtype: nazgul
 alignment: shadow
 culture: wraith
+variants:
+- '08_081-S'
+- '08_081-F'
 strength: '9'
 vitality: '3'
 twilight: '4'

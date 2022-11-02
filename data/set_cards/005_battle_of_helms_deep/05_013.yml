@@ -1,5 +1,5 @@
 ---
-key: 5U13
+key: '05_013'
 name: Taurnil, Sharp-eyed Bowman
 title: Taurnil
 subtitle: Sharp-eyed Bowman
@@ -9,6 +9,9 @@ card_type: companion
 subtype: elf
 alignment: free_people
 culture: elven
+variants:
+- 05_013-S
+- 05_013-F
 strength: '6'
 vitality: '3'
 twilight: '2'

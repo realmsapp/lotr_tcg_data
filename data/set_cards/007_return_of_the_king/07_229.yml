@@ -1,5 +1,5 @@
 ---
-key: 7C229
+key: 07_229
 name: Eowyn, Restless Maiden
 title: Eowyn
 subtitle: Restless Maiden
@@ -10,6 +10,9 @@ subtype: man
 alignment: free_people
 culture: rohan
 signet: aragorn
+variants:
+- 07_229-S
+- 07_229-F
 strength: '6'
 vitality: '3'
 twilight: '2'

@@ -1,5 +1,5 @@
 ---
-key: 8R57
+key: '08_057'
 name: Corsair Marauder
 title: Corsair Marauder
 set: siege_of_gondor
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: raider
+variants:
+- '08_057-S'
+- '08_057-F'
 strength: '9'
 vitality: '2'
 twilight: '4'

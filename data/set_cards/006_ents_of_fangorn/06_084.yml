@@ -1,5 +1,5 @@
 ---
-key: 6U84
+key: 06_084
 name: Spied From Above
 title: Spied From Above
 set: ents_of_fangorn
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: shadow
 culture: wraith
+variants:
+- 06_084-S
+- 06_084-F
 twilight: '1'
 game_text: ! |-
   Plays to your support area. Regroup: Exert a Nazgul twice to play a [Wraith] or [Sauron] minion. That minion's twilight cost is -8 and it comes into play exhausted.

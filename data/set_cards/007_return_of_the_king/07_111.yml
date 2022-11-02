@@ -1,5 +1,5 @@
 ---
-key: 7C111
+key: '07_111'
 name: Man the Walls
 title: Man the Walls
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: common
 card_type: condition
 alignment: free_people
 culture: gondor
+variants:
+- 07_111-S
+- 07_111-F
 twilight: '1'
 game_text: ! |-
   The site number of each minion skirmishing a [Gondor] Man is +1.

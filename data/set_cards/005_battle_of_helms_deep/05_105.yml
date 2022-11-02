@@ -1,5 +1,5 @@
 ---
-key: 5U105
+key: '05_105'
 name: Orc Fighter
 title: Orc Fighter
 set: battle_of_helms_deep
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: sauron
+variants:
+- 05_105-S
+- 05_105-F
 strength: '9'
 vitality: '3'
 twilight: '3'

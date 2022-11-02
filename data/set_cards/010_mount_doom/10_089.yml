@@ -1,5 +1,5 @@
 ---
-key: 10R89
+key: '10_089'
 name: Gothmog's Warg
 title: Gothmog's Warg
 set: mount_doom
@@ -8,6 +8,9 @@ card_type: possession
 subtype: mount
 alignment: shadow
 culture: sauron
+variants:
+- 10_089-S
+- 10_089-F
 strength: "+1"
 vitality: "+1"
 twilight: '1'

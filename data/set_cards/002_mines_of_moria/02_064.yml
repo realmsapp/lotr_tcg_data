@@ -1,5 +1,5 @@
 ---
-key: 2C64
+key: '02_064'
 name: Goblin Scrabbler
 title: Goblin Scrabbler
 set: mines_of_moria
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: moria
+variants:
+- 02_064-S
+- 02_064-F
 strength: '4'
 vitality: '1'
 twilight: '1'

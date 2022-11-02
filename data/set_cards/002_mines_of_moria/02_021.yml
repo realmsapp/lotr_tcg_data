@@ -1,5 +1,5 @@
 ---
-key: 2C21
+key: '02_021'
 name: Erland, Advisor to Brand
 title: Erland
 subtitle: Advisor to Brand
@@ -8,6 +8,9 @@ rarity: common
 card_type: ally
 alignment: free_people
 culture: gandalf
+variants:
+- 02_021-S
+- 02_021-F
 strength: '5'
 vitality: '2'
 twilight: '2'

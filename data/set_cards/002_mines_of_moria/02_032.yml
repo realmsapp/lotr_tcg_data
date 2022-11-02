@@ -1,5 +1,5 @@
 ---
-key: 2R32
+key: '02_032'
 name: Flaming Brand
 title: Flaming Brand
 set: mines_of_moria
@@ -8,6 +8,9 @@ card_type: possession
 subtype: hand_weapon
 alignment: free_people
 culture: gondor
+variants:
+- 02_032-S
+- 02_032-F
 strength: "+1"
 twilight: '0'
 game_text: ! |-

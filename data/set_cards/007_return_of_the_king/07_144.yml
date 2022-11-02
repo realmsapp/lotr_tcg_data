@@ -1,5 +1,5 @@
 ---
-key: 7C144
+key: '07_144'
 name: Easterling Ransacker
 title: Easterling Ransacker
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: raider
+variants:
+- 07_144-S
+- 07_144-F
 strength: '9'
 vitality: '2'
 twilight: '4'

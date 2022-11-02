@@ -1,5 +1,5 @@
 ---
-key: 7U128
+key: 07_128
 name: While We Yet Live
 title: While We Yet Live
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: gondor
+variants:
+- 07_128-S
+- 07_128-F
 twilight: '0'
 game_text: ! |-
   Make a roaming minion skirmishing a [Gondor] Man strength -3.

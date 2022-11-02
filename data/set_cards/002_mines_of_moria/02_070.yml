@@ -1,5 +1,5 @@
 ---
-key: 2U70
+key: '02_070'
 name: Power and Terror
 title: Power and Terror
 set: mines_of_moria
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: shadow
 culture: moria
+variants:
+- 02_070-S
+- 02_070-F
 twilight: '0'
 game_text: ! |-
   Shadow: Reveal any number of [Moria] Orcs from your hand to play The Balrog. Its twilight cost is -2 for each Orc revealed.

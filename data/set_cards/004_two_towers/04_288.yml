@@ -1,5 +1,5 @@
 ---
-key: 4C288
+key: 04_288
 name: Rider's Spear
 title: Rider's Spear
 set: two_towers
@@ -8,6 +8,9 @@ card_type: possession
 subtype: hand_weapon
 alignment: free_people
 culture: rohan
+variants:
+- 04_288-S
+- 04_288-F
 strength: "+2"
 twilight: '1'
 game_text: ! |-

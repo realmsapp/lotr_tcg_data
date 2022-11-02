@@ -1,5 +1,5 @@
 ---
-key: 7U77
+key: '07_077'
 name: We Hates Them
 title: We Hates Them
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: free_people
 culture: gollum_free_people
+variants:
+- 07_077-S
+- 07_077-F
 twilight: '2'
 unique: true
 game_text: ! |-

@@ -1,5 +1,5 @@
 ---
-key: 6C12
+key: '06_012'
 name: Agility
 title: Agility
 set: ents_of_fangorn
@@ -7,6 +7,9 @@ rarity: common
 card_type: condition
 alignment: free_people
 culture: elven
+variants:
+- 06_012-S
+- 06_012-F
 twilight: '2'
 unique: true
 game_text: ! |-

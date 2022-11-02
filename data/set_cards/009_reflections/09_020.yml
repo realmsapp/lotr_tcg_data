@@ -1,5 +1,5 @@
 ---
-key: 9R20
+key: '09_020'
 name: Nenya, Ring of Adamant
 title: Nenya
 subtitle: Ring of Adamant
@@ -9,6 +9,8 @@ card_type: artifact
 subtype: ring
 alignment: free_people
 culture: elven
+variants:
+- '09_020-F'
 vitality: "+1"
 twilight: '0'
 unique: true

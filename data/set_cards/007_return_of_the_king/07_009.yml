@@ -1,5 +1,5 @@
 ---
-key: 7R9
+key: 07_009
 name: Gimli's Battle Axe, Trusted Weapon
 title: Gimli's Battle Axe
 subtitle: Trusted Weapon
@@ -9,6 +9,9 @@ card_type: possession
 subtype: hand_weapon
 alignment: free_people
 culture: dwarven
+variants:
+- 07_009-S
+- 07_009-F
 strength: "+2"
 twilight: '2'
 unique: true

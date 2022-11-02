@@ -1,5 +1,5 @@
 ---
-key: 8R70
+key: '08_070'
 name: Black Flail
 title: Black Flail
 set: siege_of_gondor
@@ -8,6 +8,9 @@ card_type: possession
 subtype: hand_weapon
 alignment: shadow
 culture: wraith
+variants:
+- '08_070-S'
+- '08_070-F'
 strength: "+3"
 twilight: '2'
 unique: true

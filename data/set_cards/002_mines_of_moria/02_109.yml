@@ -1,5 +1,5 @@
 ---
-key: 2R109
+key: 02_109
 name: Orc-bane
 title: Orc-bane
 set: mines_of_moria
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: free_people
 culture: shire
+variants:
+- 02_109-S
+- 02_109-F
 twilight: '0'
 game_text: ! |-
   Maneuver: Spot Sting or Glamdring and exert its bearer X times to wound X Orcs or X Uruk-hai.

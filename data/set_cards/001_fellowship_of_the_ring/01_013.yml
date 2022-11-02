@@ -1,5 +1,5 @@
 ---
-key: 1R13
+key: '01_013'
 name: Gimli, Son of Gloin
 title: Gimli
 subtitle: Son of Gloin
@@ -10,6 +10,9 @@ subtype: dwarf
 alignment: free_people
 culture: dwarven
 signet: gandalf
+variants:
+- 01_013-S
+- 01_013-F
 strength: '6'
 vitality: '3'
 twilight: '2'

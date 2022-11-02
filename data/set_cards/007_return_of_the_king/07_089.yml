@@ -1,5 +1,5 @@
 ---
-key: 7C89
+key: 07_089
 name: Duty of Two
 title: Duty of Two
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: gondor
+variants:
+- 07_089-S
+- 07_089-F
 twilight: '1'
 game_text: ! |-
   Add 3 threats to heal all [Gondor] companions.

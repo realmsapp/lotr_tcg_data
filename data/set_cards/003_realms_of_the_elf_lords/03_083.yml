@@ -1,5 +1,5 @@
 ---
-key: 3U83
+key: 03_083
 name: The Ring Draws Them
 title: The Ring Draws Them
 set: realms_of_the_elf_lords
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: shadow
 culture: wraith
+variants:
+- 03_083-S
+- 03_083-F
 twilight: '2'
 unique: true
 game_text: ! |-

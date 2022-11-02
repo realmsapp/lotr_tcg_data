@@ -1,10 +1,13 @@
 ---
-key: 1U343
+key: '01_343'
 name: Balin's Tomb
 title: Balin's Tomb
 set: fellowship_of_the_ring
 rarity: uncommon
 card_type: site
+variants:
+- 01_343-S
+- 01_343-F
 twilight: '3'
 site_number: '4'
 game_text: ! |-

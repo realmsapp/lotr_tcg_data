@@ -1,5 +1,5 @@
 ---
-key: 7U107
+key: '07_107'
 name: Iorlas
 title: Iorlas
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: companion
 subtype: man
 alignment: free_people
 culture: gondor
+variants:
+- 07_107-S
+- 07_107-F
 strength: '6'
 vitality: '3'
 twilight: '2'

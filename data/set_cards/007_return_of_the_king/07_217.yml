@@ -1,5 +1,5 @@
 ---
-key: 7U217
+key: '07_217'
 name: Ulaire Nertea, Black-Mantled Wraith
 title: Ulaire Nertea
 subtitle: Black-Mantled Wraith
@@ -9,6 +9,9 @@ card_type: minion
 subtype: nazgul
 alignment: shadow
 culture: wraith
+variants:
+- 07_217-S
+- 07_217-F
 strength: '9'
 vitality: '2'
 twilight: '4'

@@ -1,5 +1,5 @@
 ---
-key: 4U159
+key: 04_159
 name: Many Riddles
 title: Many Riddles
 set: two_towers
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: shadow
 culture: isengard
+variants:
+- 04_159-S
+- 04_159-F
 strength: "-1"
 twilight: '1'
 game_text: ! |-

@@ -1,5 +1,5 @@
 ---
-key: 8C31
+key: '08_031'
 name: At His Command
 title: At His Command
 set: siege_of_gondor
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: gondor
+variants:
+- '08_031-S'
+- '08_031-F'
 twilight: '1'
 game_text: ! |-
   Exert Aragorn to make an unbound companion with the Aragorn signet strength +1 for each threat you spot.

@@ -1,5 +1,5 @@
 ---
-key: 6R106
+key: '06_106'
 name: Troll of Udun
 title: Troll of Udun
 set: ents_of_fangorn
@@ -8,6 +8,9 @@ card_type: minion
 subtype: troll
 alignment: shadow
 culture: sauron
+variants:
+- 06_106-S
+- 06_106-F
 strength: '14'
 vitality: '5'
 twilight: '10'

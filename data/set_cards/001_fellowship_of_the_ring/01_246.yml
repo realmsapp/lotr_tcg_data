@@ -1,5 +1,5 @@
 ---
-key: 1R246
+key: '01_246'
 name: Enduring Evil
 title: Enduring Evil
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: shadow
 culture: sauron
+variants:
+- 01_246-S
+- 01_246-F
 twilight: '0'
 game_text: ! |-
   Skirmish: Spot X burdens to make a character skirmishing a [Sauron] Orc strength -X.

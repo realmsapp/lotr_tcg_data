@@ -1,5 +1,5 @@
 ---
-key: 6C42
+key: '06_042'
 name: Nasty, Foul Hobbitses
 title: Nasty
 subtitle: Foul Hobbitses
@@ -8,6 +8,9 @@ rarity: common
 card_type: event
 alignment: shadow
 culture: gollum_shadow
+variants:
+- 06_042-S
+- 06_042-F
 twilight: '0'
 game_text: ! |-
   Response: If Gollum wins a skirmish, add a burden.

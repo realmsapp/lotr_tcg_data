@@ -1,5 +1,5 @@
 ---
-key: 5U38
+key: 05_038
 name: Rally Point
 title: Rally Point
 set: battle_of_helms_deep
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: free_people
 culture: gondor
+variants:
+- 05_038-S
+- 05_038-F
 twilight: '1'
 game_text: ! |-
   Plays to your support area. Regroup: Exert a knight to transfer a [Gondor] fortification borne by a minion to your support area.

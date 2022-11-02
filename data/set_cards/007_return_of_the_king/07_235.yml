@@ -1,5 +1,5 @@
 ---
-key: 7C235
+key: '07_235'
 name: Guthlaf, Herald
 title: Guthlaf
 subtitle: Herald
@@ -9,6 +9,9 @@ card_type: companion
 subtype: man
 alignment: free_people
 culture: rohan
+variants:
+- 07_235-S
+- 07_235-F
 strength: '6'
 vitality: '3'
 twilight: '2'

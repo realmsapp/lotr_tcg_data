@@ -1,5 +1,5 @@
 ---
-key: 4C273
+key: '04_273'
 name: Fight for the Villagers
 title: Fight for the Villagers
 set: two_towers
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: rohan
+variants:
+- 04_273-S
+- 04_273-F
 twilight: '1'
 game_text: ! |-
   Skirmish: Make a [Rohan] Man strength +2 (or +3 if you spot a villager).

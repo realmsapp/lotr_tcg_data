@@ -1,5 +1,5 @@
 ---
-key: 10R29
+key: '10_029'
 name: Drawing His Eye
 title: Drawing His Eye
 set: mount_doom
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: free_people
 culture: gondor
+variants:
+- 10_029-S
+- 10_029-F
 twilight: '2'
 game_text: ! |-
   For each [Gondor] companion you spot, reveal 1 card at random from a Shadow player's hand. Choose a revealed Shadow card to be discarded, then its owner draws a card.

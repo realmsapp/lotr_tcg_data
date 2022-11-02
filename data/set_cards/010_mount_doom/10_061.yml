@@ -1,5 +1,5 @@
 ---
-key: 10C61
+key: '10_061'
 name: Houses of Lamentation
 title: Houses of Lamentation
 set: mount_doom
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: shadow
 culture: wraith
+variants:
+- 10_061-S
+- 10_061-F
 twilight: '1'
 game_text: ! |-
   Make a [Wraith] minion strength +2 (or +4 if skirmishing a companion of the same culture as a card in the dead pile).

@@ -1,5 +1,5 @@
 ---
-key: 1C103
+key: '01_103'
 name: Elendil's Valor
 title: Elendil's Valor
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: gondor
+variants:
+- 01_103-S
+- 01_103-F
 twilight: '0'
 game_text: ! |-
   Maneuver: Make a [Gondor] companion defender +1 until the regroup phase.

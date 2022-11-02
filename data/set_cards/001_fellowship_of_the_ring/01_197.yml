@@ -1,5 +1,5 @@
 ---
-key: 1C197
+key: 01_197
 name: Threat of the Unknown
 title: Threat of the Unknown
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: shadow
 culture: moria
+variants:
+- 01_197-S
+- 01_197-F
 twilight: '0'
 game_text: ! |-
   Shadow: Exert your [Moria] Orc to draw 2 cards.

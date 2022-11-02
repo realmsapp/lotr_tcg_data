@@ -1,5 +1,5 @@
 ---
-key: 10C79
+key: '10_079'
 name: Barren Land
 title: Barren Land
 set: mount_doom
@@ -7,6 +7,9 @@ rarity: common
 card_type: condition
 alignment: shadow
 culture: sauron
+variants:
+- 10_079-S
+- 10_079-F
 twilight: '2'
 unique: true
 game_text: ! |-

@@ -1,5 +1,5 @@
 ---
-key: 1R66
+key: '01_066'
 name: The Tale of Gil-galad
 title: The Tale of Gil-galad
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: free_people
 culture: elven
+variants:
+- 01_066-S
+- 01_066-F
 vitality: "+1"
 twilight: '1'
 unique: true

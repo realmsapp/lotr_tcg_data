@@ -1,10 +1,13 @@
 ---
-key: 1U358
+key: 01_358
 name: Pillars of the Kings
 title: Pillars of the Kings
 set: fellowship_of_the_ring
 rarity: uncommon
 card_type: site
+variants:
+- 01_358-S
+- 01_358-F
 twilight: '6'
 site_number: '8'
 game_text: ! |-

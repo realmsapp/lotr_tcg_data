@@ -1,5 +1,5 @@
 ---
-key: 7C96
+key: 07_096
 name: Gondorian Captain
 title: Gondorian Captain
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: companion
 subtype: man
 alignment: free_people
 culture: gondor
+variants:
+- 07_096-S
+- 07_096-F
 strength: '6'
 vitality: '3'
 twilight: '2'

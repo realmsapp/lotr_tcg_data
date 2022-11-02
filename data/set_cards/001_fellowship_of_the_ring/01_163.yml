@@ -1,5 +1,5 @@
 ---
-key: 1R163
+key: '01_163'
 name: Ancient Chieftain
 title: Ancient Chieftain
 set: fellowship_of_the_ring
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: moria
+variants:
+- 01_163-S
+- 01_163-F
 strength: '9'
 vitality: '2'
 twilight: '4'

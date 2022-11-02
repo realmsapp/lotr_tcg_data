@@ -1,5 +1,5 @@
 ---
-key: 2C88
+key: 02_088
 name: Memory of Many Things
 title: Memory of Many Things
 set: mines_of_moria
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: shadow
 culture: sauron
+variants:
+- 02_088-S
+- 02_088-F
 twilight: '2'
 game_text: ! |-
   Maneuver: Exert a [Sauron] Orc to discard an ally (or 2 [Elven] allies).

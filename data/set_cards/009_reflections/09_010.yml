@@ -1,5 +1,5 @@
 ---
-key: 9R10
+key: '09_010'
 name: Sindri, Dwarven Lord
 title: Sindri
 subtitle: Dwarven Lord
@@ -9,6 +9,8 @@ card_type: companion
 subtype: dwarf
 alignment: free_people
 culture: dwarven
+variants:
+- '09_010-F'
 strength: '6'
 vitality: '3'
 twilight: '2'

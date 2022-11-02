@@ -1,5 +1,5 @@
 ---
-key: 6R123
+key: '06_123'
 name: Enraged (AI)
 title: Enraged (AI)
 set: ents_of_fangorn
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: free_people
 culture: gandalf
+variants:
+- 06_123-S
+- 06_123-F
 strength: "+4"
 twilight: '2'
 game_text: ! |-

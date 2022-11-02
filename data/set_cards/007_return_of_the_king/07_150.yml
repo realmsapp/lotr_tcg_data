@@ -1,5 +1,5 @@
 ---
-key: 7C150
+key: '07_150'
 name: Harsh Tongues
 title: Harsh Tongues
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: common
 card_type: condition
 alignment: shadow
 culture: raider
+variants:
+- 07_150-S
+- 07_150-F
 twilight: '1'
 game_text: ! |-
   To play, spot a [Raider] Man. Regroup: Remove (3) and spot a [Raider] Man to place a [Raider] token here. While there are 3 [Raider] tokens here, the Shadow has initiative regardless of the Free Peoples player's hand.

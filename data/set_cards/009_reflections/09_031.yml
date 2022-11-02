@@ -1,5 +1,5 @@
 ---
-key: 9R+31
+key: '09_031'
 name: Boromir, Bearer of Council
 title: Boromir
 subtitle: Bearer of Council
@@ -9,6 +9,8 @@ card_type: companion
 subtype: man
 alignment: free_people
 culture: gondor
+variants:
+- '09_031-F'
 strength: '7'
 vitality: '3'
 twilight: '3'

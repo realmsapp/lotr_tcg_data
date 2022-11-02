@@ -1,5 +1,5 @@
 ---
-key: 1U57
+key: '01_057'
 name: Rumil, Elven Protector
 title: Rumil
 subtitle: Elven Protector
@@ -8,6 +8,9 @@ rarity: uncommon
 card_type: ally
 alignment: free_people
 culture: elven
+variants:
+- 01_057-S
+- 01_057-F
 strength: '3'
 vitality: '3'
 twilight: '2'

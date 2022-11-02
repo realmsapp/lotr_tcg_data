@@ -1,5 +1,5 @@
 ---
-key: 1R40
+key: '01_040'
 name: Elrond, Lord of Rivendell
 title: Elrond
 subtitle: Lord of Rivendell
@@ -8,6 +8,9 @@ rarity: rare
 card_type: ally
 alignment: free_people
 culture: elven
+variants:
+- 01_040-S
+- 01_040-F
 strength: '8'
 vitality: '4'
 twilight: '4'

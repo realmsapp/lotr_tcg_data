@@ -1,5 +1,5 @@
 ---
-key: 1U56
+key: '01_056'
 name: Orophin, Lorien Bowman
 title: Orophin
 subtitle: Lorien Bowman
@@ -8,6 +8,9 @@ rarity: uncommon
 card_type: ally
 alignment: free_people
 culture: elven
+variants:
+- 01_056-S
+- 01_056-F
 strength: '3'
 vitality: '3'
 twilight: '2'

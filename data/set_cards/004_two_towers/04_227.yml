@@ -1,5 +1,5 @@
 ---
-key: 4C227
+key: '04_227'
 name: Easterling Infantry
 title: Easterling Infantry
 set: two_towers
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: raider
+variants:
+- 04_227-S
+- 04_227-F
 strength: '8'
 vitality: '2'
 twilight: '3'

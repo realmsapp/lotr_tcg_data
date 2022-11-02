@@ -1,5 +1,5 @@
 ---
-key: 9R40
+key: '09_040'
 name: Sack of the Shire
 title: Sack of the Shire
 set: reflections
@@ -7,6 +7,8 @@ rarity: rare
 card_type: event
 alignment: shadow
 culture: isengard
+variants:
+- '09_040-F'
 twilight: '1'
 game_text: ! |-
   If an [Isengard] minion wins a skirmish, until the regroup phase, make that minion strength +1 for each site you control and fierce.

@@ -1,5 +1,5 @@
 ---
-key: 8R96
+key: '08_096'
 name: Gorgoroth Berserker
 title: Gorgoroth Berserker
 set: siege_of_gondor
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: sauron
+variants:
+- '08_096-S'
+- '08_096-F'
 strength: '12'
 vitality: '3'
 twilight: '5'

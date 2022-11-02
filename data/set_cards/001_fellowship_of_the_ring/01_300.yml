@@ -1,5 +1,5 @@
 ---
-key: 1C300
+key: '01_300'
 name: Longbottom Leaf
 title: Longbottom Leaf
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: common
 card_type: possession
 alignment: free_people
 culture: shire
+variants:
+- 01_300-S
+- 01_300-F
 twilight: '1'
 game_text: ! |-
   Pipeweed. Plays to your support area. When you play this possession, you may discard up to 2 cards from hand.

@@ -1,5 +1,5 @@
 ---
-key: 4U148
+key: 04_148
 name: Down to the Last Child
 title: Down to the Last Child
 set: two_towers
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: shadow
 culture: isengard
+variants:
+- 04_148-S
+- 04_148-F
 twilight: '2'
 unique: true
 game_text: ! |-

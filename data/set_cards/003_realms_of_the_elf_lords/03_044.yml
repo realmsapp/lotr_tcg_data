@@ -1,5 +1,5 @@
 ---
-key: 3R44
+key: '03_044'
 name: The Shards of Narsil
 title: The Shards of Narsil
 set: realms_of_the_elf_lords
@@ -7,6 +7,9 @@ rarity: rare
 card_type: artifact
 alignment: free_people
 culture: gondor
+variants:
+- 03_044-S
+- 03_044-F
 twilight: '1'
 unique: true
 game_text: ! |-

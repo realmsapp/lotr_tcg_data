@@ -1,5 +1,5 @@
 ---
-key: 1U51
+key: '01_051'
 name: Legolas, Prince of Mirkwood
 title: Legolas
 subtitle: Prince of Mirkwood
@@ -10,6 +10,9 @@ subtype: elf
 alignment: free_people
 culture: elven
 signet: gandalf
+variants:
+- 01_051-S
+- 01_051-F
 strength: '6'
 vitality: '3'
 twilight: '2'

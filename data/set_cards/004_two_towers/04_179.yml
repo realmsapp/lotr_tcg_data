@@ -1,5 +1,5 @@
 ---
-key: 4R179
+key: 04_179
 name: Uruk Assault Band
 title: Uruk Assault Band
 set: two_towers
@@ -8,6 +8,9 @@ card_type: minion
 subtype: uruk-hai
 alignment: shadow
 culture: isengard
+variants:
+- 04_179-S
+- 04_179-F
 strength: '14'
 vitality: '3'
 twilight: '7'

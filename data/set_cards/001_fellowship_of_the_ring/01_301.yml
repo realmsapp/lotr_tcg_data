@@ -1,5 +1,5 @@
 ---
-key: 1U301
+key: '01_301'
 name: Master Proudfoot, Distant Relative of Bilbo
 title: Master Proudfoot
 subtitle: Distant Relative of Bilbo
@@ -8,6 +8,9 @@ rarity: uncommon
 card_type: ally
 alignment: free_people
 culture: shire
+variants:
+- 01_301-S
+- 01_301-F
 strength: '2'
 vitality: '2'
 twilight: '1'

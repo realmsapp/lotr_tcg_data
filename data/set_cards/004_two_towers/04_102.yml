@@ -1,5 +1,5 @@
 ---
-key: 4C102
+key: '04_102'
 name: Task Was Not Done
 title: Task Was Not Done
 set: two_towers
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: gandalf
+variants:
+- 04_102-S
+- 04_102-F
 twilight: '3'
 game_text: ! |-
   Spell. Regroup: Exert Gandalf to discard up to 2 wounded minions.

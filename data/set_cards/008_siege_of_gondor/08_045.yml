@@ -1,5 +1,5 @@
 ---
-key: 8U45
+key: '08_045'
 name: Sleepless Dead
 title: Sleepless Dead
 set: siege_of_gondor
@@ -9,6 +9,9 @@ subtype: wraith
 alignment: free_people
 culture: gondor
 signet: aragorn
+variants:
+- '08_045-S'
+- '08_045-F'
 strength: '7'
 vitality: '3'
 twilight: '3'

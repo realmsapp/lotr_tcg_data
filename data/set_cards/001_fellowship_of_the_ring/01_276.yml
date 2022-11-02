@@ -1,5 +1,5 @@
 ---
-key: 1R276
+key: '01_276'
 name: Seeking Its Master
 title: Seeking Its Master
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: shadow
 culture: sauron
+variants:
+- 01_276-S
+- 01_276-F
 twilight: '1'
 game_text: ! |-
   Plays to your support area. Shadow: Exert a [Sauron] Orc and remove (2) to draw a card.

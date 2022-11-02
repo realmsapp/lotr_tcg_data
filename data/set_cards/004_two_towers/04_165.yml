@@ -1,5 +1,5 @@
 ---
-key: 4C165
+key: '04_165'
 name: Orthanc Warrior
 title: Orthanc Warrior
 set: two_towers
@@ -8,6 +8,9 @@ card_type: minion
 subtype: uruk-hai
 alignment: shadow
 culture: isengard
+variants:
+- 04_165-S
+- 04_165-F
 strength: '7'
 vitality: '2'
 twilight: '2'

@@ -1,5 +1,5 @@
 ---
-key: 9R23
+key: '09_023'
 name: Vilya, Ring of Air
 title: Vilya
 subtitle: Ring of Air
@@ -9,6 +9,8 @@ card_type: artifact
 subtype: ring
 alignment: free_people
 culture: elven
+variants:
+- '09_023-F'
 vitality: "+1"
 twilight: '0'
 unique: true

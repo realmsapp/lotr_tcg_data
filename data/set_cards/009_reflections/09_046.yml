@@ -1,5 +1,5 @@
 ---
-key: 9R46
+key: '09_046'
 name: The Red Arrow
 title: The Red Arrow
 set: reflections
@@ -7,6 +7,8 @@ rarity: rare
 card_type: artifact
 alignment: free_people
 culture: rohan
+variants:
+- '09_046-F'
 twilight: '0'
 unique: true
 game_text: ! |-

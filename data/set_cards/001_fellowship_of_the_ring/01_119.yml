@@ -1,5 +1,5 @@
 ---
-key: 1C119
+key: 01_119
 name: What Are They?
 title: What Are They?
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: gondor
+variants:
+- 01_119-S
+- 01_119-F
 twilight: '1'
 game_text: ! |-
   Maneuver: Spot a ranger to discard a roaming minion.

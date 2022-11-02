@@ -1,5 +1,5 @@
 ---
-key: 1R199
+key: 01_199
 name: Troll's Keyward
 title: Troll's Keyward
 set: fellowship_of_the_ring
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: moria
+variants:
+- 01_199-S
+- 01_199-F
 strength: '8'
 vitality: '3'
 twilight: '3'

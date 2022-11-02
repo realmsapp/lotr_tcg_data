@@ -1,5 +1,5 @@
 ---
-key: 10U97
+key: '10_097'
 name: The Ring is Mine!
 title: The Ring is Mine!
 set: mount_doom
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: shadow
 culture: sauron
+variants:
+- 10_097-S
+- 10_097-F
 twilight: '0'
 game_text: ! |-
   If a burden is added, spot a [Sauron] minion to add an additional burden.

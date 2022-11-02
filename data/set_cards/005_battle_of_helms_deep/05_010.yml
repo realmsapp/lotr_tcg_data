@@ -1,5 +1,5 @@
 ---
-key: 5U10
+key: '05_010'
 name: Balglin, Elven Warrior
 title: Balglin
 subtitle: Elven Warrior
@@ -9,6 +9,9 @@ card_type: companion
 subtype: elf
 alignment: free_people
 culture: elven
+variants:
+- 05_010-S
+- 05_010-F
 strength: '5'
 vitality: '3'
 twilight: '2'

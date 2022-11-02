@@ -1,5 +1,5 @@
 ---
-key: 5U55
+key: '05_055'
 name: Isengard Scout Troop
 title: Isengard Scout Troop
 set: battle_of_helms_deep
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: isengard
+variants:
+- 05_055-S
+- 05_055-F
 strength: '5'
 vitality: '3'
 twilight: '2'

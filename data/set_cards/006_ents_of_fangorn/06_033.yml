@@ -1,5 +1,5 @@
 ---
-key: 6C33
+key: '06_033'
 name: Quickbeam, Bregalad
 title: Quickbeam
 subtitle: Bregalad
@@ -9,6 +9,9 @@ card_type: companion
 subtype: ent
 alignment: free_people
 culture: gandalf
+variants:
+- 06_033-S
+- 06_033-F
 strength: '8'
 vitality: '3'
 twilight: '4'

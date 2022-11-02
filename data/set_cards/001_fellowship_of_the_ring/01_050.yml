@@ -1,5 +1,5 @@
 ---
-key: 1R50
+key: '01_050'
 name: Legolas, Greenleaf
 title: Legolas
 subtitle: Greenleaf
@@ -10,6 +10,9 @@ subtype: elf
 alignment: free_people
 culture: elven
 signet: frodo
+variants:
+- 01_050-S
+- 01_050-F
 strength: '6'
 vitality: '3'
 twilight: '2'

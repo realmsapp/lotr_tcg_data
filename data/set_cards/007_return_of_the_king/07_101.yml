@@ -1,5 +1,5 @@
 ---
-key: 7R101
+key: '07_101'
 name: Guarded
 title: Guarded
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: free_people
 culture: gondor
+variants:
+- 07_101-S
+- 07_101-F
 twilight: '0'
 game_text: ! |-
   To play, spot 3 [Gondor] Men. Each time the fellowship moves, add a threat or discard this condition. Regroup: Discard this condition to discard a minion (or all roaming minions).

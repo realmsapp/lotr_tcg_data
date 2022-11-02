@@ -1,5 +1,5 @@
 ---
-key: 6C95
+key: 06_095
 name: Hrethel, Rider of Rohan
 title: Hrethel
 subtitle: Rider of Rohan
@@ -9,6 +9,9 @@ card_type: companion
 subtype: man
 alignment: free_people
 culture: rohan
+variants:
+- 06_095-S
+- 06_095-F
 strength: '6'
 vitality: '3'
 twilight: '2'

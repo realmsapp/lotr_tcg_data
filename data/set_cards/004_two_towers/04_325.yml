@@ -1,10 +1,13 @@
 ---
-key: 4U325
+key: '04_325'
 name: Eastemnet Gullies
 title: Eastemnet Gullies
 set: two_towers
 rarity: uncommon
 card_type: site
+variants:
+- 04_325-S
+- 04_325-F
 site_number: '1'
 game_text: ! |-
   Fellowship: Exert 2 unbound companions to play Legolas from your draw deck.

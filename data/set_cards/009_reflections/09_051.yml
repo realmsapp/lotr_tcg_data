@@ -1,5 +1,5 @@
 ---
-key: 9R+51
+key: '09_051'
 name: Goldberry, River-daughter
 title: Goldberry
 subtitle: River-daughter
@@ -8,6 +8,8 @@ rarity: rare_plus
 card_type: ally
 alignment: free_people
 culture: shire
+variants:
+- '09_051-F'
 strength: '4'
 vitality: '6'
 twilight: '3'

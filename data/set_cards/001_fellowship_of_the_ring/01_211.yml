@@ -1,5 +1,5 @@
 ---
-key: 1U211
+key: '01_211'
 name: Drawn to Its Power
 title: Drawn to Its Power
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: shadow
 culture: wraith
+variants:
+- 01_211-S
+- 01_211-F
 twilight: '2'
 game_text: ! |-
   Plays to your support area. Each time a companion is killed in a skirmish involving a Nazgul, add a burden.

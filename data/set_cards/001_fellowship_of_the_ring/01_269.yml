@@ -1,5 +1,5 @@
 ---
-key: 1C269
+key: 01_269
 name: Orc Scimitar
 title: Orc Scimitar
 set: fellowship_of_the_ring
@@ -8,6 +8,9 @@ card_type: possession
 subtype: hand_weapon
 alignment: shadow
 culture: sauron
+variants:
+- 01_269-S
+- 01_269-F
 strength: "+2"
 twilight: '1'
 game_text: ! |-

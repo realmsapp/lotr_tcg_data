@@ -1,5 +1,5 @@
 ---
-key: 1R128
+key: 01_128
 name: Lurtz's Battle Cry
 title: Lurtz's Battle Cry
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: shadow
 culture: isengard
+variants:
+- 01_128-S
+- 01_128-F
 twilight: '1'
 game_text: ! |-
   Skirmish: Make an Uruk-hai strength -1 and damage +1.

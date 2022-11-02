@@ -1,5 +1,5 @@
 ---
-key: 10C31
+key: '10_031'
 name: Every Little is a Gain
 title: Every Little is a Gain
 set: mount_doom
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: gondor
+variants:
+- 10_031-S
+- 10_031-F
 twilight: '1'
 game_text: ! |-
   Spot a [Gondor] Man to discard a stacked Shadow card or to wound a minion bearing a fortification.

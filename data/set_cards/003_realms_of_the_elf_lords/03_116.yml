@@ -1,10 +1,13 @@
 ---
-key: 3U116
+key: '03_116'
 name: Eregion Hills
 title: Eregion Hills
 set: realms_of_the_elf_lords
 rarity: uncommon
 card_type: site
+variants:
+- 03_116-S
+- 03_116-F
 twilight: '2'
 site_number: '4'
 game_text: ! |-

@@ -1,5 +1,5 @@
 ---
-key: 5R56
+key: '05_056'
 name: Saruman, Master of Foul Folk
 title: Saruman
 subtitle: Master of Foul Folk
@@ -9,6 +9,9 @@ card_type: minion
 subtype: wizard
 alignment: shadow
 culture: isengard
+variants:
+- 05_056-S
+- 05_056-F
 strength: '8'
 vitality: '4'
 twilight: '4'

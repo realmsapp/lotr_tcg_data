@@ -1,5 +1,5 @@
 ---
-key: 6U24
+key: '06_024'
 name: Boomed and Trumpeted
 title: Boomed and Trumpeted
 set: ents_of_fangorn
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: gandalf
+variants:
+- 06_024-S
+- 06_024-F
 twilight: '0'
 game_text: ! |-
   Skirmish: Make an Ent strength +X and damage +X, where X is the number of unbound Hobbits you can spot.

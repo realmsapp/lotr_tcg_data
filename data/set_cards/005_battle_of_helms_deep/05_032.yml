@@ -1,5 +1,5 @@
 ---
-key: 5C32
+key: '05_032'
 name: Citadel of the Stars
 title: Citadel of the Stars
 set: battle_of_helms_deep
@@ -7,6 +7,9 @@ rarity: common
 card_type: condition
 alignment: free_people
 culture: gondor
+variants:
+- 05_032-S
+- 05_032-F
 strength: "-2"
 vitality: "-1"
 twilight: '1'

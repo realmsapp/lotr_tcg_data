@@ -1,5 +1,5 @@
 ---
-key: 7C40
+key: '07_040'
 name: Have Patience
 title: Have Patience
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: gandalf
+variants:
+- 07_040-S
+- 07_040-F
 twilight: '3'
 game_text: ! |-
   Spot Gandalf to heal an unbound companion twice.

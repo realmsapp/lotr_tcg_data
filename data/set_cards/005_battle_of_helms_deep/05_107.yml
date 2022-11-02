@@ -1,5 +1,5 @@
 ---
-key: 5U107
+key: '05_107'
 name: Orc Patrol
 title: Orc Patrol
 set: battle_of_helms_deep
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: sauron
+variants:
+- 05_107-S
+- 05_107-F
 strength: '11'
 vitality: '3'
 twilight: '4'

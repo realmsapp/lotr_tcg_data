@@ -1,5 +1,5 @@
 ---
-key: 4C5
+key: '04_005'
 name: Burn Every Village
 title: Burn Every Village
 set: two_towers
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: shadow
 culture: dunland
+variants:
+- 04_005-S
+- 04_005-F
 twilight: '0'
 game_text: ! |-
   Skirmish: Make a [Dunland] Man strength +2 (or +4 if you control a site).

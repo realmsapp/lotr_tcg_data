@@ -1,5 +1,5 @@
 ---
-key: 4R94
+key: 04_094
 name: Hearken to Me
 title: Hearken to Me
 set: two_towers
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: free_people
 culture: gandalf
+variants:
+- 04_094-S
+- 04_094-F
 strength: "+2"
 vitality: "+1"
 twilight: '0'

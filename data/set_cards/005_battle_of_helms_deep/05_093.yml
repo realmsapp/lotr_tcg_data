@@ -1,5 +1,5 @@
 ---
-key: 5C93
+key: 05_093
 name: Theoden, King of the Golden Hall
 title: Theoden
 subtitle: King of the Golden Hall
@@ -10,6 +10,9 @@ subtype: man
 alignment: free_people
 culture: rohan
 signet: gandalf
+variants:
+- 05_093-S
+- 05_093-F
 strength: '6'
 vitality: '2'
 twilight: '2'

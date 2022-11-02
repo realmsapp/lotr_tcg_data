@@ -1,5 +1,5 @@
 ---
-key: 7C121
+key: '07_121'
 name: Stout Resistance
 title: Stout Resistance
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: gondor
+variants:
+- 07_121-S
+- 07_121-F
 twilight: '0'
 game_text: ! |-
   Add a threat to make a [Gondor] Man strength +3.

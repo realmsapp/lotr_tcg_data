@@ -1,5 +1,5 @@
 ---
-key: 1U27
+key: '01_027'
 name: Thrarin, Dwarven Smith
 title: Thrarin
 subtitle: Dwarven Smith
@@ -8,6 +8,9 @@ rarity: uncommon
 card_type: ally
 alignment: free_people
 culture: dwarven
+variants:
+- 01_027-S
+- 01_027-F
 strength: '4'
 vitality: '2'
 twilight: '1'

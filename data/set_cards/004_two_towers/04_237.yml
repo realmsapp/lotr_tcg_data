@@ -1,5 +1,5 @@
 ---
-key: 4R237
+key: '04_237'
 name: Ithilien Wilderness
 title: Ithilien Wilderness
 set: two_towers
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: shadow
 culture: raider
+variants:
+- 04_237-S
+- 04_237-F
 twilight: '0'
 unique: true
 game_text: ! |-

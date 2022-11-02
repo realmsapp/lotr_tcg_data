@@ -1,5 +1,5 @@
 ---
-key: 7R177
+key: '07_177'
 name: Feel His Blade
 title: Feel His Blade
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: shadow
 culture: wraith
+variants:
+- 07_177-S
+- 07_177-F
 twilight: '2'
 game_text: ! |-
   Skirmish: Transfer this condition from your support area to a character skirmishing a Nazgul. During the turn this card is transferred, the Shadow has initiative, regardless of the Free Peoples player's hand.

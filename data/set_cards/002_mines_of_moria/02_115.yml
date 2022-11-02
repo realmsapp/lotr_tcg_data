@@ -1,10 +1,13 @@
 ---
-key: 2U115
+key: '02_115'
 name: Hobbiton Party Field
 title: Hobbiton Party Field
 set: mines_of_moria
 rarity: uncommon
 card_type: site
+variants:
+- 02_115-S
+- 02_115-F
 site_number: '1'
 game_text: ! |-
   Fellowship: Exert a Hobbit to play Bilbo from your draw deck.

@@ -1,5 +1,5 @@
 ---
-key: 1C187
+key: 01_187
 name: Host of Thousands
 title: Host of Thousands
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: shadow
 culture: moria
+variants:
+- 01_187-S
+- 01_187-F
 twilight: '0'
 game_text: ! |-
   Shadow: Play a [Moria] Orc from your discard pile.

@@ -1,5 +1,5 @@
 ---
-key: 7C31
+key: '07_031'
 name: All Save One
 title: All Save One
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: gandalf
+variants:
+- 07_031-S
+- 07_031-F
 twilight: '2'
 game_text: ! |-
   Make Gandalf strength +2 (or +4 and damage +1 if you have initiative).

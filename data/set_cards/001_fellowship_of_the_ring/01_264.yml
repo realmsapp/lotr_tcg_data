@@ -1,5 +1,5 @@
 ---
-key: 1R264
+key: '01_264'
 name: Orc Bowmen
 title: Orc Bowmen
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: shadow
 culture: sauron
+variants:
+- 01_264-S
+- 01_264-F
 twilight: '3'
 game_text: ! |-
   Plays to your support area. While you can spot a [Sauron] Orc, add 1 to the minion archery total.

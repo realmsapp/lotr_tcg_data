@@ -1,5 +1,5 @@
 ---
-key: 5U87
+key: 05_087
 name: Parapet
 title: Parapet
 set: battle_of_helms_deep
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: free_people
 culture: rohan
+variants:
+- 05_087-S
+- 05_087-F
 twilight: '1'
 unique: true
 game_text: ! |-

@@ -1,5 +1,5 @@
 ---
-key: 10C103
+key: '10_103'
 name: Window of the Eye
 title: Window of the Eye
 set: mount_doom
@@ -7,6 +7,9 @@ rarity: common
 card_type: condition
 alignment: shadow
 culture: sauron
+variants:
+- 10_103-S
+- 10_103-F
 twilight: '1'
 game_text: ! |-
   To play, spot a [Sauron] minion. Each time the fellowship moves during the regroup phase, you may remove a threat to wound an unbound companion.

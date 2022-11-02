@@ -1,5 +1,5 @@
 ---
-key: 7R284
+key: 07_284
 name: Mordor Assassin
 title: Mordor Assassin
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: sauron
+variants:
+- 07_284-S
+- 07_284-F
 strength: '9'
 vitality: '3'
 twilight: '3'

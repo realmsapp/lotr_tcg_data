@@ -1,5 +1,5 @@
 ---
-key: 8U78
+key: '08_078'
 name: Streaming to the Field
 title: Streaming to the Field
 set: siege_of_gondor
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: shadow
 culture: wraith
+variants:
+- '08_078-S'
+- '08_078-F'
 twilight: '3'
 unique: true
 game_text: ! |-

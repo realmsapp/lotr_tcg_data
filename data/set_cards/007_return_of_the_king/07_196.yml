@@ -1,5 +1,5 @@
 ---
-key: 7C196
+key: 07_196
 name: Morgul Predator
 title: Morgul Predator
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: wraith
+variants:
+- 07_196-S
+- 07_196-F
 strength: '11'
 vitality: '3'
 twilight: '5'

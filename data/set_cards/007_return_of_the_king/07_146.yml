@@ -1,5 +1,5 @@
 ---
-key: 7U146
+key: '07_146'
 name: Easterling Sergeant
 title: Easterling Sergeant
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: raider
+variants:
+- 07_146-S
+- 07_146-F
 strength: '8'
 vitality: '2'
 twilight: '3'

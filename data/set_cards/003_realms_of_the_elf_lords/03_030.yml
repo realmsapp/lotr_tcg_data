@@ -1,5 +1,5 @@
 ---
-key: 3C30
+key: '03_030'
 name: Deep in Thought
 title: Deep in Thought
 set: realms_of_the_elf_lords
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: gandalf
+variants:
+- 03_030-S
+- 03_030-F
 twilight: '4'
 game_text: ! |-
   Spell. Maneuver: Spot Gandalf and 4 twilight tokens to discard all Shadow conditions.

@@ -1,5 +1,5 @@
 ---
-key: 7C287
+key: 07_287
 name: Mordor Guard
 title: Mordor Guard
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: sauron
+variants:
+- 07_287-S
+- 07_287-F
 strength: '9'
 vitality: '3'
 twilight: '3'

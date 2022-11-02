@@ -1,10 +1,13 @@
 ---
-key: 1U340
+key: '01_340'
 name: Rivendell Terrace
 title: Rivendell Terrace
 set: fellowship_of_the_ring
 rarity: uncommon
 card_type: site
+variants:
+- 01_340-S
+- 01_340-F
 twilight: '0'
 site_number: '3'
 game_text: ! |-

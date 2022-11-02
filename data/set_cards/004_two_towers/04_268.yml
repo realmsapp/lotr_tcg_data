@@ -1,5 +1,5 @@
 ---
-key: 4U268
+key: 04_268
 name: Eomer's Spear
 title: Eomer's Spear
 set: two_towers
@@ -8,6 +8,9 @@ card_type: possession
 subtype: hand_weapon
 alignment: free_people
 culture: rohan
+variants:
+- 04_268-S
+- 04_268-F
 strength: "+2"
 twilight: '1'
 unique: true

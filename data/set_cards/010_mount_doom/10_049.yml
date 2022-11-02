@@ -1,5 +1,5 @@
 ---
-key: 10C49
+key: '10_049'
 name: Southron Fanatic
 title: Southron Fanatic
 set: mount_doom
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: raider
+variants:
+- 10_049-S
+- 10_049-F
 strength: '8'
 vitality: '2'
 twilight: '3'

@@ -1,5 +1,5 @@
 ---
-key: 1U280
+key: 01_280
 name: Tower Lieutenant
 title: Tower Lieutenant
 set: fellowship_of_the_ring
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: sauron
+variants:
+- 01_280-S
+- 01_280-F
 strength: '10'
 vitality: '3'
 twilight: '4'

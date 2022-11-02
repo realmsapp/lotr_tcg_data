@@ -1,5 +1,5 @@
 ---
-key: 3R80
+key: 03_080
 name: Such a Little Thing
 title: Such a Little Thing
 set: realms_of_the_elf_lords
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: shadow
 culture: moria
+variants:
+- 03_080-S
+- 03_080-F
 twilight: '0'
 game_text: ! |-
   Maneuver: Spot a [Moria] minion to wound Boromir 3 times. The Free Peoples player may discard 2 Free Peoples possessions to prevent this.

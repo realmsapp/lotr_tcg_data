@@ -1,5 +1,5 @@
 ---
-key: 8P121
+key: '08_121'
 name: Merry, Noble Warrior
 title: Merry
 subtitle: Noble Warrior
@@ -10,6 +10,9 @@ subtype: hobbit
 alignment: free_people
 culture: shire
 signet: frodo
+variants:
+- '08_121-S'
+- '08_121-F'
 strength: '5'
 vitality: '4'
 twilight: '2'

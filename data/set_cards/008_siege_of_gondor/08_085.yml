@@ -1,5 +1,5 @@
 ---
-key: 8U85
+key: '08_085'
 name: Charged Headlong
 title: Charged Headlong
 set: siege_of_gondor
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: rohan
+variants:
+- '08_085-S'
+- '08_085-F'
 twilight: '1'
 game_text: ! |-
   If you have initiative, discard a [Rohan] possession to play a [Rohan] possession from your discard pile.

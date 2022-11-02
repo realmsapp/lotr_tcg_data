@@ -1,5 +1,5 @@
 ---
-key: 1R90
+key: 01_090
 name: Aragorn's Bow
 title: Aragorn's Bow
 set: fellowship_of_the_ring
@@ -8,6 +8,9 @@ card_type: possession
 subtype: ranged_weapon
 alignment: free_people
 culture: gondor
+variants:
+- 01_090-S
+- 01_090-F
 twilight: '1'
 unique: true
 game_text: ! |-

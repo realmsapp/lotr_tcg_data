@@ -1,5 +1,5 @@
 ---
-key: 10C42
+key: '10_042'
 name: Far Harad Mercenaries
 title: Far Harad Mercenaries
 set: mount_doom
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: raider
+variants:
+- 10_042-S
+- 10_042-F
 strength: '11'
 vitality: '3'
 twilight: '5'

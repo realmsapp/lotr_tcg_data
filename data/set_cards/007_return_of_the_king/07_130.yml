@@ -1,5 +1,5 @@
 ---
-key: 7C130
+key: '07_130'
 name: Dark Tidings
 title: Dark Tidings
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: common
 card_type: condition
 alignment: shadow
 culture: raider
+variants:
+- 07_130-S
+- 07_130-F
 twilight: '1'
 game_text: ! |-
   Regroup: Spot 2 [Raider] Men and remove (3) to add a threat (limit 1).

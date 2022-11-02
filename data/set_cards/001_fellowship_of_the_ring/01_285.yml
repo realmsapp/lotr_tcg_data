@@ -1,5 +1,5 @@
 ---
-key: 1U285
+key: 01_285
 name: Bilbo's Pipe
 title: Bilbo's Pipe
 set: fellowship_of_the_ring
@@ -8,6 +8,9 @@ card_type: possession
 subtype: pipe
 alignment: free_people
 culture: shire
+variants:
+- 01_285-S
+- 01_285-F
 twilight: '1'
 unique: true
 game_text: ! |-

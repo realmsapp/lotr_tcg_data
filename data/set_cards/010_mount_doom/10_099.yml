@@ -1,5 +1,5 @@
 ---
-key: 10R99
+key: '10_099'
 name: Shagrat, Captain of Cirith Ungol
 title: Shagrat
 subtitle: Captain of Cirith Ungol
@@ -9,6 +9,9 @@ card_type: minion
 subtype: uruk-hai
 alignment: shadow
 culture: sauron
+variants:
+- 10_099-S
+- 10_099-F
 strength: '13'
 vitality: '3'
 twilight: '5'

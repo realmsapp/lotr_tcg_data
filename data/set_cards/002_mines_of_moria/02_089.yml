@@ -1,5 +1,5 @@
 ---
-key: 2C89
+key: 02_089
 name: Orc Scout
 title: Orc Scout
 set: mines_of_moria
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: sauron
+variants:
+- 02_089-S
+- 02_089-F
 strength: '6'
 vitality: '2'
 twilight: '2'

@@ -1,5 +1,5 @@
 ---
-key: 1R228
+key: 01_228
 name: The Twilight World
 title: The Twilight World
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: shadow
 culture: wraith
+variants:
+- 01_228-S
+- 01_228-F
 twilight: '0'
 game_text: ! |-
   Response: If Ring-bearer puts on The One Ring, exert a Nazgul to add 2 burdens.

@@ -1,5 +1,5 @@
 ---
-key: 8U56
+key: '08_056'
 name: Corsair Lookout
 title: Corsair Lookout
 set: siege_of_gondor
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: raider
+variants:
+- '08_056-S'
+- '08_056-F'
 strength: '5'
 vitality: '1'
 twilight: '1'

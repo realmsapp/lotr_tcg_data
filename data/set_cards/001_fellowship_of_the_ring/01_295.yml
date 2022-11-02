@@ -1,5 +1,5 @@
 ---
-key: 1C295
+key: 01_295
 name: Hobbit Farmer
 title: Hobbit Farmer
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: common
 card_type: ally
 alignment: free_people
 culture: shire
+variants:
+- 01_295-S
+- 01_295-F
 strength: '2'
 vitality: '2'
 twilight: '1'

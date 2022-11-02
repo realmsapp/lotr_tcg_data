@@ -1,5 +1,5 @@
 ---
-key: 2R50
+key: '02_050'
 name: The Balrog's Sword
 title: The Balrog's Sword
 set: mines_of_moria
@@ -8,6 +8,9 @@ card_type: artifact
 subtype: hand_weapon
 alignment: shadow
 culture: moria
+variants:
+- 02_050-S
+- 02_050-F
 strength: "+3"
 twilight: '1'
 unique: true

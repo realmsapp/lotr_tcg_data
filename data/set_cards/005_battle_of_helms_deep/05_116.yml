@@ -1,5 +1,5 @@
 ---
-key: 5R116
+key: '05_116'
 name: Sting, Baggins Heirloom
 title: Sting
 subtitle: Baggins Heirloom
@@ -9,6 +9,9 @@ card_type: possession
 subtype: hand_weapon
 alignment: free_people
 culture: shire
+variants:
+- 05_116-S
+- 05_116-F
 strength: "+2"
 twilight: '1'
 unique: true

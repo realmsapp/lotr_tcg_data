@@ -1,5 +1,5 @@
 ---
-key: 6C52
+key: '06_052'
 name: Garrison of Osgiliath
 title: Garrison of Osgiliath
 set: ents_of_fangorn
@@ -7,6 +7,9 @@ rarity: common
 card_type: condition
 alignment: free_people
 culture: gondor
+variants:
+- 06_052-S
+- 06_052-F
 twilight: '2'
 unique: true
 game_text: ! |-

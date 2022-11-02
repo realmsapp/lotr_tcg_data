@@ -1,5 +1,5 @@
 ---
-key: 4R267
+key: '04_267'
 name: Eomer, Third Marshal of Riddermark
 title: Eomer
 subtitle: Third Marshal of Riddermark
@@ -10,6 +10,9 @@ subtype: man
 alignment: free_people
 culture: rohan
 signet: theoden
+variants:
+- 04_267-S
+- 04_267-F
 strength: '7'
 vitality: '3'
 twilight: '3'

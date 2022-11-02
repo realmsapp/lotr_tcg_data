@@ -1,5 +1,5 @@
 ---
-key: 5C36
+key: '05_036'
 name: Knight of Gondor
 title: Knight of Gondor
 set: battle_of_helms_deep
@@ -8,6 +8,9 @@ card_type: companion
 subtype: man
 alignment: free_people
 culture: gondor
+variants:
+- 05_036-S
+- 05_036-F
 strength: '5'
 vitality: '3'
 twilight: '2'

@@ -1,5 +1,5 @@
 ---
-key: 7C141
+key: '07_141'
 name: Easterling Attacker
 title: Easterling Attacker
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: raider
+variants:
+- 07_141-S
+- 07_141-F
 strength: '6'
 vitality: '2'
 twilight: '2'

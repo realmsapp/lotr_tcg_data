@@ -1,5 +1,5 @@
 ---
-key: 7C117
+key: '07_117'
 name: Reckless Counter
 title: Reckless Counter
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: gondor
+variants:
+- 07_117-S
+- 07_117-F
 twilight: '1'
 game_text: ! |-
   Spot 2 knights or exert 2 [Gondor] Men to liberate a site or discard any number of cards from hand.

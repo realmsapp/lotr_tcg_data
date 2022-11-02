@@ -1,5 +1,5 @@
 ---
-key: 5R50
+key: '05_050'
 name: Foul Horde
 title: Foul Horde
 set: battle_of_helms_deep
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: isengard
+variants:
+- 05_050-S
+- 05_050-F
 strength: '9'
 vitality: '3'
 twilight: '4'

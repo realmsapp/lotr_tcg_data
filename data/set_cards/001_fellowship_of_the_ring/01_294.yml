@@ -1,5 +1,5 @@
 ---
-key: 1C294
+key: 01_294
 name: Hobbit Appetite
 title: Hobbit Appetite
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: shire
+variants:
+- 01_294-S
+- 01_294-F
 twilight: '0'
 game_text: ! |-
   Fellowship: Add (X) to heal a Hobbit companion X times.

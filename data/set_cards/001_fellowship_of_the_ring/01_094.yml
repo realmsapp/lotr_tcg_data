@@ -1,5 +1,5 @@
 ---
-key: 1U94
+key: 01_094
 name: Athelas
 title: Athelas
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: possession
 alignment: free_people
 culture: gondor
+variants:
+- 01_094-S
+- 01_094-F
 twilight: '1'
 game_text: ! |-
   Bearer must be a [Gondor] Man. Fellowship: Discard this possession to heal a companion or to remove a Shadow condition from a companion.

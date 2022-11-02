@@ -1,5 +1,5 @@
 ---
-key: 1R80
+key: 01_080
 name: Ottar, Man of Laketown
 title: Ottar
 subtitle: Man of Laketown
@@ -8,6 +8,9 @@ rarity: rare
 card_type: ally
 alignment: free_people
 culture: gandalf
+variants:
+- 01_080-S
+- 01_080-F
 strength: '2'
 vitality: '2'
 twilight: '1'

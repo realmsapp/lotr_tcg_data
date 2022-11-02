@@ -1,5 +1,5 @@
 ---
-key: 5C17
+key: '05_017'
 name: Forest Guardian
 title: Forest Guardian
 set: battle_of_helms_deep
@@ -8,6 +8,9 @@ card_type: companion
 subtype: ent
 alignment: free_people
 culture: gandalf
+variants:
+- 05_017-S
+- 05_017-F
 strength: '8'
 vitality: '3'
 twilight: '2'

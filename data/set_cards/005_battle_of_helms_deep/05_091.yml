@@ -1,5 +1,5 @@
 ---
-key: 5C91
+key: 05_091
 name: Rohirrim Shield
 title: Rohirrim Shield
 set: battle_of_helms_deep
@@ -8,6 +8,9 @@ card_type: possession
 subtype: shield
 alignment: free_people
 culture: rohan
+variants:
+- 05_091-S
+- 05_091-F
 twilight: '1'
 game_text: ! |-
   Bearer must be a [Rohan] Man. The minion archery total is -1. Regroup: Discard this possession to heal bearer.

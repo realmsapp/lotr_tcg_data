@@ -1,5 +1,5 @@
 ---
-key: 4U57
+key: '04_057'
 name: Stout and Strong
 title: Stout and Strong
 set: two_towers
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: free_people
 culture: dwarven
+variants:
+- 04_057-S
+- 04_057-F
 twilight: '0'
 unique: true
 game_text: ! |-

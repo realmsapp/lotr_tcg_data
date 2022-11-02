@@ -1,5 +1,5 @@
 ---
-key: 10C102
+key: '10_102'
 name: Uruk Axe
 title: Uruk Axe
 set: mount_doom
@@ -8,6 +8,9 @@ card_type: possession
 subtype: hand_weapon
 alignment: shadow
 culture: sauron
+variants:
+- 10_102-S
+- 10_102-F
 strength: "+1"
 twilight: '1'
 game_text: ! |-

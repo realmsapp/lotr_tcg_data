@@ -1,5 +1,5 @@
 ---
-key: 7U245
+key: '07_245'
 name: Riding Armor
 title: Riding Armor
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: possession
 subtype: armor
 alignment: free_people
 culture: rohan
+variants:
+- 07_245-S
+- 07_245-F
 twilight: '1'
 game_text: ! |-
   Bearer must be a [Rohan] Man. Response: If you have initiative and bearer is about to take a wound in a skirmish, discard 3 cards from hand to prevent that wound.

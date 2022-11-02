@@ -1,5 +1,5 @@
 ---
-key: 1R69
+key: 01_069
 name: Albert Dreary, Entertainer From Bree
 title: Albert Dreary
 subtitle: Entertainer From Bree
@@ -8,6 +8,9 @@ rarity: rare
 card_type: ally
 alignment: free_people
 culture: gandalf
+variants:
+- 01_069-S
+- 01_069-F
 strength: '3'
 vitality: '3'
 twilight: '1'

@@ -1,5 +1,5 @@
 ---
-key: 1C43
+key: '01_043'
 name: Far-seeing Eyes
 title: Far-seeing Eyes
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: common
 card_type: condition
 alignment: free_people
 culture: elven
+variants:
+- 01_043-S
+- 01_043-F
 twilight: '2'
 unique: true
 game_text: ! |-

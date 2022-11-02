@@ -1,5 +1,5 @@
 ---
-key: 7C26
+key: '07_026'
 name: Legolas, Nimble Warrior
 title: Legolas
 subtitle: Nimble Warrior
@@ -10,6 +10,9 @@ subtype: elf
 alignment: free_people
 culture: elven
 signet: theoden
+variants:
+- 07_026-S
+- 07_026-F
 strength: '6'
 vitality: '3'
 twilight: '2'

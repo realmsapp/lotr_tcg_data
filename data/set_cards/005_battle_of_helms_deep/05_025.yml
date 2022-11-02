@@ -1,5 +1,5 @@
 ---
-key: 5R25
+key: '05_025'
 name: Gollum, Stinker
 title: Gollum
 subtitle: Stinker
@@ -8,6 +8,9 @@ rarity: rare
 card_type: minion
 alignment: shadow
 culture: gollum_shadow
+variants:
+- 05_025-S
+- 05_025-F
 strength: '5'
 vitality: '4'
 twilight: '2'

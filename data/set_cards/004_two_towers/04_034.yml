@@ -1,5 +1,5 @@
 ---
-key: 4U34
+key: '04_034'
 name: Secret Folk
 title: Secret Folk
 set: two_towers
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: shadow
 culture: dunland
+variants:
+- 04_034-S
+- 04_034-F
 twilight: '2'
 unique: true
 game_text: ! |-

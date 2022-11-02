@@ -1,5 +1,5 @@
 ---
-key: 1C19
+key: 01_019
 name: Here Lies Balin, Son of Fundin
 title: Here Lies Balin
 subtitle: Son of Fundin
@@ -8,6 +8,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: dwarven
+variants:
+- 01_019-S
+- 01_019-F
 twilight: '0'
 game_text: ! |-
   Maneuver: Exert a Dwarf to wound 2 Orcs or to wound 1 Orc twice.

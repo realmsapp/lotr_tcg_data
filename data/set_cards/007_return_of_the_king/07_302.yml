@@ -1,5 +1,5 @@
 ---
-key: 7U302
+key: '07_302'
 name: Orc Officer
 title: Orc Officer
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: sauron
+variants:
+- 07_302-S
+- 07_302-F
 strength: '9'
 vitality: '3'
 twilight: '3'

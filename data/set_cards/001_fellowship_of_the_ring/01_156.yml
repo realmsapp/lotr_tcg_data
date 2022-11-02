@@ -1,5 +1,5 @@
 ---
-key: 1C156
+key: '01_156'
 name: Uruk Warrior
 title: Uruk Warrior
 set: fellowship_of_the_ring
@@ -8,6 +8,9 @@ card_type: minion
 subtype: uruk-hai
 alignment: shadow
 culture: isengard
+variants:
+- 01_156-S
+- 01_156-F
 strength: '9'
 vitality: '2'
 twilight: '3'

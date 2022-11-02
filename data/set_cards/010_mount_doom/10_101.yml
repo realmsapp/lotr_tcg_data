@@ -1,5 +1,5 @@
 ---
-key: 10R101
+key: '10_101'
 name: Troll of Cirith Gorgor
 title: Troll of Cirith Gorgor
 set: mount_doom
@@ -8,6 +8,9 @@ card_type: minion
 subtype: troll
 alignment: shadow
 culture: sauron
+variants:
+- 10_101-S
+- 10_101-F
 strength: '14'
 vitality: '4'
 twilight: '7'

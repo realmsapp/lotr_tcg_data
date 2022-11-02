@@ -1,5 +1,5 @@
 ---
-key: 4R120
+key: '04_120'
 name: Forbidden Pool
 title: Forbidden Pool
 set: two_towers
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: free_people
 culture: gondor
+variants:
+- 04_120-S
+- 04_120-F
 twilight: '0'
 unique: true
 game_text: ! |-

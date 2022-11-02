@@ -1,5 +1,5 @@
 ---
-key: 7R71
+key: '07_071'
 name: Smeagol, Always Helps
 title: Smeagol
 subtitle: Always Helps
@@ -9,6 +9,9 @@ card_type: companion
 alignment: free_people
 culture: gollum_free_people
 signet: frodo
+variants:
+- 07_071-S
+- 07_071-F
 strength: '3'
 vitality: '4'
 twilight: '0'

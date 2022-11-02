@@ -1,5 +1,5 @@
 ---
-key: 4C3
+key: '04_003'
 name: Anger
 title: Anger
 set: two_towers
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: shadow
 culture: dunland
+variants:
+- 04_003-S
+- 04_003-F
 twilight: '0'
 game_text: ! |-
   Skirmish: Spot 3 [Dunland] minions or a site you control to make a [Dunland] Man fierce until the regroup phase.

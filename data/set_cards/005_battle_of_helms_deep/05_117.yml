@@ -1,5 +1,5 @@
 ---
-key: 5C117
+key: '05_117'
 name: You Must Help Us
 title: You Must Help Us
 set: battle_of_helms_deep
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: shire
+variants:
+- 05_117-S
+- 05_117-F
 twilight: '0'
 game_text: ! |-
   Fellowship: Play Smeagol from your discard pile to heal each Ring-bound Hobbit twice.

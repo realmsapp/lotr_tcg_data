@@ -1,5 +1,5 @@
 ---
-key: 4C322
+key: '04_322'
 name: Warmed Up a Bit
 title: Warmed Up a Bit
 set: two_towers
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: shire
+variants:
+- 04_322-S
+- 04_322-F
 twilight: '0'
 game_text: ! |-
   Stealth. Skirmish: Discard an unbound Hobbit.

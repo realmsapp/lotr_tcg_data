@@ -1,5 +1,5 @@
 ---
-key: 2R22
+key: '02_022'
 name: Gandalf's Staff
 title: Gandalf's Staff
 set: mines_of_moria
@@ -8,6 +8,9 @@ card_type: artifact
 subtype: staff
 alignment: free_people
 culture: gandalf
+variants:
+- 02_022-S
+- 02_022-F
 vitality: "+1"
 twilight: '2'
 unique: true

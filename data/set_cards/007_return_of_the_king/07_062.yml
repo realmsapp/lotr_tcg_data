@@ -1,5 +1,5 @@
 ---
-key: 7C62
+key: '07_062'
 name: It's Mine
 title: It's Mine
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: common
 card_type: condition
 alignment: shadow
 culture: gollum_shadow
+variants:
+- 07_062-S
+- 07_062-F
 twilight: '1'
 game_text: ! |-
   Shadow: Remove (1) and exert Gollum to discard the top card of your draw deck. If that card is a [Gollum] or [Wraith] card, take it into hand.

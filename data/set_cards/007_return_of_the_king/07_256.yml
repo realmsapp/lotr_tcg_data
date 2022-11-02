@@ -1,5 +1,5 @@
 ---
-key: 7C256
+key: '07_256'
 name: They Sang as They Slew
 title: They Sang as They Slew
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: rohan
+variants:
+- 07_256-S
+- 07_256-F
 twilight: '1'
 game_text: ! |-
   Exert X mounted companions to wound X minions.

@@ -1,5 +1,5 @@
 ---
-key: 4C18
+key: 04_018
 name: Dunlending Warrior
 title: Dunlending Warrior
 set: two_towers
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: dunland
+variants:
+- 04_018-S
+- 04_018-F
 strength: '9'
 vitality: '1'
 twilight: '3'

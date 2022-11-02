@@ -56,7 +56,6 @@ module LotrTcgData
         culture: Culture.fetch(data.fetch(:culture, "none")),
         rarity: Rarity.fetch(data.fetch(:rarity, "none")),
         signet: Signet.fetch(data.fetch(:signet, "none")),
-        variants: data.fetch(:variants, []).map { |variant_key| Variant.load(variant_key) },
 
         name: data.fetch(:name),
         title: data.fetch(:title, nil),
@@ -72,9 +71,35 @@ module LotrTcgData
         flavor_text: data.fetch(:flavor_text, nil),
         notes: data.fetch(:notes, nil),
         wiki_url: data.fetch(:wiki_url, nil),
+        variants: data.fetch(:variants, []).map { |variant_key| Variant.load(variant_key) },
       )
     rescue => e
       raise ParseError, data
+    end
+
+    def rewrite(&block)
+      File.write(pathname, to_realms_yaml)
+    end
+
+    def update(&block)
+      with_updates = block.call(self)
+      File.write(pathname, with_updates.to_realms_yaml)
+    end
+
+    def move(&block)
+      FileUtils.mv(pathname, block.call(self))
+    end
+
+    def pathname
+      set_dir = "#{set.number.to_s.rjust(3, "0")}_#{set.key}"
+      Pathname.new(LotrTcgData.root_path).join("data/set_cards/#{set_dir}/#{key}.yml")
+    end
+
+    def self.all(&block)
+      Pathname.new(LotrTcgData.root_path).glob("data/set_cards/**/*.yml").each do |file|
+        set_card = lookup(set_card_key: File.basename(file, ".yml"))
+        block.call(set_card)
+      end
     end
   end
 end

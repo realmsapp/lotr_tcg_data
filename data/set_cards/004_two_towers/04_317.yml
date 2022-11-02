@@ -1,5 +1,5 @@
 ---
-key: 4R317
+key: '04_317'
 name: Sam's Pack
 title: Sam's Pack
 set: two_towers
@@ -7,6 +7,9 @@ rarity: rare
 card_type: possession
 alignment: free_people
 culture: shire
+variants:
+- 04_317-S
+- 04_317-F
 twilight: '0'
 unique: true
 game_text: ! |-

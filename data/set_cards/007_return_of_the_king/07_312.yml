@@ -1,5 +1,5 @@
 ---
-key: 7C312
+key: '07_312'
 name: Siegecraft
 title: Siegecraft
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: shadow
 culture: sauron
+variants:
+- 07_312-S
+- 07_312-F
 twilight: '4'
 game_text: ! |-
   If your [Sauron] Orc wins a skirmish, make all your [Sauron] Orc fierce until the regroup phase.

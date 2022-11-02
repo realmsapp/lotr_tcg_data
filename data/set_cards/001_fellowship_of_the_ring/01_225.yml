@@ -1,5 +1,5 @@
 ---
-key: 1U225
+key: '01_225'
 name: Sword of Minas Morgul
 title: Sword of Minas Morgul
 set: fellowship_of_the_ring
@@ -8,6 +8,9 @@ card_type: possession
 subtype: hand_weapon
 alignment: shadow
 culture: wraith
+variants:
+- 01_225-S
+- 01_225-F
 strength: "+2"
 twilight: '2'
 unique: true

@@ -1,5 +1,5 @@
 ---
-key: 7C290
+key: 07_290
 name: Mordor Soldier
 title: Mordor Soldier
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: sauron
+variants:
+- 07_290-S
+- 07_290-F
 strength: '3'
 vitality: '2'
 twilight: '1'

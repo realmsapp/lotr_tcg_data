@@ -1,5 +1,5 @@
 ---
-key: 1R36
+key: '01_036'
 name: Curse Their Foul Feet!
 title: Curse Their Foul Feet!
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: free_people
 culture: elven
+variants:
+- 01_036-S
+- 01_036-F
 twilight: '0'
 game_text: ! |-
   Fellowship: Exert an Elf to reveal an opponent's hand. That player discards a card from hand for each Orc revealed.

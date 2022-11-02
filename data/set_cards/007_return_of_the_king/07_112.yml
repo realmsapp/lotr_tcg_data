@@ -1,5 +1,5 @@
 ---
-key: 7R112
+key: '07_112'
 name: Noble Leaders
 title: Noble Leaders
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: free_people
 culture: gondor
+variants:
+- 07_112-S
+- 07_112-F
 twilight: '1'
 unique: true
 game_text: ! |-

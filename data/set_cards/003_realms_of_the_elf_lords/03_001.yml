@@ -1,5 +1,5 @@
 ---
-key: 3R1
+key: '03_001'
 name: Book of Mazarbul
 title: Book of Mazarbul
 set: realms_of_the_elf_lords
@@ -7,6 +7,9 @@ rarity: rare
 card_type: possession
 alignment: free_people
 culture: dwarven
+variants:
+- 03_001-S
+- 03_001-F
 twilight: '2'
 unique: true
 game_text: ! |-

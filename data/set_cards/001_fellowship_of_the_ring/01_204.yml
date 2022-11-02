@@ -1,5 +1,5 @@
 ---
-key: 1R204
+key: '01_204'
 name: All Veils Removed
 title: All Veils Removed
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: shadow
 culture: wraith
+variants:
+- 01_204-S
+- 01_204-F
 twilight: '1'
 game_text: ! |-
   Skirmish: Make a Nazgul strength +2 (or +5 if the Ring-bearer wears The One Ring).

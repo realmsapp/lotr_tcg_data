@@ -1,5 +1,5 @@
 ---
-key: 5C97
+key: 05_097
 name: Gate Soldier
 title: Gate Soldier
 set: battle_of_helms_deep
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: sauron
+variants:
+- 05_097-S
+- 05_097-F
 strength: '7'
 vitality: '2'
 twilight: '2'

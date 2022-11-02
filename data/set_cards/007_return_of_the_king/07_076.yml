@@ -1,5 +1,5 @@
 ---
-key: 7C76
+key: '07_076'
 name: Very Nice Friends
 title: Very Nice Friends
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: gollum_free_people
+variants:
+- 07_076-S
+- 07_076-F
 twilight: '0'
 game_text: ! |-
   Play Smeagol from your discard pile to play the fellowship's next site (replacing an opponent's site if necessary). If you do not move again this turn, discard your hand.

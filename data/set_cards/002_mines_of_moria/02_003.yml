@@ -1,5 +1,5 @@
 ---
-key: 2U3
+key: '02_003'
 name: Dwarven Bracers
 title: Dwarven Bracers
 set: mines_of_moria
@@ -8,6 +8,9 @@ card_type: possession
 subtype: bracers
 alignment: free_people
 culture: dwarven
+variants:
+- 02_003-S
+- 02_003-F
 strength: "+1"
 twilight: '1'
 game_text: ! |-

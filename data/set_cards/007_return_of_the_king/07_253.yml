@@ -1,5 +1,5 @@
 ---
-key: 7C253
+key: '07_253'
 name: Swift Steed
 title: Swift Steed
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: possession
 subtype: mount
 alignment: free_people
 culture: rohan
+variants:
+- 07_253-S
+- 07_253-F
 twilight: '2'
 game_text: ! |-
   Bearer must be a [Rohan] Man. While at a plains site, bearer takes no more than 1 wound during each skirmish. At the start of each skirmish involving bearer, each minion skirmishing bearer must exert.

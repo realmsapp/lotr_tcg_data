@@ -1,5 +1,5 @@
 ---
-key: 5U57
+key: '05_057'
 name: Scaling Ladder
 title: Scaling Ladder
 set: battle_of_helms_deep
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: shadow
 culture: isengard
+variants:
+- 05_057-S
+- 05_057-F
 twilight: '0'
 game_text: ! |-
   Machine. Plays to your support area. Shadow: Exert an Uruk-hai to place an [Isengard] token on this card. Skirmish: Spot an [Isengard] token here to heal an Uruk-hai. Discard this condition.

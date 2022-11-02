@@ -1,10 +1,13 @@
 ---
-key: 4U323
+key: '04_323'
 name: East Wall of Rohan
 title: East Wall of Rohan
 set: two_towers
 rarity: uncommon
 card_type: site
+variants:
+- 04_323-S
+- 04_323-F
 site_number: '1'
 game_text: ! |-
   When the fellowship moves from East Wall of Rohan, add (2).

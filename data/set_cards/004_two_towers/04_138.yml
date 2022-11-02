@@ -1,5 +1,5 @@
 ---
-key: 4U138
+key: 04_138
 name: Band of Uruk Bowmen
 title: Band of Uruk Bowmen
 set: two_towers
@@ -8,6 +8,9 @@ card_type: minion
 subtype: uruk-hai
 alignment: shadow
 culture: isengard
+variants:
+- 04_138-S
+- 04_138-F
 strength: '7'
 vitality: '3'
 twilight: '5'

@@ -1,5 +1,5 @@
 ---
-key: 2C51
+key: '02_051'
 name: The Balrog, Durin's Bane
 title: The Balrog
 subtitle: Durin's Bane
@@ -9,6 +9,9 @@ card_type: minion
 subtype: balrog
 alignment: shadow
 culture: moria
+variants:
+- 02_051-S
+- 02_051-F
 strength: '17'
 vitality: '5'
 twilight: '12'

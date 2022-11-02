@@ -1,5 +1,5 @@
 ---
-key: 7U174
+key: '07_174'
 name: Called
 title: Called
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: shadow
 culture: wraith
+variants:
+- 07_174-S
+- 07_174-F
 twilight: '1'
 game_text: ! |-
   Assignment: Remove 5 threats to assign a Nazgul to a companion (except the Ring-bearer). The Free Peoples player may discard that companion.

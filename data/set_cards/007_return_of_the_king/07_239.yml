@@ -1,5 +1,5 @@
 ---
-key: 7R239
+key: 07_239
 name: Leowyn
 title: Leowyn
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: rare
 card_type: ally
 alignment: free_people
 culture: rohan
+variants:
+- 07_239-S
+- 07_239-F
 strength: '4'
 vitality: '2'
 twilight: '1'

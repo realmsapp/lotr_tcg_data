@@ -1,5 +1,5 @@
 ---
-key: 4R92
+key: 04_092
 name: Grown Suddenly Tall
 title: Grown Suddenly Tall
 set: two_towers
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: free_people
 culture: gandalf
+variants:
+- 04_092-S
+- 04_092-F
 twilight: '5'
 game_text: ! |-
   Spell. Fellowship: Spot Gandalf to discard all conditions.

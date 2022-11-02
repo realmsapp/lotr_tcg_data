@@ -1,5 +1,5 @@
 ---
-key: 1U97
+key: 01_097
 name: Boromir, Son of Denethor
 title: Boromir
 subtitle: Son of Denethor
@@ -10,6 +10,9 @@ subtype: man
 alignment: free_people
 culture: gondor
 signet: frodo
+variants:
+- 01_097-S
+- 01_097-F
 strength: '7'
 vitality: '3'
 twilight: '3'

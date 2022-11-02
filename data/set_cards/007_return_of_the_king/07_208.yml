@@ -1,5 +1,5 @@
 ---
-key: 7C208
+key: 07_208
 name: There Came a Cry
 title: There Came a Cry
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: shadow
 culture: wraith
+variants:
+- 07_208-S
+- 07_208-F
 twilight: '1'
 game_text: ! |-
   Spot a Nazgul to add a threat (or 3 threats if you have initiative).

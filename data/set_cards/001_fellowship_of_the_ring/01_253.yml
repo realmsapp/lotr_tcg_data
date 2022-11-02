@@ -1,5 +1,5 @@
 ---
-key: 1R253
+key: '01_253'
 name: Journey Into Danger
 title: Journey Into Danger
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: shadow
 culture: sauron
+variants:
+- 01_253-S
+- 01_253-F
 twilight: '0'
 game_text: ! |-
   Search. To play, exert a [Sauron] Orc. Plays to your support area. While you can spot 5 companions, each companion's twilight cost is +2.

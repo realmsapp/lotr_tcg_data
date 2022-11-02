@@ -1,5 +1,5 @@
 ---
-key: 5R95
+key: 05_095
 name: Dead Marshes
 title: Dead Marshes
 set: battle_of_helms_deep
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: shadow
 culture: sauron
+variants:
+- 05_095-S
+- 05_095-F
 twilight: '0'
 unique: true
 game_text: ! |-

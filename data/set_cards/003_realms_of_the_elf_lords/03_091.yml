@@ -1,5 +1,5 @@
 ---
-key: 3R91
+key: 03_091
 name: His Cruelty and Malice
 title: His Cruelty and Malice
 set: realms_of_the_elf_lords
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: shadow
 culture: sauron
+variants:
+- 03_091-S
+- 03_091-F
 twilight: '1'
 game_text: ! |-
   Plays to your support area. Regroup: Exert a [Sauron] minion to make the Free Peoples player discard the top card from his or her draw deck.

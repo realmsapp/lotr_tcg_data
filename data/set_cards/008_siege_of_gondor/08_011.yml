@@ -1,5 +1,5 @@
 ---
-key: 8R11
+key: '08_011'
 name: Life of the Eldar
 title: Life of the Eldar
 set: siege_of_gondor
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: free_people
 culture: elven
+variants:
+- '08_011-S'
+- '08_011-F'
 twilight: '0'
 game_text: ! |-
   To play, spot 2 Elves. Discard an Elf to draw 3 cards.

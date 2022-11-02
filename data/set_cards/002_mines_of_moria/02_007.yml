@@ -1,5 +1,5 @@
 ---
-key: 2R7
+key: '02_007'
 name: Gloin, Friend to Thorin
 title: Gloin
 subtitle: Friend to Thorin
@@ -9,6 +9,9 @@ card_type: companion
 subtype: dwarf
 alignment: free_people
 culture: dwarven
+variants:
+- 02_007-S
+- 02_007-F
 strength: '5'
 vitality: '3'
 twilight: '2'

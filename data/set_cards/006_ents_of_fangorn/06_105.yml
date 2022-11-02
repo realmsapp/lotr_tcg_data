@@ -1,5 +1,5 @@
 ---
-key: 6U105
+key: '06_105'
 name: Peril
 title: Peril
 set: ents_of_fangorn
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: shadow
 culture: sauron
+variants:
+- 06_105-S
+- 06_105-F
 twilight: '1'
 game_text: ! |-
   Plays to your support area. Regroup: Exert a [Sauron] Orc to play a Nazgul or [Sauron] minion. Its twilight cost is -4 and it comes into play exhausted.

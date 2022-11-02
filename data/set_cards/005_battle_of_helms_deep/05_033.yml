@@ -1,5 +1,5 @@
 ---
-key: 5C33
+key: '05_033'
 name: City Wall
 title: City Wall
 set: battle_of_helms_deep
@@ -7,6 +7,9 @@ rarity: common
 card_type: condition
 alignment: free_people
 culture: gondor
+variants:
+- 05_033-S
+- 05_033-F
 strength: "-3"
 twilight: '1'
 game_text: ! |-

@@ -1,5 +1,5 @@
 ---
-key: 7R91
+key: 07_091
 name: Faramir, Wizard's Pupil
 title: Faramir
 subtitle: Wizard's Pupil
@@ -10,6 +10,9 @@ subtype: man
 alignment: free_people
 culture: gondor
 signet: frodo
+variants:
+- 07_091-S
+- 07_091-F
 strength: '7'
 vitality: '3'
 twilight: '3'

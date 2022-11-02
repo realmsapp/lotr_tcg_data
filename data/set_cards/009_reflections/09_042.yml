@@ -1,5 +1,5 @@
 ---
-key: 9R42
+key: '09_042'
 name: Ring of Asperity
 title: Ring of Asperity
 set: reflections
@@ -8,6 +8,8 @@ card_type: artifact
 subtype: ring
 alignment: shadow
 culture: wraith
+variants:
+- '09_042-F'
 strength: "+1"
 twilight: '0'
 unique: true

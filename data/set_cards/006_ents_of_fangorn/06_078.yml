@@ -1,5 +1,5 @@
 ---
-key: 6R78
+key: 06_078
 name: Easterling Army
 title: Easterling Army
 set: ents_of_fangorn
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: raider
+variants:
+- 06_078-S
+- 06_078-F
 strength: '13'
 vitality: '3'
 twilight: '6'

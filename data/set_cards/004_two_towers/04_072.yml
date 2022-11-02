@@ -1,5 +1,5 @@
 ---
-key: 4R72
+key: '04_072'
 name: Killing Field
 title: Killing Field
 set: two_towers
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: free_people
 culture: elven
+variants:
+- 04_072-S
+- 04_072-F
 twilight: '1'
 game_text: ! |-
   To play, spot 3 Elves. Plays to your support area. Each wounded minion is prevented from being fierce. Discard this condition during the regroup phase.

@@ -1,5 +1,5 @@
 ---
-key: 3R3
+key: '03_003'
 name: Mines of Khazad-Dum
 title: Mines of Khazad-Dum
 set: realms_of_the_elf_lords
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: free_people
 culture: dwarven
+variants:
+- 03_003-S
+- 03_003-F
 twilight: '1'
 game_text: ! |-
   Plays to your support area. Each time you play a [Dwarven] tale, you may heal a Dwarf companion.

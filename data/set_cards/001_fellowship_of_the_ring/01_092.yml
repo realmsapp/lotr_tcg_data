@@ -1,5 +1,5 @@
 ---
-key: 1C92
+key: 01_092
 name: Armor
 title: Armor
 set: fellowship_of_the_ring
@@ -8,6 +8,9 @@ card_type: possession
 subtype: armor
 alignment: free_people
 culture: gondor
+variants:
+- 01_092-S
+- 01_092-F
 twilight: '1'
 game_text: ! |-
   Bearer must be a Man. Bearer takes no more than 1 wound during each skirmish phase.

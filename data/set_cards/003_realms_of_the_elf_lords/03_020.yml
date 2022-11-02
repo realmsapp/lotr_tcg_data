@@ -1,5 +1,5 @@
 ---
-key: 3U20
+key: '03_020'
 name: Golradir, Councilor of Imladris
 title: Golradir
 subtitle: Councilor of Imladris
@@ -8,6 +8,9 @@ rarity: uncommon
 card_type: ally
 alignment: free_people
 culture: elven
+variants:
+- 03_020-S
+- 03_020-F
 strength: '4'
 vitality: '3'
 twilight: '2'

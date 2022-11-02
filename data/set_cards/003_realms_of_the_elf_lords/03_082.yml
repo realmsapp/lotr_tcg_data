@@ -1,5 +1,5 @@
 ---
-key: 3U82
+key: 03_082
 name: News of Mordor
 title: News of Mordor
 set: realms_of_the_elf_lords
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: shadow
 culture: wraith
+variants:
+- 03_082-S
+- 03_082-F
 twilight: '1'
 game_text: ! |-
   Skirmish: Spot an [Isengard] minion to make a Nazgul damage +1.

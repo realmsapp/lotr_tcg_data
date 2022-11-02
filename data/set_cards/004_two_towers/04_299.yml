@@ -1,5 +1,5 @@
 ---
-key: 4R299
+key: 04_299
 name: Cliffs of Emyn Muil
 title: Cliffs of Emyn Muil
 set: two_towers
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: free_people
 culture: shire
+variants:
+- 04_299-S
+- 04_299-F
 twilight: '0'
 unique: true
 game_text: ! |-

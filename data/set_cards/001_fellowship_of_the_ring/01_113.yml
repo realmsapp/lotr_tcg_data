@@ -1,5 +1,5 @@
 ---
-key: 1U113
+key: '01_113'
 name: A Ranger's Versatility
 title: A Ranger's Versatility
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: gondor
+variants:
+- 01_113-S
+- 01_113-F
 twilight: '1'
 game_text: ! |-
   Maneuver: Exert a ranger at a river or forest to exhaust a minion.

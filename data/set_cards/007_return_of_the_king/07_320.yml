@@ -1,5 +1,5 @@
 ---
-key: 7C320
+key: '07_320'
 name: Merry, Rohirrim Squire
 title: Merry
 subtitle: Rohirrim Squire
@@ -10,6 +10,9 @@ subtype: hobbit
 alignment: free_people
 culture: shire
 signet: gandalf
+variants:
+- 07_320-S
+- 07_320-F
 strength: '3'
 vitality: '4'
 twilight: '1'

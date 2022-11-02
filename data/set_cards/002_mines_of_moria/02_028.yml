@@ -1,5 +1,5 @@
 ---
-key: 2U28
+key: 02_028
 name: Wielder of the Flame
 title: Wielder of the Flame
 set: mines_of_moria
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: gandalf
+variants:
+- 02_028-S
+- 02_028-F
 twilight: '1'
 game_text: ! |-
   Spell. Maneuver: Spot Gandalf to make a companion defender +1 until the regroup phase. Any Shadow player may remove (3) to prevent this.

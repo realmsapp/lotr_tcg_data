@@ -1,5 +1,5 @@
 ---
-key: 4R149
+key: 04_149
 name: Driven Back
 title: Driven Back
 set: two_towers
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: shadow
 culture: isengard
+variants:
+- 04_149-S
+- 04_149-F
 twilight: '3'
 game_text: ! |-
   Archery: Spot 2 [Isengard] archers to make the minion archery total +1 for each card in the dead pile.

@@ -1,10 +1,13 @@
 ---
-key: 1U335
+key: '01_335'
 name: Weatherhills
 title: Weatherhills
 set: fellowship_of_the_ring
 rarity: uncommon
 card_type: site
+variants:
+- 01_335-S
+- 01_335-F
 twilight: '3'
 site_number: '2'
 game_text: ! |-

@@ -1,10 +1,13 @@
 ---
-key: 4U355
+key: '04_355'
 name: Cavern Entrance
 title: Cavern Entrance
 set: two_towers
 rarity: uncommon
 card_type: site
+variants:
+- 04_355-S
+- 04_355-F
 twilight: '7'
 site_number: '7'
 game_text: ! |-

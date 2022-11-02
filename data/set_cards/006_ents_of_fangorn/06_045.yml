@@ -1,5 +1,5 @@
 ---
-key: 6C45
+key: '06_045'
 name: Smeagol, Poor Creature
 title: Smeagol
 subtitle: Poor Creature
@@ -9,6 +9,9 @@ card_type: companion
 alignment: free_people
 culture: gollum_free_people
 signet: frodo
+variants:
+- 06_045-S
+- 06_045-F
 strength: '3'
 vitality: '4'
 twilight: '0'

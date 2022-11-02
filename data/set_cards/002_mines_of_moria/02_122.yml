@@ -1,5 +1,5 @@
 ---
-key: 2P122
+key: '02_122'
 name: Gandalf, The Grey Pilgrim
 title: Gandalf
 subtitle: The Grey Pilgrim
@@ -10,6 +10,9 @@ subtype: wizard
 alignment: free_people
 culture: gandalf
 signet: aragorn
+variants:
+- 02_122-S
+- 02_122-F
 strength: '7'
 vitality: '4'
 twilight: '4'

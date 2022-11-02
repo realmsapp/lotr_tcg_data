@@ -1,5 +1,5 @@
 ---
-key: 7C99
+key: 07_099
 name: Great Gate
 title: Great Gate
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: gondor
+variants:
+- 07_099-S
+- 07_099-F
 twilight: '1'
 game_text: ! |-
   Make a [Gondor] companion strength +2 and, if you can spot 2 [Gondor] fortifications, exert a minion that companion is skirmishing.

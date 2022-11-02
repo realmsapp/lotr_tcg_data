@@ -1,5 +1,5 @@
 ---
-key: 10R18
+key: '10_018'
 name: Treebeard, Keeper of the Watchwood
 title: Treebeard
 subtitle: Keeper of the Watchwood
@@ -9,6 +9,9 @@ card_type: companion
 subtype: ent
 alignment: free_people
 culture: gandalf
+variants:
+- 10_018-S
+- 10_018-F
 strength: '12'
 vitality: '4'
 twilight: '5'

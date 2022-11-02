@@ -1,5 +1,5 @@
 ---
-key: 4C221
+key: '04_221'
 name: Desert Spearman
 title: Desert Spearman
 set: two_towers
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: raider
+variants:
+- 04_221-S
+- 04_221-F
 strength: '8'
 vitality: '2'
 twilight: '3'

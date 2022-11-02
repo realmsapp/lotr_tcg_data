@@ -1,5 +1,5 @@
 ---
-key: 4R139
+key: 04_139
 name: Banished
 title: Banished
 set: two_towers
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: shadow
 culture: isengard
+variants:
+- 04_139-S
+- 04_139-F
 twilight: '0'
 game_text: ! |-
   To play, exert Saruman or an [Isengard] Man. Plays on a Free Peoples Man. Each time another ally or companion loses a skirmish, bearer must exert.

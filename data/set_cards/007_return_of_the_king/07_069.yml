@@ -1,5 +1,5 @@
 ---
-key: 7R69
+key: 07_069
 name: Secret Paths
 title: Secret Paths
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: free_people
 culture: gollum_free_people
+variants:
+- 07_069-S
+- 07_069-F
 twilight: '2'
 game_text: ! |-
   To play, spot Smeagol and add 2 threats. The move limit for this turn is +1. Discard this condition at the end of the turn.

@@ -1,5 +1,5 @@
 ---
-key: 1C176
+key: '01_176'
 name: Goblin Marksman
 title: Goblin Marksman
 set: fellowship_of_the_ring
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: moria
+variants:
+- 01_176-S
+- 01_176-F
 strength: '7'
 vitality: '1'
 twilight: '3'

@@ -1,5 +1,5 @@
 ---
-key: 10U22
+key: '10_022'
 name: Reclaim the Precious
 title: Reclaim the Precious
 set: mount_doom
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: shadow
 culture: gollum_shadow
+variants:
+- 10_022-S
+- 10_022-F
 twilight: '1'
 game_text: ! |-
   Assignment: Assign Gollum to a companion bearing an artifact. The Free Peoples player may add a burden to prevent this and assign Gollum. Regroup: Exert Gollum twice to discard a possession. Discard this condition.

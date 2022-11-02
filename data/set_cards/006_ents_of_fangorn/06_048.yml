@@ -1,5 +1,5 @@
 ---
-key: 6C48
+key: 06_048
 name: Anborn, Skilled Huntsman
 title: Anborn
 subtitle: Skilled Huntsman
@@ -9,6 +9,9 @@ card_type: companion
 subtype: man
 alignment: free_people
 culture: gondor
+variants:
+- 06_048-S
+- 06_048-F
 strength: '6'
 vitality: '3'
 twilight: '2'

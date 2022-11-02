@@ -1,5 +1,5 @@
 ---
-key: 4R39
+key: 04_039
 name: Wild Man Raid
 title: Wild Man Raid
 set: two_towers
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: shadow
 culture: dunland
+variants:
+- 04_039-S
+- 04_039-F
 twilight: '1'
 game_text: ! |-
   Maneuver: Spot 3 [Dunland] Men to discard a Free Peoples possession or condition.

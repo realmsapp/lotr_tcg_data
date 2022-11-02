@@ -1,5 +1,5 @@
 ---
-key: 1C59
+key: 01_059
 name: Shoulder to Shoulder
 title: Shoulder to Shoulder
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: common
 card_type: condition
 alignment: free_people
 culture: elven
+variants:
+- 01_059-S
+- 01_059-F
 twilight: '1'
 game_text: ! |-
   Plays to your support area. Maneuver: Add (1) and exert a Dwarf to heal an Elf, or add (1) and exert an Elf to heal a Dwarf.

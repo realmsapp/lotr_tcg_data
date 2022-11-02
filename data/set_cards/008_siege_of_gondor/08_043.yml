@@ -1,5 +1,5 @@
 ---
-key: 8R43
+key: '08_043'
 name: Shadow Host
 title: Shadow Host
 set: siege_of_gondor
@@ -9,6 +9,9 @@ subtype: wraith
 alignment: free_people
 culture: gondor
 signet: aragorn
+variants:
+- '08_043-S'
+- '08_043-F'
 strength: '9'
 vitality: '3'
 twilight: '5'

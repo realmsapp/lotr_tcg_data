@@ -1,5 +1,5 @@
 ---
-key: 2U81
+key: 02_081
 name: They Will Find the Ring
 title: They Will Find the Ring
 set: mines_of_moria
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: shadow
 culture: wraith
+variants:
+- 02_081-S
+- 02_081-F
 twilight: '1'
 game_text: ! |-
   Maneuver: Exert 2 Nazgul and spot X burdens to exert X companions.

@@ -1,5 +1,5 @@
 ---
-key: 5U9
+key: 05_009
 name: More to My Liking
 title: More to My Liking
 set: battle_of_helms_deep
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: free_people
 culture: dwarven
+variants:
+- 05_009-S
+- 05_009-F
 twilight: '2'
 unique: true
 game_text: ! |-

@@ -1,5 +1,5 @@
 ---
-key: 9R+2
+key: '09_002'
 name: Freca, Hungry Savage
 title: Freca
 subtitle: Hungry Savage
@@ -9,6 +9,8 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: dunland
+variants:
+- '09_002-F'
 strength: '9'
 vitality: '1'
 twilight: '4'

@@ -1,5 +1,5 @@
 ---
-key: 1C168
+key: 01_168
 name: Drums in the Deep
 title: Drums in the Deep
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: shadow
 culture: moria
+variants:
+- 01_168-S
+- 01_168-F
 twilight: '0'
 game_text: ! |-
   Skirmish: Make a [Moria] Orc strength +2 (or +4 if skirmishing a Dwarf).

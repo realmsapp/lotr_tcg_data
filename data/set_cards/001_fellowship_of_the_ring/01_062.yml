@@ -1,5 +1,5 @@
 ---
-key: 1R62
+key: '01_062'
 name: The Splendor of Their Banners
 title: The Splendor of Their Banners
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: free_people
 culture: elven
+variants:
+- 01_062-S
+- 01_062-F
 twilight: '1'
 unique: true
 game_text: ! |-

@@ -1,5 +1,5 @@
 ---
-key: 2R43
+key: '02_043'
 name: Lurtz's Sword
 title: Lurtz's Sword
 set: mines_of_moria
@@ -8,6 +8,9 @@ card_type: possession
 subtype: hand_weapon
 alignment: shadow
 culture: isengard
+variants:
+- 02_043-S
+- 02_043-F
 strength: "+2"
 twilight: '1'
 unique: true

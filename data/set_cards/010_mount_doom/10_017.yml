@@ -1,5 +1,5 @@
 ---
-key: 10R17
+key: '10_017'
 name: Out of the High Airs
 title: Out of the High Airs
 set: mount_doom
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: free_people
 culture: gandalf
+variants:
+- 10_017-S
+- 10_017-F
 twilight: '3'
 game_text: ! |-
   If the fellowship moves during the regroup phase, exert your Wizard to discard each minion.

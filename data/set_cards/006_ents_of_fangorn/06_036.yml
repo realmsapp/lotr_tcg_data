@@ -1,5 +1,5 @@
 ---
-key: 6U36
+key: '06_036'
 name: Threw Down My Enemy
 title: Threw Down My Enemy
 set: ents_of_fangorn
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: gandalf
+variants:
+- 06_036-S
+- 06_036-F
 twilight: '1'
 game_text: ! |-
   Spell. Skirmish: Make a minion skirmishing Gandalf strength -1 for each wound on each character in the skirmish.

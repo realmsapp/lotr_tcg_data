@@ -1,5 +1,5 @@
 ---
-key: 7U35
+key: '07_035'
 name: Fool's Hope
 title: Fool's Hope
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: gandalf
+variants:
+- 07_035-S
+- 07_035-F
 twilight: '3'
 game_text: ! |-
   Spot Gandalf and discard 2 cards from hand to make an opponent discard all but 2 Shadow conditions.

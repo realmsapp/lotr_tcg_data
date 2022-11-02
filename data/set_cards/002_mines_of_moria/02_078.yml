@@ -1,5 +1,5 @@
 ---
-key: 2U78
+key: 02_078
 name: It Wants to be Found
 title: It Wants to be Found
 set: mines_of_moria
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: shadow
 culture: wraith
+variants:
+- 02_078-S
+- 02_078-F
 twilight: '2'
 game_text: ! |-
   Maneuver: Spot a twilight Nazgul to add a burden.

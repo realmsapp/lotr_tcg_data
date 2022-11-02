@@ -1,5 +1,5 @@
 ---
-key: 7R70
+key: '07_070'
 name: Serving the Precious
 title: Serving the Precious
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: free_people
 culture: gollum_free_people
+variants:
+- 07_070-S
+- 07_070-F
 twilight: '3'
 game_text: ! |-
   Discard Smeagol to play a companion from your discard pile.

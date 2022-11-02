@@ -1,5 +1,5 @@
 ---
-key: 5C98
+key: 05_098
 name: Gate Trooper
 title: Gate Trooper
 set: battle_of_helms_deep
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: sauron
+variants:
+- 05_098-S
+- 05_098-F
 strength: '5'
 vitality: '2'
 twilight: '1'

@@ -1,5 +1,5 @@
 ---
-key: 2U31
+key: '02_031'
 name: Blood of Numenor
 title: Blood of Numenor
 set: mines_of_moria
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: free_people
 culture: gondor
+variants:
+- 02_031-S
+- 02_031-F
 twilight: '2'
 game_text: ! |-
   To play, exert a [Gondor] companion. Plays to your support area. Each [Sauron] Orc comes into play exhausted. Skip the archery phase. Discard this condition during the regroup phase.

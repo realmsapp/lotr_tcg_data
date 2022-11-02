@@ -1,5 +1,5 @@
 ---
-key: 8C106
+key: '08_106'
 name: Siege Troop
 title: Siege Troop
 set: siege_of_gondor
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: sauron
+variants:
+- '08_106-S'
+- '08_106-F'
 strength: '20'
 vitality: '4'
 twilight: '8'

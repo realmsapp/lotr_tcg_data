@@ -1,5 +1,5 @@
 ---
-key: 7U212
+key: '07_212'
 name: Ulaire Enquea, Faster Than Winds
 title: Ulaire Enquea
 subtitle: Faster Than Winds
@@ -9,6 +9,9 @@ card_type: minion
 subtype: nazgul
 alignment: shadow
 culture: wraith
+variants:
+- 07_212-S
+- 07_212-F
 strength: '11'
 vitality: '4'
 twilight: '6'

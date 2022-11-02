@@ -1,5 +1,5 @@
 ---
-key: 7U238
+key: 07_238
 name: Knights of His House
 title: Knights of His House
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: rohan
+variants:
+- 07_238-S
+- 07_238-F
 twilight: '0'
 game_text: ! |-
   Choose an opponent. For each mounted companion you spot, that opponent must remove (1) or place a random card from hand beneath his or her draw deck.

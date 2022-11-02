@@ -1,10 +1,13 @@
 ---
-key: 7U351
+key: '07_351'
 name: Minas Tirith Sixth Circle
 title: Minas Tirith Sixth Circle
 set: return_of_the_king
 rarity: uncommon
 card_type: site
+variants:
+- 07_351-S
+- 07_351-F
 twilight: '3'
 site_number: '6'
 game_text: ! |-

@@ -1,5 +1,5 @@
 ---
-key: 7U3
+key: '07_003'
 name: Battle Tested
 title: Battle Tested
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: dwarven
+variants:
+- 07_003-S
+- 07_003-F
 twilight: '0'
 game_text: ! |-
   Make a Dwarf strength +2 (+4 if you spot a card stacked on a [Dwarven] condition).

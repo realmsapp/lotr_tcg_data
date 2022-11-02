@@ -1,5 +1,5 @@
 ---
-key: 7U64
+key: '07_064'
 name: Nasty
 title: Nasty
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: gollum_free_people
+variants:
+- 07_064-S
+- 07_064-F
 twilight: '1'
 game_text: ! |-
   Make Smeagol strength +1 for each [Gollum] card you spot.

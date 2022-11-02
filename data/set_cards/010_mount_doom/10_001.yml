@@ -1,5 +1,5 @@
 ---
-key: 10R1
+key: '10_001'
 name: Great Day, Great Hour
 title: Great Day
 subtitle: Great Hour
@@ -8,6 +8,9 @@ rarity: rare
 card_type: event
 alignment: free_people
 culture: dwarven
+variants:
+- 10_001-S
+- 10_001-F
 twilight: '3'
 game_text: ! |-
   If an opponent plays a minion, exert a Dwarf who is damage +X to exert that minion X times.

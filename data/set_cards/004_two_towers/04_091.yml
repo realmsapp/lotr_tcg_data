@@ -1,5 +1,5 @@
 ---
-key: 4R91
+key: 04_091
 name: Gandalf's Staff, Walking Stick
 title: Gandalf's Staff
 subtitle: Walking Stick
@@ -9,6 +9,9 @@ card_type: artifact
 subtype: staff
 alignment: free_people
 culture: gandalf
+variants:
+- 04_091-S
+- 04_091-F
 vitality: "+1"
 twilight: '2'
 unique: true

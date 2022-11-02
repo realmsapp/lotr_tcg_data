@@ -1,10 +1,13 @@
 ---
-key: 1U333
+key: '01_333'
 name: Midgewater Moors
 title: Midgewater Moors
 set: fellowship_of_the_ring
 rarity: uncommon
 card_type: site
+variants:
+- 01_333-S
+- 01_333-F
 twilight: '1'
 site_number: '2'
 game_text: ! |-

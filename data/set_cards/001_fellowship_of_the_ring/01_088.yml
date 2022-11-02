@@ -1,5 +1,5 @@
 ---
-key: 1R88
+key: 01_088
 name: An Able Guide
 title: An Able Guide
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: free_people
 culture: gondor
+variants:
+- 01_088-S
+- 01_088-F
 twilight: '0'
 game_text: ! |-
   Regroup: Spot a ranger to remove (4).

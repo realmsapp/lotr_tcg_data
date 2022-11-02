@@ -1,5 +1,5 @@
 ---
-key: 3R8
+key: 03_008
 name: Arwen, Lady Undomiel
 title: Arwen
 subtitle: Lady Undomiel
@@ -10,6 +10,9 @@ subtype: elf
 alignment: free_people
 culture: elven
 signet: gandalf
+variants:
+- 03_008-S
+- 03_008-F
 strength: '6'
 vitality: '3'
 twilight: '2'

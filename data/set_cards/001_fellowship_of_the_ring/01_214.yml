@@ -1,5 +1,5 @@
 ---
-key: 1R214
+key: '01_214'
 name: In the Ringwraith's Wake
 title: In the Ringwraith's Wake
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: shadow
 culture: wraith
+variants:
+- 01_214-S
+- 01_214-F
 twilight: '0'
 game_text: ! |-
   Response: If a Nazgul wins a skirmish, the Free Peoples player chooses to either exert the Ring-bearer or add a burden.

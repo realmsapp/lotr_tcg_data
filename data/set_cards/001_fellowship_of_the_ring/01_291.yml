@@ -1,5 +1,5 @@
 ---
-key: 1R291
+key: 01_291
 name: The Gaffer, Sam's Father
 title: The Gaffer
 subtitle: Sam's Father
@@ -8,6 +8,9 @@ rarity: rare
 card_type: ally
 alignment: free_people
 culture: shire
+variants:
+- 01_291-S
+- 01_291-F
 strength: '2'
 vitality: '2'
 twilight: '1'

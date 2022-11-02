@@ -1,5 +1,5 @@
 ---
-key: 8U8
+key: '08_008'
 name: Wish For Our Kinfolk
 title: Wish For Our Kinfolk
 set: siege_of_gondor
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: free_people
 culture: dwarven
+variants:
+- '08_008-S'
+- '08_008-F'
 twilight: '1'
 game_text: ! |-
   Fellowship: Exert a Dwarf companion and either an [Elven] companion or a [Gondor] Man to add a [Dwarven] token here. Skirmish: Remove a [Dwarven] token here to make a companion damage +1.

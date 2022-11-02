@@ -1,5 +1,5 @@
 ---
-key: 4R293
+key: 04_293
 name: Valleys of the Mark
 title: Valleys of the Mark
 set: two_towers
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: free_people
 culture: rohan
+variants:
+- 04_293-S
+- 04_293-F
 twilight: '1'
 game_text: ! |-
   Plays to your support area. Each time your opponent plays a roaming minion, you may spot a villager to exert that minion.

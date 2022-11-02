@@ -1,5 +1,5 @@
 ---
-key: 9R+29
+key: '09_029'
 name: Slippery as Fishes
 title: Slippery as Fishes
 set: reflections
@@ -7,6 +7,8 @@ rarity: rare_plus
 card_type: condition
 alignment: shadow
 culture: gollum_shadow
+variants:
+- '09_029-F'
 twilight: '1'
 game_text: ! |-
   While Gollum is at a mountain, river, or underground site, he is strength +2. Regroup: Spot Gollum to reveal your hand. Place all Shadow cards revealed beneath your draw deck. Discard this condition.

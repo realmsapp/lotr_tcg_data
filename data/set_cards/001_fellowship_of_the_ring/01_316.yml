@@ -1,5 +1,5 @@
 ---
-key: 1U316
+key: '01_316'
 name: A Talent for Not Being Seen
 title: A Talent for Not Being Seen
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: free_people
 culture: shire
+variants:
+- 01_316-S
+- 01_316-F
 twilight: '0'
 unique: true
 game_text: ! |-

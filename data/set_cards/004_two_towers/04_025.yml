@@ -1,5 +1,5 @@
 ---
-key: 4C25
+key: '04_025'
 name: Hillman Tribe
 title: Hillman Tribe
 set: two_towers
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: dunland
+variants:
+- 04_025-S
+- 04_025-F
 strength: '9'
 vitality: '1'
 twilight: '3'

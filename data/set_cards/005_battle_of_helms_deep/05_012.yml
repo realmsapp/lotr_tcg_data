@@ -1,5 +1,5 @@
 ---
-key: 5U12
+key: '05_012'
 name: Legolas' Sword
 title: Legolas' Sword
 set: battle_of_helms_deep
@@ -8,6 +8,9 @@ card_type: possession
 subtype: hand_weapon
 alignment: free_people
 culture: elven
+variants:
+- 05_012-S
+- 05_012-F
 strength: "+1"
 twilight: '1'
 unique: true

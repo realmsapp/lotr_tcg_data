@@ -1,5 +1,5 @@
 ---
-key: 4R157
+key: '04_157'
 name: Leechcraft
 title: Leechcraft
 set: two_towers
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: shadow
 culture: isengard
+variants:
+- 04_157-S
+- 04_157-F
 strength: "-1"
 twilight: '0'
 game_text: ! |-

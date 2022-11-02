@@ -1,5 +1,5 @@
 ---
-key: 8U100
+key: '08_100'
 name: Gorgoroth Servitor
 title: Gorgoroth Servitor
 set: siege_of_gondor
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: sauron
+variants:
+- '08_100-S'
+- '08_100-F'
 strength: '10'
 vitality: '2'
 twilight: '4'

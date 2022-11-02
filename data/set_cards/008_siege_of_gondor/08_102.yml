@@ -1,5 +1,5 @@
 ---
-key: 8C102
+key: '08_102'
 name: Great Hill Troll
 title: Great Hill Troll
 set: siege_of_gondor
@@ -8,6 +8,9 @@ card_type: minion
 subtype: troll
 alignment: shadow
 culture: sauron
+variants:
+- '08_102-S'
+- '08_102-F'
 strength: '16'
 vitality: '4'
 twilight: '9'

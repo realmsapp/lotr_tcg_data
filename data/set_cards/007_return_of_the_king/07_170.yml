@@ -1,5 +1,5 @@
 ---
-key: 7R170
+key: '07_170'
 name: Suzerain of Harad
 title: Suzerain of Harad
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: raider
+variants:
+- 07_170-S
+- 07_170-F
 strength: '11'
 vitality: '3'
 twilight: '6'

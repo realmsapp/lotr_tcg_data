@@ -1,5 +1,5 @@
 ---
-key: 4R177
+key: '04_177'
 name: Ugluk's Sword
 title: Ugluk's Sword
 set: two_towers
@@ -8,6 +8,9 @@ card_type: possession
 subtype: hand_weapon
 alignment: shadow
 culture: isengard
+variants:
+- 04_177-S
+- 04_177-F
 strength: "+3"
 twilight: '1'
 unique: true

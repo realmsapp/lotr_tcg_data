@@ -1,5 +1,5 @@
 ---
-key: 6U66
+key: '06_066'
 name: Isengard Builder
 title: Isengard Builder
 set: ents_of_fangorn
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: isengard
+variants:
+- 06_066-S
+- 06_066-F
 strength: '7'
 vitality: '3'
 twilight: '3'

@@ -1,5 +1,5 @@
 ---
-key: 8U71
+key: '08_071'
 name: Flung Into the Fray
 title: Flung Into the Fray
 set: siege_of_gondor
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: shadow
 culture: wraith
+variants:
+- '08_071-S'
+- '08_071-F'
 twilight: '1'
 unique: true
 game_text: ! |-

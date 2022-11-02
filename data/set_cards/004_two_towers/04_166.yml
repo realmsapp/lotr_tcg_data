@@ -1,5 +1,5 @@
 ---
-key: 4R166
+key: '04_166'
 name: The Palantir of Orthanc, Seventh Seeing-stone
 title: The Palantir of Orthanc
 subtitle: Seventh Seeing-stone
@@ -9,6 +9,9 @@ card_type: artifact
 subtype: palantir
 alignment: shadow
 culture: isengard
+variants:
+- 04_166-S
+- 04_166-F
 twilight: '0'
 unique: true
 game_text: ! |-

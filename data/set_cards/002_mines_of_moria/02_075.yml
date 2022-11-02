@@ -1,5 +1,5 @@
 ---
-key: 2R75
+key: '02_075'
 name: Bill Ferny, Swarthy Sneering Fellow
 title: Bill Ferny
 subtitle: Swarthy Sneering Fellow
@@ -9,6 +9,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: wraith
+variants:
+- 02_075-S
+- 02_075-F
 strength: '4'
 vitality: '1'
 twilight: '2'

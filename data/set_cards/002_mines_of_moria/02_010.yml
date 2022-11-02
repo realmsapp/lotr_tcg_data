@@ -1,5 +1,5 @@
 ---
-key: 2C10
+key: '02_010'
 name: Hand Axe
 title: Hand Axe
 set: mines_of_moria
@@ -8,6 +8,9 @@ card_type: possession
 subtype: hand_weapon
 alignment: free_people
 culture: dwarven
+variants:
+- 02_010-S
+- 02_010-F
 strength: "+1"
 twilight: '0'
 game_text: ! |-

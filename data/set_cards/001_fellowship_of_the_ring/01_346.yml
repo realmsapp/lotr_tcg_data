@@ -1,10 +1,13 @@
 ---
-key: 1C346
+key: '01_346'
 name: Moria Lake
 title: Moria Lake
 set: fellowship_of_the_ring
 rarity: common
 card_type: site
+variants:
+- 01_346-S
+- 01_346-F
 twilight: '3'
 site_number: '4'
 game_text: ! |-

@@ -1,5 +1,5 @@
 ---
-key: 7C291
+key: 07_291
 name: Mordor Trooper
 title: Mordor Trooper
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: sauron
+variants:
+- 07_291-S
+- 07_291-F
 strength: '6'
 vitality: '2'
 twilight: '2'

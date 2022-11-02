@@ -1,5 +1,5 @@
 ---
-key: 8C35
+key: '08_035'
 name: Fourth Level
 title: Fourth Level
 set: siege_of_gondor
@@ -7,6 +7,9 @@ rarity: common
 card_type: condition
 alignment: free_people
 culture: gondor
+variants:
+- '08_035-S'
+- '08_035-F'
 strength: "-1"
 twilight: '2'
 game_text: ! |-

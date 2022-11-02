@@ -1,5 +1,5 @@
 ---
-key: 5R78
+key: 05_078
 name: War Mumak
 title: War Mumak
 set: battle_of_helms_deep
@@ -8,6 +8,9 @@ card_type: possession
 subtype: mount
 alignment: shadow
 culture: raider
+variants:
+- 05_078-S
+- 05_078-F
 strength: "+4"
 twilight: '3'
 game_text: ! |-

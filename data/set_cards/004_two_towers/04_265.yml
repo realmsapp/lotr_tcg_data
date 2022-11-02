@@ -1,5 +1,5 @@
 ---
-key: 4C265
+key: '04_265'
 name: Elite Rider
 title: Elite Rider
 set: two_towers
@@ -8,6 +8,9 @@ card_type: companion
 subtype: man
 alignment: free_people
 culture: rohan
+variants:
+- 04_265-S
+- 04_265-F
 strength: '6'
 vitality: '3'
 twilight: '3'

@@ -1,5 +1,5 @@
 ---
-key: 8R72
+key: '08_072'
 name: Gothmog, Morgul Commander
 title: Gothmog
 subtitle: Morgul Commander
@@ -9,6 +9,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: wraith
+variants:
+- '08_072-S'
+- '08_072-F'
 strength: '13'
 vitality: '3'
 twilight: '7'

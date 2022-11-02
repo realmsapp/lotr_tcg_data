@@ -1,5 +1,5 @@
 ---
-key: 1U44
+key: '01_044'
 name: Foul Creation
 title: Foul Creation
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: elven
+variants:
+- 01_044-S
+- 01_044-F
 twilight: '1'
 game_text: ! |-
   Fellowship: Exert an Elf to reveal an opponent's hand. You may discard a [Isengard] minion revealed to draw 2 cards.

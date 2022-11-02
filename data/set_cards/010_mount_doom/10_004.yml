@@ -1,5 +1,5 @@
 ---
-key: 10U4
+key: '10_004'
 name: Aegnor, Elven Escort
 title: Aegnor
 subtitle: Elven Escort
@@ -9,6 +9,9 @@ card_type: companion
 subtype: elf
 alignment: free_people
 culture: elven
+variants:
+- 10_004-S
+- 10_004-F
 strength: '6'
 vitality: '3'
 twilight: '2'

@@ -1,5 +1,5 @@
 ---
-key: 1U17
+key: '01_017'
 name: Grimir, Dwarven Elder
 title: Grimir
 subtitle: Dwarven Elder
@@ -8,6 +8,9 @@ rarity: uncommon
 card_type: ally
 alignment: free_people
 culture: dwarven
+variants:
+- 01_017-S
+- 01_017-F
 strength: '3'
 vitality: '3'
 twilight: '1'

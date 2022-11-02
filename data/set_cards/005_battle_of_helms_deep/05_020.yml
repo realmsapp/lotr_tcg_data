@@ -1,5 +1,5 @@
 ---
-key: 5U20
+key: '05_020'
 name: Turn of the Tide
 title: Turn of the Tide
 set: battle_of_helms_deep
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: gandalf
+variants:
+- 05_020-S
+- 05_020-F
 twilight: '3'
 game_text: ! |-
   Spell. Maneuver: Exert Gandalf to discard up to 2 shadow possessions. Any Shadow player may discard a minion to prevent this.

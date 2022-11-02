@@ -1,5 +1,5 @@
 ---
-key: 1R308
+key: 01_308
 name: Power According to His Stature
 title: Power According to His Stature
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: free_people
 culture: shire
+variants:
+- 01_308-S
+- 01_308-F
 twilight: '0'
 game_text: ! |-
   Skirmish: Add 1 burden to wound each minion skirmishing the Ring-bearer.

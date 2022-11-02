@@ -1,5 +1,5 @@
 ---
-key: 8C41
+key: '08_041'
 name: Oathbreaker
 title: Oathbreaker
 set: siege_of_gondor
@@ -9,6 +9,9 @@ subtype: wraith
 alignment: free_people
 culture: gondor
 signet: aragorn
+variants:
+- '08_041-S'
+- '08_041-F'
 strength: '6'
 vitality: '3'
 twilight: '2'

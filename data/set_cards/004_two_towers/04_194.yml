@@ -1,5 +1,5 @@
 ---
-key: 4U194
+key: 04_194
 name: Uruk Searcher
 title: Uruk Searcher
 set: two_towers
@@ -8,6 +8,9 @@ card_type: minion
 subtype: uruk-hai
 alignment: shadow
 culture: isengard
+variants:
+- 04_194-S
+- 04_194-F
 strength: '9'
 vitality: '2'
 twilight: '4'

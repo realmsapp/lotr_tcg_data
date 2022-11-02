@@ -1,5 +1,5 @@
 ---
-key: 7R79
+key: 07_079
 name: Anduril, Flame of the West
 title: Anduril
 subtitle: Flame of the West
@@ -9,6 +9,9 @@ card_type: artifact
 subtype: hand_weapon
 alignment: free_people
 culture: gondor
+variants:
+- 07_079-S
+- 07_079-F
 strength: "+2"
 vitality: "+1"
 twilight: '3'

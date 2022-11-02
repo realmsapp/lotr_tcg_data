@@ -1,5 +1,5 @@
 ---
-key: 4C105
+key: '04_105'
 name: Under the Living Earth
 title: Under the Living Earth
 set: two_towers
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: gandalf
+variants:
+- 04_105-S
+- 04_105-F
 twilight: '1'
 game_text: ! |-
   Skirmish: Make Gandalf strength +1 for each twilight token you spot (limit +5).

@@ -1,5 +1,5 @@
 ---
-key: 6U73
+key: '06_073'
 name: Scaffolding
 title: Scaffolding
 set: ents_of_fangorn
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: possession
 alignment: shadow
 culture: isengard
+variants:
+- 06_073-S
+- 06_073-F
 twilight: '1'
 game_text: ! |-
   Plays to your support area. Each time a regroup action discards an [Isengard] Orc, you may stack that Orc on this card. Response: If an [Isengard] Orc is about to take a wound, discard 2 cards stacked here to prevent that wound.

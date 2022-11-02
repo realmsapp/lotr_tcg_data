@@ -1,5 +1,5 @@
 ---
-key: 8U99
+key: '08_099'
 name: Gorgoroth Patrol
 title: Gorgoroth Patrol
 set: siege_of_gondor
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: sauron
+variants:
+- '08_099-S'
+- '08_099-F'
 strength: '10'
 vitality: '2'
 twilight: '4'

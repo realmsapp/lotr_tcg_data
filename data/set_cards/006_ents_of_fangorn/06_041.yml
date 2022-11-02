@@ -1,5 +1,5 @@
 ---
-key: 6R41
+key: '06_041'
 name: Master Broke His Promise
 title: Master Broke His Promise
 set: ents_of_fangorn
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: shadow
 culture: gollum_shadow
+variants:
+- 06_041-S
+- 06_041-F
 twilight: '5'
 game_text: ! |-
   Regroup: Exert Gollum 3 times to wound each companion. The move limit for this turn is -1.

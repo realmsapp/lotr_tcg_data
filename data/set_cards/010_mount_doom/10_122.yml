@@ -1,5 +1,5 @@
 ---
-key: 10P122
+key: '10_122'
 name: Sam, Great Elf Warrior
 title: Sam
 subtitle: Great Elf Warrior
@@ -10,6 +10,9 @@ subtype: hobbit
 alignment: free_people
 culture: shire
 signet: gandalf
+variants:
+- 10_122-S
+- 10_122-F
 strength: '3'
 vitality: '4'
 twilight: '2'

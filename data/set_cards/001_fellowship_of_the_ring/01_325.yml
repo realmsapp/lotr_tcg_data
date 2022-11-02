@@ -1,10 +1,13 @@
 ---
-key: 1U325
+key: '01_325'
 name: Shire Lookout Point
 title: Shire Lookout Point
 set: fellowship_of_the_ring
 rarity: uncommon
 card_type: site
+variants:
+- 01_325-S
+- 01_325-F
 site_number: '1'
 game_text: ! |-
   Fellowship: Spot Gandalf to play Gandalf's Cart from your draw deck.

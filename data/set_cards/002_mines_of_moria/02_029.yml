@@ -1,5 +1,5 @@
 ---
-key: 2C29
+key: 02_029
 name: Wizard Staff
 title: Wizard Staff
 set: mines_of_moria
@@ -8,6 +8,9 @@ card_type: possession
 subtype: staff
 alignment: free_people
 culture: gandalf
+variants:
+- 02_029-S
+- 02_029-F
 strength: "+1"
 twilight: '2'
 game_text: ! |-

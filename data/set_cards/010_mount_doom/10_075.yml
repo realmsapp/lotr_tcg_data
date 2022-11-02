@@ -1,5 +1,5 @@
 ---
-key: 10R75
+key: '10_075'
 name: Advance Captain
 title: Advance Captain
 set: mount_doom
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: sauron
+variants:
+- 10_075-S
+- 10_075-F
 strength: '10'
 vitality: '3'
 twilight: '3'

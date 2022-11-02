@@ -1,5 +1,5 @@
 ---
-key: 3U96
+key: 03_096
 name: Orc Pillager
 title: Orc Pillager
 set: realms_of_the_elf_lords
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: sauron
+variants:
+- 03_096-S
+- 03_096-F
 strength: '10'
 vitality: '3'
 twilight: '4'

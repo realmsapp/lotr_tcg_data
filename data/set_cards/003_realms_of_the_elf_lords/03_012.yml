@@ -1,5 +1,5 @@
 ---
-key: 3U12
+key: '03_012'
 name: Dinendal, Silent Scout
 title: Dinendal
 subtitle: Silent Scout
@@ -8,6 +8,9 @@ rarity: uncommon
 card_type: ally
 alignment: free_people
 culture: elven
+variants:
+- 03_012-S
+- 03_012-F
 strength: '3'
 vitality: '3'
 twilight: '2'

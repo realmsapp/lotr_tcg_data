@@ -1,5 +1,5 @@
 ---
-key: 8C22
+key: '08_022'
 name: Hidden Even From Her
 title: Hidden Even From Her
 set: siege_of_gondor
@@ -7,6 +7,9 @@ rarity: common
 card_type: condition
 alignment: shadow
 culture: gollum_shadow
+variants:
+- '08_022-S'
+- '08_022-F'
 twilight: '1'
 game_text: ! |-
   Gollum is fierce. Shadow: Spot 6 companions to play Gollum from your discard pile and exert a companion. Place this condition on top of your draw deck.

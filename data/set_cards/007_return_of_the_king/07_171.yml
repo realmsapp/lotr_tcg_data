@@ -1,5 +1,5 @@
 ---
-key: 7U171
+key: '07_171'
 name: Thrice Outnumbered
 title: Thrice Outnumbered
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: shadow
 culture: raider
+variants:
+- 07_171-S
+- 07_171-F
 twilight: '3'
 game_text: ! |-
   Spot a threat and X [Raider] Men to make the Free Peoples player exert X companions (limit 3).

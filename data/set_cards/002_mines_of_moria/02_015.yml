@@ -1,5 +1,5 @@
 ---
-key: 2R15
+key: '02_015'
 name: What Are We Waiting For?
 title: What Are We Waiting For?
 set: mines_of_moria
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: free_people
 culture: dwarven
+variants:
+- 02_015-S
+- 02_015-F
 twilight: '1'
 game_text: ! |-
   Fellowship: Exert a Dwarf to make an opponent draw 2 cards. That player then chooses to either discard 2 Shadow cards from hand or skip his or her next Shadow phase.

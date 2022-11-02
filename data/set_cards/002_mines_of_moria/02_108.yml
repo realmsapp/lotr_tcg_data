@@ -1,5 +1,5 @@
 ---
-key: 2R108
+key: 02_108
 name: O Elbereth! Gilthoniel!
 title: O Elbereth! Gilthoniel!
 set: mines_of_moria
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: free_people
 culture: shire
+variants:
+- 02_108-S
+- 02_108-F
 strength: "+1"
 twilight: '1'
 unique: true

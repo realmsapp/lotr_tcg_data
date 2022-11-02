@@ -1,5 +1,5 @@
 ---
-key: 6R7
+key: '06_007'
 name: Ready to Fall
 title: Ready to Fall
 set: ents_of_fangorn
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: shadow
 culture: dunland
+variants:
+- 06_007-S
+- 06_007-F
 twilight: '1'
 game_text: ! |-
   Plays to your support area. Shadow: Spot 2 sites you control and remove (2) to play a [Dunland] Man from your discard pile.

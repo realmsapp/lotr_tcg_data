@@ -1,5 +1,5 @@
 ---
-key: 1C25
+key: '01_025'
 name: Still Draws Breath
 title: Still Draws Breath
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: dwarven
+variants:
+- 01_025-S
+- 01_025-F
 twilight: '0'
 game_text: ! |-
   Response: If a Dwarf wins a skirmish, heal that Dwarf.

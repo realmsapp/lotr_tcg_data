@@ -1,5 +1,5 @@
 ---
-key: 6R6
+key: '06_006'
 name: Hill Clan
 title: Hill Clan
 set: ents_of_fangorn
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: dunland
+variants:
+- 06_006-S
+- 06_006-F
 strength: '17'
 vitality: '2'
 twilight: '8'

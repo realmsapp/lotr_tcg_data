@@ -1,5 +1,5 @@
 ---
-key: 7U8
+key: 07_008
 name: Gimli's Armor
 title: Gimli's Armor
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: possession
 subtype: armor
 alignment: free_people
 culture: dwarven
+variants:
+- 07_008-S
+- 07_008-F
 twilight: '2'
 unique: true
 game_text: ! |-

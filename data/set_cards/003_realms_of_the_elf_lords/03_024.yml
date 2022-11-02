@@ -1,5 +1,5 @@
 ---
-key: 3U24
+key: '03_024'
 name: Phial of Galadriel
 title: Phial of Galadriel
 set: realms_of_the_elf_lords
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: possession
 alignment: free_people
 culture: elven
+variants:
+- 03_024-S
+- 03_024-F
 twilight: '0'
 unique: true
 game_text: ! |-

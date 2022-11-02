@@ -1,5 +1,5 @@
 ---
-key: 4C37
+key: '04_037'
 name: War Cry of Dunland
 title: War Cry of Dunland
 set: two_towers
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: shadow
 culture: dunland
+variants:
+- 04_037-S
+- 04_037-F
 twilight: '1'
 game_text: ! |-
   Response: If a [Dunland] Man wins a skirmish, make him fierce and strength +4 until the regroup phase.

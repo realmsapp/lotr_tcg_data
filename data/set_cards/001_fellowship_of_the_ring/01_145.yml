@@ -1,5 +1,5 @@
 ---
-key: 1C145
+key: '01_145'
 name: Uruk Brood
 title: Uruk Brood
 set: fellowship_of_the_ring
@@ -8,6 +8,9 @@ card_type: minion
 subtype: uruk-hai
 alignment: shadow
 culture: isengard
+variants:
+- 01_145-S
+- 01_145-F
 strength: '9'
 vitality: '2'
 twilight: '4'

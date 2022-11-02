@@ -1,5 +1,5 @@
 ---
-key: 5R47
+key: '05_047'
 name: Berserk Slayer
 title: Berserk Slayer
 set: battle_of_helms_deep
@@ -8,6 +8,9 @@ card_type: minion
 subtype: uruk-hai
 alignment: shadow
 culture: isengard
+variants:
+- 05_047-S
+- 05_047-F
 strength: '12'
 vitality: '3'
 twilight: '7'

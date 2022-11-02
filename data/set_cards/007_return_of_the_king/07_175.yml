@@ -1,5 +1,5 @@
 ---
-key: 7U175
+key: '07_175'
 name: Corrupt
 title: Corrupt
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: shadow
 culture: wraith
+variants:
+- 07_175-S
+- 07_175-F
 twilight: '1'
 game_text: ! |-
   Make a Nazgul strength +1 for each Free Peoples culture you spot.

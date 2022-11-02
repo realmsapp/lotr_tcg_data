@@ -1,5 +1,5 @@
 ---
-key: 4R30
+key: '04_030'
 name: No Retreat
 title: No Retreat
 set: two_towers
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: shadow
 culture: dunland
+variants:
+- 04_030-S
+- 04_030-F
 twilight: '0'
 game_text: ! |-
   Plays on a site you control. Regroup: Spot 2 [Dunland] Men and discard this condition to make the Free Peoples player choose to move again this turn (if the move limit allows).

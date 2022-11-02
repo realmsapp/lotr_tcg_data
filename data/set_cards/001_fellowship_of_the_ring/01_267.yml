@@ -1,5 +1,5 @@
 ---
-key: 1U267
+key: '01_267'
 name: Orc Hunters
 title: Orc Hunters
 set: fellowship_of_the_ring
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: sauron
+variants:
+- 01_267-S
+- 01_267-F
 strength: '9'
 vitality: '2'
 twilight: '3'

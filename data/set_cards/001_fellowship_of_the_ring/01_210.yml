@@ -1,5 +1,5 @@
 ---
-key: 1R210
+key: '01_210'
 name: Dark Whispers
 title: Dark Whispers
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: shadow
 culture: wraith
+variants:
+- 01_210-S
+- 01_210-F
 twilight: '0'
 game_text: ! |-
   Skirmish: Spot 3 burdens to make a Nazgul strength +1 and damage +1, or spot 6 burdens to make a Nazgul strength +3 and damage +2.

@@ -1,5 +1,5 @@
 ---
-key: 4U59
+key: 04_059
 name: Arrow and Blade
 title: Arrow and Blade
 set: two_towers
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: elven
+variants:
+- 04_059-S
+- 04_059-F
 twilight: '0'
 game_text: ! |-
   Skirmish: Exert X Elf companions to make a minion skirmishing an unbound companion strength -X.

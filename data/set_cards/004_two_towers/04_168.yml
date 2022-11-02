@@ -1,5 +1,5 @@
 ---
-key: 4R168
+key: 04_168
 name: Race Across the Mark
 title: Race Across the Mark
 set: two_towers
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: shadow
 culture: isengard
+variants:
+- 04_168-S
+- 04_168-F
 twilight: '0'
 game_text: ! |-
   Plays to your support area. Skirmish: Spot a site you control and remove (2) to cancel a skirmish involving an Uruk-hai.

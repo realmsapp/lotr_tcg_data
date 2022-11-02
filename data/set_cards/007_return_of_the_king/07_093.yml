@@ -1,5 +1,5 @@
 ---
-key: 7U93
+key: 07_093
 name: Footman's Armor
 title: Footman's Armor
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: possession
 subtype: armor
 alignment: free_people
 culture: gondor
+variants:
+- 07_093-S
+- 07_093-F
 twilight: '1'
 game_text: ! |-
   Bearer must be a [Gondor] Man. Response: if bearer is about to be overwhelmed, discard a [Gondor] fortification or a card from hand to make bearer strength +2.

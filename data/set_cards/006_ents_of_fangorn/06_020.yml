@@ -1,5 +1,5 @@
 ---
-key: 6U20
+key: '06_020'
 name: Must Be a Dream
 title: Must Be a Dream
 set: ents_of_fangorn
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: elven
+variants:
+- 06_020-S
+- 06_020-F
 twilight: '0'
 game_text: ! |-
   Fellowship: Spot an Elf to reveal the top card of your draw deck. Heal up to 2 companions whose culture matches the revealed card. You may discard the revealed card.

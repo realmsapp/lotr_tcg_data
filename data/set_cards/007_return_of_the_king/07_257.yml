@@ -1,5 +1,5 @@
 ---
-key: 7C257
+key: '07_257'
 name: Veteran Horseman
 title: Veteran Horseman
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: companion
 subtype: man
 alignment: free_people
 culture: rohan
+variants:
+- 07_257-S
+- 07_257-F
 strength: '6'
 vitality: '3'
 twilight: '2'

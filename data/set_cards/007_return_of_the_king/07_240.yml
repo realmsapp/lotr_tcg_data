@@ -1,5 +1,5 @@
 ---
-key: 7C240
+key: '07_240'
 name: Long Spear
 title: Long Spear
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: possession
 subtype: hand_weapon
 alignment: free_people
 culture: rohan
+variants:
+- 07_240-S
+- 07_240-F
 strength: "+2"
 twilight: '1'
 game_text: ! |-

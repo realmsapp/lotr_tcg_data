@@ -1,5 +1,5 @@
 ---
-key: 7R255
+key: '07_255'
 name: Theoden, Rekindled King
 title: Theoden
 subtitle: Rekindled King
@@ -10,6 +10,9 @@ subtype: man
 alignment: free_people
 culture: rohan
 signet: gandalf
+variants:
+- 07_255-S
+- 07_255-F
 strength: '7'
 vitality: '3'
 twilight: '3'

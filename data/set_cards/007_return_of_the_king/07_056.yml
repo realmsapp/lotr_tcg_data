@@ -1,5 +1,5 @@
 ---
-key: 7R56
+key: '07_056'
 name: The Dead City
 title: The Dead City
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: free_people
 culture: gollum_free_people
+variants:
+- 07_056-S
+- 07_056-F
 twilight: '3'
 game_text: ! |-
   Stealth. Bearer must be Smeagol. If Smeagol is about to be killed in a skirmish, he is discarded instead.

@@ -1,5 +1,5 @@
 ---
-key: 1R250
+key: '01_250'
 name: Hate
 title: Hate
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: shadow
 culture: sauron
+variants:
+- 01_250-S
+- 01_250-F
 twilight: '0'
 game_text: ! |-
   Maneuver: Exert a [Sauron] Orc to wound a companion (except the Ring-bearer).

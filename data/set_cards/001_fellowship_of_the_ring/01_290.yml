@@ -1,5 +1,5 @@
 ---
-key: 1C290
+key: 01_290
 name: Frodo, Son of Drogo
 title: Frodo
 subtitle: Son of Drogo
@@ -10,6 +10,9 @@ subtype: hobbit
 alignment: free_people
 culture: shire
 signet: frodo
+variants:
+- 01_290-S
+- 01_290-F
 strength: '3'
 vitality: '4'
 twilight: '0'

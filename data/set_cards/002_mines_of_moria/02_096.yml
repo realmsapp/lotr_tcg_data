@@ -1,5 +1,5 @@
 ---
-key: 2U96
+key: 02_096
 name: Bilbo, Well-spoken Gentlehobbit
 title: Bilbo
 subtitle: Well-spoken Gentlehobbit
@@ -8,6 +8,9 @@ rarity: uncommon
 card_type: ally
 alignment: free_people
 culture: shire
+variants:
+- 02_096-S
+- 02_096-F
 strength: '2'
 vitality: '3'
 twilight: '2'

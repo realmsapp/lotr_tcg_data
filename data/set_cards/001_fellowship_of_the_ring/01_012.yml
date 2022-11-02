@@ -1,5 +1,5 @@
 ---
-key: 1U12
+key: '01_012'
 name: Gimli, Dwarf of Erebor
 title: Gimli
 subtitle: Dwarf of Erebor
@@ -10,6 +10,9 @@ subtype: dwarf
 alignment: free_people
 culture: dwarven
 signet: aragorn
+variants:
+- 01_012-S
+- 01_012-F
 strength: '6'
 vitality: '3'
 twilight: '2'

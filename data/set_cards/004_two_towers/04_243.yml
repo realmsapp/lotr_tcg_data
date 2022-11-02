@@ -1,5 +1,5 @@
 ---
-key: 4R243
+key: '04_243'
 name: Rapid Fire
 title: Rapid Fire
 set: two_towers
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: shadow
 culture: raider
+variants:
+- 04_243-S
+- 04_243-F
 twilight: '6'
 game_text: ! |-
   Archery: Exert a [Raider] archer to make the minion archery total +1 for each burden (limit +5).

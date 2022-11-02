@@ -1,5 +1,5 @@
 ---
-key: 4R160
+key: '04_160'
 name: Mauhur, Patrol Leader
 title: Mauhur
 subtitle: Patrol Leader
@@ -9,6 +9,9 @@ card_type: minion
 subtype: uruk-hai
 alignment: shadow
 culture: isengard
+variants:
+- 04_160-S
+- 04_160-F
 strength: '9'
 vitality: '2'
 twilight: '3'

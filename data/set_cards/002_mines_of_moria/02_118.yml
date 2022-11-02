@@ -1,10 +1,13 @@
 ---
-key: 2U118
+key: 02_118
 name: Great Chasm
 title: Great Chasm
 set: mines_of_moria
 rarity: uncommon
 card_type: site
+variants:
+- 02_118-S
+- 02_118-F
 twilight: '4'
 site_number: '4'
 game_text: ! |-

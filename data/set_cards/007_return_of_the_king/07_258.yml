@@ -1,5 +1,5 @@
 ---
-key: 7U258
+key: 07_258
 name: White Hot Fury
 title: White Hot Fury
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: rohan
+variants:
+- 07_258-S
+- 07_258-F
 twilight: '2'
 game_text: ! |-
   Make a mounted [Rohan] Man strength +1 for each mounted companion. If that Man is skirmishing a [Raider] minion, also make him or her strength +2 and damage +2.

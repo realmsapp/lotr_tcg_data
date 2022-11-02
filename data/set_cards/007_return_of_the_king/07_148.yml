@@ -1,5 +1,5 @@
 ---
-key: 7R148
+key: 07_148
 name: Fierce in Despair
 title: Fierce in Despair
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: shadow
 culture: raider
+variants:
+- 07_148-S
+- 07_148-F
 twilight: '7'
 game_text: ! |-
   Spot 2 [Raider] Men to discard a companion (except the Ring-bearer).

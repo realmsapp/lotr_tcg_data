@@ -1,5 +1,5 @@
 ---
-key: 8U9
+key: '08_009'
 name: A Grey Ship
 title: A Grey Ship
 set: siege_of_gondor
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: elven
+variants:
+- '08_009-S'
+- '08_009-F'
 twilight: '2'
 game_text: ! |-
   Spot an Elf companion and make the fellowship archery total -X (to a minimum of 0) to heal X unbound companions. You cannot use archery special abilities.

@@ -1,5 +1,5 @@
 ---
-key: 5R46
+key: '05_046'
 name: Berserk Savage
 title: Berserk Savage
 set: battle_of_helms_deep
@@ -8,6 +8,9 @@ card_type: minion
 subtype: uruk-hai
 alignment: shadow
 culture: isengard
+variants:
+- 05_046-S
+- 05_046-F
 strength: '12'
 vitality: '3'
 twilight: '6'

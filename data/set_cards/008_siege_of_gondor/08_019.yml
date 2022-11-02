@@ -1,5 +1,5 @@
 ---
-key: 8U19
+key: '08_019'
 name: On Your Doorstep
 title: On Your Doorstep
 set: siege_of_gondor
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: gandalf
+variants:
+- '08_019-S'
+- '08_019-F'
 twilight: '1'
 game_text: ! |-
   Spot Gandalf and exert a companion to place a card of that companion's culture from your discard pile on top of your draw deck.

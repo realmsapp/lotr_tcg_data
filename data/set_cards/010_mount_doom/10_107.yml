@@ -1,5 +1,5 @@
 ---
-key: 10C107
+key: '10_107'
 name: Great Heart
 title: Great Heart
 set: mount_doom
@@ -7,6 +7,9 @@ rarity: common
 card_type: condition
 alignment: free_people
 culture: shire
+variants:
+- 10_107-S
+- 10_107-F
 vitality: "-1"
 twilight: '1'
 game_text: ! |-

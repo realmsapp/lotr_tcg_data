@@ -1,5 +1,5 @@
 ---
-key: 10U15
+key: '10_015'
 name: Brooding on Tomorrow
 title: Brooding on Tomorrow
 set: mount_doom
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: free_people
 culture: gandalf
+variants:
+- 10_015-S
+- 10_015-F
 twilight: '1'
 unique: true
 game_text: ! |-

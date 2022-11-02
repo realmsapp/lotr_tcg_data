@@ -1,5 +1,5 @@
 ---
-key: 1P364
+key: '01_364'
 name: Gandalf, The Grey Wizard
 title: Gandalf
 subtitle: The Grey Wizard
@@ -10,6 +10,9 @@ subtype: wizard
 alignment: free_people
 culture: gandalf
 signet: gandalf
+variants:
+- 01_364-S
+- 01_364-F
 strength: '7'
 vitality: '4'
 twilight: '4'

@@ -1,5 +1,5 @@
 ---
-key: 2U76
+key: '02_076'
 name: Helpless
 title: Helpless
 set: mines_of_moria
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: shadow
 culture: wraith
+variants:
+- 02_076-S
+- 02_076-F
 twilight: '0'
 game_text: ! |-
   To play, spot Frodo and a Nazgul. Plays on Sam. Sam's game text does not apply.

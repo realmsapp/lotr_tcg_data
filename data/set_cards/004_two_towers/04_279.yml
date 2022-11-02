@@ -1,5 +1,5 @@
 ---
-key: 4R279
+key: 04_279
 name: Helm! Helm!
 title: Helm! Helm!
 set: two_towers
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: free_people
 culture: rohan
+variants:
+- 04_279-S
+- 04_279-F
 twilight: '2'
 game_text: ! |-
   Regroup: Spot 2 mounted [Rohan] Men to liberate a site or draw 3 cards.

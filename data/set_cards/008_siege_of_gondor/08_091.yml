@@ -1,5 +1,5 @@
 ---
-key: 8R91
+key: '08_091'
 name: Rohirrim Army
 title: Rohirrim Army
 set: siege_of_gondor
@@ -8,6 +8,9 @@ card_type: companion
 subtype: man
 alignment: free_people
 culture: rohan
+variants:
+- '08_091-S'
+- '08_091-F'
 strength: '9'
 vitality: '3'
 twilight: '5'

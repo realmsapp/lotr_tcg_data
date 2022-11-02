@@ -1,5 +1,5 @@
 ---
-key: 2R113
+key: '02_113'
 name: Red Book of Westmarch
 title: Red Book of Westmarch
 set: mines_of_moria
@@ -7,6 +7,9 @@ rarity: rare
 card_type: possession
 alignment: free_people
 culture: shire
+variants:
+- 02_113-S
+- 02_113-F
 twilight: '2'
 unique: true
 game_text: ! |-

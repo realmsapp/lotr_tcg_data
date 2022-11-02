@@ -1,5 +1,5 @@
 ---
-key: 7C189
+key: 07_189
 name: Morgul Cur
 title: Morgul Cur
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: wraith
+variants:
+- 07_189-S
+- 07_189-F
 strength: '8'
 vitality: '2'
 twilight: '3'

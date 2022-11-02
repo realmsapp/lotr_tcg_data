@@ -1,5 +1,5 @@
 ---
-key: 7C315
+key: '07_315'
 name: Tower Walkway
 title: Tower Walkway
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: common
 card_type: condition
 alignment: shadow
 culture: sauron
+variants:
+- 07_315-S
+- 07_315-F
 twilight: '1'
 unique: true
 game_text: ! |-

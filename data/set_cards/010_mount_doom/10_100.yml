@@ -1,5 +1,5 @@
 ---
-key: 10R100
+key: '10_100'
 name: Speak No More to Me
 title: Speak No More to Me
 set: mount_doom
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: shadow
 culture: sauron
+variants:
+- 10_100-S
+- 10_100-F
 twilight: '1'
 game_text: ! |-
   Exert a [Sauron] minion to return a Free Peoples condition to its owner's hand (or 2 if both are [Shire] conditions).

@@ -1,5 +1,5 @@
 ---
-key: 5R124
+key: '05_124'
 name: Break the Charge (AI)
 title: Break the Charge (AI)
 set: battle_of_helms_deep
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: free_people
 culture: elven
+variants:
+- 05_124-S
+- 05_124-F
 twilight: '2'
 game_text: ! |-
   Archery: Exert 3 Elf companions to make the fellowship archery total +2.

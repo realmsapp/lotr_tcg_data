@@ -1,5 +1,5 @@
 ---
-key: 1R224
+key: '01_224'
 name: Return to Its Master
 title: Return to Its Master
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: shadow
 culture: wraith
+variants:
+- 01_224-S
+- 01_224-F
 twilight: '0'
 game_text: ! |-
   Response: If the Ring-bearer wears The One Ring at the end of a skirmish phase, cancel all remaining assignments and assign a Nazgul to skirmish the Ring-bearer; The One Ring's game text does not apply during this skirmish.

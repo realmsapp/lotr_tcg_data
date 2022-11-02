@@ -1,5 +1,5 @@
 ---
-key: 1R282
+key: 01_282
 name: The Weight of a Legacy
 title: The Weight of a Legacy
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: shadow
 culture: sauron
+variants:
+- 01_282-S
+- 01_282-F
 strength: "-1"
 twilight: '0'
 game_text: ! |-

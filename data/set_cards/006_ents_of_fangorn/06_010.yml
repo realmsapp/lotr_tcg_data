@@ -1,5 +1,5 @@
 ---
-key: 6C10
+key: '06_010'
 name: Suspended Palaces
 title: Suspended Palaces
 set: ents_of_fangorn
@@ -7,6 +7,9 @@ rarity: common
 card_type: condition
 alignment: free_people
 culture: dwarven
+variants:
+- 06_010-S
+- 06_010-F
 twilight: '2'
 unique: true
 game_text: ! |-

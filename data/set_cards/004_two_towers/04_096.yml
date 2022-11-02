@@ -1,5 +1,5 @@
 ---
-key: 4U96
+key: 04_096
 name: Keep Your Forked Tongue
 title: Keep Your Forked Tongue
 set: two_towers
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: gandalf
+variants:
+- 04_096-S
+- 04_096-F
 twilight: '1'
 game_text: ! |-
   Skirmish: Spot Gandalf and 3 twilight tokens to prevent all wounds to a companion who has the Gandalf signet.

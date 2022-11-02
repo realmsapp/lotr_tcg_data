@@ -1,5 +1,5 @@
 ---
-key: 1C191
+key: 01_191
 name: Moria Scout
 title: Moria Scout
 set: fellowship_of_the_ring
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: moria
+variants:
+- 01_191-S
+- 01_191-F
 strength: '6'
 vitality: '2'
 twilight: '2'

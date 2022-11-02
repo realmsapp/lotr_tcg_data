@@ -1,5 +1,5 @@
 ---
-key: 8R84
+key: '08_084'
 name: The Witch-king, Black Captain
 title: The Witch-king
 subtitle: Black Captain
@@ -9,6 +9,9 @@ card_type: minion
 subtype: nazgul
 alignment: shadow
 culture: wraith
+variants:
+- '08_084-S'
+- '08_084-F'
 strength: '14'
 vitality: '4'
 twilight: '8'

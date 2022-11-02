@@ -1,5 +1,5 @@
 ---
-key: 1U219
+key: 01_219
 name: The Nine Servants of Sauron
 title: The Nine Servants of Sauron
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: shadow
 culture: wraith
+variants:
+- 01_219-S
+- 01_219-F
 twilight: '1'
 game_text: ! |-
   Search. Plays to your support area. Each time you play a Nazgul, you may exert a Hobbit (except the Ring-bearer).

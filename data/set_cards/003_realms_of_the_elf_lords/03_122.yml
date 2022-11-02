@@ -1,5 +1,5 @@
 ---
-key: 3P122
+key: '03_122'
 name: Boromir, Defender of Minas Tirith
 title: Boromir
 subtitle: Defender of Minas Tirith
@@ -10,6 +10,9 @@ subtype: man
 alignment: free_people
 culture: gondor
 signet: gandalf
+variants:
+- 03_122-S
+- 03_122-F
 strength: '7'
 vitality: '3'
 twilight: '3'

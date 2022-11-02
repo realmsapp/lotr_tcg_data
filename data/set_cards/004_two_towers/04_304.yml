@@ -1,5 +1,5 @@
 ---
-key: 4R304
+key: '04_304'
 name: Get On and Get Away
 title: Get On and Get Away
 set: two_towers
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: free_people
 culture: shire
+variants:
+- 04_304-S
+- 04_304-F
 twilight: '0'
 game_text: ! |-
   Fellowship: Add 2 burdens to play the fellowship's next 2 sites (replacing opponent's sites if necessary).

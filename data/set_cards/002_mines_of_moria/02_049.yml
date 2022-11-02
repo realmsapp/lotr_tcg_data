@@ -1,5 +1,5 @@
 ---
-key: 2R49
+key: 02_049
 name: Archer Commander
 title: Archer Commander
 set: mines_of_moria
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: moria
+variants:
+- 02_049-S
+- 02_049-F
 strength: '8'
 vitality: '2'
 twilight: '4'

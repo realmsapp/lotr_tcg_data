@@ -1,5 +1,5 @@
 ---
-key: 2C2
+key: '02_002'
 name: Disquiet of Our People
 title: Disquiet of Our People
 set: mines_of_moria
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: dwarven
+variants:
+- 02_002-S
+- 02_002-F
 twilight: '1'
 game_text: ! |-
   Maneuver: Exert a Dwarf to make that Dwarf defender +1 (or defender +2 if you spot an Orc) until the regroup phase.

@@ -1,5 +1,5 @@
 ---
-key: 5R112
+key: '05_112'
 name: No Help for It
 title: No Help for It
 set: battle_of_helms_deep
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: free_people
 culture: shire
+variants:
+- 05_112-S
+- 05_112-F
 twilight: '0'
 game_text: ! |-
   Regroup: Spot Sam and discard Smeagol or Gollum to remove 3 burdens.

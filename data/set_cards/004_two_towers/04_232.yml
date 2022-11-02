@@ -1,5 +1,5 @@
 ---
-key: 4U232
+key: '04_232'
 name: Elite Archer
 title: Elite Archer
 set: two_towers
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: raider
+variants:
+- 04_232-S
+- 04_232-F
 strength: '8'
 vitality: '2'
 twilight: '4'

@@ -1,5 +1,5 @@
 ---
-key: 4U155
+key: '04_155'
 name: Haunting Her Steps
 title: Haunting Her Steps
 set: two_towers
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: shadow
 culture: isengard
+variants:
+- 04_155-S
+- 04_155-F
 twilight: '0'
 game_text: ! |-
   Response: If a special ability of an ally or unbound companion is used, exert Grima to cancel that action.

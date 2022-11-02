@@ -1,5 +1,5 @@
 ---
-key: 8R15
+key: '08_015'
 name: Gandalf, Leader of Men
 title: Gandalf
 subtitle: Leader of Men
@@ -10,6 +10,9 @@ subtype: wizard
 alignment: free_people
 culture: gandalf
 signet: aragorn
+variants:
+- '08_015-S'
+- '08_015-F'
 strength: '7'
 vitality: '4'
 twilight: '4'

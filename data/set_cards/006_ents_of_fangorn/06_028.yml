@@ -1,5 +1,5 @@
 ---
-key: 6R28
+key: 06_028
 name: Ent Horde
 title: Ent Horde
 set: ents_of_fangorn
@@ -8,6 +8,9 @@ card_type: companion
 subtype: ent
 alignment: free_people
 culture: gandalf
+variants:
+- 06_028-S
+- 06_028-F
 strength: '10'
 vitality: '5'
 twilight: '15'

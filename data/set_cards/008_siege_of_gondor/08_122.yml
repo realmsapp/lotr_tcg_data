@@ -1,5 +1,5 @@
 ---
-key: 8P122
+key: '08_122'
 name: Pippin, Guard of Minas Tirith
 title: Pippin
 subtitle: Guard of Minas Tirith
@@ -10,6 +10,9 @@ subtype: hobbit
 alignment: free_people
 culture: shire
 signet: frodo
+variants:
+- '08_122-S'
+- '08_122-F'
 strength: '5'
 vitality: '4'
 twilight: '2'

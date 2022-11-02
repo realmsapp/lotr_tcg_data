@@ -1,5 +1,5 @@
 ---
-key: 4C130
+key: '04_130'
 name: Ranger of Ithilien
 title: Ranger of Ithilien
 set: two_towers
@@ -8,6 +8,9 @@ card_type: companion
 subtype: man
 alignment: free_people
 culture: gondor
+variants:
+- 04_130-S
+- 04_130-F
 strength: '6'
 vitality: '3'
 twilight: '3'

@@ -1,5 +1,5 @@
 ---
-key: 5R3
+key: '05_003'
 name: Leaping Blaze
 title: Leaping Blaze
 set: battle_of_helms_deep
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: shadow
 culture: dunland
+variants:
+- 05_003-S
+- 05_003-F
 twilight: '1'
 game_text: ! |-
   Shadow: Spot 3 [Dunland] minions to shuffle your hand into your draw deck and draw 8 cards. The Free Peoples player may discard 3 cards from hand to prevent this.

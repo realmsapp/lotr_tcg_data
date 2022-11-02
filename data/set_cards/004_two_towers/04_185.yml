@@ -1,5 +1,5 @@
 ---
-key: 4C185
+key: 04_185
 name: Uruk Fanatic
 title: Uruk Fanatic
 set: two_towers
@@ -8,6 +8,9 @@ card_type: minion
 subtype: uruk-hai
 alignment: shadow
 culture: isengard
+variants:
+- 04_185-S
+- 04_185-F
 strength: '9'
 vitality: '2'
 twilight: '4'

@@ -1,5 +1,5 @@
 ---
-key: 7R58
+key: 07_058
 name: Gollum, Plotting Deceiver
 title: Gollum
 subtitle: Plotting Deceiver
@@ -8,6 +8,9 @@ rarity: rare
 card_type: minion
 alignment: shadow
 culture: gollum_shadow
+variants:
+- 07_058-S
+- 07_058-F
 strength: '5'
 vitality: '4'
 twilight: '2'

@@ -1,5 +1,5 @@
 ---
-key: 8R7
+key: '08_007'
 name: Unheard of
 title: Unheard of
 set: siege_of_gondor
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: free_people
 culture: dwarven
+variants:
+- '08_007-S'
+- '08_007-F'
 twilight: '1'
 game_text: ! |-
   If a Dwarf who is damage +X wins a skirmish, wound a minion not assigned to a skirmish X times.

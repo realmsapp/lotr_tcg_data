@@ -1,5 +1,5 @@
 ---
-key: 7U78
+key: 07_078
 name: Where Shall We Go
 title: Where Shall We Go
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: gollum_free_people
+variants:
+- 07_078-S
+- 07_078-F
 twilight: '0'
 game_text: ! |-
   If you have initiative, discard 2 cards from hand to wound a minion Smeagol is skirmishing twice.

@@ -1,5 +1,5 @@
 ---
-key: 1C2
+key: '01_002'
 name: The One Ring, The Ruling Ring
 title: The One Ring
 subtitle: The Ruling Ring
@@ -7,8 +7,8 @@ set: fellowship_of_the_ring
 rarity: common
 card_type: the_one_ring
 variants:
-- 1C2-S
-- 1C2-F
+- 01_002-S
+- 01_002-F
 strength: "+1"
 unique: true
 game_text: ! |-

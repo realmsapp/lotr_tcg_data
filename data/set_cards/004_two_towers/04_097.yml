@@ -1,5 +1,5 @@
 ---
-key: 4C97
+key: 04_097
 name: Long I Fell
 title: Long I Fell
 set: two_towers
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: gandalf
+variants:
+- 04_097-S
+- 04_097-F
 twilight: '2'
 game_text: ! |-
   Spell. Skirmish: Spot Gandalf to prevent all wounds to him. Any Shadow player may make you wound a minion to prevent this.

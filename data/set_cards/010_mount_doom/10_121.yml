@@ -1,5 +1,5 @@
 ---
-key: 10P121
+key: '10_121'
 name: Frodo, Resolute Hobbit
 title: Frodo
 subtitle: Resolute Hobbit
@@ -10,6 +10,9 @@ subtype: hobbit
 alignment: free_people
 culture: shire
 signet: frodo
+variants:
+- 10_121-S
+- 10_121-F
 strength: '3'
 vitality: '4'
 twilight: '0'

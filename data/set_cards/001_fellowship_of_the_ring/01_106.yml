@@ -1,5 +1,5 @@
 ---
-key: 1C106
+key: '01_106'
 name: Gondor's Vengeance
 title: Gondor's Vengeance
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: gondor
+variants:
+- 01_106-S
+- 01_106-F
 twilight: '0'
 game_text: ! |-
   Regroup: Exert a ranger companion to discard a minion.

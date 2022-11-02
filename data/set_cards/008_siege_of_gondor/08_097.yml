@@ -1,5 +1,5 @@
 ---
-key: 8U97
+key: '08_097'
 name: Gorgoroth Breaker
 title: Gorgoroth Breaker
 set: siege_of_gondor
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: sauron
+variants:
+- '08_097-S'
+- '08_097-F'
 strength: '9'
 vitality: '2'
 twilight: '3'

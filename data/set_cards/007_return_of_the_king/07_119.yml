@@ -1,5 +1,5 @@
 ---
-key: 7R119
+key: 07_119
 name: Seventh Level
 title: Seventh Level
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: free_people
 culture: gondor
+variants:
+- 07_119-S
+- 07_119-F
 strength: "-2"
 vitality: "-2"
 twilight: '5'

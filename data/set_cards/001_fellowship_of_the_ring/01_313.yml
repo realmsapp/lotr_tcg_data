@@ -1,5 +1,5 @@
 ---
-key: 1R313
+key: '01_313'
 name: Sting
 title: Sting
 set: fellowship_of_the_ring
@@ -8,6 +8,9 @@ card_type: possession
 subtype: hand_weapon
 alignment: free_people
 culture: shire
+variants:
+- 01_313-S
+- 01_313-F
 strength: "+2"
 twilight: '1'
 unique: true

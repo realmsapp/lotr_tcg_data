@@ -1,5 +1,5 @@
 ---
-key: 5U26
+key: '05_026'
 name: Look at Him
 title: Look at Him
 set: battle_of_helms_deep
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: shadow
 culture: gollum_shadow
+variants:
+- 05_026-S
+- 05_026-F
 twilight: '0'
 game_text: ! |-
   Shadow: Spot Smeagol or Gollum to add (1) for each burden.

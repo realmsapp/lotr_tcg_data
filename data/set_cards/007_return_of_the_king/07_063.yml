@@ -1,5 +1,5 @@
 ---
-key: 7R63
+key: '07_063'
 name: Let Her Deal With Them
 title: Let Her Deal With Them
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: shadow
 culture: gollum_shadow
+variants:
+- 07_063-S
+- 07_063-F
 twilight: '1'
 game_text: ! |-
   To play, spot Gollum or Smeagol. Bearer must be a minion. Limit 1 per bearer. Bearer is damage +1. If you have initiative during the Shadow phase, you may play this condition from your discard pile.

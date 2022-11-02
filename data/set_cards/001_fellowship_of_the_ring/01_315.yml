@@ -1,5 +1,5 @@
 ---
-key: 1C315
+key: '01_315'
 name: Stout and Sturdy
 title: Stout and Sturdy
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: shire
+variants:
+- 01_315-S
+- 01_315-F
 twilight: '1'
 game_text: ! |-
   Maneuver or Skirmish: Heal a Hobbit.

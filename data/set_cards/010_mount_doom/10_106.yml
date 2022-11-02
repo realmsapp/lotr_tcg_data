@@ -1,5 +1,5 @@
 ---
-key: 10C106
+key: '10_106'
 name: Chance Observation
 title: Chance Observation
 set: mount_doom
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: shire
+variants:
+- 10_106-S
+- 10_106-F
 twilight: '0'
 game_text: ! |-
   If there are 4 or more [Shire] cards in your discard pile, make a Hobbit strength +1 for each Hobbit you can spot.

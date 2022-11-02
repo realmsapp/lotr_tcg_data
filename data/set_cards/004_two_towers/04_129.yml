@@ -1,5 +1,5 @@
 ---
-key: 4C129
+key: 04_129
 name: Pathfinder
 title: Pathfinder
 set: two_towers
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: gondor
+variants:
+- 04_129-S
+- 04_129-F
 twilight: '0'
 game_text: ! |-
   Fellowship or Regroup: Spot a ranger to play the fellowship's next site (replacing opponent's site if necessary).

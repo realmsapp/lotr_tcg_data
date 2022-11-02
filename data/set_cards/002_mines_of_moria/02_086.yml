@@ -1,5 +1,5 @@
 ---
-key: 2R86
+key: 02_086
 name: Wraith-world
 title: Wraith-world
 set: mines_of_moria
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: shadow
 culture: wraith
+variants:
+- 02_086-S
+- 02_086-F
 twilight: '1'
 game_text: ! |-
   Skirmish: Spot a twilight Nazgul and the Ring-bearer wearing The One Ring to add 3 burdens.

@@ -1,5 +1,5 @@
 ---
-key: 8U42
+key: '08_042'
 name: A Path Appointed
 title: A Path Appointed
 set: siege_of_gondor
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: free_people
 culture: gondor
+variants:
+- '08_042-S'
+- '08_042-F'
 twilight: '1'
 game_text: ! |-
   Fellowship: Exert a [Gondor] Man and either a [Dwarven] companion or a [Rohan] companion to add a [Gondor] token here. Regroup: Remove a [Gondor] token here to discard a minion.

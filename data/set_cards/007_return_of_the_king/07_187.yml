@@ -1,5 +1,5 @@
 ---
-key: 7U187
+key: 07_187
 name: Morgul Brawler
 title: Morgul Brawler
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: wraith
+variants:
+- 07_187-S
+- 07_187-F
 strength: '10'
 vitality: '1'
 twilight: '4'

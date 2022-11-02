@@ -1,5 +1,5 @@
 ---
-key: 10U2
+key: '10_002'
 name: Memories of Darkness
 title: Memories of Darkness
 set: mount_doom
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: free_people
 culture: dwarven
+variants:
+- 10_002-S
+- 10_002-F
 twilight: '1'
 unique: true
 game_text: ! |-

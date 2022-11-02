@@ -1,5 +1,5 @@
 ---
-key: 7U214
+key: '07_214'
 name: Ulaire Lemenya, Wraith on Wings
 title: Ulaire Lemenya
 subtitle: Wraith on Wings
@@ -9,6 +9,9 @@ card_type: minion
 subtype: nazgul
 alignment: shadow
 culture: wraith
+variants:
+- 07_214-S
+- 07_214-F
 strength: '9'
 vitality: '2'
 twilight: '4'

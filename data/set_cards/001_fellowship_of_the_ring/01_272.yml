@@ -1,5 +1,5 @@
 ---
-key: 1R272
+key: '01_272'
 name: Orc War Band
 title: Orc War Band
 set: fellowship_of_the_ring
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: sauron
+variants:
+- 01_272-S
+- 01_272-F
 strength: '10'
 vitality: '2'
 twilight: '4'

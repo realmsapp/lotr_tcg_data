@@ -1,5 +1,5 @@
 ---
-key: 6R94
+key: 06_094
 name: Hama, Doorward of Theoden
 title: Hama
 subtitle: Doorward of Theoden
@@ -9,6 +9,9 @@ card_type: companion
 subtype: man
 alignment: free_people
 culture: rohan
+variants:
+- 06_094-S
+- 06_094-F
 strength: '6'
 vitality: '3'
 twilight: '2'

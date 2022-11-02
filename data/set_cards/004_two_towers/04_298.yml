@@ -1,5 +1,5 @@
 ---
-key: 4C298
+key: 04_298
 name: Brace of Coneys
 title: Brace of Coneys
 set: two_towers
@@ -7,6 +7,9 @@ rarity: common
 card_type: possession
 alignment: free_people
 culture: shire
+variants:
+- 04_298-S
+- 04_298-F
 twilight: '1'
 game_text: ! |-
   Bearer must be a Ring-bound Hobbit. Fellowship: Discard this possession to remove a burden.

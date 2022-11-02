@@ -1,10 +1,13 @@
 ---
-key: 10U118
+key: '10_118'
 name: Pelennor Prairie
 title: Pelennor Prairie
 set: mount_doom
 rarity: uncommon
 card_type: site
+variants:
+- 10_118-S
+- 10_118-F
 twilight: '3'
 site_number: '4'
 game_text: ! |-

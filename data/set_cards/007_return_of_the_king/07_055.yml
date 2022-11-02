@@ -1,5 +1,5 @@
 ---
-key: 7U55
+key: '07_055'
 name: Days Growing Dark
 title: Days Growing Dark
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: free_people
 culture: gollum_free_people
+variants:
+- 07_055-S
+- 07_055-F
 twilight: '2'
 game_text: ! |-
   Fellowship: Discard 3 cards from hand to play Smeagol from your discard pile.

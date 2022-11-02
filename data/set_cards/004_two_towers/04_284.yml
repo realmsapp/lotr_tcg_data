@@ -1,5 +1,5 @@
 ---
-key: 4R284
+key: 04_284
 name: King's Mail
 title: King's Mail
 set: two_towers
@@ -8,6 +8,9 @@ card_type: possession
 subtype: armor
 alignment: free_people
 culture: rohan
+variants:
+- 04_284-S
+- 04_284-F
 twilight: '2'
 unique: true
 game_text: ! |-

@@ -1,5 +1,5 @@
 ---
-key: 9R37
+key: '09_037'
 name: Seeing Stone of Minas Anor
 title: Seeing Stone of Minas Anor
 set: reflections
@@ -7,6 +7,8 @@ rarity: rare
 card_type: artifact
 alignment: free_people
 culture: gondor
+variants:
+- '09_037-F'
 twilight: '0'
 unique: true
 game_text: ! |-

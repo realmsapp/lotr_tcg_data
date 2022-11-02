@@ -1,5 +1,5 @@
 ---
-key: 4R231
+key: '04_231'
 name: Eastern Emyn Muil
 title: Eastern Emyn Muil
 set: two_towers
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: shadow
 culture: raider
+variants:
+- 04_231-S
+- 04_231-F
 twilight: '0'
 unique: true
 game_text: ! |-

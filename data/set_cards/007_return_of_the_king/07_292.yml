@@ -1,5 +1,5 @@
 ---
-key: 7U292
+key: 07_292
 name: Mordor Veteran
 title: Mordor Veteran
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: sauron
+variants:
+- 07_292-S
+- 07_292-F
 strength: '9'
 vitality: '3'
 twilight: '3'

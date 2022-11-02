@@ -1,5 +1,5 @@
 ---
-key: 3U46
+key: '03_046'
 name: Still Sharp
 title: Still Sharp
 set: realms_of_the_elf_lords
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: gondor
+variants:
+- 03_046-S
+- 03_046-F
 twilight: '0'
 game_text: ! |-
   Skirmish: Spot The Shards of Narsil to make a [Gondor] companion strength +3 and damage +1.

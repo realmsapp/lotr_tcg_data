@@ -1,10 +1,13 @@
 ---
-key: 4U327
+key: '04_327'
 name: Plains of Rohan
 title: Plains of Rohan
 set: two_towers
 rarity: uncommon
 card_type: site
+variants:
+- 04_327-S
+- 04_327-F
 site_number: '1'
 game_text: ! |-
   Plains. Fellowship: Exert 2 unbound companions to play Gimli from your draw deck.

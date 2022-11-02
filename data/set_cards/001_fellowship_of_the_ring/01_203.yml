@@ -1,5 +1,5 @@
 ---
-key: 1U203
+key: '01_203'
 name: All Blades Perish
 title: All Blades Perish
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: shadow
 culture: wraith
+variants:
+- 01_203-S
+- 01_203-F
 twilight: '0'
 game_text: ! |-
   Response: If a Nazgul is about to take a wound, prevent that wound.

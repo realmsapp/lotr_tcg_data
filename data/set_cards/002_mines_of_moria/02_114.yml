@@ -1,5 +1,5 @@
 ---
-key: 2C114
+key: '02_114'
 name: Sam, Proper Poet
 title: Sam
 subtitle: Proper Poet
@@ -10,6 +10,9 @@ subtype: hobbit
 alignment: free_people
 culture: shire
 signet: gandalf
+variants:
+- 02_114-S
+- 02_114-F
 strength: '3'
 vitality: '4'
 twilight: '2'

@@ -1,5 +1,5 @@
 ---
-key: 1C177
+key: '01_177'
 name: Goblin Patrol Troop
 title: Goblin Patrol Troop
 set: fellowship_of_the_ring
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: moria
+variants:
+- 01_177-S
+- 01_177-F
 strength: '13'
 vitality: '3'
 twilight: '6'

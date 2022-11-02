@@ -1,10 +1,13 @@
 ---
-key: 1C354
+key: '01_354'
 name: Anduin Wilderland
 title: Anduin Wilderland
 set: fellowship_of_the_ring
 rarity: common
 card_type: site
+variants:
+- 01_354-S
+- 01_354-F
 twilight: '6'
 site_number: '7'
 game_text: ! |-

@@ -1,5 +1,5 @@
 ---
-key: 2R38
+key: 02_038
 name: Shield of Boromir
 title: Shield of Boromir
 set: mines_of_moria
@@ -8,6 +8,9 @@ card_type: possession
 subtype: shield
 alignment: free_people
 culture: gondor
+variants:
+- 02_038-S
+- 02_038-F
 twilight: '1'
 unique: true
 game_text: ! |-

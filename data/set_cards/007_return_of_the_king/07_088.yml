@@ -1,5 +1,5 @@
 ---
-key: 7U88
+key: 07_088
 name: Dervorin
 title: Dervorin
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: companion
 subtype: man
 alignment: free_people
 culture: gondor
+variants:
+- 07_088-S
+- 07_088-F
 strength: '6'
 vitality: '3'
 twilight: '2'

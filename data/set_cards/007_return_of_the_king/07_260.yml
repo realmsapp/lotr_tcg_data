@@ -1,5 +1,5 @@
 ---
-key: 7R260
+key: '07_260'
 name: Windfola
 title: Windfola
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: possession
 subtype: mount
 alignment: free_people
 culture: rohan
+variants:
+- 07_260-S
+- 07_260-F
 twilight: '2'
 unique: true
 game_text: ! |-

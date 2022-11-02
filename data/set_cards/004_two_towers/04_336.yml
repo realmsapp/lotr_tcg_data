@@ -1,10 +1,13 @@
 ---
-key: 4U336
+key: '04_336'
 name: Wold of Rohan
 title: Wold of Rohan
 set: two_towers
 rarity: uncommon
 card_type: site
+variants:
+- 04_336-S
+- 04_336-F
 twilight: '3'
 site_number: '2'
 game_text: ! |-

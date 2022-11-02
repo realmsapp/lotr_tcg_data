@@ -1,5 +1,5 @@
 ---
-key: 1R302
+key: '01_302'
 name: Merry, Friend to Sam
 title: Merry
 subtitle: Friend to Sam
@@ -10,6 +10,9 @@ subtype: hobbit
 alignment: free_people
 culture: shire
 signet: frodo
+variants:
+- 01_302-S
+- 01_302-F
 strength: '3'
 vitality: '4'
 twilight: '1'

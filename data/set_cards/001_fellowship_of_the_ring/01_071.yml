@@ -1,5 +1,5 @@
 ---
-key: 1R71
+key: '01_071'
 name: Durin's Secret
 title: Durin's Secret
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: free_people
 culture: gandalf
+variants:
+- 01_071-S
+- 01_071-F
 twilight: '2'
 game_text: ! |-
   Fellowship: Spot Gandalf, a Dwarf, and an Elf to make the move limit for this turn +1.

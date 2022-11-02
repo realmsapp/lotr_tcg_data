@@ -1,11 +1,14 @@
 ---
-key: 4R1
+key: '04_001'
 name: The One Ring, Answer To All Riddles
 title: The One Ring
 subtitle: Answer To All Riddles
 set: two_towers
 rarity: rare
 card_type: the_one_ring
+variants:
+- 04_001-S
+- 04_001-F
 vitality: "+2"
 unique: true
 game_text: ! |-

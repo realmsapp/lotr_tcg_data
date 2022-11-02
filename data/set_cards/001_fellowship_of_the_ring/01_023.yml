@@ -1,5 +1,5 @@
 ---
-key: 1R23
+key: '01_023'
 name: Nobody Tosses a Dwarf
 title: Nobody Tosses a Dwarf
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: free_people
 culture: dwarven
+variants:
+- 01_023-S
+- 01_023-F
 twilight: '0'
 game_text: ! |-
   Response: If a Dwarf wins a skirmish, make an opponent discard 3 cards from the top of his or her draw deck.

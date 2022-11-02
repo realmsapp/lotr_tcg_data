@@ -1,5 +1,5 @@
 ---
-key: 1R132
+key: '01_132'
 name: Parry
 title: Parry
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: shadow
 culture: isengard
+variants:
+- 01_132-S
+- 01_132-F
 twilight: '2'
 game_text: ! |-
   Maneuver: Spot an Uruk-hai to cancel the strength bonus from a possession until the regroup phase.

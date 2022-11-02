@@ -1,5 +1,5 @@
 ---
-key: 1R237
+key: '01_237'
 name: The Witch-king, Lord of Angmar
 title: The Witch-king
 subtitle: Lord of Angmar
@@ -9,6 +9,9 @@ card_type: minion
 subtype: nazgul
 alignment: shadow
 culture: wraith
+variants:
+- 01_237-S
+- 01_237-F
 strength: '14'
 vitality: '4'
 twilight: '8'

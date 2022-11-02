@@ -1,5 +1,5 @@
 ---
-key: 1C151
+key: '01_151'
 name: Uruk Savage
 title: Uruk Savage
 set: fellowship_of_the_ring
@@ -8,6 +8,9 @@ card_type: minion
 subtype: uruk-hai
 alignment: shadow
 culture: isengard
+variants:
+- 01_151-S
+- 01_151-F
 strength: '5'
 vitality: '3'
 twilight: '2'

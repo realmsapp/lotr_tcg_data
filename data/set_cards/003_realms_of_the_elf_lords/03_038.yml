@@ -1,5 +1,5 @@
 ---
-key: 3R38
+key: 03_038
 name: Aragorn, Heir to the White City
 title: Aragorn
 subtitle: Heir to the White City
@@ -10,6 +10,9 @@ subtype: man
 alignment: free_people
 culture: gondor
 signet: frodo
+variants:
+- 03_038-S
+- 03_038-F
 strength: '8'
 vitality: '4'
 twilight: '4'

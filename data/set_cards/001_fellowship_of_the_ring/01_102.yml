@@ -1,5 +1,5 @@
 ---
-key: 1C102
+key: '01_102'
 name: Dagger Strike
 title: Dagger Strike
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: gondor
+variants:
+- 01_102-S
+- 01_102-F
 twilight: '0'
 game_text: ! |-
   Skirmish: Make a [Gondor] or [Shire] companion bearing a hand weapon strength +2 and damage +1.

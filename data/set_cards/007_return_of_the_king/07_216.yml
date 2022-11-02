@@ -1,5 +1,5 @@
 ---
-key: 7U216
+key: '07_216'
 name: Ulaire Nelya, Black-Mantled Wraith
 title: Ulaire Nelya
 subtitle: Black-Mantled Wraith
@@ -9,6 +9,9 @@ card_type: minion
 subtype: nazgul
 alignment: shadow
 culture: wraith
+variants:
+- 07_216-S
+- 07_216-F
 strength: '10'
 vitality: '3'
 twilight: '5'

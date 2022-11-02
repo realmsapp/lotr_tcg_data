@@ -1,5 +1,5 @@
 ---
-key: 4R240
+key: '04_240'
 name: New Fear
 title: New Fear
 set: two_towers
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: shadow
 culture: raider
+variants:
+- 04_240-S
+- 04_240-F
 twilight: '4'
 game_text: ! |-
   Regroup: Exert a [Raider] Man to add a burden for each companion over 4. The Free Peoples player may discard 2 companions (except the Ring-bearer) to prevent this.

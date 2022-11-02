@@ -1,5 +1,5 @@
 ---
-key: 9R44
+key: '09_044'
 name: Ring of Rancor
 title: Ring of Rancor
 set: reflections
@@ -8,6 +8,8 @@ card_type: artifact
 subtype: ring
 alignment: shadow
 culture: wraith
+variants:
+- '09_044-F'
 vitality: "+1"
 twilight: '0'
 unique: true

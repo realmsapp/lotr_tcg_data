@@ -1,5 +1,5 @@
 ---
-key: 10R48
+key: '10_048'
 name: Seasoned Leader
 title: Seasoned Leader
 set: mount_doom
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: shadow
 culture: raider
+variants:
+- 10_048-S
+- 10_048-F
 vitality: "+1"
 twilight: '1'
 game_text: ! |-

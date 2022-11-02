@@ -1,5 +1,5 @@
 ---
-key: 10U33
+key: '10_033'
 name: Hardy Garrison
 title: Hardy Garrison
 set: mount_doom
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: free_people
 culture: gondor
+variants:
+- 10_033-S
+- 10_033-F
 twilight: '2'
 unique: true
 game_text: ! |-

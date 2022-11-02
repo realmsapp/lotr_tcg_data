@@ -1,5 +1,5 @@
 ---
-key: 3P121
+key: '03_121'
 name: Legolas, Son of Thranduil
 title: Legolas
 subtitle: Son of Thranduil
@@ -10,6 +10,9 @@ subtype: elf
 alignment: free_people
 culture: elven
 signet: aragorn
+variants:
+- 03_121-S
+- 03_121-F
 strength: '6'
 vitality: '3'
 twilight: '2'

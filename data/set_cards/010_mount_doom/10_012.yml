@@ -1,5 +1,5 @@
 ---
-key: 10U12
+key: '10_012'
 name: Glimpse of Fate
 title: Glimpse of Fate
 set: mount_doom
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: free_people
 culture: elven
+variants:
+- 10_012-S
+- 10_012-F
 twilight: '0'
 unique: true
 game_text: ! |-

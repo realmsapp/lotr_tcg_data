@@ -1,5 +1,5 @@
 ---
-key: 8R24
+key: '08_024'
 name: Promise Keeping
 title: Promise Keeping
 set: siege_of_gondor
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: shadow
 culture: gollum_shadow
+variants:
+- '08_024-S'
+- '08_024-F'
 twilight: '4'
 unique: true
 game_text: ! |-

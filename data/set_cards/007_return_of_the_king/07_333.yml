@@ -1,10 +1,13 @@
 ---
-key: 7U333
+key: '07_333'
 name: Sleeping Quarters
 title: Sleeping Quarters
 set: return_of_the_king
 rarity: uncommon
 card_type: site
+variants:
+- 07_333-S
+- 07_333-F
 site_number: '1'
 game_text: ! |-
   When the fellowship moves from this site, the Free Peoples player may spot 3 Hobbits to remove (2).

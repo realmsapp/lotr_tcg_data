@@ -1,5 +1,5 @@
 ---
-key: 5U92
+key: 05_092
 name: Sigewulf, Brave Volunteer
 title: Sigewulf
 subtitle: Brave Volunteer
@@ -8,6 +8,9 @@ rarity: uncommon
 card_type: ally
 alignment: free_people
 culture: rohan
+variants:
+- 05_092-S
+- 05_092-F
 strength: '4'
 vitality: '2'
 twilight: '1'

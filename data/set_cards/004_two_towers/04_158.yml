@@ -1,5 +1,5 @@
 ---
-key: 4R158
+key: 04_158
 name: Lieutenant of Orthanc
 title: Lieutenant of Orthanc
 set: two_towers
@@ -8,6 +8,9 @@ card_type: minion
 subtype: uruk-hai
 alignment: shadow
 culture: isengard
+variants:
+- 04_158-S
+- 04_158-F
 strength: '12'
 vitality: '3'
 twilight: '7'

@@ -1,5 +1,5 @@
 ---
-key: 1U249
+key: 01_249
 name: Gleaming Spires Will Crumble
 title: Gleaming Spires Will Crumble
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: shadow
 culture: sauron
+variants:
+- 01_249-S
+- 01_249-F
 twilight: '1'
 game_text: ! |-
   Plays to your support area. Each [Sauron] Orc skirmishing a [Gondor] character is strength +2. Discard this condition if your [Sauron] Orc loses a skirmish.

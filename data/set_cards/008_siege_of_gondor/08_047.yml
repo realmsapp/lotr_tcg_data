@@ -1,5 +1,5 @@
 ---
-key: 8C47
+key: '08_047'
 name: Stronger and More Terrible
 title: Stronger and More Terrible
 set: siege_of_gondor
@@ -7,6 +7,9 @@ rarity: common
 card_type: condition
 alignment: free_people
 culture: gondor
+variants:
+- '08_047-S'
+- '08_047-F'
 twilight: '1'
 game_text: ! |-
   To play, add a threat. Each time your [Gondor] Wraith wins a skirmish, you may remove a threat.

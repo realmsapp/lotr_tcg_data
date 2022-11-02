@@ -1,5 +1,5 @@
 ---
-key: 1R221
+key: '01_221'
 name: The Pale Blade
 title: The Pale Blade
 set: fellowship_of_the_ring
@@ -8,6 +8,9 @@ card_type: possession
 subtype: hand_weapon
 alignment: shadow
 culture: wraith
+variants:
+- 01_221-S
+- 01_221-F
 strength: "+3"
 twilight: '2'
 unique: true

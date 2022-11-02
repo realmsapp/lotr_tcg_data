@@ -1,5 +1,5 @@
 ---
-key: 4R162
+key: '04_162'
 name: New Power Rising
 title: New Power Rising
 set: two_towers
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: shadow
 culture: isengard
+variants:
+- 04_162-S
+- 04_162-F
 twilight: '2'
 game_text: ! |-
   Regroup: Spot Saruman or an [Isengard] Man, reveal your hand, and discard all Free Peoples cards revealed to take an [Isengard] card into hand from your discard pile.

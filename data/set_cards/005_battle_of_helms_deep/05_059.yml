@@ -1,5 +1,5 @@
 ---
-key: 5R59
+key: 05_059
 name: Sharku's Warg
 title: Sharku's Warg
 set: battle_of_helms_deep
@@ -8,6 +8,9 @@ card_type: possession
 subtype: mount
 alignment: shadow
 culture: isengard
+variants:
+- 05_059-S
+- 05_059-F
 strength: "+5"
 vitality: "+3"
 twilight: '5'

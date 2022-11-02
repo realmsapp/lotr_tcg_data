@@ -1,5 +1,5 @@
 ---
-key: 7U309
+key: 07_309
 name: Rope and Winch
 title: Rope and Winch
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: shadow
 culture: sauron
+variants:
+- 07_309-S
+- 07_309-F
 twilight: '1'
 game_text: ! |-
   To play, spot 2 [Sauron] Orcs. Discard any number of cards from hand. The Free Peoples player then discards any number of cards from hand. For each card you discarded more than the Free Peoples player, make a [Sauron] Orc strength +2.

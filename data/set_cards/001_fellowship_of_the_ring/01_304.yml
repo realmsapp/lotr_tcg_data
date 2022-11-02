@@ -1,5 +1,5 @@
 ---
-key: 1C304
+key: '01_304'
 name: Noble Intentions
 title: Noble Intentions
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: shire
+variants:
+- 01_304-S
+- 01_304-F
 twilight: '0'
 game_text: ! |-
   Skirmish: Exert a companion (except a Hobbit) to make a Hobbit strength +3.

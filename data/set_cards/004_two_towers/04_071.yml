@@ -1,5 +1,5 @@
 ---
-key: 4C71
+key: '04_071'
 name: Haldir, Emissary of the Galadhrim
 title: Haldir
 subtitle: Emissary of the Galadhrim
@@ -9,6 +9,9 @@ card_type: companion
 subtype: elf
 alignment: free_people
 culture: elven
+variants:
+- 04_071-S
+- 04_071-F
 strength: '5'
 vitality: '3'
 twilight: '2'

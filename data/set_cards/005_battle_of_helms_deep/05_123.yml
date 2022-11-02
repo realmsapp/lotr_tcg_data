@@ -1,5 +1,5 @@
 ---
-key: 5R123
+key: '05_123'
 name: Baruk Khazad (AI)
 title: Baruk Khazad (AI)
 set: battle_of_helms_deep
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: free_people
 culture: dwarven
+variants:
+- 05_123-S
+- 05_123-F
 twilight: '0'
 game_text: ! |-
   Maneuver: Exert a Dwarf to wound a minion. You may take the next maneuver action.

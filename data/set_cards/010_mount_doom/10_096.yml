@@ -1,5 +1,5 @@
 ---
-key: 10U96
+key: '10_096'
 name: Rank and File
 title: Rank and File
 set: mount_doom
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: shadow
 culture: sauron
+variants:
+- 10_096-S
+- 10_096-F
 twilight: '1'
 unique: true
 game_text: ! |-

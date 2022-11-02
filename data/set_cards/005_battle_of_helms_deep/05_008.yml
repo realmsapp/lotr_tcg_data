@@ -1,5 +1,5 @@
 ---
-key: 5U8
+key: 05_008
 name: Horn of Helm
 title: Horn of Helm
 set: battle_of_helms_deep
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: possession
 alignment: free_people
 culture: dwarven
+variants:
+- 05_008-S
+- 05_008-F
 twilight: '2'
 unique: true
 game_text: ! |-

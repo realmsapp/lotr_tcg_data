@@ -1,5 +1,5 @@
 ---
-key: 10R11
+key: '10_011'
 name: Galadriel, Lady Redeemed
 title: Galadriel
 subtitle: Lady Redeemed
@@ -9,6 +9,9 @@ card_type: companion
 subtype: elf
 alignment: free_people
 culture: elven
+variants:
+- 10_011-S
+- 10_011-F
 strength: '3'
 vitality: '3'
 twilight: '3'

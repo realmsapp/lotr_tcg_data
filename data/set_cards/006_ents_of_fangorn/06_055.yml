@@ -1,5 +1,5 @@
 ---
-key: 6R55
+key: '06_055'
 name: Ring of Barahir
 title: Ring of Barahir
 set: ents_of_fangorn
@@ -8,6 +8,9 @@ card_type: artifact
 subtype: ring
 alignment: free_people
 culture: gondor
+variants:
+- 06_055-S
+- 06_055-F
 twilight: '0'
 unique: true
 game_text: ! |-

@@ -1,10 +1,13 @@
 ---
-key: 7U350
+key: '07_350'
 name: Minas Tirith Seventh Circle
 title: Minas Tirith Seventh Circle
 set: return_of_the_king
 rarity: uncommon
 card_type: site
+variants:
+- 07_350-S
+- 07_350-F
 twilight: '3'
 site_number: '6'
 game_text: ! |-

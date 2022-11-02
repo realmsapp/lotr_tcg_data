@@ -1,5 +1,5 @@
 ---
-key: 4C137
+key: '04_137'
 name: Attack on Helm's Deep
 title: Attack on Helm's Deep
 set: two_towers
@@ -7,6 +7,9 @@ rarity: common
 card_type: condition
 alignment: shadow
 culture: isengard
+variants:
+- 04_137-S
+- 04_137-F
 twilight: '0'
 game_text: ! |-
   Plays to your support area. Shadow: Play an Uruk-hai to place an [Isengard] token on this card. Regroup: Remove 3 [Isengard] tokens from this card and discard an Uruk-hai to take control of a site.

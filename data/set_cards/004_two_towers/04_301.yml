@@ -1,5 +1,5 @@
 ---
-key: 4R301
+key: '04_301'
 name: Frodo, Courteous Halfling
 title: Frodo
 subtitle: Courteous Halfling
@@ -10,6 +10,9 @@ subtype: hobbit
 alignment: free_people
 culture: shire
 signet: frodo
+variants:
+- 04_301-S
+- 04_301-F
 strength: '3'
 vitality: '4'
 twilight: '0'

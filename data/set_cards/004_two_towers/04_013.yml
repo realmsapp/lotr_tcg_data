@@ -1,5 +1,5 @@
 ---
-key: 4U13
+key: '04_013'
 name: Dunlending Pillager
 title: Dunlending Pillager
 set: two_towers
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: dunland
+variants:
+- 04_013-S
+- 04_013-F
 strength: '9'
 vitality: '1'
 twilight: '3'

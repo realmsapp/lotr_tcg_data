@@ -1,5 +1,5 @@
 ---
-key: 7U94
+key: 07_094
 name: Gondor Bow
 title: Gondor Bow
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: possession
 subtype: ranged_weapon
 alignment: free_people
 culture: gondor
+variants:
+- 07_094-S
+- 07_094-F
 twilight: '1'
 game_text: ! |-
   Bearer must be a [Gondor] Man. If bearer is a knight, he or she is strength +1. Skirmish: Exert bearer to wound a minion he or she is skirmishing if that minion bears a fortification.

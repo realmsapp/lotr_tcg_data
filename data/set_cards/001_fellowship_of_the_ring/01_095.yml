@@ -1,5 +1,5 @@
 ---
-key: 1R95
+key: 01_095
 name: Blade of Gondor
 title: Blade of Gondor
 set: fellowship_of_the_ring
@@ -8,6 +8,9 @@ card_type: possession
 subtype: hand_weapon
 alignment: free_people
 culture: gondor
+variants:
+- 01_095-S
+- 01_095-F
 strength: "+2"
 twilight: '1'
 unique: true

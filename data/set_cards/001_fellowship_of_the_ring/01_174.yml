@@ -1,5 +1,5 @@
 ---
-key: 1C174
+key: '01_174'
 name: Goblin Backstabber
 title: Goblin Backstabber
 set: fellowship_of_the_ring
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: moria
+variants:
+- 01_174-S
+- 01_174-F
 strength: '5'
 vitality: '1'
 twilight: '1'

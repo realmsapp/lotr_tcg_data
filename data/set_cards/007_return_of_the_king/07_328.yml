@@ -1,5 +1,5 @@
 ---
-key: 7U328
+key: 07_328
 name: Slow-kindled Courage
 title: Slow-kindled Courage
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: free_people
 culture: shire
+variants:
+- 07_328-S
+- 07_328-F
 twilight: '2'
 unique: true
 game_text: ! |-

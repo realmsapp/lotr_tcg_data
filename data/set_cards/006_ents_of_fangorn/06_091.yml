@@ -1,5 +1,5 @@
 ---
-key: 6U91
+key: 06_091
 name: Blood Has Been Spilled
 title: Blood Has Been Spilled
 set: ents_of_fangorn
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: free_people
 culture: rohan
+variants:
+- 06_091-S
+- 06_091-F
 twilight: '1'
 game_text: ! |-
   Plays to your support area. Skirmish: Discard a mount borne by a [Rohan] Man to prevent that Man from being overwhelmed unless his or her strength is tripled.

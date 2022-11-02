@@ -1,5 +1,5 @@
 ---
-key: 3C111
+key: '03_111'
 name: Old Noakes, Purveyor of Wisdoms
 title: Old Noakes
 subtitle: Purveyor of Wisdoms
@@ -8,6 +8,9 @@ rarity: common
 card_type: ally
 alignment: free_people
 culture: shire
+variants:
+- 03_111-S
+- 03_111-F
 strength: '1'
 vitality: '2'
 twilight: '1'

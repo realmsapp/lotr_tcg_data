@@ -1,5 +1,5 @@
 ---
-key: 7R50
+key: '07_050'
 name: Terrible and Evil
 title: Terrible and Evil
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: free_people
 culture: gandalf
+variants:
+- 07_050-S
+- 07_050-F
 twilight: '3'
 game_text: ! |-
   Spell. Exert Gandalf X times to wound a minion X times. If that minion is a Nazgul, wound it again.

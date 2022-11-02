@@ -1,5 +1,5 @@
 ---
-key: 7C156
+key: '07_156'
 name: Raider Halberd
 title: Raider Halberd
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: possession
 subtype: hand_weapon
 alignment: shadow
 culture: raider
+variants:
+- 07_156-S
+- 07_156-F
 strength: "+2"
 twilight: '0'
 game_text: ! |-

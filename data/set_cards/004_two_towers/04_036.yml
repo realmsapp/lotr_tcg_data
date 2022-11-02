@@ -1,5 +1,5 @@
 ---
-key: 4U36
+key: '04_036'
 name: War Club
 title: War Club
 set: two_towers
@@ -8,6 +8,9 @@ card_type: possession
 subtype: hand_weapon
 alignment: shadow
 culture: dunland
+variants:
+- 04_036-S
+- 04_036-F
 strength: "+2"
 twilight: '0'
 game_text: ! |-

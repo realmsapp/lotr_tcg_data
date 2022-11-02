@@ -1,5 +1,5 @@
 ---
-key: 1U194
+key: 01_194
 name: Relentless
 title: Relentless
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: shadow
 culture: moria
+variants:
+- 01_194-S
+- 01_194-F
 twilight: '0'
 game_text: ! |-
   Search. Response: If a stealth event is played, spot 3 [Moria] minions to cancel that event.

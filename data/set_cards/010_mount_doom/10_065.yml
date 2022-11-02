@@ -1,5 +1,5 @@
 ---
-key: 10C65
+key: '10_065'
 name: Swarming Like Beetles
 title: Swarming Like Beetles
 set: mount_doom
@@ -7,6 +7,9 @@ rarity: common
 card_type: condition
 alignment: shadow
 culture: wraith
+variants:
+- 10_065-S
+- 10_065-F
 twilight: '0'
 game_text: ! |-
   Maneuver: Spot a [Wraith] Orc and remove a threat to wound an unwounded companion.

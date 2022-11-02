@@ -1,5 +1,5 @@
 ---
-key: 5U45
+key: '05_045'
 name: Berserk Rager
 title: Berserk Rager
 set: battle_of_helms_deep
@@ -8,6 +8,9 @@ card_type: minion
 subtype: uruk-hai
 alignment: shadow
 culture: isengard
+variants:
+- 05_045-S
+- 05_045-F
 strength: '10'
 vitality: '3'
 twilight: '5'

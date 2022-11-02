@@ -1,5 +1,5 @@
 ---
-key: 7R324
+key: '07_324'
 name: Pippin, Wearer of Black and Silver
 title: Pippin
 subtitle: Wearer of Black and Silver
@@ -10,6 +10,9 @@ subtype: hobbit
 alignment: free_people
 culture: shire
 signet: aragorn
+variants:
+- 07_324-S
+- 07_324-F
 strength: '3'
 vitality: '4'
 twilight: '1'

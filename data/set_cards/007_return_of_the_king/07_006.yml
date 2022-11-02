@@ -1,5 +1,5 @@
 ---
-key: 7C6
+key: '07_006'
 name: Gimli, Faithful Companion
 title: Gimli
 subtitle: Faithful Companion
@@ -10,6 +10,9 @@ subtype: dwarf
 alignment: free_people
 culture: dwarven
 signet: theoden
+variants:
+- 07_006-S
+- 07_006-F
 strength: '6'
 vitality: '3'
 twilight: '2'

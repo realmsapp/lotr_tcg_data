@@ -1,11 +1,14 @@
 ---
-key: 1R1
+key: '01_001'
 name: The One Ring, Isildur's Bane
 title: The One Ring
 subtitle: Isildur's Bane
 set: fellowship_of_the_ring
 rarity: rare
 card_type: the_one_ring
+variants:
+- 01_001-S
+- 01_001-F
 strength: "+1"
 vitality: "+1"
 unique: true

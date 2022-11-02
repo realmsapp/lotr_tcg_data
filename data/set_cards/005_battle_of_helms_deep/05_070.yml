@@ -1,5 +1,5 @@
 ---
-key: 5R70
+key: '05_070'
 name: Army of Haradrim
 title: Army of Haradrim
 set: battle_of_helms_deep
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: raider
+variants:
+- 05_070-S
+- 05_070-F
 strength: '14'
 vitality: '4'
 twilight: '7'

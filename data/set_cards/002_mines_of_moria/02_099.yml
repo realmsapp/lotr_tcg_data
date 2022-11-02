@@ -1,5 +1,5 @@
 ---
-key: 2C99
+key: 02_099
 name: Deft in Their Movements
 title: Deft in Their Movements
 set: mines_of_moria
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: shire
+variants:
+- 02_099-S
+- 02_099-F
 twilight: '0'
 game_text: ! |-
   Stealth. Regroup: Spot 2 Hobbits to make each site's Shadow number -2 until the end of the turn.

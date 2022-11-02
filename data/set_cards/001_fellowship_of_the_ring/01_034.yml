@@ -1,5 +1,5 @@
 ---
-key: 1R34
+key: '01_034'
 name: Celeborn, Lord of Lorien
 title: Celeborn
 subtitle: Lord of Lorien
@@ -8,6 +8,9 @@ rarity: rare
 card_type: ally
 alignment: free_people
 culture: elven
+variants:
+- 01_034-S
+- 01_034-F
 strength: '6'
 vitality: '3'
 twilight: '2'

@@ -1,5 +1,5 @@
 ---
-key: 4C308
+key: 04_308
 name: Knocked on the Head
 title: Knocked on the Head
 set: two_towers
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: shire
+variants:
+- 04_308-S
+- 04_308-F
 twilight: '0'
 game_text: ! |-
   Regroup: Play an unbound Hobbit from your discard pile.

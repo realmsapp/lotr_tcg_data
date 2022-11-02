@@ -1,5 +1,5 @@
 ---
-key: 1C104
+key: '01_104'
 name: Eregion's Trails
 title: Eregion's Trails
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: gondor
+variants:
+- 01_104-S
+- 01_104-F
 twilight: '1'
 game_text: ! |-
   Maneuver: Exert a ranger to make each roaming minion strength -3 until the regroup phase.

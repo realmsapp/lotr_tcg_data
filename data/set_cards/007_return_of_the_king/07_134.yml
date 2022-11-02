@@ -1,5 +1,5 @@
 ---
-key: 7U134
+key: '07_134'
 name: Desert Scout
 title: Desert Scout
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: raider
+variants:
+- 07_134-S
+- 07_134-F
 strength: '8'
 vitality: '2'
 twilight: '3'

@@ -1,5 +1,5 @@
 ---
-key: 5C28
+key: 05_028
 name: Smeagol, Old Noser
 title: Smeagol
 subtitle: Old Noser
@@ -9,6 +9,9 @@ card_type: companion
 alignment: free_people
 culture: gollum_free_people
 signet: frodo
+variants:
+- 05_028-S
+- 05_028-F
 strength: '3'
 vitality: '4'
 twilight: '0'

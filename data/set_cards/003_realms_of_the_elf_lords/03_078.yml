@@ -1,5 +1,5 @@
 ---
-key: 3C78
+key: 03_078
 name: Hide and Seek
 title: Hide and Seek
 set: realms_of_the_elf_lords
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: shadow
 culture: moria
+variants:
+- 03_078-S
+- 03_078-F
 twilight: '1'
 game_text: ! |-
   Search. Skirmish: Spot 2 [Shire] companions to make a [Moria] minion damage +1.

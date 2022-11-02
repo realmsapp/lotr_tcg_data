@@ -1,5 +1,5 @@
 ---
-key: 8C10
+key: '08_010'
 name: Legolas, Elven Stalwart
 title: Legolas
 subtitle: Elven Stalwart
@@ -10,6 +10,9 @@ subtype: elf
 alignment: free_people
 culture: elven
 signet: aragorn
+variants:
+- '08_010-S'
+- '08_010-F'
 strength: '6'
 vitality: '3'
 twilight: '2'

@@ -1,5 +1,5 @@
 ---
-key: 2U79
+key: 02_079
 name: Resistance Becomes Unbearable
 title: Resistance Becomes Unbearable
 set: mines_of_moria
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: shadow
 culture: wraith
+variants:
+- 02_079-S
+- 02_079-F
 twilight: '1'
 game_text: ! |-
   Maneuver: Exert a twilight Nazgul to exert the Ring-bearer.If the Ring-bearer is then exhausted, he puts on The One Ring until the regroup phase.

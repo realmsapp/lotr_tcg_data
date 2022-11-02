@@ -1,5 +1,5 @@
 ---
-key: 4U82
+key: 04_082
 name: Strength of Arms
 title: Strength of Arms
 set: two_towers
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: free_people
 culture: elven
+variants:
+- 04_082-S
+- 04_082-F
 twilight: '1'
 unique: true
 game_text: ! |-

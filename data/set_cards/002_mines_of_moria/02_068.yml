@@ -1,5 +1,5 @@
 ---
-key: 2U68
+key: 02_068
 name: Must Do Without Hope
 title: Must Do Without Hope
 set: mines_of_moria
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: shadow
 culture: moria
+variants:
+- 02_068-S
+- 02_068-F
 twilight: '0'
 game_text: ! |-
   Maneuver: Exert The Balrog to add a burden.

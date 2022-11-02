@@ -1,5 +1,5 @@
 ---
-key: 3U18
+key: 03_018
 name: Galdor, Councilor From the West
 title: Galdor
 subtitle: Councilor From the West
@@ -8,6 +8,9 @@ rarity: uncommon
 card_type: ally
 alignment: free_people
 culture: elven
+variants:
+- 03_018-S
+- 03_018-F
 strength: '5'
 vitality: '2'
 twilight: '2'

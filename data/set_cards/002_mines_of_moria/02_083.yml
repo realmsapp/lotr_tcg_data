@@ -1,5 +1,5 @@
 ---
-key: 2U83
+key: 02_083
 name: Ulaire Enquea, Ringwraith in Twilight
 title: Ulaire Enquea
 subtitle: Ringwraith in Twilight
@@ -9,6 +9,9 @@ card_type: minion
 subtype: nazgul
 alignment: shadow
 culture: wraith
+variants:
+- 02_083-S
+- 02_083-F
 strength: '11'
 vitality: '4'
 twilight: '6'

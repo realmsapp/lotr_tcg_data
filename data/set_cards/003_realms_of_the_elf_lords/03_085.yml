@@ -1,5 +1,5 @@
 ---
-key: 3R85
+key: 03_085
 name: Too Great and Terrible
 title: Too Great and Terrible
 set: realms_of_the_elf_lords
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: shadow
 culture: wraith
+variants:
+- 03_085-S
+- 03_085-F
 twilight: '0'
 game_text: ! |-
   Maneuver: Spot a Nazgul to wound Gandalf twice. The Free Peoples player may discard 2 [Gandalf] cards from hand to prevent this.

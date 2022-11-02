@@ -1,5 +1,5 @@
 ---
-key: 1C110
+key: '01_110'
 name: Pathfinder
 title: Pathfinder
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: gondor
+variants:
+- 01_110-S
+- 01_110-F
 twilight: '0'
 game_text: ! |-
   Fellowship or Regroup: Spot a ranger to play the fellowship's next site (replacing opponent's site if necessary).

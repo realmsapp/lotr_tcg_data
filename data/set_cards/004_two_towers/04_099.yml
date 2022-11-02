@@ -1,5 +1,5 @@
 ---
-key: 4U99
+key: 04_099
 name: Roll of Thunder
 title: Roll of Thunder
 set: two_towers
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: gandalf
+variants:
+- 04_099-S
+- 04_099-F
 twilight: '3'
 game_text: ! |-
   Fellowship or Maneuver: Spot Gandalf to discard a Shadow possession or Shadow artifact.

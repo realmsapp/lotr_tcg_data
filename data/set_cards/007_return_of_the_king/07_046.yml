@@ -1,5 +1,5 @@
 ---
-key: 7C46
+key: '07_046'
 name: Peace of Mind
 title: Peace of Mind
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: gandalf
+variants:
+- 07_046-S
+- 07_046-F
 twilight: '4'
 game_text: ! |-
   Spot Gandalf to heal an unbound Hobbit 3 times.

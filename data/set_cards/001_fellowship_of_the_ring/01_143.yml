@@ -1,5 +1,5 @@
 ---
-key: 1R143
+key: '01_143'
 name: Troop of Uruk-hai
 title: Troop of Uruk-hai
 set: fellowship_of_the_ring
@@ -8,6 +8,9 @@ card_type: minion
 subtype: uruk-hai
 alignment: shadow
 culture: isengard
+variants:
+- 01_143-S
+- 01_143-F
 strength: '9'
 vitality: '4'
 twilight: '5'

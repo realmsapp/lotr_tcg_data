@@ -1,5 +1,5 @@
 ---
-key: 3U25
+key: '03_025'
 name: Saelbeth, Elven Councilor
 title: Saelbeth
 subtitle: Elven Councilor
@@ -8,6 +8,9 @@ rarity: uncommon
 card_type: ally
 alignment: free_people
 culture: elven
+variants:
+- 03_025-S
+- 03_025-F
 strength: '4'
 vitality: '3'
 twilight: '2'

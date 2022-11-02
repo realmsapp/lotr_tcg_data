@@ -1,5 +1,5 @@
 ---
-key: 7R18
+key: 07_018
 name: Bow of the Galadhrim, Gift of Galadriel
 title: Bow of the Galadhrim
 subtitle: Gift of Galadriel
@@ -9,6 +9,9 @@ card_type: possession
 subtype: ranged_weapon
 alignment: free_people
 culture: elven
+variants:
+- 07_018-S
+- 07_018-F
 strength: "+1"
 twilight: '1'
 unique: true

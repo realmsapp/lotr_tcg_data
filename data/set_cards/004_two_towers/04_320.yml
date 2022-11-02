@@ -1,5 +1,5 @@
 ---
-key: 4U320
+key: '04_320'
 name: Store-room
 title: Store-room
 set: two_towers
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: shire
+variants:
+- 04_320-S
+- 04_320-F
 twilight: '1'
 game_text: ! |-
   Regroup: Heal an unbound Hobbit once (or twice if you spot Gandalf).

@@ -1,5 +1,5 @@
 ---
-key: 4R214
+key: '04_214'
 name: Where Has Grima Stowed It?
 title: Where Has Grima Stowed It?
 set: two_towers
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: shadow
 culture: isengard
+variants:
+- 04_214-S
+- 04_214-F
 twilight: '2'
 game_text: ! |-
   Maneuver: Spot Grima to discard a possession borne by an ally or unbound companion.

@@ -1,5 +1,5 @@
 ---
-key: 4C112
+key: '04_112'
 name: Boromir's Gauntlets
 title: Boromir's Gauntlets
 set: two_towers
@@ -8,6 +8,9 @@ card_type: possession
 subtype: gauntlets
 alignment: free_people
 culture: gondor
+variants:
+- 04_112-S
+- 04_112-F
 twilight: '1'
 unique: true
 game_text: ! |-

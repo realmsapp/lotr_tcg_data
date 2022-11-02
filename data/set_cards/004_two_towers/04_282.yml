@@ -1,5 +1,5 @@
 ---
-key: 4U282
+key: 04_282
 name: An Honorable Charge
 title: An Honorable Charge
 set: two_towers
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: rohan
+variants:
+- 04_282-S
+- 04_282-F
 twilight: '1'
 game_text: ! |-
   Skirmish: Make an unbound companion strength +1 for each [Rohan] Man you spot (limit +3).

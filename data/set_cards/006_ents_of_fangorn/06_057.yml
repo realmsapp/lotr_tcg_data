@@ -1,5 +1,5 @@
 ---
-key: 6R57
+key: '06_057'
 name: Agents of Orthanc
 title: Agents of Orthanc
 set: ents_of_fangorn
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: isengard
+variants:
+- 06_057-S
+- 06_057-F
 strength: '9'
 vitality: '3'
 twilight: '5'

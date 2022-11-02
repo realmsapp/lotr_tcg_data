@@ -1,5 +1,5 @@
 ---
-key: 3U2
+key: '03_002'
 name: Gimli's Pipe
 title: Gimli's Pipe
 set: realms_of_the_elf_lords
@@ -8,6 +8,9 @@ card_type: possession
 subtype: pipe
 alignment: free_people
 culture: dwarven
+variants:
+- 03_002-S
+- 03_002-F
 twilight: '1'
 unique: true
 game_text: ! |-

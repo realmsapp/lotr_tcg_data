@@ -1,5 +1,5 @@
 ---
-key: 4C135
+key: '04_135'
 name: War and Valor
 title: War and Valor
 set: two_towers
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: gondor
+variants:
+- 04_135-S
+- 04_135-F
 twilight: '0'
 game_text: ! |-
   Skirmish: Make a [Gondor] Man strength +2 (or +3 and damage +1 if skirmishing a roaming minion).

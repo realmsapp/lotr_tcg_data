@@ -1,5 +1,5 @@
 ---
-key: 8R36
+key: '08_036'
 name: Garrison of Gondor
 title: Garrison of Gondor
 set: siege_of_gondor
@@ -8,6 +8,9 @@ card_type: companion
 subtype: man
 alignment: free_people
 culture: gondor
+variants:
+- '08_036-S'
+- '08_036-F'
 strength: '8'
 vitality: '3'
 twilight: '3'

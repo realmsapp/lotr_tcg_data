@@ -1,5 +1,5 @@
 ---
-key: 4U318
+key: 04_318
 name: Seven We Had
 title: Seven We Had
 set: two_towers
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: shire
+variants:
+- 04_318-S
+- 04_318-F
 twilight: '0'
 game_text: ! |-
   Fellowship: Add a burden to discard a condition borne by a Hobbit.

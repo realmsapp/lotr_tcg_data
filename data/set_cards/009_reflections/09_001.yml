@@ -1,11 +1,13 @@
 ---
-key: 9R+1
+key: '09_001'
 name: The One Ring, The Binding Ring
 title: The One Ring
 subtitle: The Binding Ring
 set: reflections
 rarity: rare_plus
 card_type: the_one_ring
+variants:
+- '09_001-F'
 strength: "+1"
 vitality: "+1"
 unique: true

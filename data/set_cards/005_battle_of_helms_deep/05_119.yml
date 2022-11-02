@@ -1,10 +1,13 @@
 ---
-key: 5U119
+key: 05_119
 name: Nan Curunir
 title: Nan Curunir
 set: battle_of_helms_deep
 rarity: uncommon
 card_type: site
+variants:
+- 05_119-S
+- 05_119-F
 twilight: '8'
 site_number: '8'
 game_text: ! |-

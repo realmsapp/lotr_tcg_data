@@ -1,5 +1,5 @@
 ---
-key: 3R19
+key: 03_019
 name: Gift of the Evenstar
 title: Gift of the Evenstar
 set: realms_of_the_elf_lords
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: free_people
 culture: elven
+variants:
+- 03_019-S
+- 03_019-F
 twilight: '1'
 unique: true
 game_text: ! |-

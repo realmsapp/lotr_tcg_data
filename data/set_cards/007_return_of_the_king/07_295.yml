@@ -1,5 +1,5 @@
 ---
-key: 7U295
+key: 07_295
 name: Orc Assault Band
 title: Orc Assault Band
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: sauron
+variants:
+- 07_295-S
+- 07_295-F
 strength: '10'
 vitality: '3'
 twilight: '4'

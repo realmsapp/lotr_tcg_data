@@ -1,5 +1,5 @@
 ---
-key: 7C90
+key: 07_090
 name: Faramir, Stout Captain
 title: Faramir
 subtitle: Stout Captain
@@ -10,6 +10,9 @@ subtype: man
 alignment: free_people
 culture: gondor
 signet: theoden
+variants:
+- 07_090-S
+- 07_090-F
 strength: '7'
 vitality: '3'
 twilight: '3'

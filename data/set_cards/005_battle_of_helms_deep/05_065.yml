@@ -1,5 +1,5 @@
 ---
-key: 5C65
+key: '05_065'
 name: Warg
 title: Warg
 set: battle_of_helms_deep
@@ -8,6 +8,9 @@ card_type: possession
 subtype: mount
 alignment: shadow
 culture: isengard
+variants:
+- 05_065-S
+- 05_065-F
 strength: "+3"
 vitality: "+1"
 twilight: '3'

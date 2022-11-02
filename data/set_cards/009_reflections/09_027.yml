@@ -1,5 +1,5 @@
 ---
-key: 9R27
+key: '09_027'
 name: Sent Back
 title: Sent Back
 set: reflections
@@ -7,6 +7,8 @@ rarity: rare
 card_type: condition
 alignment: free_people
 culture: gandalf
+variants:
+- '09_027-F'
 twilight: '2'
 game_text: ! |-
   Skirmish: Discard this condition to discard each minion skirmishing a Wizard. Place that Wizard in your dead pile. Fellowship or Regroup: Play a Wizard (even if another copy of that Wizard is in your dead pile).

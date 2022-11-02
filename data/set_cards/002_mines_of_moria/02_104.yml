@@ -1,5 +1,5 @@
 ---
-key: 2C104
+key: '02_104'
 name: Merry, Horticulturalist
 title: Merry
 subtitle: Horticulturalist
@@ -10,6 +10,9 @@ subtype: hobbit
 alignment: free_people
 culture: shire
 signet: gandalf
+variants:
+- 02_104-S
+- 02_104-F
 strength: '3'
 vitality: '4'
 twilight: '1'

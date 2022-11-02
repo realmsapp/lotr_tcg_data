@@ -1,5 +1,5 @@
 ---
-key: 8C14
+key: '08_014'
 name: A Fool
 title: A Fool
 set: siege_of_gondor
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: gandalf
+variants:
+- '08_014-S'
+- '08_014-F'
 twilight: '3'
 game_text: ! |-
   At sites 1K to 5K, heal Gandalf. At any other site, prevent a Hobbit from being overwhelmed unless his or her strength is tripled.

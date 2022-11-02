@@ -1,5 +1,5 @@
 ---
-key: 4C278
+key: 04_278
 name: Heavy Chain
 title: Heavy Chain
 set: two_towers
@@ -8,6 +8,9 @@ card_type: possession
 subtype: armor
 alignment: free_people
 culture: rohan
+variants:
+- 04_278-S
+- 04_278-F
 twilight: '1'
 game_text: ! |-
   Bearer must be a Man. Bearer may not be overwhelmed unless his or her strength is tripled.

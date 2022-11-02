@@ -1,5 +1,5 @@
 ---
-key: 4C306
+key: '04_306'
 name: Hobbit Sword
 title: Hobbit Sword
 set: two_towers
@@ -8,6 +8,9 @@ card_type: possession
 subtype: hand_weapon
 alignment: free_people
 culture: shire
+variants:
+- 04_306-S
+- 04_306-F
 strength: "+2"
 twilight: '1'
 game_text: ! |-

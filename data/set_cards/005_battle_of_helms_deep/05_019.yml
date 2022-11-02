@@ -1,5 +1,5 @@
 ---
-key: 5R19
+key: 05_019
 name: Lindenroot, Elder Shepherd
 title: Lindenroot
 subtitle: Elder Shepherd
@@ -9,6 +9,9 @@ card_type: companion
 subtype: ent
 alignment: free_people
 culture: gandalf
+variants:
+- 05_019-S
+- 05_019-F
 strength: '10'
 vitality: '4'
 twilight: '4'

@@ -1,5 +1,5 @@
 ---
-key: 10R60
+key: '10_060'
 name: Gorbag's Sword
 title: Gorbag's Sword
 set: mount_doom
@@ -8,6 +8,9 @@ card_type: possession
 subtype: hand_weapon
 alignment: shadow
 culture: wraith
+variants:
+- 10_060-S
+- 10_060-F
 strength: "+2"
 twilight: '2'
 unique: true

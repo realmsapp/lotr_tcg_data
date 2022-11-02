@@ -1,5 +1,5 @@
 ---
-key: 2U82
+key: 02_082
 name: Ulaire Attea, The Easterling
 title: Ulaire Attea
 subtitle: The Easterling
@@ -9,6 +9,9 @@ card_type: minion
 subtype: nazgul
 alignment: shadow
 culture: wraith
+variants:
+- 02_082-S
+- 02_082-F
 strength: '12'
 vitality: '3'
 twilight: '6'

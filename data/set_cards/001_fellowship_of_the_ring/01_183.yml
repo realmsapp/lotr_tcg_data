@@ -1,5 +1,5 @@
 ---
-key: 1R183
+key: 01_183
 name: Goblin Swarms
 title: Goblin Swarms
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: shadow
 culture: moria
+variants:
+- 01_183-S
+- 01_183-F
 twilight: '1'
 game_text: ! |-
   Plays to your support area. Response: If your [Moria] Orc wins a skirmish, discard cards and wounds on that Orc and stack that Orc on this condition. Shadow: Play an Orc stacked here as if played from hand.

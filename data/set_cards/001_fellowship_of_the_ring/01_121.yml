@@ -1,5 +1,5 @@
 ---
-key: 1C121
+key: '01_121'
 name: Bred for Battle
 title: Bred for Battle
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: shadow
 culture: isengard
+variants:
+- 01_121-S
+- 01_121-F
 twilight: '0'
 game_text: ! |-
   Skirmish: Exert an Uruk-hai to make it strength +3.

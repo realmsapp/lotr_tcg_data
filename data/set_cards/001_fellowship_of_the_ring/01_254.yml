@@ -1,5 +1,5 @@
 ---
-key: 1R254
+key: '01_254'
 name: Mordor Enraged
 title: Mordor Enraged
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: shadow
 culture: sauron
+variants:
+- 01_254-S
+- 01_254-F
 twilight: '0'
 game_text: ! |-
   Plays on a [Sauron] minion. Shadow: Exert bearer to add (1) for each archer companion.

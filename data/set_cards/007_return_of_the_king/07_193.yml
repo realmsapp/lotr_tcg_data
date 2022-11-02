@@ -1,5 +1,5 @@
 ---
-key: 7C193
+key: 07_193
 name: Morgul Lackey
 title: Morgul Lackey
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: wraith
+variants:
+- 07_193-S
+- 07_193-F
 strength: '6'
 vitality: '2'
 twilight: '2'

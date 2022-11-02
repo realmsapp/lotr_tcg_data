@@ -1,5 +1,5 @@
 ---
-key: 6C59
+key: 06_059
 name: Banner of Isengard
 title: Banner of Isengard
 set: ents_of_fangorn
@@ -8,6 +8,9 @@ card_type: possession
 subtype: hand_weapon
 alignment: shadow
 culture: isengard
+variants:
+- 06_059-S
+- 06_059-F
 strength: "+1"
 twilight: '0'
 game_text: ! |-

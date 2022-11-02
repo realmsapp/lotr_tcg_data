@@ -1,5 +1,5 @@
 ---
-key: 4R169
+key: 04_169
 name: Ranged Commander
 title: Ranged Commander
 set: two_towers
@@ -8,6 +8,9 @@ card_type: minion
 subtype: uruk-hai
 alignment: shadow
 culture: isengard
+variants:
+- 04_169-S
+- 04_169-F
 strength: '8'
 vitality: '2'
 twilight: '4'

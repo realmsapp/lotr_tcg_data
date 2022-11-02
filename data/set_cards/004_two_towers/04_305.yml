@@ -1,5 +1,5 @@
 ---
-key: 4U305
+key: '04_305'
 name: Good Work
 title: Good Work
 set: two_towers
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: free_people
 culture: shire
+variants:
+- 04_305-S
+- 04_305-F
 twilight: '2'
 unique: true
 game_text: ! |-

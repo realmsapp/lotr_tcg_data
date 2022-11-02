@@ -1,5 +1,5 @@
 ---
-key: 9R19
+key: '09_019'
 name: Narya, Ring of Fire
 title: Narya
 subtitle: Ring of Fire
@@ -9,6 +9,8 @@ card_type: artifact
 subtype: ring
 alignment: free_people
 culture: elven
+variants:
+- '09_019-F'
 vitality: "+1"
 twilight: '1'
 unique: true

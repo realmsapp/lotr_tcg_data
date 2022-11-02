@@ -1,5 +1,5 @@
 ---
-key: 4C156
+key: '04_156'
 name: Kill Them Now
 title: Kill Them Now
 set: two_towers
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: shadow
 culture: isengard
+variants:
+- 04_156-S
+- 04_156-F
 twilight: '0'
 game_text: ! |-
   Skirmish: Make an [Isengard] tracker strength +2 (or +4 if skirmishing a character bearing a search card).

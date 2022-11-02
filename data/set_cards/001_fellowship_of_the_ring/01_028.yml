@@ -1,5 +1,5 @@
 ---
-key: 1R28
+key: 01_028
 name: Wealth of Moria
 title: Wealth of Moria
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: free_people
 culture: dwarven
+variants:
+- 01_028-S
+- 01_028-F
 twilight: '2'
 game_text: ! |-
   Fellowship: Spot a Dwarf to reveal the top 3 cards of your draw deck. Take all Free Peoples cards revealed into hand and discard the rest.

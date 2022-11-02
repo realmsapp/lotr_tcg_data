@@ -1,5 +1,5 @@
 ---
-key: 6R31
+key: '06_031'
 name: Glamdring, Lightning Brand
 title: Glamdring
 subtitle: Lightning Brand
@@ -9,6 +9,9 @@ card_type: possession
 subtype: hand_weapon
 alignment: free_people
 culture: gandalf
+variants:
+- 06_031-S
+- 06_031-F
 strength: "+2"
 twilight: '2'
 unique: true

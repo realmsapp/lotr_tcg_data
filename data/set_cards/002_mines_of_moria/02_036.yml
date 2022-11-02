@@ -1,5 +1,5 @@
 ---
-key: 2R36
+key: '02_036'
 name: No Mere Ranger
 title: No Mere Ranger
 set: mines_of_moria
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: free_people
 culture: gondor
+variants:
+- 02_036-S
+- 02_036-F
 twilight: '0'
 game_text: ! |-
   Skirmish: Exert Aragorn to make another companion strength +2 (or +3 if that companion has the Aragorn signet).

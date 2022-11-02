@@ -1,10 +1,13 @@
 ---
-key: 1U330
+key: '01_330'
 name: Buckleberry Ferry
 title: Buckleberry Ferry
 set: fellowship_of_the_ring
 rarity: uncommon
 card_type: site
+variants:
+- 01_330-S
+- 01_330-F
 twilight: '1'
 site_number: '2'
 game_text: ! |-

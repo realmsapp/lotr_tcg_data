@@ -1,5 +1,5 @@
 ---
-key: 7U244
+key: '07_244'
 name: Mustering for Battle
 title: Mustering for Battle
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: free_people
 culture: rohan
+variants:
+- 07_244-S
+- 07_244-F
 twilight: '1'
 game_text: ! |-
   To play, spot 3 [Rohan] Men. Maneuver: Exert a [Rohan] companion twice or discard this condition to play a [Rohan] possession from your discard pile.

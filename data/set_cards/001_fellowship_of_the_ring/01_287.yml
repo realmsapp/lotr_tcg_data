@@ -1,5 +1,5 @@
 ---
-key: 1C287
+key: 01_287
 name: Extraordinary Resilience
 title: Extraordinary Resilience
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: shire
+variants:
+- 01_287-S
+- 01_287-F
 twilight: '0'
 game_text: ! |-
   Response: If the Ring-bearer is about to heal, remove a burden instead.

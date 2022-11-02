@@ -1,5 +1,5 @@
 ---
-key: 4U108
+key: 04_108
 name: Wizardry Indeed
 title: Wizardry Indeed
 set: two_towers
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: gandalf
+variants:
+- 04_108-S
+- 04_108-F
 twilight: '4'
 game_text: ! |-
   Maneuver: If you can spot more minions than companions, exert Gandalf to make an opponent discard a minion.

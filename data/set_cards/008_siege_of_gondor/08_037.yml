@@ -1,5 +1,5 @@
 ---
-key: 8R37
+key: '08_037'
 name: Imrahil, Prince of Dol Amroth
 title: Imrahil
 subtitle: Prince of Dol Amroth
@@ -9,6 +9,9 @@ card_type: companion
 subtype: man
 alignment: free_people
 culture: gondor
+variants:
+- '08_037-S'
+- '08_037-F'
 strength: '7'
 vitality: '3'
 twilight: '3'

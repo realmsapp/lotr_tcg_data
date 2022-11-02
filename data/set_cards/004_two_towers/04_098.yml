@@ -1,5 +1,5 @@
 ---
-key: 4C98
+key: 04_098
 name: Mithrandir, Mithrandir!
 title: Mithrandir
 subtitle: Mithrandir!
@@ -8,6 +8,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: gandalf
+variants:
+- 04_098-S
+- 04_098-F
 twilight: '3'
 game_text: ! |-
   Spell. Maneuver: Exert Gandalf to wound each minion who has strength of 6 or less.

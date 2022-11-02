@@ -1,5 +1,5 @@
 ---
-key: 1R129
+key: 01_129
 name: The Misadventure of Mr. Underhill
 title: The Misadventure of Mr. Underhill
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: shadow
 culture: isengard
+variants:
+- 01_129-S
+- 01_129-F
 twilight: '2'
 game_text: ! |-
   To play, exert an Uruk-hai. Plays to your support area. The twilight cost of each companion played to a site which is not a sanctuary is +2.

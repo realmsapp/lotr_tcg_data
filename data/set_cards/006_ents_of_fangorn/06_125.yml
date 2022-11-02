@@ -1,5 +1,5 @@
 ---
-key: 6R125
+key: '06_125'
 name: Don't Look at Them (AI)
 title: Don't Look at Them (AI)
 set: ents_of_fangorn
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: free_people
 culture: gollum_free_people
+variants:
+- 06_125-S
+- 06_125-F
 twilight: '1'
 game_text: ! |-
   Plays to your support area. Skirmish: Spot Smeagol and discard 3 cards from hand to wound a minion Smeagol is skirmishing once (or twice if that minion is a [Wraith] minion).

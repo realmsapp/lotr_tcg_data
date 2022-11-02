@@ -1,5 +1,5 @@
 ---
-key: 6C34
+key: '06_034'
 name: Roused
 title: Roused
 set: ents_of_fangorn
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: gandalf
+variants:
+- 06_034-S
+- 06_034-F
 twilight: '1'
 game_text: ! |-
   Skirmish: Exert an Ent to make him strength +1 for each Ent you spot (limit +4).

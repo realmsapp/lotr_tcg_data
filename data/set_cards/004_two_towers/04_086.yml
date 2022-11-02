@@ -1,5 +1,5 @@
 ---
-key: 4U86
+key: 04_086
 name: Thonnas, Naith Captain
 title: Thonnas
 subtitle: Naith Captain
@@ -9,6 +9,9 @@ card_type: companion
 subtype: elf
 alignment: free_people
 culture: elven
+variants:
+- 04_086-S
+- 04_086-F
 strength: '6'
 vitality: '3'
 twilight: '2'

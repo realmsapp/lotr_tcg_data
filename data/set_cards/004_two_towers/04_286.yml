@@ -1,5 +1,5 @@
 ---
-key: 4C286
+key: 04_286
 name: Rider of Rohan
 title: Rider of Rohan
 set: two_towers
@@ -8,6 +8,9 @@ card_type: companion
 subtype: man
 alignment: free_people
 culture: rohan
+variants:
+- 04_286-S
+- 04_286-F
 strength: '5'
 vitality: '3'
 twilight: '2'

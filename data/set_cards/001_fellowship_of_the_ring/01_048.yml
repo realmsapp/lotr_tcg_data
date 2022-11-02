@@ -1,5 +1,5 @@
 ---
-key: 1U48
+key: 01_048
 name: Haldir, Elf of the Golden Wood
 title: Haldir
 subtitle: Elf of the Golden Wood
@@ -9,6 +9,9 @@ card_type: companion
 subtype: elf
 alignment: free_people
 culture: elven
+variants:
+- 01_048-S
+- 01_048-F
 strength: '5'
 vitality: '3'
 twilight: '2'

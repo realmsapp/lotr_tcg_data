@@ -1,5 +1,5 @@
 ---
-key: 1U91
+key: 01_091
 name: Aragorn's Pipe
 title: Aragorn's Pipe
 set: fellowship_of_the_ring
@@ -8,6 +8,9 @@ card_type: possession
 subtype: pipe
 alignment: free_people
 culture: gondor
+variants:
+- 01_091-S
+- 01_091-F
 twilight: '1'
 unique: true
 game_text: ! |-

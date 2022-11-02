@@ -1,5 +1,5 @@
 ---
-key: 7R24
+key: '07_024'
 name: Leaving Forever
 title: Leaving Forever
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: free_people
 culture: elven
+variants:
+- 07_024-S
+- 07_024-F
 twilight: '0'
 game_text: ! |-
   To play, spot 3 Elves. Each time the fellowship moves, add a threat or discard this condition. Regroup: Discard this condition to discard a condition or draw 2 cards.

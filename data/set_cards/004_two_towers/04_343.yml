@@ -1,10 +1,13 @@
 ---
-key: 4U343
+key: '04_343'
 name: Ered Nimrais
 title: Ered Nimrais
 set: two_towers
 rarity: uncommon
 card_type: site
+variants:
+- 04_343-S
+- 04_343-F
 twilight: '2'
 site_number: '4'
 game_text: ! |-

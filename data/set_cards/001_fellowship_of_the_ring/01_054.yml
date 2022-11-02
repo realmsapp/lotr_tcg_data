@@ -1,5 +1,5 @@
 ---
-key: 1U54
+key: '01_054'
 name: Mallorn-trees
 title: Mallorn-trees
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: free_people
 culture: elven
+variants:
+- 01_054-S
+- 01_054-F
 twilight: '1'
 game_text: ! |-
   Plays to your support area. Fellowship: Reveal an [Elven] card from hand and place it beneath your draw deck.

@@ -1,5 +1,5 @@
 ---
-key: 9R25
+key: '09_025'
 name: Huorn
 title: Huorn
 set: reflections
@@ -8,6 +8,8 @@ card_type: companion
 subtype: tree
 alignment: free_people
 culture: gandalf
+variants:
+- '09_025-F'
 strength: '6'
 vitality: '4'
 twilight: '2'

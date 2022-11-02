@@ -1,5 +1,5 @@
 ---
-key: 4R133
+key: '04_133'
 name: Ruins of Osgiliath
 title: Ruins of Osgiliath
 set: two_towers
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: free_people
 culture: gondor
+variants:
+- 04_133-S
+- 04_133-F
 twilight: '0'
 unique: true
 game_text: ! |-

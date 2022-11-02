@@ -1,5 +1,5 @@
 ---
-key: 7R308
+key: 07_308
 name: Rally the Host
 title: Rally the Host
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: shadow
 culture: sauron
+variants:
+- 07_308-S
+- 07_308-F
 twilight: '0'
 game_text: ! |-
   To play, spot 2 [Sauron] Orcs. Regroup: Exert a [Sauron] Orc and remove a threat to shuffle a [Sauron] Orc from play into your draw deck.

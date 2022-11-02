@@ -1,5 +1,5 @@
 ---
-key: 6U110
+key: '06_110'
 name: It Burns Us
 title: It Burns Us
 set: ents_of_fangorn
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: shire
+variants:
+- 06_110-S
+- 06_110-F
 twilight: '1'
 game_text: ! |-
   Regroup: Spot Sam and Smeagol (or Gollum) to choose an opponent who must reveal his or her hand. Wound a minion X times, where X is the number of different cultures revealed.

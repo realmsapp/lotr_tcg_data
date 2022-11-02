@@ -1,5 +1,5 @@
 ---
-key: 9R+4
+key: '09_004'
 name: Gimli, Bearer of Grudges
 title: Gimli
 subtitle: Bearer of Grudges
@@ -9,6 +9,8 @@ card_type: companion
 subtype: dwarf
 alignment: free_people
 culture: dwarven
+variants:
+- '09_004-F'
 strength: '6'
 vitality: '3'
 twilight: '2'

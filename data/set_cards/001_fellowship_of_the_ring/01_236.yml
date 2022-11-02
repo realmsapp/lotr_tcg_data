@@ -1,5 +1,5 @@
 ---
-key: 1R236
+key: '01_236'
 name: Ulaire Toldea, Messenger of Morgul
 title: Ulaire Toldea
 subtitle: Messenger of Morgul
@@ -9,6 +9,9 @@ card_type: minion
 subtype: nazgul
 alignment: shadow
 culture: wraith
+variants:
+- 01_236-S
+- 01_236-F
 strength: '12'
 vitality: '3'
 twilight: '6'

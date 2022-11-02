@@ -1,5 +1,5 @@
 ---
-key: 1R205
+key: '01_205'
 name: Beauty Is Fading
 title: Beauty Is Fading
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: shadow
 culture: wraith
+variants:
+- 01_205-S
+- 01_205-F
 twilight: '5'
 game_text: ! |-
   Maneuver: Exert a Nazgul to discard a Free Peoples possession or Free Peoples condition. If you can spot no such card, discard an ally or companion (except the Ring-bearer) instead.

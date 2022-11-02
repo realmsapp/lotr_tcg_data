@@ -1,5 +1,5 @@
 ---
-key: 7R37
+key: '07_037'
 name: Gandalf, Manager of Wizards
 title: Gandalf
 subtitle: Manager of Wizards
@@ -10,6 +10,9 @@ subtype: wizard
 alignment: free_people
 culture: gandalf
 signet: theoden
+variants:
+- 07_037-S
+- 07_037-F
 strength: '7'
 vitality: '4'
 twilight: '4'

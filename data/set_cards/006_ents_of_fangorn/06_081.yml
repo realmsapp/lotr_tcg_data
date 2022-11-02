@@ -1,5 +1,5 @@
 ---
-key: 6C81
+key: 06_081
 name: Southron Invaders
 title: Southron Invaders
 set: ents_of_fangorn
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: raider
+variants:
+- 06_081-S
+- 06_081-F
 strength: '10'
 vitality: '3'
 twilight: '5'

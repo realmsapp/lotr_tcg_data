@@ -1,5 +1,5 @@
 ---
-key: 7C115
+key: '07_115'
 name: Ranger of Minas Tirith
 title: Ranger of Minas Tirith
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: companion
 subtype: man
 alignment: free_people
 culture: gondor
+variants:
+- 07_115-S
+- 07_115-F
 strength: '5'
 vitality: '3'
 twilight: '2'

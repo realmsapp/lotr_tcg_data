@@ -1,5 +1,5 @@
 ---
-key: 7C135
+key: '07_135'
 name: Desert Sneak
 title: Desert Sneak
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: raider
+variants:
+- 07_135-S
+- 07_135-F
 strength: '5'
 vitality: '2'
 twilight: '1'

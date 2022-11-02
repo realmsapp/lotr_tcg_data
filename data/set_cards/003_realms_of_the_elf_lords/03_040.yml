@@ -1,5 +1,5 @@
 ---
-key: 3R40
+key: '03_040'
 name: Citadel of Minas Tirith
 title: Citadel of Minas Tirith
 set: realms_of_the_elf_lords
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: free_people
 culture: gondor
+variants:
+- 03_040-S
+- 03_040-F
 twilight: '1'
 game_text: ! |-
   Plays to your support area. You may heal a [Gondor] companion at the end of each turn during which no companion or ally lost a skirmish.

@@ -1,5 +1,5 @@
 ---
-key: 1C11
+key: '01_011'
 name: Farin, Dwarven Emissary
 title: Farin
 subtitle: Dwarven Emissary
@@ -9,6 +9,9 @@ card_type: companion
 subtype: dwarf
 alignment: free_people
 culture: dwarven
+variants:
+- 01_011-S
+- 01_011-F
 strength: '5'
 vitality: '3'
 twilight: '2'

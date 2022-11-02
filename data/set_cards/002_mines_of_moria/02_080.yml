@@ -1,5 +1,5 @@
 ---
-key: 2R80
+key: 02_080
 name: Stricken Dumb
 title: Stricken Dumb
 set: mines_of_moria
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: shadow
 culture: wraith
+variants:
+- 02_080-S
+- 02_080-F
 twilight: '2'
 game_text: ! |-
   Maneuver: Exert The Witch-king to discard a tale or weapon.

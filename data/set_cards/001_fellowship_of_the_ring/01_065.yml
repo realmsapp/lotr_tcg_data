@@ -1,5 +1,5 @@
 ---
-key: 1U65
+key: '01_065'
 name: Swan-ship of the Galadhrim
 title: Swan-ship of the Galadhrim
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: elven
+variants:
+- 01_065-S
+- 01_065-F
 twilight: '1'
 game_text: ! |-
   Maneuver: Exert an Elf ally whose home is site 6. Until the regroup phase, that ally is strength +3 and participates in archery fire and skirmishes.

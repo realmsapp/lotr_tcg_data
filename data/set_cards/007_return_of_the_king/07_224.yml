@@ -1,5 +1,5 @@
 ---
-key: 7U224
+key: '07_224'
 name: Elfhelm, Marshal of Rohan
 title: Elfhelm
 subtitle: Marshal of Rohan
@@ -9,6 +9,9 @@ card_type: companion
 subtype: man
 alignment: free_people
 culture: rohan
+variants:
+- 07_224-S
+- 07_224-F
 strength: '6'
 vitality: '3'
 twilight: '2'

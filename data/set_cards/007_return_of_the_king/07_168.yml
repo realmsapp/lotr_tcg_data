@@ -1,5 +1,5 @@
 ---
-key: 7U168
+key: 07_168
 name: Southron Thief
 title: Southron Thief
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: raider
+variants:
+- 07_168-S
+- 07_168-F
 strength: '8'
 vitality: '2'
 twilight: '3'

@@ -1,5 +1,5 @@
 ---
-key: 3R68
+key: 03_068
 name: Saruman, Keeper of Isengard
 title: Saruman
 subtitle: Keeper of Isengard
@@ -9,6 +9,9 @@ card_type: minion
 subtype: wizard
 alignment: shadow
 culture: isengard
+variants:
+- 03_068-S
+- 03_068-F
 strength: '8'
 vitality: '4'
 twilight: '4'

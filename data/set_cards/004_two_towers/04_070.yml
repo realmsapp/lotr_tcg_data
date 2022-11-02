@@ -1,5 +1,5 @@
 ---
-key: 4C70
+key: '04_070'
 name: Flashing Steel
 title: Flashing Steel
 set: two_towers
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: elven
+variants:
+- 04_070-S
+- 04_070-F
 twilight: '0'
 game_text: ! |-
   Skirmish: Exert an Elf to make a minion skirmishing that Elf strength -3.

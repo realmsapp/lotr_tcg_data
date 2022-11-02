@@ -1,5 +1,5 @@
 ---
-key: 6R49
+key: 06_049
 name: Ancient Roads
 title: Ancient Roads
 set: ents_of_fangorn
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: free_people
 culture: gondor
+variants:
+- 06_049-S
+- 06_049-F
 twilight: '1'
 game_text: ! |-
   Plays to your support area. While you can spot 3 rangers, the site number of each minion skirmishing a ranger is +2.

@@ -1,5 +1,5 @@
 ---
-key: 4U147
+key: '04_147'
 name: Covering Fire
 title: Covering Fire
 set: two_towers
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: shadow
 culture: isengard
+variants:
+- 04_147-S
+- 04_147-F
 twilight: '0'
 game_text: ! |-
   To play, spot 2 [Isengard] archers. Plays to your support area. The Free Peoples player may not play archery events or use archery special abilities. Discard this condition during the regroup phase.

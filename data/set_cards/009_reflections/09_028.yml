@@ -1,5 +1,5 @@
 ---
-key: 9R+28
+key: '09_028'
 name: Gollum, Dark as Darkness
 title: Gollum
 subtitle: Dark as Darkness
@@ -8,6 +8,8 @@ rarity: rare_plus
 card_type: minion
 alignment: shadow
 culture: gollum_shadow
+variants:
+- '09_028-F'
 strength: '5'
 vitality: '4'
 twilight: '2'

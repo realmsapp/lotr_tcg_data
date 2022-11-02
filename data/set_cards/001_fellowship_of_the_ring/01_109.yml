@@ -1,5 +1,5 @@
 ---
-key: 1U109
+key: 01_109
 name: One Whom Men Would Follow
 title: One Whom Men Would Follow
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: gondor
+variants:
+- 01_109-S
+- 01_109-F
 twilight: '0'
 game_text: ! |-
   Maneuver: Exert Aragorn to spot an ally. Until the regroup phase, that ally is strength +2 and participates in archery fire and skirmishes.

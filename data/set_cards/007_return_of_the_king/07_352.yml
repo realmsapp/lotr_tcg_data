@@ -1,10 +1,13 @@
 ---
-key: 7U352
+key: '07_352'
 name: Minas Tirith Third Circle
 title: Minas Tirith Third Circle
 set: return_of_the_king
 rarity: uncommon
 card_type: site
+variants:
+- 07_352-S
+- 07_352-F
 twilight: '3'
 site_number: '6'
 game_text: ! |-

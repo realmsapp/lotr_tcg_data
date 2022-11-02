@@ -1,5 +1,5 @@
 ---
-key: 4C7
+key: '04_007'
 name: Dark Fury
 title: Dark Fury
 set: two_towers
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: shadow
 culture: dunland
+variants:
+- 04_007-S
+- 04_007-F
 twilight: '0'
 game_text: ! |-
   Skirmish: Make a [Dunland] Man strength +2 (or +4 if at a sanctuary).

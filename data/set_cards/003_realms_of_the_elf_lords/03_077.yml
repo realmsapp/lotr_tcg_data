@@ -1,5 +1,5 @@
 ---
-key: 3R77
+key: '03_077'
 name: Depths of Moria
 title: Depths of Moria
 set: realms_of_the_elf_lords
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: shadow
 culture: moria
+variants:
+- 03_077-S
+- 03_077-F
 twilight: '1'
 game_text: ! |-
   To play, spot a [Moria] Orc. Plays to your support area. Each time the fellowship moves during the regroup phase, add (2).

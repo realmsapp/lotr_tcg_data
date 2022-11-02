@@ -1,5 +1,5 @@
 ---
-key: 6R62
+key: '06_062'
 name: Fires and Foul Fumes
 title: Fires and Foul Fumes
 set: ents_of_fangorn
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: shadow
 culture: isengard
+variants:
+- 06_062-S
+- 06_062-F
 twilight: '4'
 game_text: ! |-
   Regroup: Discard 4 [Isengard] orcs to wound a companion 4 times (except the Ring-bearer).

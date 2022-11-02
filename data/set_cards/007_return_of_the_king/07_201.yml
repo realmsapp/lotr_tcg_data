@@ -1,5 +1,5 @@
 ---
-key: 7C201
+key: '07_201'
 name: Morgul Spearman
 title: Morgul Spearman
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: wraith
+variants:
+- 07_201-S
+- 07_201-F
 strength: '6'
 vitality: '2'
 twilight: '2'

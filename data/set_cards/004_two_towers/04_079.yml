@@ -1,5 +1,5 @@
 ---
-key: 4R79
+key: 04_079
 name: Night Without End
 title: Night Without End
 set: two_towers
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: free_people
 culture: elven
+variants:
+- 04_079-S
+- 04_079-F
 twilight: '1'
 game_text: ! |-
   Response: If an Elf wins a skirmish, exert that Elf to liberate a site or wound a minion.

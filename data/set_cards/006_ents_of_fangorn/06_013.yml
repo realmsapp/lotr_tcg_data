@@ -1,5 +1,5 @@
 ---
-key: 6U13
+key: '06_013'
 name: Arwen, Evenstar of Her People
 title: Arwen
 subtitle: Evenstar of Her People
@@ -10,6 +10,9 @@ subtype: elf
 alignment: free_people
 culture: elven
 signet: aragorn
+variants:
+- 06_013-S
+- 06_013-F
 strength: '6'
 vitality: '3'
 twilight: '2'

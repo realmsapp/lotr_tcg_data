@@ -1,5 +1,5 @@
 ---
-key: 5R49
+key: 05_049
 name: Devilry of Orthanc
 title: Devilry of Orthanc
 set: battle_of_helms_deep
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: shadow
 culture: isengard
+variants:
+- 05_049-S
+- 05_049-F
 twilight: '2'
 unique: true
 game_text: ! |-

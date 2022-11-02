@@ -1,5 +1,5 @@
 ---
-key: 4U24
+key: '04_024'
 name: Hillman Rabble
 title: Hillman Rabble
 set: two_towers
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: dunland
+variants:
+- 04_024-S
+- 04_024-F
 strength: '10'
 vitality: '1'
 twilight: '4'

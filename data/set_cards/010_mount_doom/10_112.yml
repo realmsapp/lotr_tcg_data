@@ -1,5 +1,5 @@
 ---
-key: 10C112
+key: '10_112'
 name: Nine-fingered Frodo and the Ring of Doom
 title: Nine-fingered Frodo and the Ring of Doom
 set: mount_doom
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: shire
+variants:
+- 10_112-S
+- 10_112-F
 twilight: '0'
 game_text: ! |-
   Tale. Exert a [Shire] character to remove a burden or 2 threats.

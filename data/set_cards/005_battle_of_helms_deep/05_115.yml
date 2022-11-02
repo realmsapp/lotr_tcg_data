@@ -1,5 +1,5 @@
 ---
-key: 5U115
+key: '05_115'
 name: Sam, Nice Sensible Hobbit
 title: Sam
 subtitle: Nice Sensible Hobbit
@@ -10,6 +10,9 @@ subtype: hobbit
 alignment: free_people
 culture: shire
 signet: aragorn
+variants:
+- 05_115-S
+- 05_115-F
 strength: '3'
 vitality: '4'
 twilight: '2'

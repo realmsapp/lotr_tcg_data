@@ -1,5 +1,5 @@
 ---
-key: 4U132
+key: '04_132'
 name: Ranger's Sword, Blade of Aragorn
 title: Ranger's Sword
 subtitle: Blade of Aragorn
@@ -9,6 +9,9 @@ card_type: possession
 subtype: hand_weapon
 alignment: free_people
 culture: gondor
+variants:
+- 04_132-S
+- 04_132-F
 strength: "+2"
 twilight: '1'
 unique: true

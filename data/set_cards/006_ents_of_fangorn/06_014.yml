@@ -1,5 +1,5 @@
 ---
-key: 6U14
+key: '06_014'
 name: Banner of Elbereth
 title: Banner of Elbereth
 set: ents_of_fangorn
@@ -8,6 +8,9 @@ card_type: possession
 subtype: hand_weapon
 alignment: free_people
 culture: elven
+variants:
+- 06_014-S
+- 06_014-F
 twilight: '1'
 game_text: ! |-
   Bearer must be an Elf companion. Each time bearer wins a skirmish, you may draw a card. Response: If bearer wins a skirmish, discard this possession to liberate a site.

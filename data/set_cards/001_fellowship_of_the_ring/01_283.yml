@@ -1,5 +1,5 @@
 ---
-key: 1C283
+key: 01_283
 name: You Bring Great Evil
 title: You Bring Great Evil
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: common
 card_type: condition
 alignment: shadow
 culture: sauron
+variants:
+- 01_283-S
+- 01_283-F
 twilight: '1'
 game_text: ! |-
   To play, spot a [Sauron] Orc. Plays on a companion (except an Elf). While at a sanctuary, bearer cannot heal.

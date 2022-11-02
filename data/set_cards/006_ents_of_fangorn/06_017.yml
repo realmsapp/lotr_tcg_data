@@ -1,5 +1,5 @@
 ---
-key: 6C17
+key: '06_017'
 name: Forewarned
 title: Forewarned
 set: ents_of_fangorn
@@ -7,6 +7,9 @@ rarity: common
 card_type: condition
 alignment: free_people
 culture: elven
+variants:
+- 06_017-S
+- 06_017-F
 twilight: '0'
 game_text: ! |-
   To play, spot 2 Elves. Plays to your support area. Fellowship: Add (1) to look at the top card of your draw deck. You may discard this condition to discard that card.

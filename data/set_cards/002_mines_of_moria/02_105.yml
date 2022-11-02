@@ -1,5 +1,5 @@
 ---
-key: 2R105
+key: '02_105'
 name: Mithril-coat
 title: Mithril-coat
 set: mines_of_moria
@@ -8,6 +8,9 @@ card_type: artifact
 subtype: armor
 alignment: free_people
 culture: shire
+variants:
+- 02_105-S
+- 02_105-F
 twilight: '2'
 unique: true
 game_text: ! |-

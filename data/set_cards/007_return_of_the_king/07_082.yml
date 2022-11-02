@@ -1,5 +1,5 @@
 ---
-key: 7C82
+key: 07_082
 name: Cirion
 title: Cirion
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: companion
 subtype: man
 alignment: free_people
 culture: gondor
+variants:
+- 07_082-S
+- 07_082-F
 strength: '5'
 vitality: '3'
 twilight: '2'

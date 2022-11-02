@@ -1,5 +1,5 @@
 ---
-key: 9R+43
+key: '09_043'
 name: Ring of Ire
 title: Ring of Ire
 set: reflections
@@ -8,6 +8,8 @@ card_type: artifact
 subtype: ring
 alignment: shadow
 culture: wraith
+variants:
+- '09_043-F'
 strength: "+1"
 twilight: '0'
 unique: true

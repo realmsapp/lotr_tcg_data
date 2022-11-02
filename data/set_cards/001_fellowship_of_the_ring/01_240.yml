@@ -1,5 +1,5 @@
 ---
-key: 1R240
+key: '01_240'
 name: Band of the Eye
 title: Band of the Eye
 set: fellowship_of_the_ring
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: sauron
+variants:
+- 01_240-S
+- 01_240-F
 strength: '12'
 vitality: '3'
 twilight: '4'

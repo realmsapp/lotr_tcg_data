@@ -1,5 +1,5 @@
 ---
-key: 7R215
+key: '07_215'
 name: Ulaire Nelya, Assailing Minion
 title: Ulaire Nelya
 subtitle: Assailing Minion
@@ -9,6 +9,9 @@ card_type: minion
 subtype: nazgul
 alignment: shadow
 culture: wraith
+variants:
+- 07_215-S
+- 07_215-F
 strength: '10'
 vitality: '3'
 twilight: '5'

@@ -1,5 +1,5 @@
 ---
-key: 6U61
+key: '06_061'
 name: Desertion
 title: Desertion
 set: ents_of_fangorn
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: shadow
 culture: isengard
+variants:
+- 06_061-S
+- 06_061-F
 strength: "-1"
 twilight: '1'
 game_text: ! |-

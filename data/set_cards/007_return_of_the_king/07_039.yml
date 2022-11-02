@@ -1,5 +1,5 @@
 ---
-key: 7R39
+key: 07_039
 name: Glamdring, Elven Blade
 title: Glamdring
 subtitle: Elven Blade
@@ -9,6 +9,9 @@ card_type: possession
 subtype: hand_weapon
 alignment: free_people
 culture: gandalf
+variants:
+- 07_039-S
+- 07_039-F
 strength: "+2"
 twilight: '2'
 unique: true

@@ -1,5 +1,5 @@
 ---
-key: 2P121
+key: '02_121'
 name: Gimli, Dwarf of the Mountain-race
 title: Gimli
 subtitle: Dwarf of the Mountain-race
@@ -10,6 +10,9 @@ subtype: dwarf
 alignment: free_people
 culture: dwarven
 signet: frodo
+variants:
+- 02_121-S
+- 02_121-F
 strength: '6'
 vitality: '3'
 twilight: '2'

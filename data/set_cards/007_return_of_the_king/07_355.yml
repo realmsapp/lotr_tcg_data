@@ -1,10 +1,13 @@
 ---
-key: 7U355
+key: '07_355'
 name: Ruined Capitol
 title: Ruined Capitol
 set: return_of_the_king
 rarity: uncommon
 card_type: site
+variants:
+- 07_355-S
+- 07_355-F
 twilight: '6'
 site_number: '7'
 game_text: ! |-

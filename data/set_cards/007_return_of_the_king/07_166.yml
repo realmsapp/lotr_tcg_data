@@ -1,5 +1,5 @@
 ---
-key: 7R166
+key: '07_166'
 name: Southron Leader
 title: Southron Leader
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: raider
+variants:
+- 07_166-S
+- 07_166-F
 strength: '10'
 vitality: '3'
 twilight: '5'

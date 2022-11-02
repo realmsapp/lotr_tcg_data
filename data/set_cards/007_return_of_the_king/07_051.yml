@@ -1,5 +1,5 @@
 ---
-key: 7C51
+key: '07_051'
 name: Undaunted
 title: Undaunted
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: gandalf
+variants:
+- 07_051-S
+- 07_051-F
 twilight: '2'
 game_text: ! |-
   Exert Gandalf to make him strength +1 for each twilight token you spot (limit +8).

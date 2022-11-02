@@ -1,5 +1,5 @@
 ---
-key: 8U73
+key: '08_073'
 name: Mastered By Madness
 title: Mastered By Madness
 set: siege_of_gondor
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: shadow
 culture: wraith
+variants:
+- '08_073-S'
+- '08_073-F'
 twilight: '1'
 game_text: ! |-
   Make a Nazgul strength +2. If that Nazgul wins this skirmish, you may discard a Free Peoples mount.

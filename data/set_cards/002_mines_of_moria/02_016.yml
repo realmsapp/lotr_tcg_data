@@ -1,5 +1,5 @@
 ---
-key: 2U16
+key: '02_016'
 name: A Blended Race
 title: A Blended Race
 set: mines_of_moria
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: free_people
 culture: elven
+variants:
+- 02_016-S
+- 02_016-F
 twilight: '1'
 game_text: ! |-
   To play, spot an Elf. Plays to your support area. Each Uruk-hai is strength -2 and loses all damage bonuses. Discard this condition during the regroup phase.

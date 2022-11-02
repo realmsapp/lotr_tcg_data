@@ -1,5 +1,5 @@
 ---
-key: 1R55
+key: '01_055'
 name: The Mirror of Galadriel
 title: The Mirror of Galadriel
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: possession
 alignment: free_people
 culture: elven
+variants:
+- 01_055-S
+- 01_055-F
 twilight: '2'
 unique: true
 game_text: ! |-

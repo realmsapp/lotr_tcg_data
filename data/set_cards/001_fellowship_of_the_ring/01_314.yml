@@ -1,5 +1,5 @@
 ---
-key: 1R314
+key: '01_314'
 name: Stone Trolls
 title: Stone Trolls
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: free_people
 culture: shire
+variants:
+- 01_314-S
+- 01_314-F
 twilight: '2'
 game_text: ! |-
   Tale. To play, spot Bilbo. Plays on any character. Limit 1 per character. Each time bearer skirmishes a Troll or Uruk-hai, bearer is strength +3.

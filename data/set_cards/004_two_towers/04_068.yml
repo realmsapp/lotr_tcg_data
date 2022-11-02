@@ -1,5 +1,5 @@
 ---
-key: 4C68
+key: 04_068
 name: Ferevellon, Son of Thandronen
 title: Ferevellon
 subtitle: Son of Thandronen
@@ -9,6 +9,9 @@ card_type: companion
 subtype: elf
 alignment: free_people
 culture: elven
+variants:
+- 04_068-S
+- 04_068-F
 strength: '5'
 vitality: '3'
 twilight: '2'

@@ -1,5 +1,5 @@
 ---
-key: 7C132
+key: '07_132'
 name: Desert Nomad
 title: Desert Nomad
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: raider
+variants:
+- 07_132-S
+- 07_132-F
 strength: '9'
 vitality: '2'
 twilight: '4'

@@ -1,5 +1,5 @@
 ---
-key: 4U170
+key: '04_170'
 name: Ranks Without Number
 title: Ranks Without Number
 set: two_towers
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: shadow
 culture: isengard
+variants:
+- 04_170-S
+- 04_170-F
 twilight: '1'
 unique: true
 game_text: ! |-

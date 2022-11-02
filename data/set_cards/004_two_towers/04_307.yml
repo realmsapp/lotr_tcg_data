@@ -1,5 +1,5 @@
 ---
-key: 4R307
+key: '04_307'
 name: Impatient and Angry
 title: Impatient and Angry
 set: two_towers
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: free_people
 culture: shire
+variants:
+- 04_307-S
+- 04_307-F
 twilight: '0'
 game_text: ! |-
   Skirmish: Exert Sam to make him strength +3. If Sam wins this skirmish, you may remove a burden.

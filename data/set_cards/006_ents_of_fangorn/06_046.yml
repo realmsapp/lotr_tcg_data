@@ -1,5 +1,5 @@
 ---
-key: 6R46
+key: '06_046'
 name: They Stole It
 title: They Stole It
 set: ents_of_fangorn
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: shadow
 culture: gollum_shadow
+variants:
+- 06_046-S
+- 06_046-F
 twilight: '1'
 game_text: ! |-
   Plays to your support arear Skirmish: Spot Gollum and discard 3 cards from hand to wound a companion Gollum is skirmishing once (or twice if that companion is a [Shire] companion).

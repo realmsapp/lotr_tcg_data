@@ -1,5 +1,5 @@
 ---
-key: 8U79
+key: '08_079'
 name: Ulaire Attea, Thrall of the One
 title: Ulaire Attea
 subtitle: Thrall of the One
@@ -9,6 +9,9 @@ card_type: minion
 subtype: nazgul
 alignment: shadow
 culture: wraith
+variants:
+- '08_079-S'
+- '08_079-F'
 strength: '12'
 vitality: '3'
 twilight: '6'

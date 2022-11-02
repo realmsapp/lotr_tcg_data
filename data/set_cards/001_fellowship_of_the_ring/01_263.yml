@@ -1,5 +1,5 @@
 ---
-key: 1R263
+key: '01_263'
 name: Orc Banner
 title: Orc Banner
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: shadow
 culture: sauron
+variants:
+- 01_263-S
+- 01_263-F
 twilight: '1'
 game_text: ! |-
   Plays to your support area. Each time a companion or ally loses a skirmish that involves a [Sauron] Orc, each [Sauron] Orc is strength +1 until the regroup phase.

@@ -1,5 +1,5 @@
 ---
-key: 1U73
+key: '01_073'
 name: Gandalf's Cart
 title: Gandalf's Cart
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: possession
 alignment: free_people
 culture: gandalf
+variants:
+- 01_073-S
+- 01_073-F
 twilight: '1'
 unique: true
 game_text: ! |-

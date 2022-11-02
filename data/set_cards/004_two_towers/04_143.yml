@@ -1,5 +1,5 @@
 ---
-key: 4U143
+key: '04_143'
 name: Brought Back Alive
 title: Brought Back Alive
 set: two_towers
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: shadow
 culture: isengard
+variants:
+- 04_143-S
+- 04_143-F
 twilight: '0'
 game_text: ! |-
   Search. Assignment: Exert an [Isengard] tracker to assign it to an unbound companion. That companion may exert to prevent this (unless that companion is a Hobbit).

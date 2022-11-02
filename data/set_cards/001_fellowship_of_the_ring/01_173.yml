@@ -1,5 +1,5 @@
 ---
-key: 1R173
+key: '01_173'
 name: Goblin Armory
 title: Goblin Armory
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: shadow
 culture: moria
+variants:
+- 01_173-S
+- 01_173-F
 twilight: '0'
 game_text: ! |-
   Plays to your support area. Each time you play a [Moria] weapon, add (1). Response: If a [Moria] Orc is about to take a wound, discard this condition to prevent that wound.

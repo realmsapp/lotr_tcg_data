@@ -1,5 +1,5 @@
 ---
-key: 7R179
+key: 07_179
 name: Ghastly Host
 title: Ghastly Host
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: shadow
 culture: wraith
+variants:
+- 07_179-S
+- 07_179-F
 twilight: '2'
 game_text: ! |-
   Shadow: Spot a Nazgul and remove a threat to play a Nazgul. Its twilight cost is -2.

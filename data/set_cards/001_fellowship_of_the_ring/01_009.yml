@@ -1,5 +1,5 @@
 ---
-key: 1C9
+key: 01_009
 name: Dwarven Axe
 title: Dwarven Axe
 set: fellowship_of_the_ring
@@ -8,6 +8,9 @@ card_type: possession
 subtype: hand_weapon
 alignment: free_people
 culture: dwarven
+variants:
+- 01_009-S
+- 01_009-F
 strength: "+2"
 twilight: '0'
 game_text: ! |-

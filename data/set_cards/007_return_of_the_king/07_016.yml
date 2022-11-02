@@ -1,5 +1,5 @@
 ---
-key: 7R16
+key: '07_016'
 name: Arwen, Fair Elf Maiden
 title: Arwen
 subtitle: Fair Elf Maiden
@@ -10,6 +10,9 @@ subtype: elf
 alignment: free_people
 culture: elven
 signet: gandalf
+variants:
+- 07_016-S
+- 07_016-F
 strength: '6'
 vitality: '3'
 twilight: '2'

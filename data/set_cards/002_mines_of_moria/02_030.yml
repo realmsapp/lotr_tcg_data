@@ -1,5 +1,5 @@
 ---
-key: 2U30
+key: '02_030'
 name: You Cannot Pass!
 title: You Cannot Pass!
 set: mines_of_moria
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: gandalf
+variants:
+- 02_030-S
+- 02_030-F
 twilight: '1'
 game_text: ! |-
   Spell. Maneuver: Spot Gandalf bearing a staff to prevent a minion from being fierce until the regroup phase.

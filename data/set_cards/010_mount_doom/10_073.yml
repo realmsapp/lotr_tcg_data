@@ -1,5 +1,5 @@
 ---
-key: 10U73
+key: '10_073'
 name: Fell Deeds Awake
 title: Fell Deeds Awake
 set: mount_doom
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: free_people
 culture: rohan
+variants:
+- 10_073-S
+- 10_073-F
 twilight: '1'
 unique: true
 game_text: ! |-

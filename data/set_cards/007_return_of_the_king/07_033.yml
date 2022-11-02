@@ -1,5 +1,5 @@
 ---
-key: 7R33
+key: '07_033'
 name: Citadel to Gate
 title: Citadel to Gate
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: free_people
 culture: gandalf
+variants:
+- 07_033-S
+- 07_033-F
 twilight: '5'
 game_text: ! |-
   Exert Gandalf twice to remove all threats and to heal all companions of one culture (except [Gandalf]).

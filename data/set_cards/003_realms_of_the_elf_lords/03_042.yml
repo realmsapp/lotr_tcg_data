@@ -1,5 +1,5 @@
 ---
-key: 3R42
+key: '03_042'
 name: Horn of Boromir
 title: Horn of Boromir
 set: realms_of_the_elf_lords
@@ -7,6 +7,9 @@ rarity: rare
 card_type: possession
 alignment: free_people
 culture: gondor
+variants:
+- 03_042-S
+- 03_042-F
 twilight: '0'
 unique: true
 game_text: ! |-

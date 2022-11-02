@@ -1,5 +1,5 @@
 ---
-key: 4R313
+key: '04_313'
 name: Pippin, Just a Nuisance
 title: Pippin
 subtitle: Just a Nuisance
@@ -10,6 +10,9 @@ subtype: hobbit
 alignment: free_people
 culture: shire
 signet: gandalf
+variants:
+- 04_313-S
+- 04_313-F
 strength: '3'
 vitality: '4'
 twilight: '1'

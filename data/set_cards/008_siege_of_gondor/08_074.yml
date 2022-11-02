@@ -1,5 +1,5 @@
 ---
-key: 8C74
+key: '08_074'
 name: Morgul Ambusher
 title: Morgul Ambusher
 set: siege_of_gondor
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: wraith
+variants:
+- '08_074-S'
+- '08_074-F'
 strength: '8'
 vitality: '2'
 twilight: '3'

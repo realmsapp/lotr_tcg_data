@@ -1,5 +1,5 @@
 ---
-key: 5C24
+key: '05_024'
 name: Gollum, Nasty Treacherous Creature
 title: Gollum
 subtitle: Nasty Treacherous Creature
@@ -8,6 +8,9 @@ rarity: common
 card_type: minion
 alignment: shadow
 culture: gollum_shadow
+variants:
+- 05_024-S
+- 05_024-F
 strength: '5'
 vitality: '4'
 twilight: '2'

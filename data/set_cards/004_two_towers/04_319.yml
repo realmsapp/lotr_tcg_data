@@ -1,5 +1,5 @@
 ---
-key: 4C319
+key: 04_319
 name: Severed His Bonds
 title: Severed His Bonds
 set: two_towers
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: shire
+variants:
+- 04_319-S
+- 04_319-F
 twilight: '1'
 game_text: ! |-
   Stealth. Skirmish: At sites 1T to 4T, cancel a skirmish involving a Hobbit. At any other site, prevent a Hobbit from being overwhelmed unless his or her strength is tripled.

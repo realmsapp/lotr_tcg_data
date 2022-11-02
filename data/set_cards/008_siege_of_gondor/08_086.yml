@@ -1,5 +1,5 @@
 ---
-key: 8U86
+key: '08_086'
 name: Doom Drove Them
 title: Doom Drove Them
 set: siege_of_gondor
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: free_people
 culture: rohan
+variants:
+- '08_086-S'
+- '08_086-F'
 twilight: '1'
 game_text: ! |-
   Fellowship: Exert a [Rohan] companion and either a [Gondor] Man or a [Shire] companion to add a [Rohan] token here. Skirmish: Remove a [Rohan] token here to exert a minion skirmishing a companion.

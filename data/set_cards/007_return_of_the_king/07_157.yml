@@ -1,5 +1,5 @@
 ---
-key: 7U157
+key: '07_157'
 name: Red Wrath
 title: Red Wrath
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: shadow
 culture: raider
+variants:
+- 07_157-S
+- 07_157-F
 twilight: '5'
 game_text: ! |-
   Exert a [Raider] Man to wound a companion he is skirmishing twice.

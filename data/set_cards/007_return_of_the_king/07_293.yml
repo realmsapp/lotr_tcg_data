@@ -1,5 +1,5 @@
 ---
-key: 7U293
+key: 07_293
 name: Mordor Warrior
 title: Mordor Warrior
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: sauron
+variants:
+- 07_293-S
+- 07_293-F
 strength: '9'
 vitality: '3'
 twilight: '3'

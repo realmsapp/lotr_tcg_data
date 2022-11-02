@@ -1,5 +1,5 @@
 ---
-key: 5C27
+key: '05_027'
 name: Poor Wretch
 title: Poor Wretch
 set: battle_of_helms_deep
@@ -7,6 +7,9 @@ rarity: common
 card_type: condition
 alignment: free_people
 culture: gollum_free_people
+variants:
+- 05_027-S
+- 05_027-F
 strength: "+1"
 twilight: '1'
 game_text: ! |-

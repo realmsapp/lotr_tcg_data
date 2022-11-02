@@ -1,5 +1,5 @@
 ---
-key: 1R252
+key: '01_252'
 name: The Irresistible Shadow
 title: The Irresistible Shadow
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: shadow
 culture: sauron
+variants:
+- 01_252-S
+- 01_252-F
 twilight: '0'
 game_text: ! |-
   To play, exert a [Sauron] Orc. Plays to your support area. If you can spot 5 burdens and the Free Peoples player has no cards in his or her draw deck, the Ring-bearer is corrupted.

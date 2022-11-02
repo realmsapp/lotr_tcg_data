@@ -1,5 +1,5 @@
 ---
-key: 4R116
+key: '04_116'
 name: Faramir, Captain of Gondor
 title: Faramir
 subtitle: Captain of Gondor
@@ -10,6 +10,9 @@ subtype: man
 alignment: free_people
 culture: gondor
 signet: aragorn
+variants:
+- 04_116-S
+- 04_116-F
 strength: '7'
 vitality: '3'
 twilight: '3'

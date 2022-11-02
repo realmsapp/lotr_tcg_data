@@ -1,5 +1,5 @@
 ---
-key: 1R216
+key: '01_216'
 name: Morgul Blade
 title: Morgul Blade
 set: fellowship_of_the_ring
@@ -8,6 +8,9 @@ card_type: possession
 subtype: hand_weapon
 alignment: shadow
 culture: wraith
+variants:
+- 01_216-S
+- 01_216-F
 strength: "+1"
 twilight: '1'
 game_text: ! |-

@@ -1,5 +1,5 @@
 ---
-key: 5C99
+key: 05_099
 name: Gate Veteran
 title: Gate Veteran
 set: battle_of_helms_deep
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: sauron
+variants:
+- 05_099-S
+- 05_099-F
 strength: '7'
 vitality: '2'
 twilight: '2'

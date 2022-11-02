@@ -1,5 +1,5 @@
 ---
-key: 10C109
+key: '10_109'
 name: Make Haste
 title: Make Haste
 set: mount_doom
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: shire
+variants:
+- 10_109-S
+- 10_109-F
 twilight: '0'
 game_text: ! |-
   Stealth. Spot a [Shire] companion and return him or her to your hand to make a Shadow player choose to remove (2) or discard a minion.

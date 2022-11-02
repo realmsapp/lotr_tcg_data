@@ -1,5 +1,5 @@
 ---
-key: 1R165
+key: '01_165'
 name: Cave Troll of Moria, Scourge of the Black Pit
 title: Cave Troll of Moria
 subtitle: Scourge of the Black Pit
@@ -9,6 +9,9 @@ card_type: minion
 subtype: troll
 alignment: shadow
 culture: moria
+variants:
+- 01_165-S
+- 01_165-F
 strength: '15'
 vitality: '4'
 twilight: '10'

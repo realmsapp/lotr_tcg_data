@@ -1,5 +1,5 @@
 ---
-key: 4R103
+key: '04_103'
 name: Treebeard, Earthborn
 title: Treebeard
 subtitle: Earthborn
@@ -8,6 +8,9 @@ rarity: rare
 card_type: ally
 alignment: free_people
 culture: gandalf
+variants:
+- 04_103-S
+- 04_103-F
 strength: '12'
 vitality: '4'
 twilight: '4'

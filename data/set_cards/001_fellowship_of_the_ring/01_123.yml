@@ -1,5 +1,5 @@
 ---
-key: 1R123
+key: '01_123'
 name: Caradhras Has Not Forgiven Us
 title: Caradhras Has Not Forgiven Us
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: shadow
 culture: isengard
+variants:
+- 01_123-S
+- 01_123-F
 twilight: '3'
 game_text: ! |-
   Spell. Weather. Maneuver: Exert a [Isengard] minion and spot 5 companions to discard an exhausted companion (except the Ring-bearer).

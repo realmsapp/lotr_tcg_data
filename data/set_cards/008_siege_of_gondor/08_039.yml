@@ -1,5 +1,5 @@
 ---
-key: 8C39
+key: '08_039'
 name: Knight of Dol Amroth
 title: Knight of Dol Amroth
 set: siege_of_gondor
@@ -8,6 +8,9 @@ card_type: companion
 subtype: man
 alignment: free_people
 culture: gondor
+variants:
+- '08_039-S'
+- '08_039-F'
 strength: '6'
 vitality: '3'
 twilight: '2'

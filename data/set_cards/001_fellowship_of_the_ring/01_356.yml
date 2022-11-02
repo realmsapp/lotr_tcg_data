@@ -1,10 +1,13 @@
 ---
-key: 1C356
+key: '01_356'
 name: Anduin Banks
 title: Anduin Banks
 set: fellowship_of_the_ring
 rarity: common
 card_type: site
+variants:
+- 01_356-S
+- 01_356-F
 twilight: '6'
 site_number: '8'
 game_text: ! |-

@@ -1,5 +1,5 @@
 ---
-key: 8C5
+key: '08_005'
 name: Gimli, Counter of Foes
 title: Gimli
 subtitle: Counter of Foes
@@ -10,6 +10,9 @@ subtype: dwarf
 alignment: free_people
 culture: dwarven
 signet: gandalf
+variants:
+- '08_005-S'
+- '08_005-F'
 strength: '6'
 vitality: '3'
 twilight: '2'

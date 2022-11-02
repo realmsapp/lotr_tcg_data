@@ -1,5 +1,5 @@
 ---
-key: 4R106
+key: '04_106'
 name: Well Met Indeed
 title: Well Met Indeed
 set: two_towers
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: free_people
 culture: gandalf
+variants:
+- 04_106-S
+- 04_106-F
 twilight: '5'
 game_text: ! |-
   Fellowship: Spot an Elf, a [Gondor] Man, and a Dwarf to play Gandalf from your dead pile.

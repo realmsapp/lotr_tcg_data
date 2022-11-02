@@ -1,5 +1,5 @@
 ---
-key: 7U280
+key: 07_280
 name: Great Peril of Fire
 title: Great Peril of Fire
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: shadow
 culture: sauron
+variants:
+- 07_280-S
+- 07_280-F
 twilight: '1'
 game_text: ! |-
   To play, spot a besieger or a site you control. Maneuver: Discard an engine to discard a condition from the Free Peoples support area.

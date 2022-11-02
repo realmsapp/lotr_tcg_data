@@ -1,5 +1,5 @@
 ---
-key: 1U274
+key: '01_274'
 name: Sauron's Defenses
 title: Sauron's Defenses
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: shadow
 culture: sauron
+variants:
+- 01_274-S
+- 01_274-F
 twilight: '1'
 game_text: ! |-
   To play, exert [Sauron] a Orc. Plays to your support area. While there are 3 or more companions in the dead pile, the move limit for this turn is -1 (to a minimum of 1).

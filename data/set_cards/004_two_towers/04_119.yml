@@ -1,5 +1,5 @@
 ---
-key: 4R119
+key: 04_119
 name: Faramir's Cloak
 title: Faramir's Cloak
 set: two_towers
@@ -8,6 +8,9 @@ card_type: possession
 subtype: cloak
 alignment: free_people
 culture: gondor
+variants:
+- 04_119-S
+- 04_119-F
 twilight: '0'
 unique: true
 game_text: ! |-

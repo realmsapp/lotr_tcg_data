@@ -1,5 +1,5 @@
 ---
-key: 2C95
+key: 02_095
 name: Vile Blade
 title: Vile Blade
 set: mines_of_moria
@@ -8,6 +8,9 @@ card_type: possession
 subtype: hand_weapon
 alignment: shadow
 culture: sauron
+variants:
+- 02_095-S
+- 02_095-F
 strength: "+2"
 twilight: '1'
 game_text: ! |-

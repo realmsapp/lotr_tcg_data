@@ -1,5 +1,5 @@
 ---
-key: 4U233
+key: '04_233'
 name: Fearless
 title: Fearless
 set: two_towers
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: shadow
 culture: raider
+variants:
+- 04_233-S
+- 04_233-F
 twilight: '2'
 game_text: ! |-
   Skirmish: Make a Southron strength +1 for each burden you spot (limit +5), or make a [Raider] Man strength +2.

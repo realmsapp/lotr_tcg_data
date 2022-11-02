@@ -1,5 +1,5 @@
 ---
-key: 7U98
+key: 07_098
 name: Gondorian Sword
 title: Gondorian Sword
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: possession
 subtype: hand_weapon
 alignment: free_people
 culture: gondor
+variants:
+- 07_098-S
+- 07_098-F
 strength: "+2"
 twilight: '1'
 game_text: ! |-

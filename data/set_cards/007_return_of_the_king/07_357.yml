@@ -1,10 +1,13 @@
 ---
-key: 7U357
+key: '07_357'
 name: Morgul Vale
 title: Morgul Vale
 set: return_of_the_king
 rarity: uncommon
 card_type: site
+variants:
+- 07_357-S
+- 07_357-F
 twilight: '8'
 site_number: '8'
 game_text: ! |-

@@ -1,5 +1,5 @@
 ---
-key: 5C30
+key: '05_030'
 name: We Must Have It
 title: We Must Have It
 set: battle_of_helms_deep
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: shadow
 culture: gollum_shadow
+variants:
+- 05_030-S
+- 05_030-F
 twilight: '0'
 game_text: ! |-
   Shadow: Play Gollum from your draw deck or your discard pile. Skirmish: Discard a card at random from hand to make Gollum strength +3.

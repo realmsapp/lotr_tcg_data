@@ -1,5 +1,5 @@
 ---
-key: 8R88
+key: '08_088'
 name: Eowyn's Shield
 title: Eowyn's Shield
 set: siege_of_gondor
@@ -8,6 +8,9 @@ card_type: possession
 subtype: shield
 alignment: free_people
 culture: rohan
+variants:
+- '08_088-S'
+- '08_088-F'
 twilight: '1'
 unique: true
 game_text: ! |-

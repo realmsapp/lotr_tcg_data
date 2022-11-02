@@ -1,5 +1,5 @@
 ---
-key: 2R27
+key: '02_027'
 name: Staff Asunder
 title: Staff Asunder
 set: mines_of_moria
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: free_people
 culture: gandalf
+variants:
+- 02_027-S
+- 02_027-F
 twilight: '0'
 game_text: ! |-
   Spell. Skirmish: Discard a staff Gandalf is bearing and then exert him twice to discard a minion he is skirmishing.

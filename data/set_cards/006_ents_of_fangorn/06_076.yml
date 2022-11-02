@@ -1,5 +1,5 @@
 ---
-key: 6R76
+key: '06_076'
 name: The Balrog, Terror of Flame and Shadow
 title: The Balrog
 subtitle: Terror of Flame and Shadow
@@ -9,6 +9,9 @@ card_type: minion
 subtype: balrog
 alignment: shadow
 culture: moria
+variants:
+- 06_076-S
+- 06_076-F
 strength: '17'
 vitality: '5'
 twilight: '14'

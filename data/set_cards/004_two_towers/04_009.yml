@@ -1,5 +1,5 @@
 ---
-key: 4U9
+key: 04_009
 name: Dunlending Arsonist
 title: Dunlending Arsonist
 set: two_towers
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: dunland
+variants:
+- 04_009-S
+- 04_009-F
 strength: '10'
 vitality: '1'
 twilight: '4'

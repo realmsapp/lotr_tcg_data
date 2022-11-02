@@ -1,5 +1,5 @@
 ---
-key: 3C14
+key: '03_014'
 name: Erestor, Chief Advisor to Elrond
 title: Erestor
 subtitle: Chief Advisor to Elrond
@@ -8,6 +8,9 @@ rarity: common
 card_type: ally
 alignment: free_people
 culture: elven
+variants:
+- 03_014-S
+- 03_014-F
 strength: '5'
 vitality: '2'
 twilight: '2'

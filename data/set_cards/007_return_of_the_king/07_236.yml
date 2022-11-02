@@ -1,5 +1,5 @@
 ---
-key: 7R236
+key: '07_236'
 name: Herugrim, Sword of the Mark
 title: Herugrim
 subtitle: Sword of the Mark
@@ -9,6 +9,9 @@ card_type: possession
 subtype: hand_weapon
 alignment: free_people
 culture: rohan
+variants:
+- 07_236-S
+- 07_236-F
 strength: "+2"
 vitality: "+1"
 twilight: '3'

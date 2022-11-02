@@ -1,5 +1,5 @@
 ---
-key: 5U111
+key: '05_111'
 name: Frodo, Master of the Precious
 title: Frodo
 subtitle: Master of the Precious
@@ -10,6 +10,9 @@ subtype: hobbit
 alignment: free_people
 culture: shire
 signet: aragorn
+variants:
+- 05_111-S
+- 05_111-F
 strength: '3'
 vitality: '4'
 twilight: '0'

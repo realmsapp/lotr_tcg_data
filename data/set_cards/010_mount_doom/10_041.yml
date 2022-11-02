@@ -1,5 +1,5 @@
 ---
-key: 10C41
+key: '10_041'
 name: Easterling Pillager
 title: Easterling Pillager
 set: mount_doom
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: raider
+variants:
+- 10_041-S
+- 10_041-F
 strength: '11'
 vitality: '3'
 twilight: '5'

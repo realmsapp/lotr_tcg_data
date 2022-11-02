@@ -1,10 +1,13 @@
 ---
-key: 4U354
+key: '04_354'
 name: Hornburg Armory
 title: Hornburg Armory
 set: two_towers
 rarity: uncommon
 card_type: site
+variants:
+- 04_354-S
+- 04_354-F
 twilight: '3'
 site_number: '6'
 game_text: ! |-

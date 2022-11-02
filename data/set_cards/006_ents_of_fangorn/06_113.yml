@@ -1,5 +1,5 @@
 ---
-key: 6R113
+key: '06_113'
 name: Merry, Impatient Hobbit
 title: Merry
 subtitle: Impatient Hobbit
@@ -10,6 +10,9 @@ subtype: hobbit
 alignment: free_people
 culture: shire
 signet: aragorn
+variants:
+- 06_113-S
+- 06_113-F
 strength: '3'
 vitality: '4'
 twilight: '1'

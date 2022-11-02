@@ -1,5 +1,5 @@
 ---
-key: 7R241
+key: '07_241'
 name: Merry's Armor
 title: Merry's Armor
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: possession
 subtype: armor
 alignment: free_people
 culture: rohan
+variants:
+- 07_241-S
+- 07_241-F
 strength: "+2"
 vitality: "-1"
 twilight: '0'

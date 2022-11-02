@@ -1,10 +1,13 @@
 ---
-key: 7U362
+key: '07_362'
 name: Narchost
 title: Narchost
 set: return_of_the_king
 rarity: uncommon
 card_type: site
+variants:
+- 07_362-S
+- 07_362-F
 twilight: '9'
 site_number: '9'
 game_text: ! |-

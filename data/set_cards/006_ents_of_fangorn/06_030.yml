@@ -1,5 +1,5 @@
 ---
-key: 6R30
+key: '06_030'
 name: Gandalf, Mithrandir
 title: Gandalf
 subtitle: Mithrandir
@@ -10,6 +10,9 @@ subtype: wizard
 alignment: free_people
 culture: gandalf
 signet: aragorn
+variants:
+- 06_030-S
+- 06_030-F
 strength: '10'
 vitality: '4'
 twilight: '4'

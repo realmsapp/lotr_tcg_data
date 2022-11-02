@@ -1,5 +1,5 @@
 ---
-key: 4C49
+key: 04_049
 name: Gimli, Unbidden Guest
 title: Gimli
 subtitle: Unbidden Guest
@@ -10,6 +10,9 @@ subtype: dwarf
 alignment: free_people
 culture: dwarven
 signet: gandalf
+variants:
+- 04_049-S
+- 04_049-F
 strength: '6'
 vitality: '3'
 twilight: '2'

@@ -1,5 +1,5 @@
 ---
-key: 10U26
+key: '10_026'
 name: Cursed of Erech
 title: Cursed of Erech
 set: mount_doom
@@ -8,6 +8,9 @@ card_type: companion
 subtype: wraith
 alignment: free_people
 culture: gondor
+variants:
+- 10_026-S
+- 10_026-F
 strength: '7'
 vitality: '3'
 twilight: '3'

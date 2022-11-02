@@ -1,5 +1,5 @@
 ---
-key: 1C76
+key: '01_076'
 name: Intimidate
 title: Intimidate
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: gandalf
+variants:
+- 01_076-S
+- 01_076-F
 twilight: '2'
 game_text: ! |-
   Spell. Response: If a companion is about to take a wound, spot Gandalf to prevent that wound.

@@ -1,5 +1,5 @@
 ---
-key: 2R97
+key: 02_097
 name: Consorting With Wizards
 title: Consorting With Wizards
 set: mines_of_moria
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: free_people
 culture: shire
+variants:
+- 02_097-S
+- 02_097-F
 twilight: '0'
 game_text: ! |-
   Tale. Bearer must be Bilbo. Bilbo may not take wounds (except during the archery phase). Fellowship or Regroup: Exert Bilbo or discard this condition to remove (1).

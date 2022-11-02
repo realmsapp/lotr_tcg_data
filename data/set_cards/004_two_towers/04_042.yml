@@ -1,5 +1,5 @@
 ---
-key: 4C42
+key: '04_042'
 name: Best Company
 title: Best Company
 set: two_towers
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: dwarven
+variants:
+- 04_042-S
+- 04_042-F
 twilight: '0'
 game_text: ! |-
   Skirmish: Make a Dwarf strength +2 (or +4 if at a battleground).

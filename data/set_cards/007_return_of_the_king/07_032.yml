@@ -1,5 +1,5 @@
 ---
-key: 7R32
+key: '07_032'
 name: The Board Is Set
 title: The Board Is Set
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: free_people
 culture: gandalf
+variants:
+- 07_032-S
+- 07_032-F
 twilight: '0'
 game_text: ! |-
   Spell. If an event is played, exert Gandalf to make that opponent remove (2) or cancel that event.

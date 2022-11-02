@@ -1,5 +1,5 @@
 ---
-key: 4C314
+key: '04_314'
 name: Pippin, Woolly-footed Rascal
 title: Pippin
 subtitle: Woolly-footed Rascal
@@ -10,6 +10,9 @@ subtype: hobbit
 alignment: free_people
 culture: shire
 signet: frodo
+variants:
+- 04_314-S
+- 04_314-F
 strength: '3'
 vitality: '4'
 twilight: '1'

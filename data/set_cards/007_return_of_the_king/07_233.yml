@@ -1,5 +1,5 @@
 ---
-key: 7R233
+key: '07_233'
 name: Grimbold, Marshal of Rohan
 title: Grimbold
 subtitle: Marshal of Rohan
@@ -9,6 +9,9 @@ card_type: companion
 subtype: man
 alignment: free_people
 culture: rohan
+variants:
+- 07_233-S
+- 07_233-F
 strength: '6'
 vitality: '3'
 twilight: '2'

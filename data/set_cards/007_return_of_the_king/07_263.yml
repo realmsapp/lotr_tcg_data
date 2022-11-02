@@ -1,5 +1,5 @@
 ---
-key: 7C263
+key: '07_263'
 name: Anguish
 title: Anguish
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: shadow
 culture: sauron
+variants:
+- 07_263-S
+- 07_263-F
 twilight: '1'
 game_text: ! |-
   Remove 3 threats to make a character skirmishing a [Sauron] Orc strength -3.

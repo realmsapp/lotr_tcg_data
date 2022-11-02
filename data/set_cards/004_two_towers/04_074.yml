@@ -1,5 +1,5 @@
 ---
-key: 4C74
+key: '04_074'
 name: Legolas, Elven Comrade
 title: Legolas
 subtitle: Elven Comrade
@@ -10,6 +10,9 @@ subtype: elf
 alignment: free_people
 culture: elven
 signet: gandalf
+variants:
+- 04_074-S
+- 04_074-F
 strength: '6'
 vitality: '3'
 twilight: '2'

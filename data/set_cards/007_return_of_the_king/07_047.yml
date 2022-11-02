@@ -1,5 +1,5 @@
 ---
-key: 7U47
+key: '07_047'
 name: Sharpen Your Swords
 title: Sharpen Your Swords
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: gandalf
+variants:
+- 07_047-S
+- 07_047-F
 twilight: '1'
 game_text: ! |-
   Spot Gandalf to make a [Gondor] companion strength +1 for each [Gondor] companion you spot (limit +4).

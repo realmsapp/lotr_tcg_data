@@ -1,5 +1,5 @@
 ---
-key: 7R180
+key: 07_180
 name: Gorbag, Lieutenant of Cirith Ungol
 title: Gorbag
 subtitle: Lieutenant of Cirith Ungol
@@ -9,6 +9,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: wraith
+variants:
+- 07_180-S
+- 07_180-F
 strength: '11'
 vitality: '3'
 twilight: '5'

@@ -1,5 +1,5 @@
 ---
-key: 4R269
+key: 04_269
 name: Eothain, Scout of the Mark
 title: Eothain
 subtitle: Scout of the Mark
@@ -9,6 +9,9 @@ card_type: companion
 subtype: man
 alignment: free_people
 culture: rohan
+variants:
+- 04_269-S
+- 04_269-F
 strength: '6'
 vitality: '3'
 twilight: '2'

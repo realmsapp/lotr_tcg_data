@@ -1,5 +1,5 @@
 ---
-key: 8U4
+key: '08_004'
 name: Counts But One
 title: Counts But One
 set: siege_of_gondor
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: dwarven
+variants:
+- '08_004-S'
+- '08_004-F'
 twilight: '2'
 game_text: ! |-
   If Gimli is not assigned to a skirmish, add a threat to have him replace an unbound companion in a skirmish.

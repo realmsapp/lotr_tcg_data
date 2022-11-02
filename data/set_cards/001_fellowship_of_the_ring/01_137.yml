@@ -1,5 +1,5 @@
 ---
-key: 1R137
+key: '01_137'
 name: Saruman's Reach
 title: Saruman's Reach
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: shadow
 culture: isengard
+variants:
+- 01_137-S
+- 01_137-F
 twilight: '0'
 game_text: ! |-
   Search. Maneuver: Exert an Uruk-hai to make the opponent choose to either exert 2 companions or make the Ring-bearer put on The One Ring until the regroup phase.

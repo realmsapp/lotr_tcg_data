@@ -1,10 +1,13 @@
 ---
-key: 1U339
+key: 01_339
 name: Frodo's Bedroom
 title: Frodo's Bedroom
 set: fellowship_of_the_ring
 rarity: uncommon
 card_type: site
+variants:
+- 01_339-S
+- 01_339-F
 twilight: '0'
 site_number: '3'
 game_text: ! |-

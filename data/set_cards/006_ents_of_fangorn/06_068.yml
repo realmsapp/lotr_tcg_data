@@ -1,5 +1,5 @@
 ---
-key: 6R68
+key: 06_068
 name: Isengard Mechanics
 title: Isengard Mechanics
 set: ents_of_fangorn
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: isengard
+variants:
+- 06_068-S
+- 06_068-F
 strength: '11'
 vitality: '4'
 twilight: '6'

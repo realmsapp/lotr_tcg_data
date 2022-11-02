@@ -1,5 +1,5 @@
 ---
-key: 1R120
+key: '01_120'
 name: Alive and Unspoiled
 title: Alive and Unspoiled
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: shadow
 culture: isengard
+variants:
+- 01_120-S
+- 01_120-F
 twilight: '2'
 game_text: ! |-
   To play, exert an Uruk-hai. Plays to your support area. Shadow: Remove (3) and spot X burdens to make the Free Peoples player reveal X cards at random from hand. You may discard 1 revealed card.

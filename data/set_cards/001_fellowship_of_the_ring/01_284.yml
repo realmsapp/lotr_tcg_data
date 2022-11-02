@@ -1,5 +1,5 @@
 ---
-key: 1R284
+key: 01_284
 name: Bilbo, Retired Adventurer
 title: Bilbo
 subtitle: Retired Adventurer
@@ -8,6 +8,9 @@ rarity: rare
 card_type: ally
 alignment: free_people
 culture: shire
+variants:
+- 01_284-S
+- 01_284-F
 strength: '2'
 vitality: '3'
 twilight: '2'

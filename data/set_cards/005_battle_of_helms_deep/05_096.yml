@@ -1,5 +1,5 @@
 ---
-key: 5R96
+key: 05_096
 name: Eye of Barad-Dur
 title: Eye of Barad-Dur
 set: battle_of_helms_deep
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: shadow
 culture: sauron
+variants:
+- 05_096-S
+- 05_096-F
 twilight: '0'
 game_text: ! |-
   Skirmish: Make a companion or ally skirmishing a [Sauron] Orc strength -1 for each ring-bound companion. Response: If a free people player reveals this card from your hand, discard this card to add 2 burdens.

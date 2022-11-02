@@ -1,5 +1,5 @@
 ---
-key: 4C117
+key: '04_117'
 name: Faramir, Son of Denethor
 title: Faramir
 subtitle: Son of Denethor
@@ -10,6 +10,9 @@ subtype: man
 alignment: free_people
 culture: gondor
 signet: frodo
+variants:
+- 04_117-S
+- 04_117-F
 strength: '7'
 vitality: '3'
 twilight: '3'

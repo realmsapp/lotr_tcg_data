@@ -1,5 +1,5 @@
 ---
-key: 4C212
+key: '04_212'
 name: Weary
 title: Weary
 set: two_towers
@@ -7,6 +7,9 @@ rarity: common
 card_type: condition
 alignment: shadow
 culture: isengard
+variants:
+- 04_212-S
+- 04_212-F
 twilight: '1'
 game_text: ! |-
   Search. Plays on a companion or ally. Limit 1 per character. Each time the Free Peoples player assigns bearer to skirmish an [Isengard] tracker, bearer must exert.

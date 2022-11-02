@@ -1,5 +1,5 @@
 ---
-key: 4R84
+key: 04_084
 name: Sword-wall
 title: Sword-wall
 set: two_towers
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: free_people
 culture: elven
+variants:
+- 04_084-S
+- 04_084-F
 twilight: '2'
 game_text: ! |-
   Skirmish or Regroup: Spot 3 Elf companions to liberate a site or exert a minion.

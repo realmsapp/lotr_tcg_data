@@ -1,5 +1,5 @@
 ---
-key: 7U231
+key: '07_231'
 name: Fey He Seemed
 title: Fey He Seemed
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: rohan
+variants:
+- 07_231-S
+- 07_231-F
 twilight: '1'
 game_text: ! |-
   Make a [Rohan] Man strength +2 (or +3 and damage +1 if skirmishing a wounded minion).

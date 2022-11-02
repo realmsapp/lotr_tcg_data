@@ -1,10 +1,13 @@
 ---
-key: 4U361
+key: '04_361'
 name: Orthanc Balcony
 title: Orthanc Balcony
 set: two_towers
 rarity: uncommon
 card_type: site
+variants:
+- 04_361-S
+- 04_361-F
 twilight: '8'
 site_number: '9'
 game_text: ! |-

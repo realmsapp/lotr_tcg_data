@@ -1,5 +1,5 @@
 ---
-key: 7C72
+key: '07_072'
 name: Smeagol, Hurried Guide
 title: Smeagol
 subtitle: Hurried Guide
@@ -9,6 +9,9 @@ card_type: companion
 alignment: free_people
 culture: gollum_free_people
 signet: frodo
+variants:
+- 07_072-S
+- 07_072-F
 strength: '3'
 vitality: '4'
 twilight: '0'

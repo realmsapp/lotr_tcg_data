@@ -1,5 +1,5 @@
 ---
-key: 5C73
+key: '05_073'
 name: Mumak
 title: Mumak
 set: battle_of_helms_deep
@@ -8,6 +8,9 @@ card_type: possession
 subtype: mount
 alignment: shadow
 culture: raider
+variants:
+- 05_073-S
+- 05_073-F
 strength: "+3"
 twilight: '2'
 game_text: ! |-

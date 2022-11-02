@@ -1,5 +1,5 @@
 ---
-key: 5U34
+key: '05_034'
 name: Fall Back
 title: Fall Back
 set: battle_of_helms_deep
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: gondor
+variants:
+- 05_034-S
+- 05_034-F
 twilight: '0'
 game_text: ! |-
   Skirmish: Discard all Shadow cards borne by a minion bearing a [Gondor] fortification.

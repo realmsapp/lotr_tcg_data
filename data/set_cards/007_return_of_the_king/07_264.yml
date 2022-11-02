@@ -1,5 +1,5 @@
 ---
-key: 7U264
+key: '07_264'
 name: Army of Udun
 title: Army of Udun
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: sauron
+variants:
+- 07_264-S
+- 07_264-F
 strength: '19'
 vitality: '5'
 twilight: '9'

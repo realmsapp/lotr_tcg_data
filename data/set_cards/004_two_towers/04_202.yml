@@ -1,5 +1,5 @@
 ---
-key: 4U202
+key: '04_202'
 name: Uruk-hai Band
 title: Uruk-hai Band
 set: two_towers
@@ -8,6 +8,9 @@ card_type: minion
 subtype: uruk-hai
 alignment: shadow
 culture: isengard
+variants:
+- 04_202-S
+- 04_202-F
 strength: '10'
 vitality: '3'
 twilight: '5'

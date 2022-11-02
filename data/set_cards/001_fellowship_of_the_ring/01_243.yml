@@ -1,5 +1,5 @@
 ---
-key: 1R243
+key: '01_243'
 name: Despair
 title: Despair
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: shadow
 culture: sauron
+variants:
+- 01_243-S
+- 01_243-F
 twilight: '2'
 game_text: ! |-
   Maneuver: If the total number of burdens and companions in the dead pile is at least 12, spot a [Sauron] Orc to corrupt the Ring-bearer.

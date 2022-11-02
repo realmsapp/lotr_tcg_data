@@ -1,5 +1,5 @@
 ---
-key: 10U114
+key: '10_114'
 name: Shadowplay
 title: Shadowplay
 set: mount_doom
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: free_people
 culture: shire
+variants:
+- 10_114-S
+- 10_114-F
 twilight: '1'
 game_text: ! |-
   To play, spot 2 [Shire] companions. Each time a minion is played, you may exert a Hobbit companion to exert that minion (limit once per turn).

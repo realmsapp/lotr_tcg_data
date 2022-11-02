@@ -1,5 +1,5 @@
 ---
-key: 4R121
+key: '04_121'
 name: Forests of Ithilien
 title: Forests of Ithilien
 set: two_towers
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: free_people
 culture: gondor
+variants:
+- 04_121-S
+- 04_121-F
 twilight: '0'
 unique: true
 game_text: ! |-

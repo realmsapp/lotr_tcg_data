@@ -1,5 +1,5 @@
 ---
-key: 8R67
+key: '08_067'
 name: Between Nazgul and Prey
 title: Between Nazgul and Prey
 set: siege_of_gondor
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: shadow
 culture: wraith
+variants:
+- '08_067-S'
+- '08_067-F'
 twilight: '4'
 game_text: ! |-
   Exert an enduring [Wraith] minion twice to assign that minion to an unbound companion.

@@ -1,5 +1,5 @@
 ---
-key: 6R60
+key: '06_060'
 name: Berserk Butcher
 title: Berserk Butcher
 set: ents_of_fangorn
@@ -8,6 +8,9 @@ card_type: minion
 subtype: uruk-hai
 alignment: shadow
 culture: isengard
+variants:
+- 06_060-S
+- 06_060-F
 strength: '12'
 vitality: '3'
 twilight: '6'

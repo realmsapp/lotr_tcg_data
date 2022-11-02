@@ -1,5 +1,5 @@
 ---
-key: 1U223
+key: '01_223'
 name: Relentless Charge
 title: Relentless Charge
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: shadow
 culture: wraith
+variants:
+- 01_223-S
+- 01_223-F
 twilight: '0'
 game_text: ! |-
   Maneuver: Exert a Nazgul to wound every archer companion.

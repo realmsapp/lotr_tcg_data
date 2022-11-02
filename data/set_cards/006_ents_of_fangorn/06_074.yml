@@ -1,5 +1,5 @@
 ---
-key: 6R74
+key: '06_074'
 name: Sharku, Vile Marauder
 title: Sharku
 subtitle: Vile Marauder
@@ -9,6 +9,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: isengard
+variants:
+- 06_074-S
+- 06_074-F
 strength: '7'
 vitality: '2'
 twilight: '2'

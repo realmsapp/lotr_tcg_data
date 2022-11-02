@@ -1,5 +1,5 @@
 ---
-key: 1U98
+key: 01_098
 name: Boromir's Cloak
 title: Boromir's Cloak
 set: fellowship_of_the_ring
@@ -8,6 +8,9 @@ card_type: possession
 subtype: cloak
 alignment: free_people
 culture: gondor
+variants:
+- 01_098-S
+- 01_098-F
 twilight: '0'
 unique: true
 game_text: ! |-

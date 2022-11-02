@@ -1,5 +1,5 @@
 ---
-key: 7C153
+key: '07_153'
 name: Mumakil of the Harad
 title: Mumakil of the Harad
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: shadow
 culture: raider
+variants:
+- 07_153-S
+- 07_153-F
 twilight: '1'
 game_text: ! |-
   Spot a [Raider] minion to add (2) for each threat.

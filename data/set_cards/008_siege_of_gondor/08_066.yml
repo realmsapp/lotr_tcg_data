@@ -1,5 +1,5 @@
 ---
-key: 8C66
+key: '08_066'
 name: Wind That Sped Ships
 title: Wind That Sped Ships
 set: siege_of_gondor
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: shadow
 culture: raider
+variants:
+- '08_066-S'
+- '08_066-F'
 twilight: '1'
 game_text: ! |-
   Make a corsair strength +1 for each [Raider] token you spot (limit +6). If you have initiative, you may place this event on top of your draw deck.

@@ -1,5 +1,5 @@
 ---
-key: 7C124
+key: '07_124'
 name: Targon
 title: Targon
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: companion
 subtype: man
 alignment: free_people
 culture: gondor
+variants:
+- 07_124-S
+- 07_124-F
 strength: '6'
 vitality: '3'
 twilight: '2'

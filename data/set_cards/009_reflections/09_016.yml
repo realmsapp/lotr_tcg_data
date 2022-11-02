@@ -1,5 +1,5 @@
 ---
-key: 9R+16
+key: '09_016'
 name: Glorfindel, Revealed in Wrath
 title: Glorfindel
 subtitle: Revealed in Wrath
@@ -9,6 +9,8 @@ card_type: companion
 subtype: elf
 alignment: free_people
 culture: elven
+variants:
+- '09_016-F'
 strength: '9'
 vitality: '3'
 twilight: '4'

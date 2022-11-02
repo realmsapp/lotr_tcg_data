@@ -1,5 +1,5 @@
 ---
-key: 4R315
+key: '04_315'
 name: Sam, Frodo's Gardener
 title: Sam
 subtitle: Frodo's Gardener
@@ -10,6 +10,9 @@ subtype: hobbit
 alignment: free_people
 culture: shire
 signet: frodo
+variants:
+- 04_315-S
+- 04_315-F
 strength: '3'
 vitality: '4'
 twilight: '2'

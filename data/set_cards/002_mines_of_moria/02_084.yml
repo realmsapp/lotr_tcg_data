@@ -1,5 +1,5 @@
 ---
-key: 2R84
+key: 02_084
 name: Ulaire Nelya, Ringwraith in Twilight
 title: Ulaire Nelya
 subtitle: Ringwraith in Twilight
@@ -9,6 +9,9 @@ card_type: minion
 subtype: nazgul
 alignment: shadow
 culture: wraith
+variants:
+- 02_084-S
+- 02_084-F
 strength: '10'
 vitality: '3'
 twilight: '5'

@@ -1,5 +1,5 @@
 ---
-key: 7R283
+key: 07_283
 name: Legions of Morgul
 title: Legions of Morgul
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: shadow
 culture: sauron
+variants:
+- 07_283-S
+- 07_283-F
 twilight: '3'
 unique: true
 game_text: ! |-

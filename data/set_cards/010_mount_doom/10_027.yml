@@ -1,5 +1,5 @@
 ---
-key: 10C27
+key: '10_027'
 name: Dead Man of Dunharrow
 title: Dead Man of Dunharrow
 set: mount_doom
@@ -8,6 +8,9 @@ card_type: companion
 subtype: wraith
 alignment: free_people
 culture: gondor
+variants:
+- 10_027-S
+- 10_027-F
 strength: '6'
 vitality: '3'
 twilight: '2'

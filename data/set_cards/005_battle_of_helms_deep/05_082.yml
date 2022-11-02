@@ -1,5 +1,5 @@
 ---
-key: 5R82
+key: 05_082
 name: Gamling, Warrior of Rohan
 title: Gamling
 subtitle: Warrior of Rohan
@@ -9,6 +9,9 @@ card_type: companion
 subtype: man
 alignment: free_people
 culture: rohan
+variants:
+- 05_082-S
+- 05_082-F
 strength: '6'
 vitality: '3'
 twilight: '2'

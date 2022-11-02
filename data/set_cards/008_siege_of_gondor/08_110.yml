@@ -1,5 +1,5 @@
 ---
-key: 8U110
+key: '08_110'
 name: Morgai Foothills
 title: Morgai Foothills
 set: siege_of_gondor
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: free_people
 culture: shire
+variants:
+- '08_110-S'
+- '08_110-F'
 twilight: '0'
 unique: true
 game_text: ! |-

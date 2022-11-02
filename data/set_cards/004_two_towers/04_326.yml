@@ -1,10 +1,13 @@
 ---
-key: 4U326
+key: '04_326'
 name: Horse-country
 title: Horse-country
 set: two_towers
 rarity: uncommon
 card_type: site
+variants:
+- 04_326-S
+- 04_326-F
 site_number: '1'
 game_text: ! |-
   Plains. While you can spot a [Rohan] mount at Horse-country, the move limit is +1 for this turn.

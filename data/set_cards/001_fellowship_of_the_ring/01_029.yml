@@ -1,5 +1,5 @@
 ---
-key: 1U29
+key: 01_029
 name: Ancient Enmity
 title: Ancient Enmity
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: elven
+variants:
+- 01_029-S
+- 01_029-F
 twilight: '0'
 game_text: ! |-
   Skirmish: Make an Elf strength +1. If a minion loses this skirmish to that Elf, that minion's owner discards 2 cards at random from hand.

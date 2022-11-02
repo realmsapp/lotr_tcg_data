@@ -1,5 +1,5 @@
 ---
-key: 7R114
+key: '07_114'
 name: Pippin's Sword
 title: Pippin's Sword
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: possession
 subtype: hand_weapon
 alignment: free_people
 culture: gondor
+variants:
+- 07_114-S
+- 07_114-F
 strength: "+2"
 twilight: '1'
 unique: true

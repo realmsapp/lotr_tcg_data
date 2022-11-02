@@ -1,5 +1,5 @@
 ---
-key: 5R71
+key: '05_071'
 name: Company of Haradrim
 title: Company of Haradrim
 set: battle_of_helms_deep
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: raider
+variants:
+- 05_071-S
+- 05_071-F
 strength: '13'
 vitality: '3'
 twilight: '6'

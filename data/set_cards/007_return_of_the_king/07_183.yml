@@ -1,5 +1,5 @@
 ---
-key: 7R183
+key: 07_183
 name: Mind and Body
 title: Mind and Body
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: shadow
 culture: wraith
+variants:
+- 07_183-S
+- 07_183-F
 twilight: '1'
 game_text: ! |-
   If a Nazgul kills a character, wound each character bearing a [Wraith] condition.

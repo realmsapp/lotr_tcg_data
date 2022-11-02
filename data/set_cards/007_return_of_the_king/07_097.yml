@@ -1,5 +1,5 @@
 ---
-key: 7R97
+key: 07_097
 name: Gondorian Merchant
 title: Gondorian Merchant
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: rare
 card_type: ally
 alignment: free_people
 culture: gondor
+variants:
+- 07_097-S
+- 07_097-F
 strength: '6'
 vitality: '1'
 twilight: '1'

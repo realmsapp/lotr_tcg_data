@@ -1,5 +1,5 @@
 ---
-key: 4R303
+key: '04_303'
 name: Frodo's Cloak
 title: Frodo's Cloak
 set: two_towers
@@ -8,6 +8,9 @@ card_type: possession
 subtype: cloak
 alignment: free_people
 culture: shire
+variants:
+- 04_303-S
+- 04_303-F
 twilight: '2'
 unique: true
 game_text: ! |-

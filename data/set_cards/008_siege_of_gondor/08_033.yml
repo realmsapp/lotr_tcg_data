@@ -1,5 +1,5 @@
 ---
-key: 8R33
+key: '08_033'
 name: Elessar's Edict
 title: Elessar's Edict
 set: siege_of_gondor
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: free_people
 culture: gondor
+variants:
+- '08_033-S'
+- '08_033-F'
 twilight: '1'
 game_text: ! |-
   If a [Gondor] Wraith is about to be killed, discard him and either exhaust another [Gondor] Wraith or spot another exhausted [Gondor] Wraith to prevent that.

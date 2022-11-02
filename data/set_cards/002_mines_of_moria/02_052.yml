@@ -1,5 +1,5 @@
 ---
-key: 2R52
+key: '02_052'
 name: The Balrog, Flame of Udun
 title: The Balrog
 subtitle: Flame of Udun
@@ -9,6 +9,9 @@ card_type: minion
 subtype: balrog
 alignment: shadow
 culture: moria
+variants:
+- 02_052-S
+- 02_052-F
 strength: '17'
 vitality: '5'
 twilight: '14'

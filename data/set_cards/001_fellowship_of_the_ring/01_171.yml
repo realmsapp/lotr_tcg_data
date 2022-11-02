@@ -1,5 +1,5 @@
 ---
-key: 1C171
+key: '01_171'
 name: Frenzy
 title: Frenzy
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: shadow
 culture: moria
+variants:
+- 01_171-S
+- 01_171-F
 twilight: '2'
 game_text: ! |-
   Assignment: Assign an exhausted companion (except the Ring-bearer) to skirmish a [Moria] Orc.

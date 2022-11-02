@@ -1,5 +1,5 @@
 ---
-key: 8C104
+key: '08_104'
 name: Morgai
 title: Morgai
 set: siege_of_gondor
@@ -7,6 +7,9 @@ rarity: common
 card_type: condition
 alignment: shadow
 culture: sauron
+variants:
+- '08_104-S'
+- '08_104-F'
 twilight: '2'
 unique: true
 game_text: ! |-

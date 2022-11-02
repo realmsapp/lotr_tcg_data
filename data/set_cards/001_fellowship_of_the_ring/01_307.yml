@@ -1,5 +1,5 @@
 ---
-key: 1R307
+key: '01_307'
 name: Pippin, Hobbit of Some Intelligence
 title: Pippin
 subtitle: Hobbit of Some Intelligence
@@ -10,6 +10,9 @@ subtype: hobbit
 alignment: free_people
 culture: shire
 signet: gandalf
+variants:
+- 01_307-S
+- 01_307-F
 strength: '3'
 vitality: '4'
 twilight: '1'

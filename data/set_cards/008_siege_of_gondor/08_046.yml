@@ -1,5 +1,5 @@
 ---
-key: 8U46
+key: '08_046'
 name: Spectral Sword
 title: Spectral Sword
 set: siege_of_gondor
@@ -8,6 +8,9 @@ card_type: possession
 subtype: hand_weapon
 alignment: free_people
 culture: gondor
+variants:
+- '08_046-S'
+- '08_046-F'
 strength: "+1"
 twilight: '0'
 game_text: ! |-

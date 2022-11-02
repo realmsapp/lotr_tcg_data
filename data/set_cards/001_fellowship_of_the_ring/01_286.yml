@@ -1,5 +1,5 @@
 ---
-key: 1C286
+key: 01_286
 name: Bounder
 title: Bounder
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: common
 card_type: ally
 alignment: free_people
 culture: shire
+variants:
+- 01_286-S
+- 01_286-F
 strength: '2'
 vitality: '2'
 twilight: '1'

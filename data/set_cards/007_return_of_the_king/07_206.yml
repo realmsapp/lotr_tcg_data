@@ -1,5 +1,5 @@
 ---
-key: 7R206
+key: '07_206'
 name: Stronghold of Minas Morgul
 title: Stronghold of Minas Morgul
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: shadow
 culture: wraith
+variants:
+- 07_206-S
+- 07_206-F
 twilight: '1'
 unique: true
 game_text: ! |-

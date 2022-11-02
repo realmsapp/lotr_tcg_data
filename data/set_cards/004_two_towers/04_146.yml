@@ -1,5 +1,5 @@
 ---
-key: 4R146
+key: '04_146'
 name: Come Down
 title: Come Down
 set: two_towers
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: shadow
 culture: isengard
+variants:
+- 04_146-S
+- 04_146-F
 twilight: '0'
 game_text: ! |-
   Plays to your support area. Archery: Spot 2 [Isengard] archers to make allies take wounds from archery fire instead of companions.

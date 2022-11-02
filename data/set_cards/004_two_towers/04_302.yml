@@ -1,5 +1,5 @@
 ---
-key: 4C302
+key: '04_302'
 name: Frodo, Tired Traveller
 title: Frodo
 subtitle: Tired Traveller
@@ -10,6 +10,9 @@ subtype: hobbit
 alignment: free_people
 culture: shire
 signet: gandalf
+variants:
+- 04_302-S
+- 04_302-F
 strength: '3'
 vitality: '4'
 twilight: '0'

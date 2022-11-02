@@ -1,5 +1,5 @@
 ---
-key: 9R8
+key: '09_008'
 name: Ring of Guile
 title: Ring of Guile
 set: reflections
@@ -8,6 +8,8 @@ card_type: artifact
 subtype: ring
 alignment: free_people
 culture: dwarven
+variants:
+- '09_008-F'
 strength: "+1"
 twilight: '0'
 unique: true

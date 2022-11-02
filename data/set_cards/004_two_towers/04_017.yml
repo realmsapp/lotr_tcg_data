@@ -1,5 +1,5 @@
 ---
-key: 4C17
+key: '04_017'
 name: Dunlending Savage
 title: Dunlending Savage
 set: two_towers
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: dunland
+variants:
+- 04_017-S
+- 04_017-F
 strength: '11'
 vitality: '1'
 twilight: '4'

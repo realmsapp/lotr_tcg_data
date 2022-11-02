@@ -1,5 +1,5 @@
 ---
-key: 7R204
+key: '07_204'
 name: Out of Sight and Shot
 title: Out of Sight and Shot
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: shadow
 culture: wraith
+variants:
+- 07_204-S
+- 07_204-F
 twilight: '1'
 unique: true
 game_text: ! |-

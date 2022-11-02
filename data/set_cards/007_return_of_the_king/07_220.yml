@@ -1,5 +1,5 @@
 ---
-key: 7C220
+key: '07_220'
 name: War Long Planned
 title: War Long Planned
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: shadow
 culture: wraith
+variants:
+- 07_220-S
+- 07_220-F
 twilight: '1'
 game_text: ! |-
   Make a [Wraith] Orc strength +2 (or +4 if you spot 2 wounds on the Ring-bearer).

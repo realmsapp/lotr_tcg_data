@@ -1,5 +1,5 @@
 ---
-key: 7U310
+key: '07_310'
 name: Sauron's Hatred
 title: Sauron's Hatred
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: shadow
 culture: sauron
+variants:
+- 07_310-S
+- 07_310-F
 twilight: '0'
 game_text: ! |-
   To play, spot a [Sauron] Orc. Shadow: Remove a threat to play a [Sauron] Orc without paying any roaming penalty. Regroup: Spot a [Sauron] Orc and remove (4) to add a threat.

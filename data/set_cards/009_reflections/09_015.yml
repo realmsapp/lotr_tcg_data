@@ -1,5 +1,5 @@
 ---
-key: 9R+15
+key: '09_015'
 name: Gil-galad, Elven High King
 title: Gil-galad
 subtitle: Elven High King
@@ -9,6 +9,8 @@ card_type: companion
 subtype: elf
 alignment: free_people
 culture: elven
+variants:
+- '09_015-F'
 strength: '9'
 vitality: '4'
 twilight: '5'

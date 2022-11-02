@@ -1,5 +1,5 @@
 ---
-key: 8C114
+key: '08_114'
 name: Straining Towards Us
 title: Straining Towards Us
 set: siege_of_gondor
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: shire
+variants:
+- '08_114-S'
+- '08_114-F'
 twilight: '0'
 game_text: ! |-
   Exert Frodo to remove (1) for each Frodo signet you spot.

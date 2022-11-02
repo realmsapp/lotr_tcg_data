@@ -1,5 +1,5 @@
 ---
-key: 1R167
+key: '01_167'
 name: Denizens Enraged
 title: Denizens Enraged
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: shadow
 culture: moria
+variants:
+- 01_167-S
+- 01_167-F
 twilight: '1'
 game_text: ! |-
   Skirmish: Make a [Moria] Orc strength +1 for each other [Moria] Orc you spot (limit +4).

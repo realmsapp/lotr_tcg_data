@@ -1,5 +1,5 @@
 ---
-key: 4R261
+key: '04_261'
 name: Wrath of Harad
 title: Wrath of Harad
 set: two_towers
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: shadow
 culture: raider
+variants:
+- 04_261-S
+- 04_261-F
 twilight: '1'
 game_text: ! |-
   Plays to your support area. While you can spot a [Raider] Man, each Free Peoples event that spots or exerts a ranger gains this cost: 'wound a companion.' Skirmish: Discard this condition to make a [Raider] Man strength +2.

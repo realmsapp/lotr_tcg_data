@@ -1,5 +1,5 @@
 ---
-key: 4C316
+key: '04_316'
 name: Sam, Samwise the Brave
 title: Sam
 subtitle: Samwise the Brave
@@ -10,6 +10,9 @@ subtype: hobbit
 alignment: free_people
 culture: shire
 signet: gandalf
+variants:
+- 04_316-S
+- 04_316-F
 strength: '3'
 vitality: '4'
 twilight: '2'

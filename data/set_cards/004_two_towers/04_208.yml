@@ -1,5 +1,5 @@
 ---
-key: 4U208
+key: 04_208
 name: Vengeance
 title: Vengeance
 set: two_towers
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: shadow
 culture: isengard
+variants:
+- 04_208-S
+- 04_208-F
 twilight: '0'
 game_text: ! |-
   Skirmish: Make an [Isengard] tracker strength +2 for each card borne by the character it is skirmishing.

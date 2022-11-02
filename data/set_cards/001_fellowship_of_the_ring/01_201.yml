@@ -1,5 +1,5 @@
 ---
-key: 1C201
+key: '01_201'
 name: Unfamiliar Territory
 title: Unfamiliar Territory
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: shadow
 culture: moria
+variants:
+- 01_201-S
+- 01_201-F
 twilight: '0'
 game_text: ! |-
   Skirmish: Make a [Moria] Orc strength +2 (or +4 if skirmishing an archer).

@@ -1,5 +1,5 @@
 ---
-key: 2C6
+key: '02_006'
 name: Fror, Gimli's Kinsman
 title: Fror
 subtitle: Gimli's Kinsman
@@ -9,6 +9,9 @@ card_type: companion
 subtype: dwarf
 alignment: free_people
 culture: dwarven
+variants:
+- 02_006-S
+- 02_006-F
 strength: '5'
 vitality: '3'
 twilight: '2'

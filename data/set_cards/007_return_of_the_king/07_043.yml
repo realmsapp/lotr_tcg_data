@@ -1,5 +1,5 @@
 ---
-key: 7R43
+key: '07_043'
 name: Light the Beacons
 title: Light the Beacons
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: free_people
 culture: gandalf
+variants:
+- 07_043-S
+- 07_043-F
 twilight: '3'
 game_text: ! |-
   Exert Gandalf three times (or twice if you have initiative) to make all unbound companions of one culture (except [Gandalf]) strength +3 until the regroup phase.

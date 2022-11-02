@@ -1,5 +1,5 @@
 ---
-key: 6U64
+key: '06_064'
 name: Iron Fist of the Orc
 title: Iron Fist of the Orc
 set: ents_of_fangorn
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: shadow
 culture: isengard
+variants:
+- 06_064-S
+- 06_064-F
 twilight: '1'
 game_text: ! |-
   Plays to your support area. Each time a regroup action discards an [Isengard] Orc, you may stack that Orc on this card. Regroup: Discard 3 cards stacked here and remove (1) to discard a Free Peoples possession.

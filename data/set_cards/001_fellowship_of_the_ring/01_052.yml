@@ -1,5 +1,5 @@
 ---
-key: 1C52
+key: '01_052'
 name: Lightfootedness
 title: Lightfootedness
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: elven
+variants:
+- 01_052-S
+- 01_052-F
 twilight: '0'
 game_text: ! |-
   Archery: Spot an Elf companion to make the minion archery total -1.

@@ -1,5 +1,5 @@
 ---
-key: 8U16
+key: '08_016'
 name: Let Us Not Tarry
 title: Let Us Not Tarry
 set: siege_of_gondor
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: gandalf
+variants:
+- '08_016-S'
+- '08_016-F'
 twilight: '2'
 game_text: ! |-
   Exert Gandalf to make a minion skirmishing an unbound companion strength -1 for each Gandalf signet you spot.

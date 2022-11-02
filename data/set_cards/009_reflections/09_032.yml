@@ -1,5 +1,5 @@
 ---
-key: 9R+32
+key: '09_032'
 name: Elendil, The Tall
 title: Elendil
 subtitle: The Tall
@@ -9,6 +9,8 @@ card_type: companion
 subtype: man
 alignment: free_people
 culture: gondor
+variants:
+- '09_032-F'
 strength: '8'
 vitality: '5'
 twilight: '5'

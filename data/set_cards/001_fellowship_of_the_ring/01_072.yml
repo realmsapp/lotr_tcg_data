@@ -1,5 +1,5 @@
 ---
-key: 1R72
+key: '01_072'
 name: Gandalf, Friend of the Shirefolk
 title: Gandalf
 subtitle: Friend of the Shirefolk
@@ -10,6 +10,9 @@ subtype: wizard
 alignment: free_people
 culture: gandalf
 signet: frodo
+variants:
+- 01_072-S
+- 01_072-F
 strength: '6'
 vitality: '4'
 twilight: '4'

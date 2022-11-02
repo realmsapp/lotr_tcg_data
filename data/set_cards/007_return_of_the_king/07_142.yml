@@ -1,5 +1,5 @@
 ---
-key: 7C142
+key: '07_142'
 name: Easterling Blademaster
 title: Easterling Blademaster
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: raider
+variants:
+- 07_142-S
+- 07_142-F
 strength: '8'
 vitality: '2'
 twilight: '3'

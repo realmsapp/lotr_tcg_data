@@ -1,10 +1,13 @@
 ---
-key: 7U360
+key: '07_360'
 name: Dagorlad
 title: Dagorlad
 set: return_of_the_king
 rarity: uncommon
 card_type: site
+variants:
+- 07_360-S
+- 07_360-F
 twilight: '9'
 site_number: '9'
 game_text: ! |-

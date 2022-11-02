@@ -1,5 +1,5 @@
 ---
-key: 4R300
+key: '04_300'
 name: Escape
 title: Escape
 set: two_towers
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: free_people
 culture: shire
+variants:
+- 04_300-S
+- 04_300-F
 vitality: "+1"
 twilight: '0'
 game_text: ! |-

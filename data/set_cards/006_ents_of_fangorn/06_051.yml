@@ -1,5 +1,5 @@
 ---
-key: 6U51
+key: '06_051'
 name: Banner of Westernesse
 title: Banner of Westernesse
 set: ents_of_fangorn
@@ -8,6 +8,9 @@ card_type: possession
 subtype: hand_weapon
 alignment: free_people
 culture: gondor
+variants:
+- 06_051-S
+- 06_051-F
 twilight: '1'
 game_text: ! |-
   Bearer must be a [Gondor] companion. Each time bearer wins a skirmish, you may heal another [Gondor] companion. Response: If bearer wins a skirmish, discard this possession to liberate a site.

@@ -1,5 +1,5 @@
 ---
-key: 8C90
+key: '08_090'
 name: No Living Man
 title: No Living Man
 set: siege_of_gondor
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: rohan
+variants:
+- '08_090-S'
+- '08_090-F'
 twilight: '2'
 game_text: ! |-
   Exert Theoden to exert a minion for each Theoden signet you spot.

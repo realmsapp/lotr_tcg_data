@@ -1,5 +1,5 @@
 ---
-key: 4R271
+key: '04_271'
 name: Eowyn, Sister-daughter of Theoden
 title: Eowyn
 subtitle: Sister-daughter of Theoden
@@ -10,6 +10,9 @@ subtype: man
 alignment: free_people
 culture: rohan
 signet: aragorn
+variants:
+- 04_271-S
+- 04_271-F
 strength: '6'
 vitality: '3'
 twilight: '2'

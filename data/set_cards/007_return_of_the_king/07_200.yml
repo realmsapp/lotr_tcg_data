@@ -1,5 +1,5 @@
 ---
-key: 7C200
+key: '07_200'
 name: Morgul Spawn
 title: Morgul Spawn
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: wraith
+variants:
+- 07_200-S
+- 07_200-F
 strength: '9'
 vitality: '2'
 twilight: '4'

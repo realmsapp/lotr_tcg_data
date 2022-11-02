@@ -1,5 +1,5 @@
 ---
-key: 7C116
+key: '07_116'
 name: Ranger of Osgiliath
 title: Ranger of Osgiliath
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: companion
 subtype: man
 alignment: free_people
 culture: gondor
+variants:
+- 07_116-S
+- 07_116-F
 strength: '6'
 vitality: '3'
 twilight: '2'

@@ -1,5 +1,5 @@
 ---
-key: 7C317
+key: '07_317'
 name: Frodo, Hope of Free Peoples
 title: Frodo
 subtitle: Hope of Free Peoples
@@ -10,6 +10,9 @@ subtype: hobbit
 alignment: free_people
 culture: shire
 signet: aragorn
+variants:
+- 07_317-S
+- 07_317-F
 strength: '3'
 vitality: '4'
 twilight: '0'

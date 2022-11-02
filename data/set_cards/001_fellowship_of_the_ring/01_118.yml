@@ -1,5 +1,5 @@
 ---
-key: 1R118
+key: 01_118
 name: Valiant Man of the West
 title: Valiant Man of the West
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: free_people
 culture: gondor
+variants:
+- 01_118-S
+- 01_118-F
 twilight: '1'
 game_text: ! |-
   Maneuver: Make Aragorn defender +1 and he takes no more than 1 wound during each skirmish phase until the regroup phase.

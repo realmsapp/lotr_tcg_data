@@ -1,5 +1,5 @@
 ---
-key: 7C29
+key: 07_029
 name: Still Needed
 title: Still Needed
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: elven
+variants:
+- 07_029-S
+- 07_029-F
 twilight: '2'
 game_text: ! |-
   Make an Elf strength +2. You may place this event on top of your draw deck.

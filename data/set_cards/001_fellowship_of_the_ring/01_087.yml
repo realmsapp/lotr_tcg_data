@@ -1,5 +1,5 @@
 ---
-key: 1R87
+key: 01_087
 name: A Wizard Is Never Late
 title: A Wizard Is Never Late
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: free_people
 culture: gandalf
+variants:
+- 01_087-S
+- 01_087-F
 twilight: '1'
 game_text: ! |-
   Fellowship: Play a [Gandalf] character from your draw deck.

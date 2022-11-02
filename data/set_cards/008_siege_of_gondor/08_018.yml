@@ -1,5 +1,5 @@
 ---
-key: 8U18
+key: '08_018'
 name: Not the First Halfling
 title: Not the First Halfling
 set: siege_of_gondor
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: free_people
 culture: gandalf
+variants:
+- '08_018-S'
+- '08_018-F'
 twilight: '1'
 game_text: ! |-
   Fellowship: Exert Gandalf and either an [Elven] companion or a [Shire] companion to add a [Gandalf] token here. Skirmish: Remove a [Gandalf] token here to make a minion skirmishing an unbound companion strength -2.

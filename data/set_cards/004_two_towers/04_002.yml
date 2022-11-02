@@ -1,11 +1,14 @@
 ---
-key: 4C2
+key: '04_002'
 name: The One Ring, The Ruling Ring
 title: The One Ring
 subtitle: The Ruling Ring
 set: two_towers
 rarity: common
 card_type: the_one_ring
+variants:
+- 04_002-S
+- 04_002-F
 strength: "+1"
 unique: true
 game_text: ! |-

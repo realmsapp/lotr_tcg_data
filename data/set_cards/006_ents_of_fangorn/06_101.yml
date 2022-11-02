@@ -1,5 +1,5 @@
 ---
-key: 6R101
+key: '06_101'
 name: Gate Picket
 title: Gate Picket
 set: ents_of_fangorn
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: sauron
+variants:
+- 06_101-S
+- 06_101-F
 strength: '11'
 vitality: '3'
 twilight: '4'

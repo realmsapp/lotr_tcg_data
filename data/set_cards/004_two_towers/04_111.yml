@@ -1,5 +1,5 @@
 ---
-key: 4R111
+key: '04_111'
 name: Boromir, My Brother
 title: Boromir
 subtitle: My Brother
@@ -8,6 +8,9 @@ rarity: rare
 card_type: condition
 alignment: free_people
 culture: gondor
+variants:
+- 04_111-S
+- 04_111-F
 vitality: "+1"
 twilight: '0'
 unique: true

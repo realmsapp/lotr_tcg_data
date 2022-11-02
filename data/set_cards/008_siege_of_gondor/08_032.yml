@@ -1,5 +1,5 @@
 ---
-key: 8R32
+key: '08_032'
 name: Catapult
 title: Catapult
 set: siege_of_gondor
@@ -7,6 +7,9 @@ rarity: rare
 card_type: possession
 alignment: free_people
 culture: gondor
+variants:
+- '08_032-S'
+- '08_032-F'
 twilight: '1'
 game_text: ! |-
   To play, spot 2 [Gondor] knights. Maneuver: Discard 2 cards from hand to reveal the top card of an opponent's draw deck. Choose an opponent who must discard a Shadow card that has a twilight cost that is the same as the twilight cost of the revealed card.

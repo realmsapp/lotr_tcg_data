@@ -1,5 +1,5 @@
 ---
-key: 8C111
+key: '08_111'
 name: So Fair, So Desperate
 title: So Fair
 subtitle: So Desperate
@@ -8,6 +8,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: shire
+variants:
+- '08_111-S'
+- '08_111-F'
 twilight: '1'
 game_text: ! |-
   If the Shadow has initiative, add a threat to make an unbound Hobbit strength +1 for each [Shire] card you spot.

@@ -1,5 +1,5 @@
 ---
-key: 5R128
+key: 05_128
 name: Thundering Host (AI)
 title: Thundering Host (AI)
 set: battle_of_helms_deep
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: free_people
 culture: rohan
+variants:
+- 05_128-S
+- 05_128-F
 twilight: '1'
 game_text: ! |-
   Plays to your support area. Skirmish: Discard this condition to make a mounted [Rohan] Man strength +3 (and heal that man if at a plains).

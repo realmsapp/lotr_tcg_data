@@ -1,5 +1,5 @@
 ---
-key: 10U70
+key: '10_070'
 name: Ulaire Nelya, Thrall of the One
 title: Ulaire Nelya
 subtitle: Thrall of the One
@@ -9,6 +9,9 @@ card_type: minion
 subtype: nazgul
 alignment: shadow
 culture: wraith
+variants:
+- 10_070-S
+- 10_070-F
 strength: '10'
 vitality: '3'
 twilight: '5'

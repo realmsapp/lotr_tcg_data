@@ -1,5 +1,5 @@
 ---
-key: 5R113
+key: '05_113'
 name: No Use That Way
 title: No Use That Way
 set: battle_of_helms_deep
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: free_people
 culture: shire
+variants:
+- 05_113-S
+- 05_113-F
 twilight: '0'
 game_text: ! |-
   Skirmish: Add 3 burdens to wound a minion skirmishing a companion who has the Frodo signet twice.

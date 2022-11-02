@@ -1,10 +1,13 @@
 ---
-key: 4U328
+key: 04_328
 name: The Riddermark
 title: The Riddermark
 set: two_towers
 rarity: uncommon
 card_type: site
+variants:
+- 04_328-S
+- 04_328-F
 site_number: '1'
 game_text: ! |-
   Plains. Fellowship: Exert 2 unbound companions to play Aragorn from your draw deck.

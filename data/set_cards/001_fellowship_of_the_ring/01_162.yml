@@ -1,5 +1,5 @@
 ---
-key: 1U162
+key: '01_162'
 name: Worry
 title: Worry
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: shadow
 culture: isengard
+variants:
+- 01_162-S
+- 01_162-F
 twilight: '2'
 unique: true
 game_text: ! |-

@@ -1,5 +1,5 @@
 ---
-key: 7U190
+key: 07_190
 name: Morgul Destroyer
 title: Morgul Destroyer
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: wraith
+variants:
+- 07_190-S
+- 07_190-F
 strength: '6'
 vitality: '2'
 twilight: '2'

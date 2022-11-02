@@ -1,5 +1,5 @@
 ---
-key: 6C38
+key: 06_038
 name: Don't Follow the Lights
 title: Don't Follow the Lights
 set: ents_of_fangorn
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: gollum_free_people
+variants:
+- 06_038-S
+- 06_038-F
 twilight: '0'
 game_text: ! |-
   Response: If Smeagol wins a skirmish, add a burden to discard a minion.

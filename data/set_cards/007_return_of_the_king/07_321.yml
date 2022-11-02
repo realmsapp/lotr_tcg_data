@@ -1,5 +1,5 @@
 ---
-key: 7R321
+key: '07_321'
 name: Merry, Swordthain
 title: Merry
 subtitle: Swordthain
@@ -10,6 +10,9 @@ subtype: hobbit
 alignment: free_people
 culture: shire
 signet: theoden
+variants:
+- 07_321-S
+- 07_321-F
 strength: '3'
 vitality: '4'
 twilight: '1'

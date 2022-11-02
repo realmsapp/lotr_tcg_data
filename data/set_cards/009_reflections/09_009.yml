@@ -1,5 +1,5 @@
 ---
-key: 9R9
+key: '09_009'
 name: Ring of Retribution
 title: Ring of Retribution
 set: reflections
@@ -8,6 +8,8 @@ card_type: artifact
 subtype: ring
 alignment: free_people
 culture: dwarven
+variants:
+- '09_009-F'
 strength: "+1"
 vitality: "+1"
 twilight: '0'

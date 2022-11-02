@@ -1,5 +1,5 @@
 ---
-key: 7R261
+key: '07_261'
 name: With Strength to Fight
 title: With Strength to Fight
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: free_people
 culture: rohan
+variants:
+- 07_261-S
+- 07_261-F
 twilight: '0'
 game_text: ! |-
   To play, spot a [Rohan] companion. Each time the fellowship moves, add a threat or discard this condition. Regroup: Discard this condition to heal up to 2 [Rohan] companions.

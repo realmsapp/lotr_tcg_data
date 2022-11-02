@@ -1,5 +1,5 @@
 ---
-key: 10U69
+key: '10_069'
 name: Ulaire Lemenya, Thrall of the One
 title: Ulaire Lemenya
 subtitle: Thrall of the One
@@ -9,6 +9,9 @@ card_type: minion
 subtype: nazgul
 alignment: shadow
 culture: wraith
+variants:
+- 10_069-S
+- 10_069-F
 strength: '9'
 vitality: '2'
 twilight: '4'

@@ -1,5 +1,5 @@
 ---
-key: 5R11
+key: '05_011'
 name: Break the Charge
 title: Break the Charge
 set: battle_of_helms_deep
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: free_people
 culture: elven
+variants:
+- 05_011-S
+- 05_011-F
 twilight: '2'
 game_text: ! |-
   Archery: Exert 3 Elf companions to make the fellowship archery total +2.

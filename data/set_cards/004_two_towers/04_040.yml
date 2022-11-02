@@ -1,5 +1,5 @@
 ---
-key: 4R40
+key: '04_040'
 name: Wulf, Dunlending Chieftain
 title: Wulf
 subtitle: Dunlending Chieftain
@@ -9,6 +9,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: dunland
+variants:
+- 04_040-S
+- 04_040-F
 strength: '10'
 vitality: '2'
 twilight: '4'

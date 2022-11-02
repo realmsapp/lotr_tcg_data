@@ -1,5 +1,5 @@
 ---
-key: 3R52
+key: '03_052'
 name: A Fell Voice on the Air
 title: A Fell Voice on the Air
 set: realms_of_the_elf_lords
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: shadow
 culture: isengard
+variants:
+- 03_052-S
+- 03_052-F
 twilight: '1'
 game_text: ! |-
   Plays to your support area. Shadow: Exert Saruman to play an [Isengard] weather condition from your discard pile. Its twilight cost is -2.

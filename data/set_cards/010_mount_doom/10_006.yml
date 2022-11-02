@@ -1,5 +1,5 @@
 ---
-key: 10R6
+key: '10_006'
 name: Arwen, Queen of Elves and Men
 title: Arwen
 subtitle: Queen of Elves and Men
@@ -10,6 +10,9 @@ subtype: elf
 alignment: free_people
 culture: elven
 signet: frodo
+variants:
+- 10_006-S
+- 10_006-F
 strength: '6'
 vitality: '3'
 twilight: '2'

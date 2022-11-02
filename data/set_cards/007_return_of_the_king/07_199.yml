@@ -1,5 +1,5 @@
 ---
-key: 7C199
+key: 07_199
 name: Morgul Soldier
 title: Morgul Soldier
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: wraith
+variants:
+- 07_199-S
+- 07_199-F
 strength: '6'
 vitality: '2'
 twilight: '2'

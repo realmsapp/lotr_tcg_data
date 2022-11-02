@@ -1,5 +1,5 @@
 ---
-key: 3C56
+key: '03_056'
 name: Isengard Forger
 title: Isengard Forger
 set: realms_of_the_elf_lords
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: isengard
+variants:
+- 03_056-S
+- 03_056-F
 strength: '6'
 vitality: '2'
 twilight: '2'

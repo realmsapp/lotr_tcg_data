@@ -1,5 +1,5 @@
 ---
-key: 2C91
+key: 02_091
 name: Southern Spies
 title: Southern Spies
 set: mines_of_moria
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: shadow
 culture: sauron
+variants:
+- 02_091-S
+- 02_091-F
 twilight: '0'
 game_text: ! |-
   Response: If the Ring-bearer puts on The One Ring, spot a [Sauron] minion to make the Free Peoples player discard his or her hand.

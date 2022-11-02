@@ -1,5 +1,5 @@
 ---
-key: 4C56
+key: '04_056'
 name: Search Far and Wide
 title: Search Far and Wide
 set: two_towers
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: dwarven
+variants:
+- 04_056-S
+- 04_056-F
 twilight: '0'
 game_text: ! |-
   Fellowship: Spot a Dwarf and discard the top card of your draw deck to draw 2 cards.

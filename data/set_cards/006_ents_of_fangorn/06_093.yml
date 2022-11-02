@@ -1,5 +1,5 @@
 ---
-key: 6U93
+key: 06_093
 name: Ever the Hope of Men
 title: Ever the Hope of Men
 set: ents_of_fangorn
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: rohan
+variants:
+- 06_093-S
+- 06_093-F
 twilight: '0'
 game_text: ! |-
   Regroup: Exert 2 mounted [Rohan] Men to discard up to 2 wounded minions.

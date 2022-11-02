@@ -1,5 +1,5 @@
 ---
-key: 1R22
+key: '01_022'
 name: Mithril Shaft
 title: Mithril Shaft
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: free_people
 culture: dwarven
+variants:
+- 01_022-S
+- 01_022-F
 twilight: '0'
 game_text: ! |-
   Maneuver: Exert a Dwarf to discard cards from the top of your draw deck until you choose to stop (limit 5). Add (1) for each card discarded in this way. Take the last card discarded into hand.

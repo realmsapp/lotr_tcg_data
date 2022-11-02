@@ -1,5 +1,5 @@
 ---
-key: 1C160
+key: '01_160'
 name: Uruk-hai Sword
 title: Uruk-hai Sword
 set: fellowship_of_the_ring
@@ -8,6 +8,9 @@ card_type: possession
 subtype: hand_weapon
 alignment: shadow
 culture: isengard
+variants:
+- 01_160-S
+- 01_160-F
 strength: "+2"
 twilight: '1'
 game_text: ! |-

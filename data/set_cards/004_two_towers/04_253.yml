@@ -1,5 +1,5 @@
 ---
-key: 4U253
+key: '04_253'
 name: Southron Sentry
 title: Southron Sentry
 set: two_towers
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: raider
+variants:
+- 04_253-S
+- 04_253-F
 strength: '9'
 vitality: '2'
 twilight: '4'

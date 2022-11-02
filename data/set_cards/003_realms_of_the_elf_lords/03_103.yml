@@ -1,5 +1,5 @@
 ---
-key: 3R103
+key: '03_103'
 name: Terrible as the Dawn
 title: Terrible as the Dawn
 set: realms_of_the_elf_lords
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: shadow
 culture: sauron
+variants:
+- 03_103-S
+- 03_103-F
 twilight: '0'
 game_text: ! |-
   Maneuver: Spot a [Sauron] minion to wound Galadriel 3 times. The Free Peoples player may discard 2 Elves to prevent this.

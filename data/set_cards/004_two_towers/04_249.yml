@@ -1,5 +1,5 @@
 ---
-key: 4U249
+key: 04_249
 name: Southron Commander
 title: Southron Commander
 set: two_towers
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: raider
+variants:
+- 04_249-S
+- 04_249-F
 strength: '10'
 vitality: '3'
 twilight: '5'

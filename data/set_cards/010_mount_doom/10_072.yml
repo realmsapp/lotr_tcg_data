@@ -1,5 +1,5 @@
 ---
-key: 10R72
+key: '10_072'
 name: Eowyn, Lady of Ithilien
 title: Eowyn
 subtitle: Lady of Ithilien
@@ -10,6 +10,9 @@ subtype: man
 alignment: free_people
 culture: rohan
 signet: gandalf
+variants:
+- 10_072-S
+- 10_072-F
 strength: '6'
 vitality: '3'
 twilight: '2'

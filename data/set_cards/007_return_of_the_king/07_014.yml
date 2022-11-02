@@ -1,5 +1,5 @@
 ---
-key: 7U14
+key: '07_014'
 name: Slaked Thirsts
 title: Slaked Thirsts
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: dwarven
+variants:
+- 07_014-S
+- 07_014-F
 twilight: '1'
 game_text: ! |-
   Choose one: Spot a Dwarf to draw a card; or, if this card is stacked on a [Dwarven] condition, spot a Dwarf companion and discard this event to exert a minion twice.

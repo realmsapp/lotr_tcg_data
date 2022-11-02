@@ -1,5 +1,5 @@
 ---
-key: 7R311
+key: '07_311'
 name: Siege Commander
 title: Siege Commander
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: sauron
+variants:
+- 07_311-S
+- 07_311-F
 strength: '12'
 vitality: '3'
 twilight: '5'

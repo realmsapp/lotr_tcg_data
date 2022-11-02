@@ -1,5 +1,5 @@
 ---
-key: 7R61
+key: '07_061'
 name: Hobbitses Are Dead
 title: Hobbitses Are Dead
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: shadow
 culture: gollum_shadow
+variants:
+- 07_061-S
+- 07_061-F
 twilight: '1'
 game_text: ! |-
   Spot Gollum or Smeagol to make a Nazgul, [Sauron] minion, or [Gollum] minion strength +2. If you have initiative, you may play this event from your discard pile; place it under your draw deck instead of discarding it.

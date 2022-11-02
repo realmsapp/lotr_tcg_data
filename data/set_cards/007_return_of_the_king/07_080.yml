@@ -1,5 +1,5 @@
 ---
-key: 7R80
+key: 07_080
 name: Anduril, King's Blade
 title: Anduril
 subtitle: King's Blade
@@ -9,6 +9,9 @@ card_type: artifact
 subtype: hand_weapon
 alignment: free_people
 culture: gondor
+variants:
+- 07_080-S
+- 07_080-F
 strength: "+2"
 twilight: '3'
 unique: true

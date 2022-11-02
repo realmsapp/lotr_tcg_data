@@ -2,8 +2,8 @@ require_relative "./../test_helper"
 
 describe LotrTcgData::SetCard do
   it "fails" do
-    yaml = LotrTcgData.read_local("set_cards/001_fellowship_of_the_ring/1C2.yml")
-    parsed = LotrTcgData.load_local("set_cards/001_fellowship_of_the_ring/1C2.yml")
+    yaml = LotrTcgData.read_local("set_cards/001_fellowship_of_the_ring/01_002.yml")
+    parsed = LotrTcgData.load_local("set_cards/001_fellowship_of_the_ring/01_002.yml")
     set_card = LotrTcgData::SetCard.load(parsed.symbolize_keys)
     expect(set_card.name).must_equal("The One Ring, The Ruling Ring")
 
@@ -15,7 +15,7 @@ describe LotrTcgData::SetCard do
   end
 
   it "makes an instance" do
-    card = LotrTcgData::SetCard.lookup(set_card_key: "1C2")
+    card = LotrTcgData::SetCard.lookup(set_card_key: "01_002")
 
     expect(card.card_key).must_equal("the_one_ring_the_ruling_ring")
   end

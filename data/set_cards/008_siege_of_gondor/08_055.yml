@@ -1,5 +1,5 @@
 ---
-key: 8C55
+key: '08_055'
 name: Corsair Gunners
 title: Corsair Gunners
 set: siege_of_gondor
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: raider
+variants:
+- '08_055-S'
+- '08_055-F'
 strength: '10'
 vitality: '3'
 twilight: '5'

@@ -1,5 +1,5 @@
 ---
-key: 10R25
+key: '10_025'
 name: Aragorn, Elessar Telcontar
 title: Aragorn
 subtitle: Elessar Telcontar
@@ -10,6 +10,9 @@ subtype: man
 alignment: free_people
 culture: gondor
 signet: frodo
+variants:
+- 10_025-S
+- 10_025-F
 strength: '9'
 vitality: '4'
 twilight: '5'

@@ -1,5 +1,5 @@
 ---
-key: 2U13
+key: '02_013'
 name: Tidings of Erebor
 title: Tidings of Erebor
 set: mines_of_moria
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: dwarven
+variants:
+- 02_013-S
+- 02_013-F
 twilight: '0'
 game_text: ! |-
   Regroup: Spot a Dwarf to draw 3 cards. Any Shadow player may remove (3) to prevent this.

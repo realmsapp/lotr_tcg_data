@@ -1,5 +1,5 @@
 ---
-key: 4C134
+key: '04_134'
 name: Sword of Gondor
 title: Sword of Gondor
 set: two_towers
@@ -8,6 +8,9 @@ card_type: possession
 subtype: hand_weapon
 alignment: free_people
 culture: gondor
+variants:
+- 04_134-S
+- 04_134-F
 strength: "+2"
 twilight: '1'
 game_text: ! |-

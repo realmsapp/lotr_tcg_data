@@ -1,5 +1,5 @@
 ---
-key: 8R93
+key: '08_093'
 name: Called Away
 title: Called Away
 set: siege_of_gondor
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: shadow
 culture: sauron
+variants:
+- '08_093-S'
+- '08_093-F'
 twilight: '2'
 game_text: ! |-
   Regroup: Discard a [Sauron] minion, spot a companion (except the Ring-bearer), and remove X burdens, where X is that companion's vitality, to return that companion to its owner's hand.

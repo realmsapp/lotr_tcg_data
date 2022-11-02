@@ -1,5 +1,5 @@
 ---
-key: 7U126
+key: '07_126'
 name: Unexpected Visitor
 title: Unexpected Visitor
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: free_people
 culture: gondor
+variants:
+- 07_126-S
+- 07_126-F
 twilight: '2'
 unique: true
 game_text: ! |-

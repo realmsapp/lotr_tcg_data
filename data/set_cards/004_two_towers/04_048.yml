@@ -1,5 +1,5 @@
 ---
-key: 4R48
+key: 04_048
 name: Gimli, Lockbearer
 title: Gimli
 subtitle: Lockbearer
@@ -10,6 +10,9 @@ subtype: dwarf
 alignment: free_people
 culture: dwarven
 signet: aragorn
+variants:
+- 04_048-S
+- 04_048-F
 strength: '6'
 vitality: '3'
 twilight: '2'

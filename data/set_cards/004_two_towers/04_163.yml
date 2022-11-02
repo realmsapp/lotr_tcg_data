@@ -1,5 +1,5 @@
 ---
-key: 4R163
+key: '04_163'
 name: No Dawn for Men
 title: No Dawn for Men
 set: two_towers
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: shadow
 culture: isengard
+variants:
+- 04_163-S
+- 04_163-F
 twilight: '2'
 game_text: ! |-
   Maneuver: Exert an Uruk-hai to exert X unbound companions, where X is the number of sites you control.

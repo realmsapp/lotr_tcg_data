@@ -1,5 +1,5 @@
 ---
-key: 2R12
+key: '02_012'
 name: Realm of Dwarrowdelf
 title: Realm of Dwarrowdelf
 set: mines_of_moria
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: free_people
 culture: dwarven
+variants:
+- 02_012-S
+- 02_012-F
 twilight: '1'
 unique: true
 game_text: ! |-

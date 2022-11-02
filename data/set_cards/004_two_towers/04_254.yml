@@ -1,5 +1,5 @@
 ---
-key: 4C254
+key: '04_254'
 name: Southron Soldier
 title: Southron Soldier
 set: two_towers
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: raider
+variants:
+- 04_254-S
+- 04_254-F
 strength: '4'
 vitality: '1'
 twilight: '2'

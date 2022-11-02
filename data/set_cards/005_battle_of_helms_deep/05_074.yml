@@ -1,5 +1,5 @@
 ---
-key: 5C74
+key: '05_074'
 name: Southron Marcher
 title: Southron Marcher
 set: battle_of_helms_deep
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: raider
+variants:
+- 05_074-S
+- 05_074-F
 strength: '6'
 vitality: '1'
 twilight: '4'

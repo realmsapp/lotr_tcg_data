@@ -1,5 +1,5 @@
 ---
-key: 1C306
+key: '01_306'
 name: Pippin, Friend to Frodo
 title: Pippin
 subtitle: Friend to Frodo
@@ -10,6 +10,9 @@ subtype: hobbit
 alignment: free_people
 culture: shire
 signet: frodo
+variants:
+- 01_306-S
+- 01_306-F
 strength: '3'
 vitality: '4'
 twilight: '1'

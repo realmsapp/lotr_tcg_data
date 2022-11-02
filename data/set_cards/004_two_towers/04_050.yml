@@ -1,5 +1,5 @@
 ---
-key: 4C50
+key: '04_050'
 name: Here Is Good Rock
 title: Here Is Good Rock
 set: two_towers
@@ -7,6 +7,9 @@ rarity: common
 card_type: condition
 alignment: free_people
 culture: dwarven
+variants:
+- 04_050-S
+- 04_050-F
 twilight: '1'
 unique: true
 game_text: ! |-

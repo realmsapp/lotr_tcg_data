@@ -1,5 +1,5 @@
 ---
-key: 2C37
+key: '02_037'
 name: Sentinels of Numenor
 title: Sentinels of Numenor
 set: mines_of_moria
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: gondor
+variants:
+- 02_037-S
+- 02_037-F
 twilight: '0'
 game_text: ! |-
   Skirmish: Make a [Gondor] companion strength +2 (or +4 if in a fierce skirmish).

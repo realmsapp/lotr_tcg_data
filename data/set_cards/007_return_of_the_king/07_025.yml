@@ -1,5 +1,5 @@
 ---
-key: 7R25
+key: '07_025'
 name: Legolas, Fearless Marksman
 title: Legolas
 subtitle: Fearless Marksman
@@ -10,6 +10,9 @@ subtype: elf
 alignment: free_people
 culture: elven
 signet: aragorn
+variants:
+- 07_025-S
+- 07_025-F
 strength: '6'
 vitality: '3'
 twilight: '2'

@@ -1,5 +1,5 @@
 ---
-key: 4U201
+key: '04_201'
 name: Uruk Veteran
 title: Uruk Veteran
 set: two_towers
@@ -8,6 +8,9 @@ card_type: minion
 subtype: uruk-hai
 alignment: shadow
 culture: isengard
+variants:
+- 04_201-S
+- 04_201-F
 strength: '8'
 vitality: '2'
 twilight: '3'

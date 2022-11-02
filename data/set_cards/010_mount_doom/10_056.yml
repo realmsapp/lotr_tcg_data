@@ -1,5 +1,5 @@
 ---
-key: 10C56
+key: '10_056'
 name: Cirith Ungol Warrior
 title: Cirith Ungol Warrior
 set: mount_doom
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: wraith
+variants:
+- 10_056-S
+- 10_056-F
 strength: '9'
 vitality: '2'
 twilight: '4'

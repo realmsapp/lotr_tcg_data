@@ -1,5 +1,5 @@
 ---
-key: 6R80
+key: 06_080
 name: Southron Archer Legion
 title: Southron Archer Legion
 set: ents_of_fangorn
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: raider
+variants:
+- 06_080-S
+- 06_080-F
 strength: '13'
 vitality: '4'
 twilight: '8'

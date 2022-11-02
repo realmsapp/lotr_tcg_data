@@ -1,5 +1,5 @@
 ---
-key: 4C178
+key: 04_178
 name: Unferth, Grima's Bodyguard
 title: Unferth
 subtitle: Grima's Bodyguard
@@ -9,6 +9,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: isengard
+variants:
+- 04_178-S
+- 04_178-F
 strength: '6'
 vitality: '2'
 twilight: '2'

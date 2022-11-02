@@ -1,5 +1,5 @@
 ---
-key: 7U151
+key: '07_151'
 name: Hosts Still Unfought
 title: Hosts Still Unfought
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: shadow
 culture: raider
+variants:
+- 07_151-S
+- 07_151-F
 twilight: '0'
 game_text: ! |-
   To play, spot 2 [Raider] Men. Discard any number of cards from hand. The Free Peoples player then discards any number of cards from hand. For each card you discarded more than the Free Peoples player, add (1).

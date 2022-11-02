@@ -1,5 +1,5 @@
 ---
-key: 9R45
+key: '09_045'
 name: Horn of the Mark
 title: Horn of the Mark
 set: reflections
@@ -7,6 +7,8 @@ rarity: rare
 card_type: possession
 alignment: free_people
 culture: rohan
+variants:
+- '09_045-F'
 strength: "+1"
 twilight: '1'
 unique: true

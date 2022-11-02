@@ -1,5 +1,5 @@
 ---
-key: 7C161
+key: '07_161'
 name: Southron Brigand
 title: Southron Brigand
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: raider
+variants:
+- 07_161-S
+- 07_161-F
 strength: '9'
 vitality: '2'
 twilight: '4'

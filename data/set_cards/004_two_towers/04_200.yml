@@ -1,5 +1,5 @@
 ---
-key: 4R200
+key: '04_200'
 name: Uruk Vanguard
 title: Uruk Vanguard
 set: two_towers
@@ -8,6 +8,9 @@ card_type: minion
 subtype: uruk-hai
 alignment: shadow
 culture: isengard
+variants:
+- 04_200-S
+- 04_200-F
 strength: '17'
 vitality: '4'
 twilight: '10'

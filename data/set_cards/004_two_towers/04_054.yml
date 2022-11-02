@@ -1,5 +1,5 @@
 ---
-key: 4R54
+key: '04_054'
 name: Rest by Blind Night
 title: Rest by Blind Night
 set: two_towers
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: free_people
 culture: dwarven
+variants:
+- 04_054-S
+- 04_054-F
 twilight: '0'
 game_text: ! |-
   Regroup: Shuffle any number of [Dwarven] conditions (and all cards stacked on them) into your draw deck.

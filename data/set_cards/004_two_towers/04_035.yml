@@ -1,5 +1,5 @@
 ---
-key: 4R35
+key: '04_035'
 name: Wake of Destruction
 title: Wake of Destruction
 set: two_towers
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: shadow
 culture: dunland
+variants:
+- 04_035-S
+- 04_035-F
 twilight: '0'
 game_text: ! |-
   Maneuver: Spot 2 sites you control to make each of your [Dunland] Men fierce until the regroup phase.

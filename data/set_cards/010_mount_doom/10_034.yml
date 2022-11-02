@@ -1,5 +1,5 @@
 ---
-key: 10C34
+key: '10_034'
 name: Last Throw
 title: Last Throw
 set: mount_doom
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: gondor
+variants:
+- 10_034-S
+- 10_034-F
 twilight: '5'
 game_text: ! |-
   If no opponent controls a site, spot 2 [Gondor] Men to make the move limit +1 for this turn.

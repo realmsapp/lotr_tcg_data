@@ -1,5 +1,5 @@
 ---
-key: 8C50
+key: '08_050'
 name: Black Sails of Umbar
 title: Black Sails of Umbar
 set: siege_of_gondor
@@ -7,6 +7,9 @@ rarity: common
 card_type: possession
 alignment: shadow
 culture: raider
+variants:
+- '08_050-S'
+- '08_050-F'
 twilight: '2'
 game_text: ! |-
   When you play this possession, you may add a [Raider] token here. Shadow: Remove X [Raider] tokens here to play a corsair from your discard pile; its twilight cost is -X. Discard this possession.

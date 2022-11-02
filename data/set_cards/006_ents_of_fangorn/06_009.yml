@@ -1,5 +1,5 @@
 ---
-key: 6U9
+key: 06_009
 name: Lend Us Your Aid
 title: Lend Us Your Aid
 set: ents_of_fangorn
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: dwarven
+variants:
+- 06_009-S
+- 06_009-F
 twilight: '0'
 game_text: ! |-
   Maneuver: Exert Gimli twice to make him and each Elf companion strength +3 until the regroup phase.

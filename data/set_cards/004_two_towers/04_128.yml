@@ -1,5 +1,5 @@
 ---
-key: 4C128
+key: 04_128
 name: New Errand
 title: New Errand
 set: two_towers
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: gondor
+variants:
+- 04_128-S
+- 04_128-F
 twilight: '1'
 game_text: ! |-
   Skirmish: Spot a Ring-bound Man to make a minion's site number +2. If that minion loses this skirmish, you may wound a minion.

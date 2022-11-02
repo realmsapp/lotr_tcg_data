@@ -1,5 +1,5 @@
 ---
-key: 7U13
+key: '07_013'
 name: Reckless Pride
 title: Reckless Pride
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: free_people
 culture: dwarven
+variants:
+- 07_013-S
+- 07_013-F
 twilight: '2'
 unique: true
 game_text: ! |-

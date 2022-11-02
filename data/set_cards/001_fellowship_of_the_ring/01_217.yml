@@ -1,5 +1,5 @@
 ---
-key: 1R217
+key: '01_217'
 name: Morgul Gates
 title: Morgul Gates
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: shadow
 culture: wraith
+variants:
+- 01_217-S
+- 01_217-F
 twilight: '0'
 game_text: ! |-
   Shadow: Play a Nazgul. His twilight cost is -2.

@@ -1,5 +1,5 @@
 ---
-key: 7U54
+key: '07_054'
 name: Clever Hobbits
 title: Clever Hobbits
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: gollum_free_people
+variants:
+- 07_054-S
+- 07_054-F
 twilight: '2'
 game_text: ! |-
   Discard any number of [Gollum] conditions. For each condition discarded, make Smeagol strength +3 and damage +1.

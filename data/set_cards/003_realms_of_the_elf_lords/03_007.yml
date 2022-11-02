@@ -1,5 +1,5 @@
 ---
-key: 3U7
+key: '03_007'
 name: Arwen, Elven Rider
 title: Arwen
 subtitle: Elven Rider
@@ -10,6 +10,9 @@ subtype: elf
 alignment: free_people
 culture: elven
 signet: frodo
+variants:
+- 03_007-S
+- 03_007-F
 strength: '6'
 vitality: '3'
 twilight: '2'

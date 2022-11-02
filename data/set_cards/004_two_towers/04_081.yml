@@ -1,5 +1,5 @@
 ---
-key: 4U81
+key: 04_081
 name: Pengedhel, Naith Warrior
 title: Pengedhel
 subtitle: Naith Warrior
@@ -9,6 +9,9 @@ card_type: companion
 subtype: elf
 alignment: free_people
 culture: elven
+variants:
+- 04_081-S
+- 04_081-F
 strength: '6'
 vitality: '3'
 twilight: '2'

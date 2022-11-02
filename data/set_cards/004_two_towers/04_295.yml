@@ -1,5 +1,5 @@
 ---
-key: 4U295
+key: 04_295
 name: Weland, Smith of the Riddermark
 title: Weland
 subtitle: Smith of the Riddermark
@@ -8,6 +8,9 @@ rarity: uncommon
 card_type: ally
 alignment: free_people
 culture: rohan
+variants:
+- 04_295-S
+- 04_295-F
 strength: '4'
 vitality: '2'
 twilight: '1'

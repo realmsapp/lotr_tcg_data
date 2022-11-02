@@ -1,5 +1,5 @@
 ---
-key: 2U59
+key: 02_059
 name: Foul Things
 title: Foul Things
 set: mines_of_moria
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: shadow
 culture: moria
+variants:
+- 02_059-S
+- 02_059-F
 twilight: '2'
 game_text: ! |-
   Shadow: Play a [Moria] minion from your discard pile.

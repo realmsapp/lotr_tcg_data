@@ -1,10 +1,13 @@
 ---
-key: 1U324
+key: '01_324'
 name: The Prancing Pony
 title: The Prancing Pony
 set: fellowship_of_the_ring
 rarity: uncommon
 card_type: site
+variants:
+- 01_324-S
+- 01_324-F
 site_number: '1'
 game_text: ! |-
   Fellowship: Add a burden to play Aragorn from your draw deck.

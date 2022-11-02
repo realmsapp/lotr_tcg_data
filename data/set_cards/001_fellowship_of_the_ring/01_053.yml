@@ -1,5 +1,5 @@
 ---
-key: 1C53
+key: '01_053'
 name: Lorien Elf
 title: Lorien Elf
 set: fellowship_of_the_ring
@@ -8,6 +8,9 @@ card_type: companion
 subtype: elf
 alignment: free_people
 culture: elven
+variants:
+- 01_053-S
+- 01_053-F
 strength: '4'
 vitality: '2'
 twilight: '1'

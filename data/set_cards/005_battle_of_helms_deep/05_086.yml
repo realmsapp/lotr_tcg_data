@@ -1,5 +1,5 @@
 ---
-key: 5R86
+key: 05_086
 name: No Rest for the Weary
 title: No Rest for the Weary
 set: battle_of_helms_deep
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: free_people
 culture: rohan
+variants:
+- 05_086-S
+- 05_086-F
 twilight: '1'
 game_text: ! |-
   Maneuver: Spot 3 valiant Men to make one of those Men defender +1 until the regroup phase.

@@ -1,5 +1,5 @@
 ---
-key: 4U127
+key: '04_127'
 name: Mablung, Soldier of Gondor
 title: Mablung
 subtitle: Soldier of Gondor
@@ -9,6 +9,9 @@ card_type: companion
 subtype: man
 alignment: free_people
 culture: gondor
+variants:
+- 04_127-S
+- 04_127-F
 strength: '6'
 vitality: '3'
 twilight: '2'

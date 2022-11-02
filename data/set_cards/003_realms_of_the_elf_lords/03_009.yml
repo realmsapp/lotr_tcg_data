@@ -1,5 +1,5 @@
 ---
-key: 3U9
+key: 03_009
 name: Beren and Luthien
 title: Beren and Luthien
 set: realms_of_the_elf_lords
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: free_people
 culture: elven
+variants:
+- 03_009-S
+- 03_009-F
 twilight: '1'
 game_text: ! |-
   Tale. Plays to your support area. Skirmish: Exert an [Elven] ally to discard the bottom card of your draw deck. If that card is an [Elven] card, make a minion skirmishing an Elf strength -1.

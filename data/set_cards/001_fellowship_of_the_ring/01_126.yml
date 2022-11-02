@@ -1,5 +1,5 @@
 ---
-key: 1U126
+key: '01_126'
 name: Hunt Them Down!
 title: Hunt Them Down!
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: shadow
 culture: isengard
+variants:
+- 01_126-S
+- 01_126-F
 twilight: '3'
 game_text: ! |-
   Maneuver: Make an Uruk-hai fierce until the regroup phase.

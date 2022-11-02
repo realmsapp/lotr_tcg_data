@@ -1,5 +1,5 @@
 ---
-key: 7C118
+key: 07_118
 name: Second Level
 title: Second Level
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: common
 card_type: condition
 alignment: free_people
 culture: gondor
+variants:
+- 07_118-S
+- 07_118-F
 twilight: '1'
 site_number: "+2"
 game_text: ! |-

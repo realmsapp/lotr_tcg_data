@@ -1,5 +1,5 @@
 ---
-key: 9R+33
+key: '09_033'
 name: Isildur, Bearer of Heirlooms
 title: Isildur
 subtitle: Bearer of Heirlooms
@@ -9,6 +9,8 @@ card_type: companion
 subtype: man
 alignment: free_people
 culture: gondor
+variants:
+- '09_033-F'
 strength: '7'
 vitality: '3'
 twilight: '3'

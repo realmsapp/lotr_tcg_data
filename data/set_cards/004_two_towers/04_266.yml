@@ -1,5 +1,5 @@
 ---
-key: 4C266
+key: '04_266'
 name: Eomer, Sister-son of Theoden
 title: Eomer
 subtitle: Sister-son of Theoden
@@ -10,6 +10,9 @@ subtype: man
 alignment: free_people
 culture: rohan
 signet: aragorn
+variants:
+- 04_266-S
+- 04_266-F
 strength: '7'
 vitality: '3'
 twilight: '3'

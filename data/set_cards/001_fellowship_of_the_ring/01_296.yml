@@ -1,5 +1,5 @@
 ---
-key: 1C296
+key: 01_296
 name: Hobbit Intuition
 title: Hobbit Intuition
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: shire
+variants:
+- 01_296-S
+- 01_296-F
 twilight: '1'
 game_text: ! |-
   Stealth. Skirmish: At sites 1 to 4, cancel a skirmish involving a Hobbit. At any other site, make a Hobbit strength +3.

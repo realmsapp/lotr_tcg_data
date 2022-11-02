@@ -1,5 +1,5 @@
 ---
-key: 1U309
+key: 01_309
 name: Rosie Cotton, Hobbiton Lass
 title: Rosie Cotton
 subtitle: Hobbiton Lass
@@ -8,6 +8,9 @@ rarity: uncommon
 card_type: ally
 alignment: free_people
 culture: shire
+variants:
+- 01_309-S
+- 01_309-F
 strength: '1'
 vitality: '2'
 twilight: '1'

@@ -1,5 +1,5 @@
 ---
-key: 1U226
+key: '01_226'
 name: Their Power Is in Terror
 title: Their Power Is in Terror
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: shadow
 culture: wraith
+variants:
+- 01_226-S
+- 01_226-F
 twilight: '0'
 game_text: ! |-
   Maneuver: Exert a Nazgul to wound every ally.

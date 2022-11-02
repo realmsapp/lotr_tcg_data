@@ -1,5 +1,5 @@
 ---
-key: 7R211
+key: '07_211'
 name: Ulaire Cantea, Faster Than Winds
 title: Ulaire Cantea
 subtitle: Faster Than Winds
@@ -9,6 +9,9 @@ card_type: minion
 subtype: nazgul
 alignment: shadow
 culture: wraith
+variants:
+- 07_211-S
+- 07_211-F
 strength: '10'
 vitality: '3'
 twilight: '5'

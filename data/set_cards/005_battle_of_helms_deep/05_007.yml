@@ -1,5 +1,5 @@
 ---
-key: 5R7
+key: '05_007'
 name: Gimli, Skilled Defender
 title: Gimli
 subtitle: Skilled Defender
@@ -10,6 +10,9 @@ subtype: dwarf
 alignment: free_people
 culture: dwarven
 signet: theoden
+variants:
+- 05_007-S
+- 05_007-F
 strength: '6'
 vitality: '3'
 twilight: '2'

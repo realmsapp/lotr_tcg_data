@@ -1,5 +1,5 @@
 ---
-key: 1R245
+key: '01_245'
 name: Desperate Measures
 title: Desperate Measures
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: shadow
 culture: sauron
+variants:
+- 01_245-S
+- 01_245-F
 twilight: '2'
 game_text: ! |-
   Maneuver: Spot a [Sauron] Orc and remove a burden to make the Free Peoples player discard top 5 cards from his draw deck.

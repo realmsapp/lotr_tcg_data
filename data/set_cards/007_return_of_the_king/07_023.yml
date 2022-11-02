@@ -1,5 +1,5 @@
 ---
-key: 7C23
+key: '07_023'
 name: Into the West
 title: Into the West
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: common
 card_type: condition
 alignment: free_people
 culture: elven
+variants:
+- 07_023-S
+- 07_023-F
 twilight: '0'
 game_text: ! |-
   Regroup: Exert an Elf to reveal the top card of your draw deck. If it is an [Elven] card, remove 3 threats. Place the revealed card beneath your draw deck.

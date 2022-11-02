@@ -1,10 +1,13 @@
 ---
-key: 1U344
+key: '01_344'
 name: Dwarrowdelf Chamber
 title: Dwarrowdelf Chamber
 set: fellowship_of_the_ring
 rarity: uncommon
 card_type: site
+variants:
+- 01_344-S
+- 01_344-F
 twilight: '2'
 site_number: '4'
 game_text: ! |-

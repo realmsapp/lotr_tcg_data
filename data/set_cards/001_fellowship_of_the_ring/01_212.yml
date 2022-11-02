@@ -1,5 +1,5 @@
 ---
-key: 1R212
+key: '01_212'
 name: Fear
 title: Fear
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: shadow
 culture: wraith
+variants:
+- 01_212-S
+- 01_212-F
 twilight: '1'
 game_text: ! |-
   Search. Maneuver: Exert your Nazgul to discard an ally.

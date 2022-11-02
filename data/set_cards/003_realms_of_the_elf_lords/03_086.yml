@@ -1,5 +1,5 @@
 ---
-key: 3U86
+key: 03_086
 name: Ulaire Otsea, Ringwraith in Twilight
 title: Ulaire Otsea
 subtitle: Ringwraith in Twilight
@@ -9,6 +9,9 @@ card_type: minion
 subtype: nazgul
 alignment: shadow
 culture: wraith
+variants:
+- 03_086-S
+- 03_086-F
 strength: '9'
 vitality: '3'
 twilight: '4'

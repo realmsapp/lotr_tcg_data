@@ -1,5 +1,5 @@
 ---
-key: 7R7
+key: '07_007'
 name: Gimli, Feared Axeman
 title: Gimli
 subtitle: Feared Axeman
@@ -10,6 +10,9 @@ subtype: dwarf
 alignment: free_people
 culture: dwarven
 signet: aragorn
+variants:
+- 07_007-S
+- 07_007-F
 strength: '6'
 vitality: '3'
 twilight: '2'

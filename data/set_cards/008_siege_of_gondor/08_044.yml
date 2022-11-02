@@ -1,5 +1,5 @@
 ---
-key: 8U44
+key: '08_044'
 name: Sixth Level
 title: Sixth Level
 set: siege_of_gondor
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: free_people
 culture: gondor
+variants:
+- '08_044-S'
+- '08_044-F'
 twilight: '2'
 game_text: ! |-
   Fortification. Regroup: Exert a [Gondor] Man to play a [Gondor] fortification from your discard pile (limit 1).

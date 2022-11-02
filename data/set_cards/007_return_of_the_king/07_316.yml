@@ -1,5 +1,5 @@
 ---
-key: 7R316
+key: '07_316'
 name: Troop Tower
 title: Troop Tower
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: shadow
 culture: sauron
+variants:
+- 07_316-S
+- 07_316-F
 twilight: '1'
 unique: true
 game_text: ! |-

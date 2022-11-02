@@ -1,5 +1,5 @@
 ---
-key: 7C4
+key: '07_004'
 name: Calculated Risk
 title: Calculated Risk
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: dwarven
+variants:
+- 07_004-S
+- 07_004-F
 twilight: '2'
 game_text: ! |-
   Spot a Dwarf and add a threat to draw 3 cards.

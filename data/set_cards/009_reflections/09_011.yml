@@ -1,5 +1,5 @@
 ---
-key: 9R11
+key: '09_011'
 name: Uri, Dwarven Lord
 title: Uri
 subtitle: Dwarven Lord
@@ -9,6 +9,8 @@ card_type: companion
 subtype: dwarf
 alignment: free_people
 culture: dwarven
+variants:
+- '09_011-F'
 strength: '5'
 vitality: '4'
 twilight: '2'

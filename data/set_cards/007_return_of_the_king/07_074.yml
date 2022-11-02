@@ -1,5 +1,5 @@
 ---
-key: 7R74
+key: '07_074'
 name: So Polite
 title: So Polite
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: shadow
 culture: gollum_shadow
+variants:
+- 07_074-S
+- 07_074-F
 twilight: '0'
 game_text: ! |-
   Play Gollum from your discard pile to add (1) for each threat you spot.

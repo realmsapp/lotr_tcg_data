@@ -1,5 +1,5 @@
 ---
-key: 7U49
+key: 07_049
 name: Steadfast Champion
 title: Steadfast Champion
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: free_people
 culture: gandalf
+variants:
+- 07_049-S
+- 07_049-F
 twilight: '2'
 unique: true
 game_text: ! |-

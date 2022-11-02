@@ -1,5 +1,5 @@
 ---
-key: 7R48
+key: 07_048
 name: Stay This Madness
 title: Stay This Madness
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: free_people
 culture: gandalf
+variants:
+- 07_048-S
+- 07_048-F
 twilight: '0'
 game_text: ! |-
   To play, spot Gandalf. Each time the fellowship moves, add a threat or discard this condition. Regroup: Discard this condition to wound 2 minions.

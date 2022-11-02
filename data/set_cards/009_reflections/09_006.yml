@@ -1,5 +1,5 @@
 ---
-key: 9R6
+key: '09_006'
 name: Ring of Accretion
 title: Ring of Accretion
 set: reflections
@@ -8,6 +8,8 @@ card_type: artifact
 subtype: ring
 alignment: free_people
 culture: dwarven
+variants:
+- '09_006-F'
 strength: "+1"
 twilight: '0'
 unique: true

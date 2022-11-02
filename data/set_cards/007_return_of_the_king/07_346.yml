@@ -1,10 +1,13 @@
 ---
-key: 7U346
+key: '07_346'
 name: Minas Tirith Fifth Circle
 title: Minas Tirith Fifth Circle
 set: return_of_the_king
 rarity: uncommon
 card_type: site
+variants:
+- 07_346-S
+- 07_346-F
 twilight: '3'
 site_number: '6'
 game_text: ! |-

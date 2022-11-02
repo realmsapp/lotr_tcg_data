@@ -1,5 +1,5 @@
 ---
-key: 4C26
+key: '04_026'
 name: Iron Axe
 title: Iron Axe
 set: two_towers
@@ -8,6 +8,9 @@ card_type: possession
 subtype: hand_weapon
 alignment: shadow
 culture: dunland
+variants:
+- 04_026-S
+- 04_026-F
 strength: "+3"
 twilight: '1'
 game_text: ! |-

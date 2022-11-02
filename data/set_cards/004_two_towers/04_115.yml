@@ -1,5 +1,5 @@
 ---
-key: 4C115
+key: '04_115'
 name: Defend It and Hope
 title: Defend It and Hope
 set: two_towers
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: gondor
+variants:
+- 04_115-S
+- 04_115-F
 twilight: '0'
 game_text: ! |-
   Maneuver: Exert a [Gondor] Man to wound a minion once (or twice if that minion is an Uruk-hai).

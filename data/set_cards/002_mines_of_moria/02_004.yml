@@ -1,5 +1,5 @@
 ---
-key: 2U4
+key: '02_004'
 name: Endurance of Dwarves
 title: Endurance of Dwarves
 set: mines_of_moria
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: free_people
 culture: dwarven
+variants:
+- 02_004-S
+- 02_004-F
 vitality: "+1"
 twilight: '1'
 game_text: ! |-

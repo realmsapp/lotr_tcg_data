@@ -1,5 +1,5 @@
 ---
-key: 8U107
+key: '08_107'
 name: Their Marching Companies
 title: Their Marching Companies
 set: siege_of_gondor
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: shadow
 culture: sauron
+variants:
+- '08_107-S'
+- '08_107-F'
 twilight: '1'
 game_text: ! |-
   Engine. To play, spot a [Sauron] minion. Regroup: Remove a threat to stack your [Sauron] minion on a site you control. Shadow: Remove a threat to play a [Sauron] minion stacked on a site you control.

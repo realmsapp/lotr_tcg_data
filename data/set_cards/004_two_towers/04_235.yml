@@ -1,5 +1,5 @@
 ---
-key: 4C235
+key: '04_235'
 name: Gathering to the Summons
 title: Gathering to the Summons
 set: two_towers
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: shadow
 culture: raider
+variants:
+- 04_235-S
+- 04_235-F
 twilight: '0'
 game_text: ! |-
   Skirmish: Spot a [Raider] Man skirmishing a Ring-bound companion to add a burden.

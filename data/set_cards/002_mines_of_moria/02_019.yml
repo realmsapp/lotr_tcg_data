@@ -1,5 +1,5 @@
 ---
-key: 2R19
+key: 02_019
 name: Release the Angry Flood
 title: Release the Angry Flood
 set: mines_of_moria
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: free_people
 culture: elven
+variants:
+- 02_019-S
+- 02_019-F
 twilight: '1'
 game_text: ! |-
   Maneuver: Exert an Elf to wound each Nazgul once (or twice if at a river).

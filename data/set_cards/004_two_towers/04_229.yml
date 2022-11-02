@@ -1,5 +1,5 @@
 ---
-key: 4R229
+key: 04_229
 name: Easterling Skirmisher
 title: Easterling Skirmisher
 set: two_towers
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: raider
+variants:
+- 04_229-S
+- 04_229-F
 strength: '5'
 vitality: '1'
 twilight: '1'

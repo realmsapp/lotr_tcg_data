@@ -1,5 +1,5 @@
 ---
-key: 4R29
+key: 04_029
 name: No Refuge
 title: No Refuge
 set: two_towers
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: shadow
 culture: dunland
+variants:
+- 04_029-S
+- 04_029-F
 twilight: '0'
 unique: true
 game_text: ! |-

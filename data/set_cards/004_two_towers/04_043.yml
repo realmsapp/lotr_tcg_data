@@ -1,5 +1,5 @@
 ---
-key: 4U43
+key: '04_043'
 name: Come Here Lad
 title: Come Here Lad
 set: two_towers
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: dwarven
+variants:
+- 04_043-S
+- 04_043-F
 twilight: '0'
 game_text: ! |-
   Fellowship: Stack the top 2 cards from your draw deck on a [Dwarven] condition that has a card already stacked on it.

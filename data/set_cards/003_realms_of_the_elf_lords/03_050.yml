@@ -1,5 +1,5 @@
 ---
-key: 3R50
+key: '03_050'
 name: Can You Protect Me From Yourself?
 title: Can You Protect Me From Yourself?
 set: realms_of_the_elf_lords
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: shadow
 culture: isengard
+variants:
+- 03_050-S
+- 03_050-F
 twilight: '0'
 game_text: ! |-
   Maneuver: Spot an [Isengard] minion to exhaust Aragorn. The Free Peoples player may add 2 burdens to prevent this.

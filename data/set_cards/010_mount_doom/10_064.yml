@@ -1,5 +1,5 @@
 ---
-key: 10C64
+key: '10_064'
 name: Stooping to the Kill
 title: Stooping to the Kill
 set: mount_doom
@@ -7,6 +7,9 @@ rarity: common
 card_type: condition
 alignment: shadow
 culture: wraith
+variants:
+- 10_064-S
+- 10_064-F
 twilight: '1'
 unique: true
 game_text: ! |-

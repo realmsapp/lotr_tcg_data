@@ -1,5 +1,5 @@
 ---
-key: 7R44
+key: '07_044'
 name: Moment of Respite
 title: Moment of Respite
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: free_people
 culture: gandalf
+variants:
+- 07_044-S
+- 07_044-F
 twilight: '2'
 unique: true
 game_text: ! |-

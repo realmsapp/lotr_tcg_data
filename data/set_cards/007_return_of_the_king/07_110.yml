@@ -1,5 +1,5 @@
 ---
-key: 7U110
+key: '07_110'
 name: Madril, Faramir's Aide
 title: Madril
 subtitle: Faramir's Aide
@@ -9,6 +9,9 @@ card_type: companion
 subtype: man
 alignment: free_people
 culture: gondor
+variants:
+- 07_110-S
+- 07_110-F
 strength: '6'
 vitality: '3'
 twilight: '2'

@@ -1,5 +1,5 @@
 ---
-key: 4U110
+key: '04_110'
 name: Arrows Thick in the Air
 title: Arrows Thick in the Air
 set: two_towers
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: gondor
+variants:
+- 04_110-S
+- 04_110-F
 twilight: '3'
 game_text: ! |-
   Archery or Skirmish: Exert 2 Ring-bound Men to wound each roaming minion.

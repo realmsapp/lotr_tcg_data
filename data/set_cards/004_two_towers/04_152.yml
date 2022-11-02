@@ -1,5 +1,5 @@
 ---
-key: 4U152
+key: '04_152'
 name: Get Back
 title: Get Back
 set: two_towers
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: shadow
 culture: isengard
+variants:
+- 04_152-S
+- 04_152-F
 twilight: '0'
 game_text: ! |-
   Assignment: Prevent an [Isengard] tracker from being assigned to a skirmish by any player.

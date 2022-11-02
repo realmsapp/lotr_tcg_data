@@ -1,5 +1,5 @@
 ---
-key: 7U289
+key: 07_289
 name: Mordor Savage
 title: Mordor Savage
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: sauron
+variants:
+- 07_289-S
+- 07_289-F
 strength: '10'
 vitality: '2'
 twilight: '4'

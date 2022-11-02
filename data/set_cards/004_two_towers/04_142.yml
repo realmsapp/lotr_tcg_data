@@ -1,5 +1,5 @@
 ---
-key: 4C142
+key: '04_142'
 name: Broad-bladed Sword
 title: Broad-bladed Sword
 set: two_towers
@@ -8,6 +8,9 @@ card_type: possession
 subtype: hand_weapon
 alignment: shadow
 culture: isengard
+variants:
+- 04_142-S
+- 04_142-F
 strength: "+2"
 twilight: '1'
 game_text: ! |-

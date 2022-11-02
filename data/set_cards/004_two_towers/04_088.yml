@@ -1,5 +1,5 @@
 ---
-key: 4U88
+key: 04_088
 name: Behold the White Rider
 title: Behold the White Rider
 set: two_towers
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: free_people
 culture: gandalf
+variants:
+- 04_088-S
+- 04_088-F
 twilight: '2'
 unique: true
 game_text: ! |-

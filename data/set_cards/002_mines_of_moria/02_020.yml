@@ -1,5 +1,5 @@
 ---
-key: 2R20
+key: '02_020'
 name: Secret Sentinels
 title: Secret Sentinels
 set: mines_of_moria
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: free_people
 culture: elven
+variants:
+- 02_020-S
+- 02_020-F
 twilight: '2'
 game_text: ! |-
   Maneuver: Exert an Elf ally to discard a condition (or 2 conditions if you spot an Orc).

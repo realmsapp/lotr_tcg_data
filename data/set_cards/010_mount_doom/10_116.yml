@@ -1,5 +1,5 @@
 ---
-key: 10U116
+key: '10_116'
 name: The Tale of the Great Ring
 title: The Tale of the Great Ring
 set: mount_doom
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: free_people
 culture: shire
+variants:
+- 10_116-S
+- 10_116-F
 twilight: '0'
 unique: true
 game_text: ! |-

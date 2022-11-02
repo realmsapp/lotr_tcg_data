@@ -1,10 +1,13 @@
 ---
-key: 4U331
+key: '04_331'
 name: Eastfold
 title: Eastfold
 set: two_towers
 rarity: uncommon
 card_type: site
+variants:
+- 04_331-S
+- 04_331-F
 twilight: '2'
 site_number: '2'
 game_text: ! |-

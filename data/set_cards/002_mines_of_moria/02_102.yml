@@ -1,5 +1,5 @@
 ---
-key: 2C102
+key: '02_102'
 name: Frodo, Reluctant Adventurer
 title: Frodo
 subtitle: Reluctant Adventurer
@@ -10,6 +10,9 @@ subtype: hobbit
 alignment: free_people
 culture: shire
 signet: aragorn
+variants:
+- 02_102-S
+- 02_102-F
 strength: '3'
 vitality: '4'
 twilight: '0'

@@ -1,5 +1,5 @@
 ---
-key: 6R18
+key: 06_018
 name: Galadriel, Keeper of Nenya
 title: Galadriel
 subtitle: Keeper of Nenya
@@ -8,6 +8,9 @@ rarity: rare
 card_type: ally
 alignment: free_people
 culture: elven
+variants:
+- 06_018-S
+- 06_018-F
 strength: '3'
 vitality: '3'
 twilight: '3'

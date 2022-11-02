@@ -1,5 +1,5 @@
 ---
-key: 1R93
+key: 01_093
 name: Arwen's Fate
 title: Arwen's Fate
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: free_people
 culture: gondor
+variants:
+- 01_093-S
+- 01_093-F
 twilight: '0'
 game_text: ! |-
   Skirmish: Exert Aragorn to make Arwen strength +3, or exert Arwen to make Aragorn strength +3.

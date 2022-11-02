@@ -1,5 +1,5 @@
 ---
-key: 7C92
+key: 07_092
 name: First Level
 title: First Level
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: common
 card_type: condition
 alignment: free_people
 culture: gondor
+variants:
+- 07_092-S
+- 07_092-F
 strength: "-1"
 twilight: '1'
 game_text: ! |-

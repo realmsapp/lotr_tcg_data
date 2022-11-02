@@ -1,5 +1,5 @@
 ---
-key: 7C262
+key: '07_262'
 name: Above the Battlement
 title: Above the Battlement
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: shadow
 culture: sauron
+variants:
+- 07_262-S
+- 07_262-F
 twilight: '0'
 game_text: ! |-
   Play a bieseger stacked on a site you control or remove a burden to play a [Sauron] Orc from your discard pile.

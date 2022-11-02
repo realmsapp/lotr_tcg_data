@@ -1,5 +1,5 @@
 ---
-key: 2R1
+key: '02_001'
 name: Beneath the Mountains
 title: Beneath the Mountains
 set: mines_of_moria
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: free_people
 culture: dwarven
+variants:
+- 02_001-S
+- 02_001-F
 twilight: '1'
 game_text: ! |-
   Tale. Plays to your support area. Fellowship: Discard the top 3 cards from your draw deck to play a [Dwarven] weapon from your discard pile.

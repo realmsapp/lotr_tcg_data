@@ -1,5 +1,5 @@
 ---
-key: 4U126
+key: '04_126'
 name: Ithilien Trap
 title: Ithilien Trap
 set: two_towers
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: free_people
 culture: gondor
+variants:
+- 04_126-S
+- 04_126-F
 twilight: '2'
 unique: true
 game_text: ! |-

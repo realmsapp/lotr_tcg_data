@@ -1,5 +1,5 @@
 ---
-key: 10U92
+key: '10_092'
 name: Mordor Pillager
 title: Mordor Pillager
 set: mount_doom
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: sauron
+variants:
+- 10_092-S
+- 10_092-F
 strength: '9'
 vitality: '2'
 twilight: '3'

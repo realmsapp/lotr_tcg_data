@@ -1,5 +1,5 @@
 ---
-key: 4C226
+key: '04_226'
 name: Easterling Guard
 title: Easterling Guard
 set: two_towers
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: raider
+variants:
+- 04_226-S
+- 04_226-F
 strength: '9'
 vitality: '2'
 twilight: '4'

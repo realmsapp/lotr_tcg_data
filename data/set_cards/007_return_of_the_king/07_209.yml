@@ -1,5 +1,5 @@
 ---
-key: 7C209
+key: 07_209
 name: Too Late
 title: Too Late
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: common
 card_type: condition
 alignment: shadow
 culture: wraith
+variants:
+- 07_209-S
+- 07_209-F
 twilight: '1'
 game_text: ! |-
   Skirmish: Transfer this condition from your support area to a character skirmishing a Nazgul. Each time bearer exerts, add (1).

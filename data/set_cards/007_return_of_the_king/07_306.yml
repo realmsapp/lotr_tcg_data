@@ -1,5 +1,5 @@
 ---
-key: 7R306
+key: '07_306'
 name: Orc Seeker
 title: Orc Seeker
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: sauron
+variants:
+- 07_306-S
+- 07_306-F
 strength: '11'
 vitality: '3'
 twilight: '4'

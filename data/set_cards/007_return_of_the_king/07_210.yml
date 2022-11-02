@@ -1,5 +1,5 @@
 ---
-key: 7R210
+key: '07_210'
 name: Ulaire Attea, Wraith on Wings
 title: Ulaire Attea
 subtitle: Wraith on Wings
@@ -9,6 +9,9 @@ card_type: minion
 subtype: nazgul
 alignment: shadow
 culture: wraith
+variants:
+- 07_210-S
+- 07_210-F
 strength: '12'
 vitality: '3'
 twilight: '6'

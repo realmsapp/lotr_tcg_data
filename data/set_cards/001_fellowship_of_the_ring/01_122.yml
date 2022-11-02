@@ -1,5 +1,5 @@
 ---
-key: 1C122
+key: '01_122'
 name: Breeding Pit
 title: Breeding Pit
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: shadow
 culture: isengard
+variants:
+- 01_122-S
+- 01_122-F
 twilight: '1'
 game_text: ! |-
   Response: If you play an Uruk-hai, take all copies of that card in your discard pile and place them beneath your draw deck.

@@ -1,5 +1,5 @@
 ---
-key: 1R318
+key: 01_318
 name: Thror's Map
 title: Thror's Map
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: possession
 alignment: free_people
 culture: shire
+variants:
+- 01_318-S
+- 01_318-F
 twilight: '0'
 unique: true
 game_text: ! |-

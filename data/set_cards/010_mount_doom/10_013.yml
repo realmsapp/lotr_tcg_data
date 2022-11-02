@@ -1,5 +1,5 @@
 ---
-key: 10R13
+key: '10_013'
 name: Phial of Galadriel, Star-glass
 title: Phial of Galadriel
 subtitle: Star-glass
@@ -8,6 +8,9 @@ rarity: rare
 card_type: artifact
 alignment: free_people
 culture: elven
+variants:
+- 10_013-S
+- 10_013-F
 twilight: '0'
 unique: true
 game_text: ! |-

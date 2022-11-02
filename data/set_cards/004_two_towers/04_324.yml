@@ -1,10 +1,13 @@
 ---
-key: 4U324
+key: '04_324'
 name: Eastemnet Downs
 title: Eastemnet Downs
 set: two_towers
 rarity: uncommon
 card_type: site
+variants:
+- 04_324-S
+- 04_324-F
 site_number: '1'
 game_text: ! |-
   Each time you play a companion here, you must discard 2 cards from hand.

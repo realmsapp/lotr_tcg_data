@@ -1,5 +1,5 @@
 ---
-key: 4C270
+key: '04_270'
 name: Eowyn, Lady of Rohan
 title: Eowyn
 subtitle: Lady of Rohan
@@ -10,6 +10,9 @@ subtype: man
 alignment: free_people
 culture: rohan
 signet: theoden
+variants:
+- 04_270-S
+- 04_270-F
 strength: '6'
 vitality: '3'
 twilight: '2'

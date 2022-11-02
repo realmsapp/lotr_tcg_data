@@ -1,5 +1,5 @@
 ---
-key: 1R96
+key: 01_096
 name: Boromir, Lord of Gondor
 title: Boromir
 subtitle: Lord of Gondor
@@ -10,6 +10,9 @@ subtype: man
 alignment: free_people
 culture: gondor
 signet: aragorn
+variants:
+- 01_096-S
+- 01_096-F
 strength: '7'
 vitality: '3'
 twilight: '3'

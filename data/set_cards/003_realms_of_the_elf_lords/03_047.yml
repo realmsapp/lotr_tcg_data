@@ -1,5 +1,5 @@
 ---
-key: 3U47
+key: '03_047'
 name: Voice of Rauros
 title: Voice of Rauros
 set: realms_of_the_elf_lords
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: gondor
+variants:
+- 03_047-S
+- 03_047-F
 twilight: '0'
 game_text: ! |-
   Maneuver: Exert Aragorn to make each companion with the Aragorn signet damage +1 until the regroup phase.

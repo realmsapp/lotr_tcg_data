@@ -1,5 +1,5 @@
 ---
-key: 2U17
+key: '02_017'
 name: Dismay Our Enemies
 title: Dismay Our Enemies
 set: mines_of_moria
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: elven
+variants:
+- 02_017-S
+- 02_017-F
 twilight: '0'
 game_text: ! |-
   Response: If an Elf archer wins a skirmish, make an opponent choose a minion to discard. That opponent may remove (3) to prevent this.

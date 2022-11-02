@@ -1,5 +1,5 @@
 ---
-key: 5U54
+key: '05_054'
 name: Isengard Scimitar
 title: Isengard Scimitar
 set: battle_of_helms_deep
@@ -8,6 +8,9 @@ card_type: possession
 subtype: hand_weapon
 alignment: shadow
 culture: isengard
+variants:
+- 05_054-S
+- 05_054-F
 strength: "+2"
 twilight: '0'
 game_text: ! |-

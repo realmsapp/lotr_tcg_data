@@ -1,5 +1,5 @@
 ---
-key: 4R46
+key: '04_046'
 name: Ever My Heart Rises
 title: Ever My Heart Rises
 set: two_towers
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: free_people
 culture: dwarven
+variants:
+- 04_046-S
+- 04_046-F
 twilight: '3'
 unique: true
 game_text: ! |-

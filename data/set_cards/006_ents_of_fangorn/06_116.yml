@@ -1,10 +1,13 @@
 ---
-key: 6U116
+key: '06_116'
 name: Westfold
 title: Westfold
 set: ents_of_fangorn
 rarity: uncommon
 card_type: site
+variants:
+- 06_116-S
+- 06_116-F
 site_number: '1'
 game_text: ! |-
   Fellowship: Exert Aragorn twice to play a companion with the Aragorn signet from your draw deck.

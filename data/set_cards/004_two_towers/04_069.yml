@@ -1,5 +1,5 @@
 ---
-key: 4R69
+key: 04_069
 name: Final Count
 title: Final Count
 set: two_towers
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: free_people
 culture: elven
+variants:
+- 04_069-S
+- 04_069-F
 twilight: '1'
 unique: true
 game_text: ! |-

@@ -1,5 +1,5 @@
 ---
-key: 1C273
+key: '01_273'
 name: The Ring's Oppression
 title: The Ring's Oppression
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: shadow
 culture: sauron
+variants:
+- 01_273-S
+- 01_273-F
 twilight: '3'
 game_text: ! |-
   Response: If a [Sauron] Orc kills a companion, add 1 burden (or 3 if the Ring-bearer wears The One Ring).

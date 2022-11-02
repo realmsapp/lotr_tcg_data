@@ -1,10 +1,13 @@
 ---
-key: 4U357
+key: '04_357'
 name: King's Room
 title: King's Room
 set: two_towers
 rarity: uncommon
 card_type: site
+variants:
+- 04_357-S
+- 04_357-F
 twilight: '6'
 site_number: '7'
 game_text: ! |-

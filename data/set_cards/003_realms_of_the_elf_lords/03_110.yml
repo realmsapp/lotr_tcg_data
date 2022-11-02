@@ -1,5 +1,5 @@
 ---
-key: 3R110
+key: '03_110'
 name: Melilot Brandybuck, Merry Dancer
 title: Melilot Brandybuck
 subtitle: Merry Dancer
@@ -8,6 +8,9 @@ rarity: rare
 card_type: ally
 alignment: free_people
 culture: shire
+variants:
+- 03_110-S
+- 03_110-F
 strength: '2'
 vitality: '2'
 twilight: '1'

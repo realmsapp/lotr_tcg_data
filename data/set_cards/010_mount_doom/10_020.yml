@@ -1,5 +1,5 @@
 ---
-key: 10U20
+key: '10_020'
 name: Final Strike
 title: Final Strike
 set: mount_doom
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: shadow
 culture: gollum_shadow
+variants:
+- 10_020-S
+- 10_020-F
 twilight: '1'
 game_text: ! |-
   Any site 9 is a Mountain. Shadow: If the fellowship is at any site 9, play Gollum from your discard pile. Response: If the Free Peoples player uses a maneuver or archery special ability, exert Gollum to cancel its effect.

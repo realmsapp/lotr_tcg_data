@@ -1,10 +1,13 @@
 ---
-key: 10U117
+key: '10_117'
 name: Base of Mindolluin
 title: Base of Mindolluin
 set: mount_doom
 rarity: uncommon
 card_type: site
+variants:
+- 10_117-S
+- 10_117-F
 twilight: '0'
 site_number: '3'
 game_text: ! |-

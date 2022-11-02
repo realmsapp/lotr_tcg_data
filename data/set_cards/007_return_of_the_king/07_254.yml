@@ -1,5 +1,5 @@
 ---
-key: 7U254
+key: '07_254'
 name: Theoden, Leader of Spears
 title: Theoden
 subtitle: Leader of Spears
@@ -10,6 +10,9 @@ subtype: man
 alignment: free_people
 culture: rohan
 signet: theoden
+variants:
+- 07_254-S
+- 07_254-F
 strength: '7'
 vitality: '3'
 twilight: '3'

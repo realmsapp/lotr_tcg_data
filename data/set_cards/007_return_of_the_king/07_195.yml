@@ -1,5 +1,5 @@
 ---
-key: 7U195
+key: 07_195
 name: Morgul on the March
 title: Morgul on the March
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: shadow
 culture: wraith
+variants:
+- 07_195-S
+- 07_195-F
 twilight: '1'
 unique: true
 game_text: ! |-

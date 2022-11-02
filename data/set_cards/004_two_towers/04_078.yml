@@ -1,5 +1,5 @@
 ---
-key: 4C78
+key: 04_078
 name: Lorien Swordsman
 title: Lorien Swordsman
 set: two_towers
@@ -8,6 +8,9 @@ card_type: companion
 subtype: elf
 alignment: free_people
 culture: elven
+variants:
+- 04_078-S
+- 04_078-F
 strength: '5'
 vitality: '3'
 twilight: '2'

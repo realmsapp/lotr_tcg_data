@@ -1,5 +1,5 @@
 ---
-key: 7R182
+key: 07_182
 name: Loathsome
 title: Loathsome
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: shadow
 culture: wraith
+variants:
+- 07_182-S
+- 07_182-F
 twilight: '2'
 game_text: ! |-
   If a skirmish that involved a Nazgul is about to end, discard a possession borne by a companion in that skirmish.

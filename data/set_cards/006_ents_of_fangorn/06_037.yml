@@ -1,5 +1,5 @@
 ---
-key: 6C37
+key: '06_037'
 name: Treebeard, Guardian of the Forest
 title: Treebeard
 subtitle: Guardian of the Forest
@@ -9,6 +9,9 @@ card_type: companion
 subtype: ent
 alignment: free_people
 culture: gandalf
+variants:
+- 06_037-S
+- 06_037-F
 strength: '12'
 vitality: '4'
 twilight: '5'

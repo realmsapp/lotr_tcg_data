@@ -1,5 +1,5 @@
 ---
-key: 10R38
+key: '10_038'
 name: Corsair Brute
 title: Corsair Brute
 set: mount_doom
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: raider
+variants:
+- 10_038-S
+- 10_038-F
 strength: '10'
 vitality: '3'
 twilight: '5'

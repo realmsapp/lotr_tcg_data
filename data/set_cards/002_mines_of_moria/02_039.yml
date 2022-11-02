@@ -1,5 +1,5 @@
 ---
-key: 2R39
+key: 02_039
 name: Beyond the Height of Men
 title: Beyond the Height of Men
 set: mines_of_moria
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: shadow
 culture: isengard
+variants:
+- 02_039-S
+- 02_039-F
 twilight: '2'
 game_text: ! |-
   Maneuver: Exert an Uruk-hai to discard an armor possession, helm possession, or shield possession (or all such Free Peoples possessions if you can spot 6 companions).

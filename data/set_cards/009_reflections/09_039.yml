@@ -1,5 +1,5 @@
 ---
-key: 9R+39
+key: '09_039'
 name: Library of Orthanc
 title: Library of Orthanc
 set: reflections
@@ -7,6 +7,8 @@ rarity: rare_plus
 card_type: artifact
 alignment: shadow
 culture: isengard
+variants:
+- '09_039-F'
 twilight: '2'
 unique: true
 game_text: ! |-

@@ -1,5 +1,5 @@
 ---
-key: 1R30
+key: '01_030'
 name: Arwen, Daughter of Elrond
 title: Arwen
 subtitle: Daughter of Elrond
@@ -10,6 +10,9 @@ subtype: elf
 alignment: free_people
 culture: elven
 signet: aragorn
+variants:
+- 01_030-S
+- 01_030-F
 strength: '6'
 vitality: '3'
 twilight: '2'

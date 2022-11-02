@@ -1,5 +1,5 @@
 ---
-key: 7R87
+key: 07_087
 name: Derufin
 title: Derufin
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: companion
 subtype: man
 alignment: free_people
 culture: gondor
+variants:
+- 07_087-S
+- 07_087-F
 strength: '6'
 vitality: '3'
 twilight: '2'

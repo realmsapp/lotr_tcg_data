@@ -1,5 +1,5 @@
 ---
-key: 1U239
+key: 01_239
 name: All Thought Bent on It
 title: All Thought Bent on It
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: shadow
 culture: sauron
+variants:
+- 01_239-S
+- 01_239-F
 twilight: '2'
 game_text: ! |-
   Search. Maneuver: Spot a [Sauron] Orc and 5 companions to make the Free Peoples player exert a companion for each companion over 4.

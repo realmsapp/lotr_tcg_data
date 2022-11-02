@@ -1,5 +1,5 @@
 ---
-key: 4R95
+key: 04_095
 name: Into Dark Tunnels
 title: Into Dark Tunnels
 set: two_towers
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: free_people
 culture: gandalf
+variants:
+- 04_095-S
+- 04_095-F
 twilight: '3'
 game_text: ! |-
   Spell. Response: If you play a [Gandalf] event, exert Gandalf twice to place that event in your hand instead of your discard pile.

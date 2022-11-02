@@ -1,5 +1,5 @@
 ---
-key: 4C183
+key: 04_183
 name: Uruk Crossbowman
 title: Uruk Crossbowman
 set: two_towers
@@ -8,6 +8,9 @@ card_type: minion
 subtype: uruk-hai
 alignment: shadow
 culture: isengard
+variants:
+- 04_183-S
+- 04_183-F
 strength: '6'
 vitality: '2'
 twilight: '3'

@@ -1,5 +1,5 @@
 ---
-key: 4C83
+key: 04_083
 name: Supporting Fire
 title: Supporting Fire
 set: two_towers
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: elven
+variants:
+- 04_083-S
+- 04_083-F
 twilight: '1'
 game_text: ! |-
   Skirmish: Make an Elf strength +2 (or +3 if you spot 3 Elf companions).

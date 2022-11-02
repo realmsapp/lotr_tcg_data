@@ -1,5 +1,5 @@
 ---
-key: 7C265
+key: '07_265'
 name: Besieging Pike
 title: Besieging Pike
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: possession
 subtype: hand_weapon
 alignment: shadow
 culture: sauron
+variants:
+- 07_265-S
+- 07_265-F
 strength: "+2"
 twilight: '0'
 game_text: ! |-

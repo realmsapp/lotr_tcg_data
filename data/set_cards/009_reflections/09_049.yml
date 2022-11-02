@@ -1,5 +1,5 @@
 ---
-key: 9R+49
+key: '09_049'
 name: Bilbo, Bearer of Things Burgled
 title: Bilbo
 subtitle: Bearer of Things Burgled
@@ -9,6 +9,8 @@ card_type: companion
 subtype: hobbit
 alignment: free_people
 culture: shire
+variants:
+- '09_049-F'
 strength: '3'
 vitality: '4'
 twilight: '2'

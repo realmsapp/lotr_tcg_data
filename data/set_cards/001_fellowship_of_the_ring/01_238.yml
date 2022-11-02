@@ -1,5 +1,5 @@
 ---
-key: 1U238
+key: 01_238
 name: Wreathed in Shadow
 title: Wreathed in Shadow
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: shadow
 culture: wraith
+variants:
+- 01_238-S
+- 01_238-F
 twilight: '0'
 game_text: ! |-
   To play, spot a Nazgul. Plays to your support area. Archery: Remove (1) to make the fellowship archery total -1.

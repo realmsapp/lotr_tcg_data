@@ -1,5 +1,5 @@
 ---
-key: 4U8
+key: 04_008
 name: Death to the Strawheads
 title: Death to the Strawheads
 set: two_towers
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: shadow
 culture: dunland
+variants:
+- 04_008-S
+- 04_008-F
 twilight: '3'
 game_text: ! |-
   Skirmish: Make a [Dunland] Man strength +1 for each companion you spot.

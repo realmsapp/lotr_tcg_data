@@ -1,5 +1,5 @@
 ---
-key: 2C40
+key: '02_040'
 name: Demands of the Sackville-Bagginses
 title: Demands of the Sackville-Bagginses
 set: mines_of_moria
@@ -7,6 +7,9 @@ rarity: common
 card_type: condition
 alignment: shadow
 culture: isengard
+variants:
+- 02_040-S
+- 02_040-F
 twilight: '1'
 game_text: ! |-
   To play, spot an [Isengard] minion. Plays to your support area. Each time a [Shire] ally exerts, add (1).

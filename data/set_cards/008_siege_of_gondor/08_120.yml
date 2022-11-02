@@ -1,10 +1,13 @@
 ---
-key: 8U120
+key: '08_120'
 name: Osgiliath Channel
 title: Osgiliath Channel
 set: siege_of_gondor
 rarity: uncommon
 card_type: site
+variants:
+- '08_120-S'
+- '08_120-F'
 twilight: '6'
 site_number: '7'
 game_text: ! |-

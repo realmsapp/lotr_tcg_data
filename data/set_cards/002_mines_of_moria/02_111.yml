@@ -1,5 +1,5 @@
 ---
-key: 2U111
+key: '02_111'
 name: Practically Everyone Was Invited
 title: Practically Everyone Was Invited
 set: mines_of_moria
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: shire
+variants:
+- 02_111-S
+- 02_111-F
 twilight: '0'
 game_text: ! |-
   Fellowship: Exert Bilbo to play a Hobbit from your draw deck.

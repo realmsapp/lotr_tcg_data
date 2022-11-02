@@ -1,5 +1,5 @@
 ---
-key: 1U209
+key: 01_209
 name: Blade Tip
 title: Blade Tip
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: shadow
 culture: wraith
+variants:
+- 01_209-S
+- 01_209-F
 twilight: '0'
 game_text: ! |-
   Plays to your support area. Response: If your Nazgul wins a skirmish, transfer this condition from your support area to the losing character. Limit 1 per character. Wound bearer at the start of each fellowship phase. (If bearer is the Ring-bearer, add a burden instead )

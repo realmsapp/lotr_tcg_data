@@ -1,5 +1,5 @@
 ---
-key: 10R8
+key: '10_008'
 name: Cirdan, The Shipwright
 title: Cirdan
 subtitle: The Shipwright
@@ -9,6 +9,9 @@ card_type: companion
 subtype: elf
 alignment: free_people
 culture: elven
+variants:
+- 10_008-S
+- 10_008-F
 strength: '7'
 vitality: '4'
 twilight: '4'

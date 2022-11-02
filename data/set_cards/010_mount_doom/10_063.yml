@@ -1,5 +1,5 @@
 ---
-key: 10R63
+key: '10_063'
 name: Morgul Vanguard
 title: Morgul Vanguard
 set: mount_doom
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: wraith
+variants:
+- 10_063-S
+- 10_063-F
 strength: '12'
 vitality: '3'
 twilight: '6'

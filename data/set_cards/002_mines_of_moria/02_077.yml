@@ -1,5 +1,5 @@
 ---
-key: 2R77
+key: '02_077'
 name: His Terrible Servants
 title: His Terrible Servants
 set: mines_of_moria
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: shadow
 culture: wraith
+variants:
+- 02_077-S
+- 02_077-F
 twilight: '2'
 game_text: ! |-
   Plays to your support area. Response: If a twilight Nazgul is about to take a wound, remove (1) to prevent that wound.

@@ -1,5 +1,5 @@
 ---
-key: 7R66
+key: '07_066'
 name: No Safe Places
 title: No Safe Places
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: free_people
 culture: gollum_free_people
+variants:
+- 07_066-S
+- 07_066-F
 twilight: '2'
 game_text: ! |-
   Exert Smeagol to reveal an opponent's hand. That opponent must discard a card from hand for each culture revealed.

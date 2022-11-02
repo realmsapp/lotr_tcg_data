@@ -1,5 +1,5 @@
 ---
-key: 7U123
+key: '07_123'
 name: Support of the City
 title: Support of the City
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: free_people
 culture: gondor
+variants:
+- 07_123-S
+- 07_123-F
 twilight: '0'
 game_text: ! |-
   Fellowship: Play a [Gondor] Man to place a [Gondor] token here. Fellowship: Play a [Gondor] companion. That companion's twilight cost is -1 for each token here. Discard this condition.

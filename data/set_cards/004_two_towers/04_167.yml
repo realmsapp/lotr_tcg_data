@@ -1,5 +1,5 @@
 ---
-key: 4R167
+key: '04_167'
 name: Pillage of Rohan
 title: Pillage of Rohan
 set: two_towers
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: shadow
 culture: isengard
+variants:
+- 04_167-S
+- 04_167-F
 twilight: '0'
 game_text: ! |-
   Plays on a site you control. While an Uruk-hai is stacked on this site, the Free Peoples player may not play skirmish events or use skirmish special abilities.

@@ -1,5 +1,5 @@
 ---
-key: 7U147
+key: '07_147'
 name: Easterling Veteran
 title: Easterling Veteran
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: raider
+variants:
+- 07_147-S
+- 07_147-F
 strength: '10'
 vitality: '3'
 twilight: '5'

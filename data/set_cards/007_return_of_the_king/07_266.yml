@@ -1,5 +1,5 @@
 ---
-key: 7R266
+key: '07_266'
 name: Breached
 title: Breached
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: shadow
 culture: sauron
+variants:
+- 07_266-S
+- 07_266-F
 twilight: '1'
 game_text: ! |-
   Remove 4 threats and spot 2 [Sauron] Orcs to make the Free Peoples player spot a companion and place that companion in the dead pile.

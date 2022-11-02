@@ -1,5 +1,5 @@
 ---
-key: 7U278
+key: 07_278
 name: Gorgoroth Soldier
 title: Gorgoroth Soldier
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: sauron
+variants:
+- 07_278-S
+- 07_278-F
 strength: '9'
 vitality: '2'
 twilight: '3'

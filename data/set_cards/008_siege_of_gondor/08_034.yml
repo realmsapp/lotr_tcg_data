@@ -1,5 +1,5 @@
 ---
-key: 8C34
+key: '08_034'
 name: Faramir, Defender of Osgiliath
 title: Faramir
 subtitle: Defender of Osgiliath
@@ -10,6 +10,9 @@ subtype: man
 alignment: free_people
 culture: gondor
 signet: gandalf
+variants:
+- '08_034-S'
+- '08_034-F'
 strength: '7'
 vitality: '3'
 twilight: '3'

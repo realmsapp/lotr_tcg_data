@@ -1,5 +1,5 @@
 ---
-key: 4C122
+key: '04_122'
 name: Gondorian Ranger
 title: Gondorian Ranger
 set: two_towers
@@ -8,6 +8,9 @@ card_type: companion
 subtype: man
 alignment: free_people
 culture: gondor
+variants:
+- 04_122-S
+- 04_122-F
 strength: '5'
 vitality: '3'
 twilight: '2'

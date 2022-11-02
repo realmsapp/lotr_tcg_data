@@ -1,10 +1,13 @@
 ---
-key: 3C117
+key: '03_117'
 name: Gates of Argonath
 title: Gates of Argonath
 set: realms_of_the_elf_lords
 rarity: common
 card_type: site
+variants:
+- 03_117-S
+- 03_117-F
 twilight: '8'
 site_number: '8'
 game_text: ! |-

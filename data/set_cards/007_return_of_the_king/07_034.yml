@@ -1,5 +1,5 @@
 ---
-key: 7C34
+key: '07_034'
 name: Echoes of Valinor
 title: Echoes of Valinor
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: common
 card_type: condition
 alignment: free_people
 culture: gandalf
+variants:
+- 07_034-S
+- 07_034-F
 twilight: '1'
 game_text: ! |-
   Each time Gandalf wins a skirmish, you may exert him to draw 2 cards.

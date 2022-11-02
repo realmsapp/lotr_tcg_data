@@ -1,5 +1,5 @@
 ---
-key: 1C266
+key: '01_266'
 name: Orc Chieftain
 title: Orc Chieftain
 set: fellowship_of_the_ring
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: sauron
+variants:
+- 01_266-S
+- 01_266-F
 strength: '7'
 vitality: '2'
 twilight: '2'

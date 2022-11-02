@@ -1,5 +1,5 @@
 ---
-key: 4C277
+key: '04_277'
 name: Guma, Plains Farmer
 title: Guma
 subtitle: Plains Farmer
@@ -8,6 +8,9 @@ rarity: common
 card_type: ally
 alignment: free_people
 culture: rohan
+variants:
+- 04_277-S
+- 04_277-F
 strength: '4'
 vitality: '2'
 twilight: '1'

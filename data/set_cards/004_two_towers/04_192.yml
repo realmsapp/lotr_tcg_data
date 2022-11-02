@@ -1,5 +1,5 @@
 ---
-key: 4C192
+key: 04_192
 name: Uruk Regular
 title: Uruk Regular
 set: two_towers
@@ -8,6 +8,9 @@ card_type: minion
 subtype: uruk-hai
 alignment: shadow
 culture: isengard
+variants:
+- 04_192-S
+- 04_192-F
 strength: '8'
 vitality: '2'
 twilight: '3'

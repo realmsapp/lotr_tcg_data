@@ -1,10 +1,13 @@
 ---
-key: 4U346
+key: '04_346'
 name: White Rocks
 title: White Rocks
 set: two_towers
 rarity: uncommon
 card_type: site
+variants:
+- 04_346-S
+- 04_346-F
 twilight: '3'
 site_number: '4'
 game_text: ! |-

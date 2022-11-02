@@ -1,5 +1,5 @@
 ---
-key: 9R38
+key: '09_038'
 name: Seeing Stone of Orthanc
 title: Seeing Stone of Orthanc
 set: reflections
@@ -7,6 +7,8 @@ rarity: rare
 card_type: artifact
 alignment: free_people
 culture: gondor
+variants:
+- '09_038-F'
 twilight: '0'
 unique: true
 game_text: ! |-

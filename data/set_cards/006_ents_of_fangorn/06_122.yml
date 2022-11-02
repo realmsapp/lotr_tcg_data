@@ -1,5 +1,5 @@
 ---
-key: 6P122
+key: '06_122'
 name: The Witch-king, Deathless Lord
 title: The Witch-king
 subtitle: Deathless Lord
@@ -9,6 +9,9 @@ card_type: minion
 subtype: nazgul
 alignment: shadow
 culture: wraith
+variants:
+- 06_122-S
+- 06_122-F
 strength: '14'
 vitality: '4'
 twilight: '8'

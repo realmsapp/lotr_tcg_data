@@ -1,5 +1,5 @@
 ---
-key: 5C67
+key: '05_067'
 name: Warg-rider
 title: Warg-rider
 set: battle_of_helms_deep
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: isengard
+variants:
+- 05_067-S
+- 05_067-F
 strength: '5'
 vitality: '2'
 twilight: '1'

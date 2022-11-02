@@ -1,5 +1,5 @@
 ---
-key: 1C298
+key: 01_298
 name: Hobbit Stealth
 title: Hobbit Stealth
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: shire
+variants:
+- 01_298-S
+- 01_298-F
 twilight: '1'
 game_text: ! |-
   Stealth. Skirmish: At sites 1 to 5, cancel a skirmish involving a Hobbit. At any other site, make a Hobbit strength +2.

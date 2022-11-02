@@ -1,5 +1,5 @@
 ---
-key: 1C303
+key: '01_303'
 name: Merry, From O'er the Brandywine
 title: Merry
 subtitle: From O'er the Brandywine
@@ -10,6 +10,9 @@ subtype: hobbit
 alignment: free_people
 culture: shire
 signet: aragorn
+variants:
+- 01_303-S
+- 01_303-F
 strength: '3'
 vitality: '4'
 twilight: '1'

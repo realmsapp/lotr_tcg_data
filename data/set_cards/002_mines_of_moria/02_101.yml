@@ -1,5 +1,5 @@
 ---
-key: 2C101
+key: '02_101'
 name: Filibert Bolger, Wily Rascal
 title: Filibert Bolger
 subtitle: Wily Rascal
@@ -8,6 +8,9 @@ rarity: common
 card_type: ally
 alignment: free_people
 culture: shire
+variants:
+- 02_101-S
+- 02_101-F
 strength: '1'
 vitality: '2'
 twilight: '1'

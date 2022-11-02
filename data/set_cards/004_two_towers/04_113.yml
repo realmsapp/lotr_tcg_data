@@ -1,5 +1,5 @@
 ---
-key: 4C113
+key: '04_113'
 name: Curse Them
 title: Curse Them
 set: two_towers
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: gondor
+variants:
+- 04_113-S
+- 04_113-F
 twilight: '0'
 game_text: ! |-
   Skirmish: Exert a Ring-bound Man to cancel a skirmish involving a roaming minion.

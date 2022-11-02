@@ -1,5 +1,5 @@
 ---
-key: 4C196
+key: 04_196
 name: Uruk Spear
 title: Uruk Spear
 set: two_towers
@@ -8,6 +8,9 @@ card_type: possession
 subtype: hand_weapon
 alignment: shadow
 culture: isengard
+variants:
+- 04_196-S
+- 04_196-F
 strength: "+2"
 twilight: '1'
 game_text: ! |-

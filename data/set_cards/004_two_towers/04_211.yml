@@ -1,5 +1,5 @@
 ---
-key: 4R211
+key: '04_211'
 name: Weapons of Isengard
 title: Weapons of Isengard
 set: two_towers
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: shadow
 culture: isengard
+variants:
+- 04_211-S
+- 04_211-F
 twilight: '2'
 game_text: ! |-
   Machine. Plays to your support area. Shadow: Play an [Isengard] archer to place an [Isengard] token on this card. Archery: Remove 2 [Isengard] tokens from this card to make the minion archery total +2. Discard this condition.

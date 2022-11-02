@@ -1,5 +1,5 @@
 ---
-key: 5C35
+key: '05_035'
 name: Gondorian Knight
 title: Gondorian Knight
 set: battle_of_helms_deep
@@ -8,6 +8,9 @@ card_type: companion
 subtype: man
 alignment: free_people
 culture: gondor
+variants:
+- 05_035-S
+- 05_035-F
 strength: '6'
 vitality: '3'
 twilight: '2'

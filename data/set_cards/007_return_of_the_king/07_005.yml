@@ -1,5 +1,5 @@
 ---
-key: 7R5
+key: '07_005'
 name: Dark Ways
 title: Dark Ways
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: free_people
 culture: dwarven
+variants:
+- 07_005-S
+- 07_005-F
 twilight: '0'
 game_text: ! |-
   To play, spot a Dwarf. Each time the fellowship moves, add a threat or discard this condition. Regroup: Discard this condition to heal a Dwarf twice and take a [Dwarven] skirmish event into hand from your discard pile.

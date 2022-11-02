@@ -1,5 +1,5 @@
 ---
-key: 7C59
+key: 07_059
 name: Gollum, Vile Creature
 title: Gollum
 subtitle: Vile Creature
@@ -8,6 +8,9 @@ rarity: common
 card_type: minion
 alignment: shadow
 culture: gollum_shadow
+variants:
+- 07_059-S
+- 07_059-F
 strength: '5'
 vitality: '4'
 twilight: '2'

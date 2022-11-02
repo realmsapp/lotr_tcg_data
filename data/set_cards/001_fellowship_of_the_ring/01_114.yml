@@ -1,5 +1,5 @@
 ---
-key: 1R114
+key: '01_114'
 name: The Saga of Elendil
 title: The Saga of Elendil
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: free_people
 culture: gondor
+variants:
+- 01_114-S
+- 01_114-F
 vitality: "+1"
 twilight: '1'
 unique: true

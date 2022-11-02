@@ -1,5 +1,5 @@
 ---
-key: 4R209
+key: 04_209
 name: Volley Fire
 title: Volley Fire
 set: two_towers
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: shadow
 culture: isengard
+variants:
+- 04_209-S
+- 04_209-F
 twilight: '3'
 game_text: ! |-
   Archery: Discard 2 [Isengard] archers to exhaust an unbound companion.

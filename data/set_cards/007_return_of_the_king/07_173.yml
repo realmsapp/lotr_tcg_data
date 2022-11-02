@@ -1,5 +1,5 @@
 ---
-key: 7C173
+key: '07_173'
 name: War Towers
 title: War Towers
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: shadow
 culture: raider
+variants:
+- 07_173-S
+- 07_173-F
 twilight: '1'
 game_text: ! |-
   Spot a [Raider] minion to add a threat. Add an additional threat for each companion over 4.

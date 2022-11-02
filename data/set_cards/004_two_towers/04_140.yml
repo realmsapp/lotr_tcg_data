@@ -1,5 +1,5 @@
 ---
-key: 4R140
+key: '04_140'
 name: Beyond All Hope
 title: Beyond All Hope
 set: two_towers
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: shadow
 culture: isengard
+variants:
+- 04_140-S
+- 04_140-F
 twilight: '5'
 game_text: ! |-
   Maneuver: Exert 2 Uruk-hai to add a burden for each card in the dead pile.

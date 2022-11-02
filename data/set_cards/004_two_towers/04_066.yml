@@ -1,5 +1,5 @@
 ---
-key: 4U66
+key: '04_066'
 name: Feathered
 title: Feathered
 set: two_towers
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: elven
+variants:
+- 04_066-S
+- 04_066-F
 twilight: '1'
 game_text: ! |-
   Skirmish: Make a minion skirmishing an Elf strength -2 for each wound on that minion.

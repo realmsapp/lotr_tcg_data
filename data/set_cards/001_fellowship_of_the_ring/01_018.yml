@@ -1,5 +1,5 @@
 ---
-key: 1C18
+key: 01_018
 name: Halls of My Home
 title: Halls of My Home
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: dwarven
+variants:
+- 01_018-S
+- 01_018-F
 twilight: '1'
 game_text: ! |-
   Fellowship: Exert a Dwarf to reveal the top 3 cards of any draw deck. You may discard 1 Shadow card revealed. Return the rest in any order.

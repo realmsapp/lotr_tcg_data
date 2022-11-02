@@ -1,5 +1,5 @@
 ---
-key: 4R89
+key: 04_089
 name: Gandalf, Greyhame
 title: Gandalf
 subtitle: Greyhame
@@ -10,6 +10,9 @@ subtype: wizard
 alignment: free_people
 culture: gandalf
 signet: theoden
+variants:
+- 04_089-S
+- 04_089-F
 strength: '7'
 vitality: '4'
 twilight: '4'

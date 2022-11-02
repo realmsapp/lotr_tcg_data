@@ -1,5 +1,5 @@
 ---
-key: 1U46
+key: '01_046'
 name: Gift of Boats
 title: Gift of Boats
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: free_people
 culture: elven
+variants:
+- 01_046-S
+- 01_046-F
 twilight: '1'
 unique: true
 game_text: ! |-

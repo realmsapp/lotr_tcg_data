@@ -1,5 +1,5 @@
 ---
-key: 8U80
+key: '08_080'
 name: Ulaire Nertea, Thrall of the One
 title: Ulaire Nertea
 subtitle: Thrall of the One
@@ -9,6 +9,9 @@ card_type: minion
 subtype: nazgul
 alignment: shadow
 culture: wraith
+variants:
+- '08_080-S'
+- '08_080-F'
 strength: '9'
 vitality: '2'
 twilight: '4'

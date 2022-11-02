@@ -1,5 +1,5 @@
 ---
-key: 10C77
+key: '10_077'
 name: Advance Regular
 title: Advance Regular
 set: mount_doom
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: sauron
+variants:
+- 10_077-S
+- 10_077-F
 strength: '9'
 vitality: '3'
 twilight: '3'

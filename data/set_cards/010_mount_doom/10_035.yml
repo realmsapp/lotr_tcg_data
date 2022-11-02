@@ -1,5 +1,5 @@
 ---
-key: 10U35
+key: '10_035'
 name: Suffered Much Loss
 title: Suffered Much Loss
 set: mount_doom
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: shadow
 culture: isengard
+variants:
+- 10_035-S
+- 10_035-F
 twilight: '2'
 game_text: ! |-
   Each site on the adventure path is a battleground. While you have initiative, each Uruk-Hai is strength +1.

@@ -1,5 +1,5 @@
 ---
-key: 8R108
+key: '08_108'
 name: Troll of Gorgoroth, Abomination of Sauron
 title: Troll of Gorgoroth
 subtitle: Abomination of Sauron
@@ -9,6 +9,9 @@ card_type: minion
 subtype: troll
 alignment: shadow
 culture: sauron
+variants:
+- '08_108-S'
+- '08_108-F'
 strength: '14'
 vitality: '4'
 twilight: '10'

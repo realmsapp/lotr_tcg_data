@@ -1,5 +1,5 @@
 ---
-key: 8R115
+key: '08_115'
 name: Unheeded
 title: Unheeded
 set: siege_of_gondor
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: free_people
 culture: shire
+variants:
+- '08_115-S'
+- '08_115-F'
 twilight: '0'
 game_text: ! |-
   If a minion exerts, exert an unbound Hobbit to wound that minion.

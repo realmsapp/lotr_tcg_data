@@ -1,5 +1,5 @@
 ---
-key: 5U114
+key: '05_114'
 name: Rare Good Ballast
 title: Rare Good Ballast
 set: battle_of_helms_deep
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: free_people
 culture: shire
+variants:
+- 05_114-S
+- 05_114-F
 vitality: "+1"
 twilight: '1'
 unique: true

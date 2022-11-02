@@ -1,5 +1,5 @@
 ---
-key: 5R127
+key: '05_127'
 name: Rohirrim Helm (AI)
 title: Rohirrim Helm (AI)
 set: battle_of_helms_deep
@@ -8,6 +8,9 @@ card_type: possession
 subtype: helm
 alignment: free_people
 culture: rohan
+variants:
+- 05_127-S
+- 05_127-F
 twilight: '1'
 game_text: ! |-
   Bearer must be [Rohan] Man. Skirmish: Discard this possession to cancel a skirmish involving bearer. A minion in this skirmish may exert to prevent this.

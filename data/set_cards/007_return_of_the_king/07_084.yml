@@ -1,5 +1,5 @@
 ---
-key: 7C84
+key: 07_084
 name: Dagger Strike
 title: Dagger Strike
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: gondor
+variants:
+- 07_084-S
+- 07_084-F
 twilight: '0'
 game_text: ! |-
   Make a [Gondor] or [Shire] companion bearing a hand weapon strength +2 and damage +1.

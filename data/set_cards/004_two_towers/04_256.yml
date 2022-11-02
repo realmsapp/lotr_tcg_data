@@ -1,5 +1,5 @@
 ---
-key: 4R256
+key: '04_256'
 name: Southron Troop
 title: Southron Troop
 set: two_towers
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: raider
+variants:
+- 04_256-S
+- 04_256-F
 strength: '14'
 vitality: '4'
 twilight: '7'

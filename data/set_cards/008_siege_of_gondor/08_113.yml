@@ -1,5 +1,5 @@
 ---
-key: 8R113
+key: '08_113'
 name: Sting, Bane of the Eight Legs
 title: Sting
 subtitle: Bane of the Eight Legs
@@ -9,6 +9,9 @@ card_type: possession
 subtype: hand_weapon
 alignment: free_people
 culture: shire
+variants:
+- '08_113-S'
+- '08_113-F'
 strength: "+2"
 twilight: '1'
 unique: true

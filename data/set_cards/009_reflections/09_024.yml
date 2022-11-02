@@ -1,5 +1,5 @@
 ---
-key: 9R24
+key: '09_024'
 name: Ent Draught
 title: Ent Draught
 set: reflections
@@ -7,6 +7,8 @@ rarity: rare
 card_type: condition
 alignment: free_people
 culture: gandalf
+variants:
+- '09_024-F'
 vitality: "+1"
 twilight: '1'
 game_text: ! |-

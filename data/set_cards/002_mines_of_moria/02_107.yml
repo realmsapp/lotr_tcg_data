@@ -1,5 +1,5 @@
 ---
-key: 2U107
+key: '02_107'
 name: Not Feared in Sunlight
 title: Not Feared in Sunlight
 set: mines_of_moria
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: free_people
 culture: shire
+variants:
+- 02_107-S
+- 02_107-F
 twilight: '1'
 game_text: ! |-
   To play, spot 2 Hobbits. Plays to your support area. Each Nazgul is strength -4. Discard this condition during the regroup phase.

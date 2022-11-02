@@ -1,5 +1,5 @@
 ---
-key: 1R310
+key: '01_310'
 name: Sam, Faithful Companion
 title: Sam
 subtitle: Faithful Companion
@@ -10,6 +10,9 @@ subtype: hobbit
 alignment: free_people
 culture: shire
 signet: frodo
+variants:
+- 01_310-S
+- 01_310-F
 strength: '3'
 vitality: '4'
 twilight: '2'

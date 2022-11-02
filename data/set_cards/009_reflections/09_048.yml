@@ -1,5 +1,5 @@
 ---
-key: 9R+48
+key: '09_048'
 name: Sauron, The Lord of the Rings
 title: Sauron
 subtitle: The Lord of the Rings
@@ -9,6 +9,8 @@ card_type: minion
 subtype: maia
 alignment: shadow
 culture: sauron
+variants:
+- '09_048-F'
 strength: '24'
 vitality: '5'
 twilight: '18'

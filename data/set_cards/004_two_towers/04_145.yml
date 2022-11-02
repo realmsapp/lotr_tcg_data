@@ -1,5 +1,5 @@
 ---
-key: 4C145
+key: '04_145'
 name: Cloud of Arrows
 title: Cloud of Arrows
 set: two_towers
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: shadow
 culture: isengard
+variants:
+- 04_145-S
+- 04_145-F
 twilight: '0'
 game_text: ! |-
   Archery: Exert an [Isengard] archer to make the minion archery total +1 and the fellowship archery total -1.

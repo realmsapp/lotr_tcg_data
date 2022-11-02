@@ -1,5 +1,5 @@
 ---
-key: 10R45
+key: '10_045'
 name: Mumak Chieftain
 title: Mumak Chieftain
 set: mount_doom
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: raider
+variants:
+- 10_045-S
+- 10_045-F
 strength: '11'
 vitality: '3'
 twilight: '5'

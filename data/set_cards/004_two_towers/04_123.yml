@@ -1,5 +1,5 @@
 ---
-key: 4U123
+key: '04_123'
 name: Hard Choice
 title: Hard Choice
 set: two_towers
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: gondor
+variants:
+- 04_123-S
+- 04_123-F
 twilight: '1'
 game_text: ! |-
   Fellowship: Spot Aragorn to heal a companion who has the Aragorn signet twice.

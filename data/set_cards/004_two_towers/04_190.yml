@@ -1,5 +1,5 @@
 ---
-key: 4C190
+key: 04_190
 name: Uruk Pursuer
 title: Uruk Pursuer
 set: two_towers
@@ -8,6 +8,9 @@ card_type: minion
 subtype: uruk-hai
 alignment: shadow
 culture: isengard
+variants:
+- 04_190-S
+- 04_190-F
 strength: '5'
 vitality: '3'
 twilight: '2'

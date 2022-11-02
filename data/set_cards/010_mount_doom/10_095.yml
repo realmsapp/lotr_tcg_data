@@ -1,5 +1,5 @@
 ---
-key: 10R95
+key: '10_095'
 name: Orc Slaughterer
 title: Orc Slaughterer
 set: mount_doom
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: sauron
+variants:
+- 10_095-S
+- 10_095-F
 strength: '10'
 vitality: '3'
 twilight: '4'

@@ -1,5 +1,5 @@
 ---
-key: 1R124
+key: '01_124'
 name: Cruel Caradhras
 title: Cruel Caradhras
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: shadow
 culture: isengard
+variants:
+- 01_124-S
+- 01_124-F
 twilight: '2'
 game_text: ! |-
   Spell. Weather. Maneuver: Exert a [Isengard] minion to make the opponent choose to either exert the Ring-bearer or add a burden.

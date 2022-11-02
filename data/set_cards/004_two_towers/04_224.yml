@@ -1,5 +1,5 @@
 ---
-key: 4C224
+key: '04_224'
 name: Easterling Axeman
 title: Easterling Axeman
 set: two_towers
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: raider
+variants:
+- 04_224-S
+- 04_224-F
 strength: '6'
 vitality: '2'
 twilight: '2'

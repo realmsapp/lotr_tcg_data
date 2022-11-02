@@ -1,5 +1,5 @@
 ---
-key: 10U105
+key: '10_105'
 name: Brave and Loyal
 title: Brave and Loyal
 set: mount_doom
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: shire
+variants:
+- 10_105-S
+- 10_105-F
 twilight: '0'
 game_text: ! |-
   If a Hobbit companion is not assigned to a skirmish, exert that Hobbit to have him or her replace a companion (except the Ring-bearer) in a skirmish.

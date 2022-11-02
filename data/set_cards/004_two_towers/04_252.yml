@@ -1,5 +1,5 @@
 ---
-key: 4C252
+key: '04_252'
 name: Southron Scout
 title: Southron Scout
 set: two_towers
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: raider
+variants:
+- 04_252-S
+- 04_252-F
 strength: '3'
 vitality: '1'
 twilight: '1'

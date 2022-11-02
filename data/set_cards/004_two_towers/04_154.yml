@@ -1,5 +1,5 @@
 ---
-key: 4R154
+key: '04_154'
 name: Grima, Wormtongue
 title: Grima
 subtitle: Wormtongue
@@ -9,6 +9,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: isengard
+variants:
+- 04_154-S
+- 04_154-F
 strength: '4'
 vitality: '3'
 twilight: '2'

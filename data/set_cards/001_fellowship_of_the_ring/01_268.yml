@@ -1,5 +1,5 @@
 ---
-key: 1C268
+key: 01_268
 name: Orc Inquisitor
 title: Orc Inquisitor
 set: fellowship_of_the_ring
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: sauron
+variants:
+- 01_268-S
+- 01_268-F
 strength: '9'
 vitality: '3'
 twilight: '3'

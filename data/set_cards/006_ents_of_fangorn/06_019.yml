@@ -1,5 +1,5 @@
 ---
-key: 6U19
+key: 06_019
 name: Gift of Foresight
 title: Gift of Foresight
 set: ents_of_fangorn
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: elven
+variants:
+- 06_019-S
+- 06_019-F
 twilight: '1'
 game_text: ! |-
   Fellowship: Spot an Elf to reveal the top card of your draw deck. You may discard it, return it to the top of your draw deck, or take it into hand.

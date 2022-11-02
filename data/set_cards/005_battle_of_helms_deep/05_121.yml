@@ -1,5 +1,5 @@
 ---
-key: 5P121
+key: '05_121'
 name: Legolas, Archer of Mirkwood
 title: Legolas
 subtitle: Archer of Mirkwood
@@ -10,6 +10,9 @@ subtype: elf
 alignment: free_people
 culture: elven
 signet: theoden
+variants:
+- 05_121-S
+- 05_121-F
 strength: '6'
 vitality: '3'
 twilight: '2'

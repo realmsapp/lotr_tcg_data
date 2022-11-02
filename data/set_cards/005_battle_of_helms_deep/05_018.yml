@@ -1,5 +1,5 @@
 ---
-key: 5R18
+key: 05_018
 name: Fury of the White Rider
 title: Fury of the White Rider
 set: battle_of_helms_deep
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: free_people
 culture: gandalf
+variants:
+- 05_018-S
+- 05_018-F
 twilight: '3'
 game_text: ! |-
   Spell. Maneuver: Spot 3 twilight tokens and exert Gandalf to wound a minion twice.

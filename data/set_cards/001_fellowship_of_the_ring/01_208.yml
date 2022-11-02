@@ -1,5 +1,5 @@
 ---
-key: 1R208
+key: 01_208
 name: Black Steed
 title: Black Steed
 set: fellowship_of_the_ring
@@ -8,6 +8,9 @@ card_type: possession
 subtype: mount
 alignment: shadow
 culture: wraith
+variants:
+- 01_208-S
+- 01_208-F
 strength: "+2"
 twilight: '1'
 game_text: ! |-

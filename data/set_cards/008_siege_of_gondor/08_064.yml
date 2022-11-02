@@ -1,5 +1,5 @@
 ---
-key: 8U64
+key: '08_064'
 name: Mumakil
 title: Mumakil
 set: siege_of_gondor
@@ -8,6 +8,9 @@ card_type: possession
 subtype: mount
 alignment: shadow
 culture: raider
+variants:
+- '08_064-S'
+- '08_064-F'
 strength: "+3"
 twilight: '3'
 game_text: ! |-

@@ -1,5 +1,5 @@
 ---
-key: 7U120
+key: '07_120'
 name: Stand to Arms
 title: Stand to Arms
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: gondor
+variants:
+- 07_120-S
+- 07_120-F
 twilight: '0'
 game_text: ! |-
   If you have initiative, discard 2 cards from hand to wound a roaming minion skirmishing a [Gondor] Man twice.

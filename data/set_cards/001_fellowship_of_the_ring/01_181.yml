@@ -1,5 +1,5 @@
 ---
-key: 1U181
+key: 01_181
 name: Goblin Sneak
 title: Goblin Sneak
 set: fellowship_of_the_ring
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: moria
+variants:
+- 01_181-S
+- 01_181-F
 strength: '5'
 vitality: '1'
 twilight: '1'

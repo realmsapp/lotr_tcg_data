@@ -1,5 +1,5 @@
 ---
-key: 5R31
+key: '05_031'
 name: Alcarin, Warrior of Lamedon
 title: Alcarin
 subtitle: Warrior of Lamedon
@@ -9,6 +9,9 @@ card_type: companion
 subtype: man
 alignment: free_people
 culture: gondor
+variants:
+- 05_031-S
+- 05_031-F
 strength: '7'
 vitality: '3'
 twilight: '3'

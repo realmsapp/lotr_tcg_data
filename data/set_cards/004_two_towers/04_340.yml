@@ -1,10 +1,13 @@
 ---
-key: 4U340
+key: '04_340'
 name: Streets of Edoras
 title: Streets of Edoras
 set: two_towers
 rarity: uncommon
 card_type: site
+variants:
+- 04_340-S
+- 04_340-F
 twilight: '0'
 site_number: '3'
 game_text: ! |-

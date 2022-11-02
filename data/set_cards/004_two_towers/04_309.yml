@@ -1,5 +1,5 @@
 ---
-key: 4U309
+key: 04_309
 name: Light Shining Faintly
 title: Light Shining Faintly
 set: two_towers
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: shire
+variants:
+- 04_309-S
+- 04_309-F
 twilight: '0'
 game_text: ! |-
   Fellowship: Add a burden to heal a Ring-bound companion twice.

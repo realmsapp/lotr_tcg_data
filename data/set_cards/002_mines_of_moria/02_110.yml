@@ -1,5 +1,5 @@
 ---
-key: 2C110
+key: '02_110'
 name: Pippin, Mr. Took
 title: Pippin
 subtitle: Mr. Took
@@ -10,6 +10,9 @@ subtype: hobbit
 alignment: free_people
 culture: shire
 signet: aragorn
+variants:
+- 02_110-S
+- 02_110-F
 strength: '3'
 vitality: '4'
 twilight: '1'

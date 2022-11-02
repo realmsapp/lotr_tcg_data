@@ -1,5 +1,5 @@
 ---
-key: 5R16
+key: '05_016'
 name: Down From the Hills
 title: Down From the Hills
 set: battle_of_helms_deep
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: free_people
 culture: gandalf
+variants:
+- 05_016-S
+- 05_016-F
 twilight: '5'
 game_text: ! |-
   Spell. Maneuver: Exert Gandalf 3 times to make an unbound companion with the Gandalf signet strength +5, defender +1, damage +2, and unable to take wounds until the regroup phase.

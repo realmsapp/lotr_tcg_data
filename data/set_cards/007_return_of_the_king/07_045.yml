@@ -1,5 +1,5 @@
 ---
-key: 7U45
+key: '07_045'
 name: Numenor's Pride
 title: Numenor's Pride
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: free_people
 culture: gandalf
+variants:
+- 07_045-S
+- 07_045-F
 twilight: '1'
 game_text: ! |-
   To play, spot Gandalf and add 3 threats. Gandalf is defender +1 and cannot take wounds. Discard this condition at the start of the regroup phase.

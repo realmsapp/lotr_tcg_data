@@ -1,5 +1,5 @@
 ---
-key: 4C4
+key: '04_004'
 name: Band of Wild Men
 title: Band of Wild Men
 set: two_towers
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: dunland
+variants:
+- 04_004-S
+- 04_004-F
 strength: '11'
 vitality: '2'
 twilight: '5'

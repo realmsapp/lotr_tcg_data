@@ -1,5 +1,5 @@
 ---
-key: 4U216
+key: '04_216'
 name: Arrow From the South
 title: Arrow From the South
 set: two_towers
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: shadow
 culture: raider
+variants:
+- 04_216-S
+- 04_216-F
 twilight: '2'
 unique: true
 game_text: ! |-

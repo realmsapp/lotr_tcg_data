@@ -1,5 +1,5 @@
 ---
-key: 10C110
+key: '10_110'
 name: A Marvel
 title: A Marvel
 set: mount_doom
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: shire
+variants:
+- 10_110-S
+- 10_110-F
 twilight: '1'
 game_text: ! |-
   Exert a Hobbit to make another Hobbit strength +3.

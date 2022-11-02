@@ -1,5 +1,5 @@
 ---
-key: 5C85
+key: 05_085
 name: Let Us Be Swift
 title: Let Us Be Swift
 set: battle_of_helms_deep
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: rohan
+variants:
+- 05_085-S
+- 05_085-F
 twilight: '1'
 game_text: ! |-
   Regroup: Spot 3 valiant Men to discard up to 2 conditions and liberate a site.

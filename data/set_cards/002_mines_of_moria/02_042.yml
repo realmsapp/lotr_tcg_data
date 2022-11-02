@@ -1,5 +1,5 @@
 ---
-key: 2C42
+key: '02_042'
 name: Goblin Man
 title: Goblin Man
 set: mines_of_moria
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: isengard
+variants:
+- 02_042-S
+- 02_042-F
 strength: '6'
 vitality: '2'
 twilight: '2'

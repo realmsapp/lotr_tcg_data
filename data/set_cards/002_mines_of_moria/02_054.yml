@@ -1,5 +1,5 @@
 ---
-key: 2U54
+key: '02_054'
 name: Dark Fire
 title: Dark Fire
 set: mines_of_moria
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: shadow
 culture: moria
+variants:
+- 02_054-S
+- 02_054-F
 strength: "-2"
 twilight: '1'
 game_text: ! |-

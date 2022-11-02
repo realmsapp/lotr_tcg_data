@@ -1,10 +1,13 @@
 ---
-key: 7U345
+key: '07_345'
 name: Pelennor Flat
 title: Pelennor Flat
 set: return_of_the_king
 rarity: uncommon
 card_type: site
+variants:
+- 07_345-S
+- 07_345-F
 twilight: '6'
 site_number: '5'
 game_text: ! |-

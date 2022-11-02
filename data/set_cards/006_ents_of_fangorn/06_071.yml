@@ -1,5 +1,5 @@
 ---
-key: 6C71
+key: '06_071'
 name: Isengard Tinker
 title: Isengard Tinker
 set: ents_of_fangorn
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: isengard
+variants:
+- 06_071-S
+- 06_071-F
 strength: '5'
 vitality: '2'
 twilight: '1'

@@ -1,5 +1,5 @@
 ---
-key: 1C248
+key: 01_248
 name: Forces of Mordor
 title: Forces of Mordor
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: shadow
 culture: sauron
+variants:
+- 01_248-S
+- 01_248-F
 twilight: '0'
 game_text: ! |-
   Shadow: Spot X [Sauron] minions to add (X).

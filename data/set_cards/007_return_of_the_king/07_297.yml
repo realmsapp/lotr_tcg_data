@@ -1,5 +1,5 @@
 ---
-key: 7C297
+key: 07_297
 name: Orc Butcher
 title: Orc Butcher
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: sauron
+variants:
+- 07_297-S
+- 07_297-F
 strength: '6'
 vitality: '2'
 twilight: '2'

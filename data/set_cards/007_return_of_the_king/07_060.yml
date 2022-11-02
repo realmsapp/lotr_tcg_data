@@ -1,5 +1,5 @@
 ---
-key: 7U60
+key: '07_060'
 name: Heavy Burden
 title: Heavy Burden
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: shadow
 culture: gollum_shadow
+variants:
+- 07_060-S
+- 07_060-F
 twilight: '1'
 game_text: ! |-
   Regroup: Discard Gollum and remove a threat to add a burden.

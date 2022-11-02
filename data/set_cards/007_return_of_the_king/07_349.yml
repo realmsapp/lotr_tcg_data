@@ -1,10 +1,13 @@
 ---
-key: 7U349
+key: 07_349
 name: Minas Tirith Second Circle
 title: Minas Tirith Second Circle
 set: return_of_the_king
 rarity: uncommon
 card_type: site
+variants:
+- 07_349-S
+- 07_349-F
 twilight: '3'
 site_number: '6'
 game_text: ! |-

@@ -1,5 +1,5 @@
 ---
-key: 1C138
+key: 01_138
 name: Saruman's Snows
 title: Saruman's Snows
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: common
 card_type: condition
 alignment: shadow
 culture: isengard
+variants:
+- 01_138-S
+- 01_138-F
 twilight: '2'
 game_text: ! |-
   Spell. Weather. To play, exert a [Isengard] minion. Plays on a site. No player may play skirmish events or use skirmish special abilities during skirmishes at this site. Discard this condition at the end of the turn.

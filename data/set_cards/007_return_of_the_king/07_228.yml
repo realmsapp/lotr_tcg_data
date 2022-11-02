@@ -1,5 +1,5 @@
 ---
-key: 7R228
+key: 07_228
 name: Eowyn, Dernhelm
 title: Eowyn
 subtitle: Dernhelm
@@ -10,6 +10,9 @@ subtype: man
 alignment: free_people
 culture: rohan
 signet: theoden
+variants:
+- 07_228-S
+- 07_228-F
 strength: '6'
 vitality: '3'
 twilight: '2'

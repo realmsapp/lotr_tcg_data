@@ -1,5 +1,5 @@
 ---
-key: 7C226
+key: '07_226'
 name: Enraged Horseman
 title: Enraged Horseman
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: companion
 subtype: man
 alignment: free_people
 culture: rohan
+variants:
+- 07_226-S
+- 07_226-F
 strength: '5'
 vitality: '3'
 twilight: '2'

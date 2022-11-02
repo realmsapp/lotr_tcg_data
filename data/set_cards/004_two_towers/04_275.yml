@@ -1,5 +1,5 @@
 ---
-key: 4U275
+key: '04_275'
 name: Forth Eorlingas!
 title: Forth Eorlingas!
 set: two_towers
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: rohan
+variants:
+- 04_275-S
+- 04_275-F
 twilight: '1'
 game_text: ! |-
   Maneuver: Exert Theoden to make a companion who has the Theoden signet defender +1 until the regroup phase.

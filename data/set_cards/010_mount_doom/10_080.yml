@@ -1,5 +1,5 @@
 ---
-key: 10C80
+key: '10_080'
 name: Beaten Back
 title: Beaten Back
 set: mount_doom
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: shadow
 culture: sauron
+variants:
+- 10_080-S
+- 10_080-F
 twilight: '1'
 game_text: ! |-
   Make a [Sauron] minion strength +2 for each site you control. If you have initiative, that minion is fierce until the regroup phase.

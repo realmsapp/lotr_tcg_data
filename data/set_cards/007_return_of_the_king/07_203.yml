@@ -1,5 +1,5 @@
 ---
-key: 7U203
+key: '07_203'
 name: Nazgul Scimitar
 title: Nazgul Scimitar
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: possession
 subtype: hand_weapon
 alignment: shadow
 culture: wraith
+variants:
+- 07_203-S
+- 07_203-F
 strength: "+1"
 twilight: '1'
 game_text: ! |-

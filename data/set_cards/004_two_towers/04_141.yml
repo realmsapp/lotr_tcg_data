@@ -1,5 +1,5 @@
 ---
-key: 4C141
+key: '04_141'
 name: Beyond Dark Mountains
 title: Beyond Dark Mountains
 set: two_towers
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: shadow
 culture: isengard
+variants:
+- 04_141-S
+- 04_141-F
 twilight: '0'
 game_text: ! |-
   Response: If a companion or ally is killed, exert an [Isengard] minion to add a burden (or 2 burdens if Aragorn, Gandalf, or Theoden is killed).

@@ -1,5 +1,5 @@
 ---
-key: 4R45
+key: '04_045'
 name: Dwarven Foresight
 title: Dwarven Foresight
 set: two_towers
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: free_people
 culture: dwarven
+variants:
+- 04_045-S
+- 04_045-F
 twilight: '0'
 game_text: ! |-
   Fellowship: Spot a Dwarf to take a Free Peoples card stacked on a [Dwarven] condition into hand.

@@ -1,5 +1,5 @@
 ---
-key: 6C56
+key: '06_056'
 name: Trust
 title: Trust
 set: ents_of_fangorn
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: gondor
+variants:
+- 06_056-S
+- 06_056-F
 twilight: '0'
 game_text: ! |-
   Skirmish: Make a [Gondor] Man strength +2 (and heal a companion if you spot an [Elven] token).

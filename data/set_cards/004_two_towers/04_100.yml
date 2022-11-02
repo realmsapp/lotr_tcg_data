@@ -1,5 +1,5 @@
 ---
-key: 4R100
+key: '04_100'
 name: Shadowfax
 title: Shadowfax
 set: two_towers
@@ -8,6 +8,9 @@ card_type: possession
 subtype: mount
 alignment: free_people
 culture: gandalf
+variants:
+- 04_100-S
+- 04_100-F
 strength: "+2"
 twilight: '2'
 unique: true

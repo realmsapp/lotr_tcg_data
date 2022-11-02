@@ -1,5 +1,5 @@
 ---
-key: 1R79
+key: 01_079
 name: The Nine Walkers
 title: The Nine Walkers
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: free_people
 culture: gandalf
+variants:
+- 01_079-S
+- 01_079-F
 twilight: '1'
 game_text: ! |-
   To play, spot Gandalf. Plays to your support area. Each time you play a companion whose race you cannot spot, that companion's twilight cost is -2.

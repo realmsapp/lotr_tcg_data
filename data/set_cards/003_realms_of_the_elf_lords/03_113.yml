@@ -1,5 +1,5 @@
 ---
-key: 3R113
+key: '03_113'
 name: The Shire Countryside
 title: The Shire Countryside
 set: realms_of_the_elf_lords
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: free_people
 culture: shire
+variants:
+- 03_113-S
+- 03_113-F
 twilight: '1'
 game_text: ! |-
   To play, spot 2 [Shire] companions. Plays to your support area. Each time you remove a burden (except by a Hobbit's game text), you may heal a companion.

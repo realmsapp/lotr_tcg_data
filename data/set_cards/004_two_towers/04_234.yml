@@ -1,5 +1,5 @@
 ---
-key: 4U234
+key: '04_234'
 name: Flanking Attack
 title: Flanking Attack
 set: two_towers
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: shadow
 culture: raider
+variants:
+- 04_234-S
+- 04_234-F
 twilight: '0'
 game_text: ! |-
   Maneuver or Skirmish: Exert a Southron to add (3).

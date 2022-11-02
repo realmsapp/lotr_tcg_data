@@ -1,5 +1,5 @@
 ---
-key: 2U106
+key: '02_106'
 name: Nice Imitation
 title: Nice Imitation
 set: mines_of_moria
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: free_people
 culture: shire
+variants:
+- 02_106-S
+- 02_106-F
 twilight: '1'
 game_text: ! |-
   Stealth. Plays to your support area. Response: If a Hobbit is about to take a wound, discard this condition to prevent that wound.

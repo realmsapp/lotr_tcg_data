@@ -1,10 +1,13 @@
 ---
-key: 7U353
+key: '07_353'
 name: Osgiliath Crossing
 title: Osgiliath Crossing
 set: return_of_the_king
 rarity: uncommon
 card_type: site
+variants:
+- 07_353-S
+- 07_353-F
 twilight: '6'
 site_number: '7'
 game_text: ! |-

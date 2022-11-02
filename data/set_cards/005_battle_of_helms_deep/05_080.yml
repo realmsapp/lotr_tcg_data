@@ -1,5 +1,5 @@
 ---
-key: 5U80
+key: 05_080
 name: Arrow-slits
 title: Arrow-slits
 set: battle_of_helms_deep
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: free_people
 culture: rohan
+variants:
+- 05_080-S
+- 05_080-F
 twilight: '1'
 unique: true
 game_text: ! |-

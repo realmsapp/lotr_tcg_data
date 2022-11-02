@@ -1,5 +1,5 @@
 ---
-key: 7C11
+key: '07_011'
 name: Out of Darkness
 title: Out of Darkness
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: dwarven
+variants:
+- 07_011-S
+- 07_011-F
 twilight: '1'
 game_text: ! |-
   Make a Dwarf strength +2. You may also exert that Dwarf to draw 2 cards.

@@ -1,5 +1,5 @@
 ---
-key: 6R77
+key: '06_077'
 name: Durin's Tower
 title: Durin's Tower
 set: ents_of_fangorn
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: shadow
 culture: moria
+variants:
+- 06_077-S
+- 06_077-F
 twilight: '0'
 unique: true
 game_text: ! |-

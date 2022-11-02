@@ -1,5 +1,5 @@
 ---
-key: 1C255
+key: '01_255'
 name: Mordor's Strength
 title: Mordor's Strength
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: shadow
 culture: sauron
+variants:
+- 01_255-S
+- 01_255-F
 twilight: '1'
 game_text: ! |-
   Skirmish: Exert a [Sauron] Orc to wound a character he is skirmishing.

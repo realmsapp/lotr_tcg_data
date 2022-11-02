@@ -1,5 +1,5 @@
 ---
-key: 7C65
+key: '07_065'
 name: Never
 title: Never
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: common
 card_type: condition
 alignment: free_people
 culture: gollum_free_people
+variants:
+- 07_065-S
+- 07_065-F
 twilight: '0'
 game_text: ! |-
   To play, spot Smeagol. Regroup: Discard Smeagol to remove 2 threats.

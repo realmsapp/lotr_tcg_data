@@ -1,5 +1,5 @@
 ---
-key: 3C11
+key: '03_011'
 name: Cast It Into the Fire!
 title: Cast It Into the Fire!
 set: realms_of_the_elf_lords
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: elven
+variants:
+- 03_011-S
+- 03_011-F
 twilight: '1'
 game_text: ! |-
   Maneuver: Spot an Elf to make each opponent discard a card from his or her hand. Draw a card for each card discarded in this way.

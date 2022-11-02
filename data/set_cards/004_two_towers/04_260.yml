@@ -1,5 +1,5 @@
 ---
-key: 4C260
+key: '04_260'
 name: Whirling Strike
 title: Whirling Strike
 set: two_towers
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: shadow
 culture: raider
+variants:
+- 04_260-S
+- 04_260-F
 twilight: '3'
 game_text: ! |-
   Skirmish: Wound a companion or ally skirmishing a [Raider] Man.

@@ -1,5 +1,5 @@
 ---
-key: 7C184
+key: 07_184
 name: More Unbearable
 title: More Unbearable
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: common
 card_type: condition
 alignment: shadow
 culture: wraith
+variants:
+- 07_184-S
+- 07_184-F
 twilight: '1'
 game_text: ! |-
   To play, spot a Nazgul. Regroup: Discard a Nazgul to place a [Wraith] token on this card. While there are 3 [Wraith] tokens on this card, the Shadow has initiative, regardless of the Free Peoples player's hand.

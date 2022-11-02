@@ -1,5 +1,5 @@
 ---
-key: 4R73
+key: '04_073'
 name: Legolas, Dauntless Hunter
 title: Legolas
 subtitle: Dauntless Hunter
@@ -10,6 +10,9 @@ subtype: elf
 alignment: free_people
 culture: elven
 signet: aragorn
+variants:
+- 04_073-S
+- 04_073-F
 strength: '6'
 vitality: '3'
 twilight: '2'

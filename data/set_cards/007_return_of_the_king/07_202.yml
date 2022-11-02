@@ -1,5 +1,5 @@
 ---
-key: 7U202
+key: '07_202'
 name: Morgul Whelp
 title: Morgul Whelp
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: wraith
+variants:
+- 07_202-S
+- 07_202-F
 strength: '3'
 vitality: '1'
 twilight: '1'

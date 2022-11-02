@@ -1,5 +1,5 @@
 ---
-key: 7U162
+key: '07_162'
 name: Southron Captain
 title: Southron Captain
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: raider
+variants:
+- 07_162-S
+- 07_162-F
 strength: '13'
 vitality: '3'
 twilight: '6'

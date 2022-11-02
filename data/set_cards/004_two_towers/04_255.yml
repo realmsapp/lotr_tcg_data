@@ -1,5 +1,5 @@
 ---
-key: 4C255
+key: '04_255'
 name: Southron Spear
 title: Southron Spear
 set: two_towers
@@ -8,6 +8,9 @@ card_type: possession
 subtype: hand_weapon
 alignment: shadow
 culture: raider
+variants:
+- 04_255-S
+- 04_255-F
 strength: "+2"
 twilight: '1'
 game_text: ! |-

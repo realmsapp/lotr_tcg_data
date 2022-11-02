@@ -1,5 +1,5 @@
 ---
-key: 2R57
+key: '02_057'
 name: Final Cry
 title: Final Cry
 set: mines_of_moria
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: shadow
 culture: moria
+variants:
+- 02_057-S
+- 02_057-F
 twilight: '1'
 game_text: ! |-
   Response: If a skirmish that involved The Balrog bearing Whip of Many Thongs is about to end, wound a companion in that skirmish twice.

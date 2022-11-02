@@ -1,5 +1,5 @@
 ---
-key: 4C281
+key: 04_281
 name: Hlafwine, Village Farmhand
 title: Hlafwine
 subtitle: Village Farmhand
@@ -8,6 +8,9 @@ rarity: common
 card_type: ally
 alignment: free_people
 culture: rohan
+variants:
+- 04_281-S
+- 04_281-F
 strength: '4'
 vitality: '2'
 twilight: '1'

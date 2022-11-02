@@ -1,5 +1,5 @@
 ---
-key: 7R129
+key: 07_129
 name: Bold Men and Grim
 title: Bold Men and Grim
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: shadow
 culture: raider
+variants:
+- 07_129-S
+- 07_129-F
 twilight: '1'
 unique: true
 game_text: ! |-

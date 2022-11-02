@@ -1,5 +1,5 @@
 ---
-key: 10C55
+key: '10_055'
 name: Cirith Ungol Soldier
 title: Cirith Ungol Soldier
 set: mount_doom
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: wraith
+variants:
+- 10_055-S
+- 10_055-F
 strength: '8'
 vitality: '2'
 twilight: '3'

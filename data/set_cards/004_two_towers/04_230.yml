@@ -1,5 +1,5 @@
 ---
-key: 4U230
+key: '04_230'
 name: Easterling Trooper
 title: Easterling Trooper
 set: two_towers
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: raider
+variants:
+- 04_230-S
+- 04_230-F
 strength: '9'
 vitality: '2'
 twilight: '4'

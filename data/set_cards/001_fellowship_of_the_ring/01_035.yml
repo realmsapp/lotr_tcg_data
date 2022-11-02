@@ -1,5 +1,5 @@
 ---
-key: 1R35
+key: '01_035'
 name: The Council of Elrond
 title: The Council of Elrond
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: free_people
 culture: elven
+variants:
+- 01_035-S
+- 01_035-F
 twilight: '2'
 game_text: ! |-
   Fellowship: Spot an Elf to play a tale from your draw deck.

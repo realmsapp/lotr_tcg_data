@@ -1,5 +1,5 @@
 ---
-key: 10C52
+key: '10_052'
 name: Under Foot
 title: Under Foot
 set: mount_doom
@@ -7,6 +7,9 @@ rarity: common
 card_type: condition
 alignment: shadow
 culture: raider
+variants:
+- 10_052-S
+- 10_052-F
 twilight: '1'
 unique: true
 game_text: ! |-

@@ -1,5 +1,5 @@
 ---
-key: 8C101
+key: '08_101'
 name: Gorgoroth Stormer
 title: Gorgoroth Stormer
 set: siege_of_gondor
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: sauron
+variants:
+- '08_101-S'
+- '08_101-F'
 strength: '10'
 vitality: '2'
 twilight: '4'

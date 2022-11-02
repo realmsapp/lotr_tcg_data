@@ -1,5 +1,5 @@
 ---
-key: 4U77
+key: '04_077'
 name: Lorien Is Most Welcome
 title: Lorien Is Most Welcome
 set: two_towers
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: free_people
 culture: elven
+variants:
+- 04_077-S
+- 04_077-F
 twilight: '1'
 game_text: ! |-
   To play, spot 3 Elves. Plays to your support area. Each wounded minion loses all damage bonuses. Discard this condition during the regroup phase.

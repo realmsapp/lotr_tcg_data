@@ -1,5 +1,5 @@
 ---
-key: 7R38
+key: 07_038
 name: Gandalf's Staff, Focus of Power
 title: Gandalf's Staff
 subtitle: Focus of Power
@@ -9,6 +9,9 @@ card_type: artifact
 subtype: staff
 alignment: free_people
 culture: gandalf
+variants:
+- 07_038-S
+- 07_038-F
 vitality: "+1"
 twilight: '2'
 unique: true

@@ -1,5 +1,5 @@
 ---
-key: 4P365
+key: '04_365'
 name: Theoden, Lord of the Mark
 title: Theoden
 subtitle: Lord of the Mark
@@ -10,6 +10,9 @@ subtype: man
 alignment: free_people
 culture: rohan
 signet: theoden
+variants:
+- 04_365-S
+- 04_365-F
 strength: '6'
 vitality: '2'
 twilight: '2'

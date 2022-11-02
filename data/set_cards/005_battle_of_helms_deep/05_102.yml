@@ -1,5 +1,5 @@
 ---
-key: 5R102
+key: '05_102'
 name: Morannon
 title: Morannon
 set: battle_of_helms_deep
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: shadow
 culture: sauron
+variants:
+- 05_102-S
+- 05_102-F
 twilight: '0'
 unique: true
 game_text: ! |-

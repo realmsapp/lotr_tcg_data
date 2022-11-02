@@ -1,5 +1,5 @@
 ---
-key: 1R139
+key: 01_139
 name: Savagery to Match Their Numbers
 title: Savagery to Match Their Numbers
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: shadow
 culture: isengard
+variants:
+- 01_139-S
+- 01_139-F
 twilight: '0'
 game_text: ! |-
   Skirmish: Make an Uruk-hai strength +2, or spot 5 companions to make an Uruk-hai strength +4 and fierce until the regroup phase.

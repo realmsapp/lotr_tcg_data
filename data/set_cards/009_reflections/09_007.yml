@@ -1,5 +1,5 @@
 ---
-key: 9R+7
+key: '09_007'
 name: Ring of Fury
 title: Ring of Fury
 set: reflections
@@ -8,6 +8,8 @@ card_type: artifact
 subtype: ring
 alignment: free_people
 culture: dwarven
+variants:
+- '09_007-F'
 strength: "+1"
 twilight: '0'
 unique: true

@@ -1,5 +1,5 @@
 ---
-key: 8R103
+key: '08_103'
 name: Grond, Hammer of the Underworld
 title: Grond
 subtitle: Hammer of the Underworld
@@ -8,6 +8,9 @@ rarity: rare
 card_type: possession
 alignment: shadow
 culture: sauron
+variants:
+- '08_103-S'
+- '08_103-F'
 twilight: '3'
 unique: true
 game_text: ! |-

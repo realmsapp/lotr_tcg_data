@@ -1,5 +1,5 @@
 ---
-key: 4U53
+key: '04_053'
 name: Quick As May Be
 title: Quick As May Be
 set: two_towers
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: dwarven
+variants:
+- 04_053-S
+- 04_053-F
 twilight: '1'
 game_text: ! |-
   Maneuver: Spot a Dwarf companion and an Elf companion to wound a minion.

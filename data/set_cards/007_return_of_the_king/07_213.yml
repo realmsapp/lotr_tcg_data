@@ -1,5 +1,5 @@
 ---
-key: 7R213
+key: '07_213'
 name: Ulaire Lemenya, Assailing Minion
 title: Ulaire Lemenya
 subtitle: Assailing Minion
@@ -9,6 +9,9 @@ card_type: minion
 subtype: nazgul
 alignment: shadow
 culture: wraith
+variants:
+- 07_213-S
+- 07_213-F
 strength: '9'
 vitality: '2'
 twilight: '4'

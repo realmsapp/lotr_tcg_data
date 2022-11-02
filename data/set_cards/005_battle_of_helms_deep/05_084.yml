@@ -1,5 +1,5 @@
 ---
-key: 5R84
+key: 05_084
 name: I Am Here
 title: I Am Here
 set: battle_of_helms_deep
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: free_people
 culture: rohan
+variants:
+- 05_084-S
+- 05_084-F
 twilight: '3'
 game_text: ! |-
   Fellowship: Exert Theoden twice to heal every other companion with the Theoden signet twice.

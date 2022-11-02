@@ -1,5 +1,5 @@
 ---
-key: 8R2
+key: '08_002'
 name: Battle in Earnest
 title: Battle in Earnest
 set: siege_of_gondor
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: free_people
 culture: dwarven
+variants:
+- '08_002-S'
+- '08_002-F'
 twilight: '1'
 game_text: ! |-
   Spot a Dwarf who is damage +X to place X wounds on minions.

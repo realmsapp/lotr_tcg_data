@@ -1,5 +1,5 @@
 ---
-key: 8C109
+key: '08_109'
 name: Closer and Closer He Bent
 title: Closer and Closer He Bent
 set: siege_of_gondor
@@ -7,6 +7,9 @@ rarity: common
 card_type: condition
 alignment: free_people
 culture: shire
+variants:
+- '08_109-S'
+- '08_109-F'
 twilight: '0'
 game_text: ! |-
   Regroup: Exert an unbound Hobbit and add a burden to reveal your hand. Place each Free Peoples card revealed this way beneath your draw deck.

@@ -1,5 +1,5 @@
 ---
-key: 7U19
+key: 07_019
 name: Careful Study
 title: Careful Study
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: elven
+variants:
+- 07_019-S
+- 07_019-F
 twilight: '1'
 game_text: ! |-
   Spot an Elf and discard 3 cards from hand to reconcile your hand.

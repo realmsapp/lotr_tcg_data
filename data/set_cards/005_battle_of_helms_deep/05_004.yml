@@ -1,5 +1,5 @@
 ---
-key: 5R4
+key: '05_004'
 name: Wild Men of the Hills
 title: Wild Men of the Hills
 set: battle_of_helms_deep
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: dunland
+variants:
+- 05_004-S
+- 05_004-F
 strength: '18'
 vitality: '2'
 twilight: '6'

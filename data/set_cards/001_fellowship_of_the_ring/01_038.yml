@@ -1,5 +1,5 @@
 ---
-key: 1R38
+key: 01_038
 name: Double Shot
 title: Double Shot
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: free_people
 culture: elven
+variants:
+- 01_038-S
+- 01_038-F
 twilight: '0'
 game_text: ! |-
   Archery: Spot an Elf archer companion to make the fellowship archery total +1.

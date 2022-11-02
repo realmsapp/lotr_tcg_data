@@ -1,5 +1,5 @@
 ---
-key: 9R+52
+key: '09_052'
 name: Tom Bombadil, The Master
 title: Tom Bombadil
 subtitle: The Master
@@ -8,6 +8,8 @@ rarity: rare_plus
 card_type: ally
 alignment: free_people
 culture: shire
+variants:
+- '09_052-F'
 strength: '14'
 vitality: '9'
 twilight: '5'

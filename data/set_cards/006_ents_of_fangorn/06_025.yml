@@ -1,5 +1,5 @@
 ---
-key: 6U25
+key: '06_025'
 name: Crack Into Rubble
 title: Crack Into Rubble
 set: ents_of_fangorn
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: gandalf
+variants:
+- 06_025-S
+- 06_025-F
 twilight: '1'
 game_text: ! |-
   Regroup: Exert 2 Ents to liberate a site and discard a Shadow condition.

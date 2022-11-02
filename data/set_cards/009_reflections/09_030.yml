@@ -1,5 +1,5 @@
 ---
-key: 9R+30
+key: '09_030'
 name: Smeagol, Bearer of Great Secrets
 title: Smeagol
 subtitle: Bearer of Great Secrets
@@ -8,6 +8,8 @@ rarity: rare_plus
 card_type: companion
 alignment: free_people
 culture: gollum_free_people
+variants:
+- '09_030-F'
 strength: '3'
 vitality: '4'
 twilight: '0'

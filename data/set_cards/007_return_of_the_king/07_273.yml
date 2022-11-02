@@ -1,5 +1,5 @@
 ---
-key: 7C273
+key: '07_273'
 name: Gorgoroth Garrison
 title: Gorgoroth Garrison
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: sauron
+variants:
+- 07_273-S
+- 07_273-F
 strength: '9'
 vitality: '2'
 twilight: '3'

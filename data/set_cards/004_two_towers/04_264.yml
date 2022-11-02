@@ -1,5 +1,5 @@
 ---
-key: 4U264
+key: '04_264'
 name: Ceorl, Weary Horseman
 title: Ceorl
 subtitle: Weary Horseman
@@ -9,6 +9,9 @@ card_type: companion
 subtype: man
 alignment: free_people
 culture: rohan
+variants:
+- 04_264-S
+- 04_264-F
 strength: '6'
 vitality: '3'
 twilight: '2'

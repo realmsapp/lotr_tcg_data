@@ -1,5 +1,5 @@
 ---
-key: 7C323
+key: '07_323'
 name: Pippin, Sworn to Service
 title: Pippin
 subtitle: Sworn to Service
@@ -10,6 +10,9 @@ subtype: hobbit
 alignment: free_people
 culture: shire
 signet: gandalf
+variants:
+- 07_323-S
+- 07_323-F
 strength: '3'
 vitality: '4'
 twilight: '1'

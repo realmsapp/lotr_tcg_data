@@ -1,5 +1,5 @@
 ---
-key: 1R16
+key: '01_016'
 name: Greatest Kingdom of My People
 title: Greatest Kingdom of My People
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: free_people
 culture: dwarven
+variants:
+- 01_016-S
+- 01_016-F
 twilight: '0'
 unique: true
 game_text: ! |-

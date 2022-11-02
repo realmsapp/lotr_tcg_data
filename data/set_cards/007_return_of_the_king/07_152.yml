@@ -1,5 +1,5 @@
 ---
-key: 7R152
+key: '07_152'
 name: Mumak Commander
 title: Mumak Commander
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: raider
+variants:
+- 07_152-S
+- 07_152-F
 strength: '16'
 vitality: '4'
 twilight: '8'

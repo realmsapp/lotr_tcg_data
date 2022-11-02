@@ -1,5 +1,5 @@
 ---
-key: 7R104
+key: '07_104'
 name: Hidden Knowledge
 title: Hidden Knowledge
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: free_people
 culture: gondor
+variants:
+- 07_104-S
+- 07_104-F
 twilight: '1'
 game_text: ! |-
   Spot a [Gondor] companion to reveal the top 5 cards of an opponent's draw deck. For each Shadow card revealed, add a threat. For each Free Peoples card revealed, place a [Gondor] token on one of your conditions with a [Gondor] token on it. Shuffle that draw deck.

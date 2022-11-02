@@ -1,5 +1,5 @@
 ---
-key: 7R314
+key: '07_314'
 name: Stronghold of Cirith Ungol
 title: Stronghold of Cirith Ungol
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: shadow
 culture: sauron
+variants:
+- 07_314-S
+- 07_314-F
 twilight: '1'
 unique: true
 game_text: ! |-

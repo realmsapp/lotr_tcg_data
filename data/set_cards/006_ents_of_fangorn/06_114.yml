@@ -1,5 +1,5 @@
 ---
-key: 6R114
+key: '06_114'
 name: Pippin, Hastiest of All
 title: Pippin
 subtitle: Hastiest of All
@@ -10,6 +10,9 @@ subtype: hobbit
 alignment: free_people
 culture: shire
 signet: aragorn
+variants:
+- 06_114-S
+- 06_114-F
 strength: '3'
 vitality: '4'
 twilight: '1'

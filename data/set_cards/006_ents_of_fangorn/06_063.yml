@@ -1,5 +1,5 @@
 ---
-key: 6U63
+key: '06_063'
 name: Gnawing, Biting, Hacking, Burning
 title: Gnawing
 subtitle: Biting, Hacking, Burning
@@ -8,6 +8,9 @@ rarity: uncommon
 card_type: condition
 alignment: shadow
 culture: isengard
+variants:
+- 06_063-S
+- 06_063-F
 twilight: '2'
 game_text: ! |-
   Plays to your support area. Each time a regroup action discards an [Isengard] Orc, you may stack that Orc on this card. Shadow: Discard 2 cards stacked here and remove (1) to play an [Isengard] Orc from your discard pile.

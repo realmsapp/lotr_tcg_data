@@ -1,5 +1,5 @@
 ---
-key: 7C247
+key: '07_247'
 name: Rohirrim Herdsman
 title: Rohirrim Herdsman
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: common
 card_type: ally
 alignment: free_people
 culture: rohan
+variants:
+- 07_247-S
+- 07_247-F
 strength: '4'
 vitality: '2'
 twilight: '1'

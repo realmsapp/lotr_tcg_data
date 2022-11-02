@@ -1,5 +1,5 @@
 ---
-key: 7R242
+key: '07_242'
 name: Merry's Sword
 title: Merry's Sword
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: possession
 subtype: hand_weapon
 alignment: free_people
 culture: rohan
+variants:
+- 07_242-S
+- 07_242-F
 strength: "+2"
 twilight: '1'
 unique: true

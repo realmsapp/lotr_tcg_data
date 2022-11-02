@@ -1,5 +1,5 @@
 ---
-key: 2R74
+key: '02_074'
 name: Whip of Many Thongs
 title: Whip of Many Thongs
 set: mines_of_moria
@@ -8,6 +8,9 @@ card_type: artifact
 subtype: hand_weapon
 alignment: shadow
 culture: moria
+variants:
+- 02_074-S
+- 02_074-F
 strength: "+1"
 twilight: '1'
 unique: true

@@ -1,5 +1,5 @@
 ---
-key: 7C154
+key: '07_154'
 name: New Strength Came Now
 title: New Strength Came Now
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: shadow
 culture: raider
+variants:
+- 07_154-S
+- 07_154-F
 twilight: '2'
 game_text: ! |-
   Make a [Raider] Man strength +3 (or +6 if you have initiative).

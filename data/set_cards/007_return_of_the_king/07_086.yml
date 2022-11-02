@@ -1,5 +1,5 @@
 ---
-key: 7C86
+key: 07_086
 name: Denethor, Wizened Steward
 title: Denethor
 subtitle: Wizened Steward
@@ -10,6 +10,9 @@ subtype: man
 alignment: free_people
 culture: gondor
 signet: aragorn
+variants:
+- 07_086-S
+- 07_086-F
 strength: '5'
 vitality: '3'
 twilight: '2'

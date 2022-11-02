@@ -1,5 +1,5 @@
 ---
-key: 4R124
+key: '04_124'
 name: Help in Doubt and Need
 title: Help in Doubt and Need
 set: two_towers
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: free_people
 culture: gondor
+variants:
+- 04_124-S
+- 04_124-F
 twilight: '2'
 game_text: ! |-
   Plays to your support area. Skirmish: Exert an unbound [Gondor] Man to make a [Rohan] companion strength +2, or exert a [Rohan] companion to make an unbound [Gondor] Man strength +2.

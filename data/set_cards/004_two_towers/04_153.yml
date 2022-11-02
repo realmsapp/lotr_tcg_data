@@ -1,5 +1,5 @@
 ---
-key: 4C153
+key: '04_153'
 name: Grima, Son of Galmod
 title: Grima
 subtitle: Son of Galmod
@@ -9,6 +9,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: isengard
+variants:
+- 04_153-S
+- 04_153-F
 strength: '4'
 vitality: '3'
 twilight: '2'

@@ -1,5 +1,5 @@
 ---
-key: 4U188
+key: 04_188
 name: Uruk Hunter
 title: Uruk Hunter
 set: two_towers
@@ -8,6 +8,9 @@ card_type: minion
 subtype: uruk-hai
 alignment: shadow
 culture: isengard
+variants:
+- 04_188-S
+- 04_188-F
 strength: '12'
 vitality: '3'
 twilight: '6'

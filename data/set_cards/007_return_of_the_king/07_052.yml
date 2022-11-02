@@ -1,5 +1,5 @@
 ---
-key: 7C52
+key: '07_052'
 name: Wizard Staff
 title: Wizard Staff
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: possession
 subtype: staff
 alignment: free_people
 culture: gandalf
+variants:
+- 07_052-S
+- 07_052-F
 strength: "+1"
 twilight: '2'
 game_text: ! |-

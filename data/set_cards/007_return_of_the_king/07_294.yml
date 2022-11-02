@@ -1,5 +1,5 @@
 ---
-key: 7U294
+key: 07_294
 name: Orc Archer Troop
 title: Orc Archer Troop
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: sauron
+variants:
+- 07_294-S
+- 07_294-F
 strength: '15'
 vitality: '4'
 twilight: '6'

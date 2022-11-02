@@ -1,10 +1,13 @@
 ---
-key: 1U357
+key: '01_357'
 name: Brown Lands
 title: Brown Lands
 set: fellowship_of_the_ring
 rarity: uncommon
 card_type: site
+variants:
+- 01_357-S
+- 01_357-F
 twilight: '6'
 site_number: '8'
 game_text: ! |-

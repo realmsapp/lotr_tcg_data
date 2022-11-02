@@ -1,5 +1,5 @@
 ---
-key: 2C26
+key: '02_026'
 name: Speak "Friend" and Enter
 title: Speak "Friend" and Enter
 set: mines_of_moria
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: gandalf
+variants:
+- 02_026-S
+- 02_026-F
 twilight: '1'
 game_text: ! |-
   Fellowship or Regroup: Spot Gandalf to play the fellowship's next site (replacing opponent's site if necessary). Draw a card if you play an underground site.

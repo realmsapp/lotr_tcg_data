@@ -1,5 +1,5 @@
 ---
-key: 7U125
+key: '07_125'
 name: Third Level
 title: Third Level
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: free_people
 culture: gondor
+variants:
+- 07_125-S
+- 07_125-F
 twilight: '1'
 site_number: "+4"
 game_text: ! |-

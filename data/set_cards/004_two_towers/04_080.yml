@@ -1,5 +1,5 @@
 ---
-key: 4U80
+key: 04_080
 name: Ordulus, Young Warrior
 title: Ordulus
 subtitle: Young Warrior
@@ -9,6 +9,9 @@ card_type: companion
 subtype: elf
 alignment: free_people
 culture: elven
+variants:
+- 04_080-S
+- 04_080-F
 strength: '5'
 vitality: '2'
 twilight: '1'

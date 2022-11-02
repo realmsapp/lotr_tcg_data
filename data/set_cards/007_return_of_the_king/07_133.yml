@@ -1,5 +1,5 @@
 ---
-key: 7C133
+key: '07_133'
 name: Desert Runner
 title: Desert Runner
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: raider
+variants:
+- 07_133-S
+- 07_133-F
 strength: '6'
 vitality: '2'
 twilight: '2'

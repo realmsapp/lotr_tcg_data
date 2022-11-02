@@ -1,5 +1,5 @@
 ---
-key: 8R105
+key: '08_105'
 name: Olog-hai of Mordor
 title: Olog-hai of Mordor
 set: siege_of_gondor
@@ -8,6 +8,9 @@ card_type: minion
 subtype: troll
 alignment: shadow
 culture: sauron
+variants:
+- '08_105-S'
+- '08_105-F'
 strength: '18'
 vitality: '4'
 twilight: '10'

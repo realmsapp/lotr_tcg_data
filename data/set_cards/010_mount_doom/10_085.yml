@@ -1,5 +1,5 @@
 ---
-key: 10C85
+key: '10_085'
 name: Flames Within
 title: Flames Within
 set: mount_doom
@@ -7,6 +7,9 @@ rarity: common
 card_type: condition
 alignment: shadow
 culture: sauron
+variants:
+- 10_085-S
+- 10_085-F
 twilight: '0'
 unique: true
 game_text: ! |-

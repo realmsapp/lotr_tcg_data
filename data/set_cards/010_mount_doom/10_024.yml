@@ -1,5 +1,5 @@
 ---
-key: 10C24
+key: '10_024'
 name: Unabated in Malice
 title: Unabated in Malice
 set: mount_doom
@@ -7,6 +7,9 @@ rarity: common
 card_type: condition
 alignment: shadow
 culture: gollum_shadow
+variants:
+- 10_024-S
+- 10_024-F
 twilight: '0'
 unique: true
 game_text: ! |-

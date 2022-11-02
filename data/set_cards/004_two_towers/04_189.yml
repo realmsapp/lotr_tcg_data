@@ -1,5 +1,5 @@
 ---
-key: 4C189
+key: 04_189
 name: Uruk Plains Runner
 title: Uruk Plains Runner
 set: two_towers
@@ -8,6 +8,9 @@ card_type: minion
 subtype: uruk-hai
 alignment: shadow
 culture: isengard
+variants:
+- 04_189-S
+- 04_189-F
 strength: '7'
 vitality: '1'
 twilight: '2'

@@ -1,5 +1,5 @@
 ---
-key: 4U136
+key: '04_136'
 name: Advance Uruk Patrol
 title: Advance Uruk Patrol
 set: two_towers
@@ -8,6 +8,9 @@ card_type: minion
 subtype: uruk-hai
 alignment: shadow
 culture: isengard
+variants:
+- 04_136-S
+- 04_136-F
 strength: '10'
 vitality: '3'
 twilight: '5'

@@ -1,10 +1,13 @@
 ---
-key: 4U349
+key: 04_349
 name: Helm's Gate
 title: Helm's Gate
 set: two_towers
 rarity: uncommon
 card_type: site
+variants:
+- 04_349-S
+- 04_349-F
 twilight: '6'
 site_number: '5'
 game_text: ! |-

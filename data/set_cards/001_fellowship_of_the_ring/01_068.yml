@@ -1,5 +1,5 @@
 ---
-key: 1C68
+key: 01_068
 name: The White Arrows of Lorien
 title: The White Arrows of Lorien
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: common
 card_type: condition
 alignment: free_people
 culture: elven
+variants:
+- 01_068-S
+- 01_068-F
 twilight: '1'
 game_text: ! |-
   Tale. Bearer must be an Elf companion. Archery: If bearer is an archer, exert bearer to make an opponent discard 2 cards at random from hand.

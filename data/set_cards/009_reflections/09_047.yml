@@ -1,5 +1,5 @@
 ---
-key: 9R+47
+key: '09_047'
 name: Ithil Stone
 title: Ithil Stone
 set: reflections
@@ -7,6 +7,8 @@ rarity: rare_plus
 card_type: artifact
 alignment: shadow
 culture: sauron
+variants:
+- '09_047-F'
 twilight: '0'
 unique: true
 game_text: ! |-

@@ -1,5 +1,5 @@
 ---
-key: 10U5
+key: '10_005'
 name: Arwen, Echo of Luthien
 title: Arwen
 subtitle: Echo of Luthien
@@ -10,6 +10,9 @@ subtype: elf
 alignment: free_people
 culture: elven
 signet: aragorn
+variants:
+- 10_005-S
+- 10_005-F
 strength: '6'
 vitality: '3'
 twilight: '2'

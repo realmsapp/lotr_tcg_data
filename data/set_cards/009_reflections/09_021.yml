@@ -1,5 +1,5 @@
 ---
-key: 9R21
+key: '09_021'
 name: Pippin's Dagger
 title: Pippin's Dagger
 set: reflections
@@ -8,6 +8,8 @@ card_type: possession
 subtype: hand_weapon
 alignment: free_people
 culture: elven
+variants:
+- '09_021-F'
 strength: "+2"
 twilight: '1'
 unique: true

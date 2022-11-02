@@ -1,5 +1,5 @@
 ---
-key: 2C9
+key: 02_009
 name: Great Works Begun There
 title: Great Works Begun There
 set: mines_of_moria
@@ -7,6 +7,9 @@ rarity: common
 card_type: condition
 alignment: free_people
 culture: dwarven
+variants:
+- 02_009-S
+- 02_009-F
 twilight: '1'
 game_text: ! |-
   Tale. Plays to your support area. Each time you play a Dwarf, you may discard the top 2 cards from your draw deck to take a [Dwarven] event into hand from your discard pile.

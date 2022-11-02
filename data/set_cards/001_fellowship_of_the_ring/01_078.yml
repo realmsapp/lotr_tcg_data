@@ -1,5 +1,5 @@
 ---
-key: 1C78
+key: 01_078
 name: Mysterious Wizard
 title: Mysterious Wizard
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: gandalf
+variants:
+- 01_078-S
+- 01_078-F
 twilight: '2'
 game_text: ! |-
   Spell. Skirmish: Make Gandalf strength +2 (or +4 if there are 4 or fewer burdens on the Ring-bearer).

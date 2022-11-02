@@ -1,5 +1,5 @@
 ---
-key: 1R100
+key: '01_100'
 name: The Choice of Luthien
 title: The Choice of Luthien
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: free_people
 culture: gondor
+variants:
+- 01_100-S
+- 01_100-F
 twilight: '1'
 unique: true
 game_text: ! |-

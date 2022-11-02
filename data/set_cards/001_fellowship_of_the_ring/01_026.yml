@@ -1,5 +1,5 @@
 ---
-key: 1C26
+key: '01_026'
 name: Their Halls of Stone
 title: Their Halls of Stone
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: dwarven
+variants:
+- 01_026-S
+- 01_026-F
 twilight: '0'
 game_text: ! |-
   Skirmish: Make a Dwarf strength +2 (or +4 if at an underground site).

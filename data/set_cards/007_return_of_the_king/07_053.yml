@@ -1,5 +1,5 @@
 ---
-key: 7C53
+key: '07_053'
 name: Captured by the Ring
 title: Captured by the Ring
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: shadow
 culture: gollum_shadow
+variants:
+- 07_053-S
+- 07_053-F
 twilight: '0'
 game_text: ! |-
   Play Gollum from your draw deck or discard pile to add a threat.

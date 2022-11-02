@@ -1,5 +1,5 @@
 ---
-key: 7C36
+key: '07_036'
 name: Gandalf, Defender of the West
 title: Gandalf
 subtitle: Defender of the West
@@ -10,6 +10,9 @@ subtype: wizard
 alignment: free_people
 culture: gandalf
 signet: gandalf
+variants:
+- 07_036-S
+- 07_036-F
 strength: '9'
 vitality: '4'
 twilight: '4'

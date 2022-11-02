@@ -1,5 +1,5 @@
 ---
-key: 6R23
+key: '06_023'
 name: Naith Warband
 title: Naith Warband
 set: ents_of_fangorn
@@ -8,6 +8,9 @@ card_type: companion
 subtype: elf
 alignment: free_people
 culture: elven
+variants:
+- 06_023-S
+- 06_023-F
 strength: '9'
 vitality: '3'
 twilight: '4'

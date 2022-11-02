@@ -1,5 +1,5 @@
 ---
-key: 4U161
+key: '04_161'
 name: Men Will Fall
 title: Men Will Fall
 set: two_towers
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: shadow
 culture: isengard
+variants:
+- 04_161-S
+- 04_161-F
 twilight: '1'
 game_text: ! |-
   Skirmish: Spot Saruman or an [Isengard] Man to make an unbound companion strength -2.

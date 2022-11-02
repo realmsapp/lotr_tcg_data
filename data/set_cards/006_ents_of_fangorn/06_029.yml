@@ -1,5 +1,5 @@
 ---
-key: 6C29
+key: 06_029
 name: Ent Moot
 title: Ent Moot
 set: ents_of_fangorn
@@ -7,6 +7,9 @@ rarity: common
 card_type: condition
 alignment: free_people
 culture: gandalf
+variants:
+- 06_029-S
+- 06_029-F
 strength: "+2"
 twilight: '1'
 game_text: ! |-

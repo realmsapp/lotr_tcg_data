@@ -1,5 +1,5 @@
 ---
-key: 8U98
+key: '08_098'
 name: Gorgoroth Looter
 title: Gorgoroth Looter
 set: siege_of_gondor
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: sauron
+variants:
+- '08_098-S'
+- '08_098-F'
 strength: '9'
 vitality: '2'
 twilight: '3'

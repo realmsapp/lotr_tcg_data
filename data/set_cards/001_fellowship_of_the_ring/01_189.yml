@@ -1,5 +1,5 @@
 ---
-key: 1R189
+key: 01_189
 name: Lost to the Goblins
 title: Lost to the Goblins
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: shadow
 culture: moria
+variants:
+- 01_189-S
+- 01_189-F
 twilight: '0'
 game_text: ! |-
   Response: If the Ring-bearer exerts or takes a wound, discard a card from the top of your draw deck for each [Moria] minion you spot. For each Shadow card discarded in this way, add a burden (limit 3 burdens).

@@ -1,5 +1,5 @@
 ---
-key: 4U31
+key: '04_031'
 name: Over the Isen
 title: Over the Isen
 set: two_towers
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: shadow
 culture: dunland
+variants:
+- 04_031-S
+- 04_031-F
 twilight: '0'
 unique: true
 game_text: ! |-

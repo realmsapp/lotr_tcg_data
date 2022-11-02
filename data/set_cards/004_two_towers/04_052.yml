@@ -1,5 +1,5 @@
 ---
-key: 4R52
+key: '04_052'
 name: My Axe Is Notched
 title: My Axe Is Notched
 set: two_towers
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: free_people
 culture: dwarven
+variants:
+- 04_052-S
+- 04_052-F
 twilight: '1'
 unique: true
 game_text: ! |-

@@ -1,10 +1,13 @@
 ---
-key: 4U362
+key: '04_362'
 name: Orthanc Library
 title: Orthanc Library
 set: two_towers
 rarity: uncommon
 card_type: site
+variants:
+- 04_362-S
+- 04_362-F
 twilight: '9'
 site_number: '9'
 game_text: ! |-

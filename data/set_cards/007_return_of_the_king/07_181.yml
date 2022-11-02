@@ -1,5 +1,5 @@
 ---
-key: 7R181
+key: 07_181
 name: Held Ground
 title: Held Ground
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: shadow
 culture: wraith
+variants:
+- 07_181-S
+- 07_181-F
 twilight: '1'
 unique: true
 game_text: ! |-

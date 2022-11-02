@@ -1,5 +1,5 @@
 ---
-key: 1C37
+key: '01_037'
 name: Defiance
 title: Defiance
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: elven
+variants:
+- 01_037-S
+- 01_037-F
 twilight: '1'
 game_text: ! |-
   Skirmish: Make an Elf strength +2 (or +4 if skirmishing a Nazgul).

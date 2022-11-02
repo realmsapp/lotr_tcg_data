@@ -1,5 +1,5 @@
 ---
-key: 2U98
+key: 02_098
 name: Dear Friends
 title: Dear Friends
 set: mines_of_moria
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: shire
+variants:
+- 02_098-S
+- 02_098-F
 twilight: '0'
 game_text: ! |-
   Fellowship: Exert a companion to place a Free Peoples card from your discard pile beneath your draw deck (or 2 Free Peoples cards if that companion has the Frodo signet).

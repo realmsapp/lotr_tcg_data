@@ -1,5 +1,5 @@
 ---
-key: 8R3
+key: '08_003'
 name: Blood Runs Chill
 title: Blood Runs Chill
 set: siege_of_gondor
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: free_people
 culture: dwarven
+variants:
+- '08_003-S'
+- '08_003-F'
 twilight: '2'
 game_text: ! |-
   Spot a Dwarf who is damage +X and exert that Dwarf twice to make an opponent discard X Shadow cards.

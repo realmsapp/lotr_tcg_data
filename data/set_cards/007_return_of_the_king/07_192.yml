@@ -1,5 +1,5 @@
 ---
-key: 7C192
+key: 07_192
 name: Morgul Hound
 title: Morgul Hound
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: wraith
+variants:
+- 07_192-S
+- 07_192-F
 strength: '5'
 vitality: '2'
 twilight: '2'

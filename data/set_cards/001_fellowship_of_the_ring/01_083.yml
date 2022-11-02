@@ -1,5 +1,5 @@
 ---
-key: 1R83
+key: 01_083
 name: Servant of the Secret Fire
 title: Servant of the Secret Fire
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: free_people
 culture: gandalf
+variants:
+- 01_083-S
+- 01_083-F
 twilight: '1'
 game_text: ! |-
   Spell. Skirmish: Spot Gandalf to make a minion strength -3.

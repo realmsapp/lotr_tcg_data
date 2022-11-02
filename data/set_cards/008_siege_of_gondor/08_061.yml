@@ -1,5 +1,5 @@
 ---
-key: 8C61
+key: '08_061'
 name: Haradwaith
 title: Haradwaith
 set: siege_of_gondor
@@ -7,6 +7,9 @@ rarity: common
 card_type: condition
 alignment: shadow
 culture: raider
+variants:
+- '08_061-S'
+- '08_061-F'
 twilight: '1'
 unique: true
 game_text: ! |-

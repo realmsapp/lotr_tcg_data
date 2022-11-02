@@ -1,5 +1,5 @@
 ---
-key: 9R5
+key: '09_005'
 name: Linnar, Dwarven Lord
 title: Linnar
 subtitle: Dwarven Lord
@@ -9,6 +9,8 @@ card_type: companion
 subtype: dwarf
 alignment: free_people
 culture: dwarven
+variants:
+- '09_005-F'
 strength: '7'
 vitality: '3'
 twilight: '2'

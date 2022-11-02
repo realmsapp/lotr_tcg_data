@@ -1,5 +1,5 @@
 ---
-key: 7C75
+key: '07_075'
 name: Sweeter Meats
 title: Sweeter Meats
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: shadow
 culture: gollum_shadow
+variants:
+- 07_075-S
+- 07_075-F
 twilight: '0'
 game_text: ! |-
   If a minion is about to take a wound, spot Gollum to prevent that wound.

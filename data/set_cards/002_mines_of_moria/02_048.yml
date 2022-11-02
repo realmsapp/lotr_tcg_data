@@ -1,5 +1,5 @@
 ---
-key: 2U48
+key: 02_048
 name: Wizard Storm
 title: Wizard Storm
 set: mines_of_moria
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: shadow
 culture: isengard
+variants:
+- 02_048-S
+- 02_048-F
 twilight: '2'
 game_text: ! |-
   Spell. Weather. To play, exert an [Isengard] minion. Plays on a site. Limit 1 per site. When the fellowship moves from this site, every companion must exert. Discard this condition at the end of the turn.

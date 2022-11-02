@@ -1,5 +1,5 @@
 ---
-key: 4C104
+key: '04_104'
 name: Treebeard, Oldest Living Thing
 title: Treebeard
 subtitle: Oldest Living Thing
@@ -8,6 +8,9 @@ rarity: common
 card_type: ally
 alignment: free_people
 culture: gandalf
+variants:
+- 04_104-S
+- 04_104-F
 strength: '12'
 vitality: '4'
 twilight: '4'

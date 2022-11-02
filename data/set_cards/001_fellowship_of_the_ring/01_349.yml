@@ -1,10 +1,13 @@
 ---
-key: 1C349
+key: 01_349
 name: The Bridge of Khazad-dum
 title: The Bridge of Khazad-dum
 set: fellowship_of_the_ring
 rarity: common
 card_type: site
+variants:
+- 01_349-S
+- 01_349-F
 twilight: '6'
 site_number: '5'
 game_text: ! |-

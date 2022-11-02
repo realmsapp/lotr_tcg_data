@@ -1,5 +1,5 @@
 ---
-key: 6C27
+key: '06_027'
 name: Ent Avenger
 title: Ent Avenger
 set: ents_of_fangorn
@@ -8,6 +8,9 @@ card_type: companion
 subtype: ent
 alignment: free_people
 culture: gandalf
+variants:
+- 06_027-S
+- 06_027-F
 strength: '6'
 vitality: '4'
 twilight: '4'

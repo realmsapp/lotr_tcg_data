@@ -1,5 +1,5 @@
 ---
-key: 7C137
+key: '07_137'
 name: Desert Spearman
 title: Desert Spearman
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: raider
+variants:
+- 07_137-S
+- 07_137-F
 strength: '8'
 vitality: '2'
 twilight: '3'

@@ -1,5 +1,5 @@
 ---
-key: 2U56
+key: '02_056'
 name: Fill With Fear
 title: Fill With Fear
 set: mines_of_moria
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: shadow
 culture: moria
+variants:
+- 02_056-S
+- 02_056-F
 twilight: '0'
 game_text: ! |-
   Plays to your support area. While you can spot The Balrog, skip the archery phase. Maneuver: Exert The Balrog to discard a ranged weapon.

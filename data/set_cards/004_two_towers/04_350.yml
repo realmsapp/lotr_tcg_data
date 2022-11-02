@@ -1,10 +1,13 @@
 ---
-key: 4U350
+key: '04_350'
 name: Hornburg Courtyard
 title: Hornburg Courtyard
 set: two_towers
 rarity: uncommon
 card_type: site
+variants:
+- 04_350-S
+- 04_350-F
 twilight: '8'
 site_number: '5'
 game_text: ! |-

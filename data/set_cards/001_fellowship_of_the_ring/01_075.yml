@@ -1,5 +1,5 @@
 ---
-key: 1R75
+key: '01_075'
 name: Glamdring
 title: Glamdring
 set: fellowship_of_the_ring
@@ -8,6 +8,9 @@ card_type: possession
 subtype: hand_weapon
 alignment: free_people
 culture: gandalf
+variants:
+- 01_075-S
+- 01_075-F
 strength: "+2"
 twilight: '2'
 unique: true

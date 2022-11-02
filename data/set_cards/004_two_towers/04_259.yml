@@ -1,5 +1,5 @@
 ---
-key: 4R259
+key: 04_259
 name: Vision From Afar
 title: Vision From Afar
 set: two_towers
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: shadow
 culture: raider
+variants:
+- 04_259-S
+- 04_259-F
 twilight: '2'
 game_text: ! |-
   Assignment: Assign an Easterling to the Ring-bearer. The Free Peoples player may add a burden to prevent this.

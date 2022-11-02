@@ -1,5 +1,5 @@
 ---
-key: 2C35
+key: '02_035'
 name: Natural Cover
 title: Natural Cover
 set: mines_of_moria
@@ -7,6 +7,9 @@ rarity: common
 card_type: condition
 alignment: free_people
 culture: gondor
+variants:
+- 02_035-S
+- 02_035-F
 twilight: '1'
 game_text: ! |-
   To play, spot a ranger. Plays to your support area. While the fellowship is at a forest, the minion archery total is -2.

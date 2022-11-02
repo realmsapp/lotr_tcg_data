@@ -1,5 +1,5 @@
 ---
-key: 5C52
+key: '05_052'
 name: Isengard Flanker
 title: Isengard Flanker
 set: battle_of_helms_deep
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: isengard
+variants:
+- 05_052-S
+- 05_052-F
 strength: '7'
 vitality: '2'
 twilight: '2'

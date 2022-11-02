@@ -1,5 +1,5 @@
 ---
-key: 7U252
+key: '07_252'
 name: Strong Arms
 title: Strong Arms
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: free_people
 culture: rohan
+variants:
+- 07_252-S
+- 07_252-F
 twilight: '1'
 game_text: ! |-
   To play, spot a [Rohan] Man. Plays on a site. This site is a plains. Each [Rohan] Man is strength +1 at this site.

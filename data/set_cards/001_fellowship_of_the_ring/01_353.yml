@@ -1,10 +1,13 @@
 ---
-key: 1U353
+key: '01_353'
 name: Anduin Confluence
 title: Anduin Confluence
 set: fellowship_of_the_ring
 rarity: uncommon
 card_type: site
+variants:
+- 01_353-S
+- 01_353-F
 twilight: '6'
 site_number: '7'
 game_text: ! |-

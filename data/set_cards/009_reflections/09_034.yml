@@ -1,5 +1,5 @@
 ---
-key: 9R+34
+key: '09_034'
 name: Narsil, Blade of the Faithful
 title: Narsil
 subtitle: Blade of the Faithful
@@ -9,6 +9,8 @@ card_type: artifact
 subtype: hand_weapon
 alignment: free_people
 culture: gondor
+variants:
+- '09_034-F'
 vitality: "+1"
 twilight: '2'
 unique: true

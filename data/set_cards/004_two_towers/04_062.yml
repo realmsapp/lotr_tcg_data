@@ -1,5 +1,5 @@
 ---
-key: 4U62
+key: '04_062'
 name: Elven Bow
 title: Elven Bow
 set: two_towers
@@ -8,6 +8,9 @@ card_type: possession
 subtype: ranged_weapon
 alignment: free_people
 culture: elven
+variants:
+- 04_062-S
+- 04_062-F
 twilight: '1'
 game_text: ! |-
   Bearer must be an Elf. Bearer is an archer.

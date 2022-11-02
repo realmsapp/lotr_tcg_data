@@ -1,10 +1,13 @@
 ---
-key: 4U360
+key: '04_360'
 name: Fortress of Orthanc
 title: Fortress of Orthanc
 set: two_towers
 rarity: uncommon
 card_type: site
+variants:
+- 04_360-S
+- 04_360-F
 twilight: '9'
 site_number: '9'
 game_text: ! |-

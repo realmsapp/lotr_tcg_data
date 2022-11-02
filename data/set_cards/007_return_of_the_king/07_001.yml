@@ -1,11 +1,14 @@
 ---
-key: 7C1
+key: '07_001'
 name: The One Ring, The Ruling Ring
 title: The One Ring
 subtitle: The Ruling Ring
 set: return_of_the_king
 rarity: common
 card_type: the_one_ring
+variants:
+- 07_001-S
+- 07_001-F
 strength: "+1"
 unique: true
 game_text: ! |-

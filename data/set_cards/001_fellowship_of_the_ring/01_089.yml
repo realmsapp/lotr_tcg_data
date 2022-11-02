@@ -1,5 +1,5 @@
 ---
-key: 1R89
+key: 01_089
 name: Aragorn, Ranger of the North
 title: Aragorn
 subtitle: Ranger of the North
@@ -10,6 +10,9 @@ subtype: man
 alignment: free_people
 culture: gondor
 signet: gandalf
+variants:
+- 01_089-S
+- 01_089-F
 strength: '8'
 vitality: '4'
 twilight: '4'

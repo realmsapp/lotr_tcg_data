@@ -1,11 +1,14 @@
 ---
-key: 7R2
+key: '07_002'
 name: The One Ring, Such a Weight to Carry
 title: The One Ring
 subtitle: Such a Weight to Carry
 set: return_of_the_king
 rarity: rare
 card_type: the_one_ring
+variants:
+- 07_002-S
+- 07_002-F
 strength: "+2"
 unique: true
 game_text: ! |-

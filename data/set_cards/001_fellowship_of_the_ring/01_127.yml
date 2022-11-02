@@ -1,5 +1,5 @@
 ---
-key: 1R127
+key: '01_127'
 name: Lurtz, Servant of Isengard
 title: Lurtz
 subtitle: Servant of Isengard
@@ -9,6 +9,9 @@ card_type: minion
 subtype: uruk-hai
 alignment: shadow
 culture: isengard
+variants:
+- 01_127-S
+- 01_127-F
 strength: '13'
 vitality: '3'
 twilight: '7'

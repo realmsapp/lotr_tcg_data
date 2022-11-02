@@ -1,5 +1,5 @@
 ---
-key: 1R170
+key: '01_170'
 name: Fool of a Took!
 title: Fool of a Took!
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: shadow
 culture: moria
+variants:
+- 01_170-S
+- 01_170-F
 twilight: '0'
 game_text: ! |-
   Shadow: Spot a Hobbit (except the Ring-bearer) to reveal cards from the top of your draw deck until you reveal one that is not a [Moria] minion. Take the revealed cards into hand.

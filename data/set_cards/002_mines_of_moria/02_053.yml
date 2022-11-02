@@ -1,5 +1,5 @@
 ---
-key: 2R53
+key: '02_053'
 name: Cave Troll's Chain
 title: Cave Troll's Chain
 set: mines_of_moria
@@ -7,6 +7,9 @@ rarity: rare
 card_type: possession
 alignment: shadow
 culture: moria
+variants:
+- 02_053-S
+- 02_053-F
 strength: "+2"
 twilight: '1'
 unique: true

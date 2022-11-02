@@ -1,5 +1,5 @@
 ---
-key: 6U32
+key: '06_032'
 name: Host of Fangorn
 title: Host of Fangorn
 set: ents_of_fangorn
@@ -8,6 +8,9 @@ card_type: companion
 subtype: ent
 alignment: free_people
 culture: gandalf
+variants:
+- 06_032-S
+- 06_032-F
 strength: '10'
 vitality: '4'
 twilight: '13'

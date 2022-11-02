@@ -1,5 +1,5 @@
 ---
-key: 10U98
+key: '10_098'
 name: Ruinous Hail
 title: Ruinous Hail
 set: mount_doom
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: shadow
 culture: sauron
+variants:
+- 10_098-S
+- 10_098-F
 twilight: '0'
 game_text: ! |-
   If the Free Peoples player plays a possession, discard a [Sauron] minion from hand to prevent him or her from playing any more cards until the end of this phase.

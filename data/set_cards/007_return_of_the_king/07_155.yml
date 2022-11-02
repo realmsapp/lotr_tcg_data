@@ -1,5 +1,5 @@
 ---
-key: 7C155
+key: '07_155'
 name: Raider Bow
 title: Raider Bow
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: possession
 subtype: ranged_weapon
 alignment: shadow
 culture: raider
+variants:
+- 07_155-S
+- 07_155-F
 twilight: '2'
 game_text: ! |-
   Bearer must be a [Raider] Man. Bearer is an archer and ambush (5).

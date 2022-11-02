@@ -1,5 +1,5 @@
 ---
-key: 8R21
+key: '08_021'
 name: Shadowfax, Greatheart
 title: Shadowfax
 subtitle: Greatheart
@@ -9,6 +9,9 @@ card_type: possession
 subtype: mount
 alignment: free_people
 culture: gandalf
+variants:
+- '08_021-S'
+- '08_021-F'
 twilight: '2'
 unique: true
 game_text: ! |-

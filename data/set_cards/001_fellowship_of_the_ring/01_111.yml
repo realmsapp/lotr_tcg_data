@@ -1,5 +1,5 @@
 ---
-key: 1R111
+key: '01_111'
 name: Pursuit Just Behind
 title: Pursuit Just Behind
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: free_people
 culture: gondor
+variants:
+- 01_111-S
+- 01_111-F
 twilight: '0'
 game_text: ! |-
   Regroup: Exert a ranger companion to wound every minion.

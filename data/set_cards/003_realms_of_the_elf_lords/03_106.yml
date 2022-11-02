@@ -1,5 +1,5 @@
 ---
-key: 3U106
+key: '03_106'
 name: Bill the Pony
 title: Bill the Pony
 set: realms_of_the_elf_lords
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: possession
 alignment: free_people
 culture: shire
+variants:
+- 03_106-S
+- 03_106-F
 twilight: '0'
 unique: true
 game_text: ! |-

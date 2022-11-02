@@ -1,5 +1,5 @@
 ---
-key: 2R73
+key: '02_073'
 name: Watcher in the Water, Keeper of Westgate
 title: Watcher in the Water
 subtitle: Keeper of Westgate
@@ -9,6 +9,9 @@ card_type: minion
 subtype: creature
 alignment: shadow
 culture: moria
+variants:
+- 02_073-S
+- 02_073-F
 strength: '11'
 vitality: '4'
 twilight: '4'

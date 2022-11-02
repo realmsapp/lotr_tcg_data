@@ -1,5 +1,5 @@
 ---
-key: 2U72
+key: '02_072'
 name: Troubled Mountains
 title: Troubled Mountains
 set: mines_of_moria
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: shadow
 culture: moria
+variants:
+- 02_072-S
+- 02_072-F
 twilight: '0'
 game_text: ! |-
   Shadow: Exert a [Moria] minion and spot X burdens to add (X) (limit (5)).

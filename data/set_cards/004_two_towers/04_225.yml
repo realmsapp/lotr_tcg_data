@@ -1,5 +1,5 @@
 ---
-key: 4R225
+key: '04_225'
 name: Easterling Captain
 title: Easterling Captain
 set: two_towers
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: raider
+variants:
+- 04_225-S
+- 04_225-F
 strength: '11'
 vitality: '3'
 twilight: '5'

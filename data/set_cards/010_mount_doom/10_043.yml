@@ -1,5 +1,5 @@
 ---
-key: 10U43
+key: '10_043'
 name: Field of the Fallen
 title: Field of the Fallen
 set: mount_doom
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: shadow
 culture: raider
+variants:
+- 10_043-S
+- 10_043-F
 twilight: '1'
 game_text: ! |-
   To play, spot a [Raider] Man. While there is a character in the dead pile, each companion of the same culture as that character is strength -1. Skirmish: Exert your Southron to make him strength +1.

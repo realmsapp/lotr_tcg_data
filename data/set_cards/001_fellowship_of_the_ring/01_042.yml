@@ -1,5 +1,5 @@
 ---
-key: 1C42
+key: '01_042'
 name: Elven Cloak
 title: Elven Cloak
 set: fellowship_of_the_ring
@@ -8,6 +8,9 @@ card_type: possession
 subtype: cloak
 alignment: free_people
 culture: elven
+variants:
+- 01_042-S
+- 01_042-F
 twilight: '1'
 game_text: ! |-
   To play, spot an Elf. Bearer must be a companion. The minion archery total is -1.

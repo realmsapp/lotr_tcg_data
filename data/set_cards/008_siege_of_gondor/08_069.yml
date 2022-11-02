@@ -1,5 +1,5 @@
 ---
-key: 8U69
+key: '08_069'
 name: Black Dart
 title: Black Dart
 set: siege_of_gondor
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: shadow
 culture: wraith
+variants:
+- '08_069-S'
+- '08_069-F'
 twilight: '3'
 game_text: ! |-
   Archery: Spot your enduring or mounted Nazgul to transfer this condition from your support area to an unbound companion. Discard a mount borne by that companion. Bearer cannot heal or bear mounts.

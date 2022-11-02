@@ -1,5 +1,5 @@
 ---
-key: 4C321
+key: '04_321'
 name: Swiftly and Softly
 title: Swiftly and Softly
 set: two_towers
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: shire
+variants:
+- 04_321-S
+- 04_321-F
 twilight: '1'
 game_text: ! |-
   Stealth. Skirmish: At sites 1T to 5T, cancel a skirmish involving a Hobbit. At any other site, prevent a Hobbit from taking more than 1 wound.

@@ -1,5 +1,5 @@
 ---
-key: 1U60
+key: '01_060'
 name: Silinde, Elf of Mirkwood
 title: Silinde
 subtitle: Elf of Mirkwood
@@ -8,6 +8,9 @@ rarity: uncommon
 card_type: ally
 alignment: free_people
 culture: elven
+variants:
+- 01_060-S
+- 01_060-F
 strength: '5'
 vitality: '2'
 twilight: '2'

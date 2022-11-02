@@ -1,5 +1,5 @@
 ---
-key: 4U280
+key: 04_280
 name: Herugrim
 title: Herugrim
 set: two_towers
@@ -8,6 +8,9 @@ card_type: possession
 subtype: hand_weapon
 alignment: free_people
 culture: rohan
+variants:
+- 04_280-S
+- 04_280-F
 strength: "+2"
 vitality: "+1"
 twilight: '2'

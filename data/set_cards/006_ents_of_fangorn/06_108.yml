@@ -1,5 +1,5 @@
 ---
-key: 6C108
+key: 06_108
 name: Wisp of Pale Sheen
 title: Wisp of Pale Sheen
 set: ents_of_fangorn
@@ -8,6 +8,9 @@ card_type: minion
 subtype: wraith
 alignment: shadow
 culture: sauron
+variants:
+- 06_108-S
+- 06_108-F
 strength: '8'
 vitality: '2'
 twilight: '3'

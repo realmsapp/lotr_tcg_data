@@ -1,5 +1,5 @@
 ---
-key: 9R+41
+key: '09_041'
 name: Host of Moria, Legion of the Underdeeps
 title: Host of Moria
 subtitle: Legion of the Underdeeps
@@ -9,6 +9,8 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: moria
+variants:
+- '09_041-F'
 strength: '15'
 vitality: '3'
 twilight: '7'

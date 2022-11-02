@@ -1,5 +1,5 @@
 ---
-key: 4U276
+key: '04_276'
 name: Fortress Never Fallen
 title: Fortress Never Fallen
 set: two_towers
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: free_people
 culture: rohan
+variants:
+- 04_276-S
+- 04_276-F
 twilight: '2'
 unique: true
 game_text: ! |-

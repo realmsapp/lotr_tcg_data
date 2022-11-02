@@ -1,5 +1,5 @@
 ---
-key: 6U104
+key: '06_104'
 name: Orc Insurgent
 title: Orc Insurgent
 set: ents_of_fangorn
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: sauron
+variants:
+- 06_104-S
+- 06_104-F
 strength: '11'
 vitality: '3'
 twilight: '4'

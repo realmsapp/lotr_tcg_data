@@ -1,5 +1,5 @@
 ---
-key: 8U83
+key: '08_083'
 name: Winged Mount
 title: Winged Mount
 set: siege_of_gondor
@@ -8,6 +8,9 @@ card_type: possession
 subtype: mount
 alignment: shadow
 culture: wraith
+variants:
+- '08_083-S'
+- '08_083-F'
 strength: "+2"
 twilight: '1'
 game_text: ! |-

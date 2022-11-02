@@ -1,5 +1,5 @@
 ---
-key: 1R206
+key: '01_206'
 name: Bent on Discovery
 title: Bent on Discovery
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: shadow
 culture: wraith
+variants:
+- 01_206-S
+- 01_206-F
 twilight: '1'
 game_text: ! |-
   Search. Plays to your support area. At the beginning of each of your Shadow phases, draw 1 card. At the end of each of your Shadow phases, exert a Nazgul or discard this condition.

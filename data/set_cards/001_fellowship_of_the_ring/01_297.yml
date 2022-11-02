@@ -1,5 +1,5 @@
 ---
-key: 1C297
+key: 01_297
 name: Hobbit Party Guest
 title: Hobbit Party Guest
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: common
 card_type: ally
 alignment: free_people
 culture: shire
+variants:
+- 01_297-S
+- 01_297-F
 strength: '2'
 vitality: '2'
 twilight: '1'

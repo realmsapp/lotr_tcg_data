@@ -1,5 +1,5 @@
 ---
-key: 4R75
+key: '04_075'
 name: Lembas
 title: Lembas
 set: two_towers
@@ -7,6 +7,9 @@ rarity: rare
 card_type: possession
 alignment: free_people
 culture: elven
+variants:
+- 04_075-S
+- 04_075-F
 twilight: '1'
 game_text: ! |-
   To play, spot 3 Elves. Bearer must be a companion. Regroup: Discard this possession to reconcile your hand.

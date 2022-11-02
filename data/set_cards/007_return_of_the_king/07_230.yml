@@ -1,5 +1,5 @@
 ---
-key: 7R230
+key: '07_230'
 name: Eowyn's Sword, Dernhelm's Blade
 title: Eowyn's Sword
 subtitle: Dernhelm's Blade
@@ -9,6 +9,9 @@ card_type: possession
 subtype: hand_weapon
 alignment: free_people
 culture: rohan
+variants:
+- 07_230-S
+- 07_230-F
 strength: "+3"
 twilight: '1'
 unique: true

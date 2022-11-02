@@ -1,5 +1,5 @@
 ---
-key: 1U188
+key: 01_188
 name: The Long Dark
 title: The Long Dark
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: shadow
 culture: moria
+variants:
+- 01_188-S
+- 01_188-F
 twilight: '2'
 unique: true
 game_text: ! |-

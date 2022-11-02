@@ -1,5 +1,5 @@
 ---
-key: 6U58
+key: 06_058
 name: Assault Ladder
 title: Assault Ladder
 set: ents_of_fangorn
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: shadow
 culture: isengard
+variants:
+- 06_058-S
+- 06_058-F
 twilight: '1'
 game_text: ! |-
   Machine. Plays to your support area. Shadow: Exert an Uruk-hai to place an [Isengard] token on this card. Skirmish: Spot 3 [Isengard] tokens here to make an Uruk-hai strength +3. Discard this condition.

@@ -1,5 +1,5 @@
 ---
-key: 1R99
+key: 01_099
 name: Change of Plans
 title: Change of Plans
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: free_people
 culture: gondor
+variants:
+- 01_099-S
+- 01_099-F
 twilight: '0'
 game_text: ! |-
   Regroup: Exert a ranger to make an opponent shuffle his hand into his draw deck and draw 8 cards.

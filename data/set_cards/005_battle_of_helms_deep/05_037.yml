@@ -1,5 +1,5 @@
 ---
-key: 5C37
+key: '05_037'
 name: Men of Numenor
 title: Men of Numenor
 set: battle_of_helms_deep
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: gondor
+variants:
+- 05_037-S
+- 05_037-F
 twilight: '0'
 game_text: ! |-
   Skirmish: Wound a minion bearing a [Gondor] fortification.

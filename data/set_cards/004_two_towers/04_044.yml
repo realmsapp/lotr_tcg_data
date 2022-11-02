@@ -1,5 +1,5 @@
 ---
-key: 4C44
+key: '04_044'
 name: Courtesy of My Hall
 title: Courtesy of My Hall
 set: two_towers
@@ -7,6 +7,9 @@ rarity: common
 card_type: condition
 alignment: free_people
 culture: dwarven
+variants:
+- 04_044-S
+- 04_044-F
 twilight: '1'
 unique: true
 game_text: ! |-

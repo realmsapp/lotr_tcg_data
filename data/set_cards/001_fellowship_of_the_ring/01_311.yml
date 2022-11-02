@@ -1,5 +1,5 @@
 ---
-key: 1C311
+key: '01_311'
 name: Sam, Son of Hamfast
 title: Sam
 subtitle: Son of Hamfast
@@ -10,6 +10,9 @@ subtype: hobbit
 alignment: free_people
 culture: shire
 signet: aragorn
+variants:
+- 01_311-S
+- 01_311-F
 strength: '3'
 vitality: '4'
 twilight: '2'

@@ -1,5 +1,5 @@
 ---
-key: 4C210
+key: '04_210'
 name: We Are the Fighting Uruk-hai
 title: We Are the Fighting Uruk-hai
 set: two_towers
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: shadow
 culture: isengard
+variants:
+- 04_210-S
+- 04_210-F
 twilight: '1'
 game_text: ! |-
   Skirmish: Make an Uruk-hai strength +2 (and damage +1 if you control a site).

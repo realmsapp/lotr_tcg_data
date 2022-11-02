@@ -1,5 +1,5 @@
 ---
-key: 10C76
+key: '10_076'
 name: Advance Marauder
 title: Advance Marauder
 set: mount_doom
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: sauron
+variants:
+- 10_076-S
+- 10_076-F
 strength: '9'
 vitality: '3'
 twilight: '3'

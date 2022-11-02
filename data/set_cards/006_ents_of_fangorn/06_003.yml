@@ -1,5 +1,5 @@
 ---
-key: 6C3
+key: '06_003'
 name: Dunlending Footmen
 title: Dunlending Footmen
 set: ents_of_fangorn
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: dunland
+variants:
+- 06_003-S
+- 06_003-F
 strength: '11'
 vitality: '2'
 twilight: '5'

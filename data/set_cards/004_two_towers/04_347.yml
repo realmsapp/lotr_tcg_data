@@ -1,10 +1,13 @@
 ---
-key: 4U347
+key: '04_347'
 name: Deep of Helm
 title: Deep of Helm
 set: two_towers
 rarity: uncommon
 card_type: site
+variants:
+- 04_347-S
+- 04_347-F
 twilight: '6'
 site_number: '5'
 game_text: ! |-

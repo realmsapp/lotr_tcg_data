@@ -1,5 +1,5 @@
 ---
-key: 7P364
+key: '07_364'
 name: Aragorn, Driven by Need
 title: Aragorn
 subtitle: Driven by Need
@@ -10,6 +10,9 @@ subtype: man
 alignment: free_people
 culture: gondor
 signet: gandalf
+variants:
+- 07_364-S
+- 07_364-F
 strength: '7'
 vitality: '4'
 twilight: '4'

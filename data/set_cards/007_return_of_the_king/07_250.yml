@@ -1,5 +1,5 @@
 ---
-key: 7R250
+key: '07_250'
 name: Snowmane
 title: Snowmane
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: possession
 subtype: mount
 alignment: free_people
 culture: rohan
+variants:
+- 07_250-S
+- 07_250-F
 twilight: '2'
 unique: true
 game_text: ! |-

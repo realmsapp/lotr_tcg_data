@@ -1,5 +1,5 @@
 ---
-key: 6U8
+key: 06_008
 name: Too Long Have These Peasants Stood
 title: Too Long Have These Peasants Stood
 set: ents_of_fangorn
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: shadow
 culture: dunland
+variants:
+- 06_008-S
+- 06_008-F
 twilight: '2'
 game_text: ! |-
   Response: If a [Dunland] Man wins a skirmish, discard all conditions.

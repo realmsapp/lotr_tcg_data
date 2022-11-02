@@ -1,5 +1,5 @@
 ---
-key: 7R85
+key: 07_085
 name: Denethor, Steward of the City
 title: Denethor
 subtitle: Steward of the City
@@ -10,6 +10,9 @@ subtype: man
 alignment: free_people
 culture: gondor
 signet: aragorn
+variants:
+- 07_085-S
+- 07_085-F
 strength: '8'
 vitality: '3'
 twilight: '2'

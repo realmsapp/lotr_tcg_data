@@ -1,5 +1,5 @@
 ---
-key: 7R159
+key: 07_159
 name: Small Hope
 title: Small Hope
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: shadow
 culture: raider
+variants:
+- 07_159-S
+- 07_159-F
 twilight: '1'
 game_text: ! |-
   Maneuver: If you cannot spot 2 burdens, exert an Easterling to add a burden. Skirmish: Discard this condition to make an Easterling strength +2.

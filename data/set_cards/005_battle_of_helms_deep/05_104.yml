@@ -1,5 +1,5 @@
 ---
-key: 5U104
+key: '05_104'
 name: Orc Cutthroat
 title: Orc Cutthroat
 set: battle_of_helms_deep
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: sauron
+variants:
+- 05_104-S
+- 05_104-F
 strength: '9'
 vitality: '3'
 twilight: '3'

@@ -1,5 +1,5 @@
 ---
-key: 7U178
+key: 07_178
 name: Foul Clutches
 title: Foul Clutches
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: shadow
 culture: wraith
+variants:
+- 07_178-S
+- 07_178-F
 twilight: '1'
 game_text: ! |-
   Discard 3 cards from hand to make a Nazgul strength +3.

@@ -1,5 +1,5 @@
 ---
-key: 4R61
+key: '04_061'
 name: Company of Archers
 title: Company of Archers
 set: two_towers
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: free_people
 culture: elven
+variants:
+- 04_061-S
+- 04_061-F
 twilight: '1'
 game_text: ! |-
   Archery: Spot 2 Elf companions to discard a condition.

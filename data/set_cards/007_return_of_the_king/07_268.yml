@@ -1,5 +1,5 @@
 ---
-key: 7R268
+key: 07_268
 name: Encirclement
 title: Encirclement
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: shadow
 culture: sauron
+variants:
+- 07_268-S
+- 07_268-F
 twilight: '2'
 unique: true
 game_text: ! |-

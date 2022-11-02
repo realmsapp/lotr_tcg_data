@@ -1,5 +1,5 @@
 ---
-key: 3U45
+key: '03_045'
 name: Some Who Resisted
 title: Some Who Resisted
 set: realms_of_the_elf_lords
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: gondor
+variants:
+- 03_045-S
+- 03_045-F
 twilight: '0'
 game_text: ! |-
   Tale. Maneuver: Spot a [Gondor] companion to make the twilight cost of each maneuver event +2.

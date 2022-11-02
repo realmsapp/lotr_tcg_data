@@ -1,5 +1,5 @@
 ---
-key: 6P121
+key: '06_121'
 name: Faramir, Ithilien Ranger
 title: Faramir
 subtitle: Ithilien Ranger
@@ -10,6 +10,9 @@ subtype: man
 alignment: free_people
 culture: gondor
 signet: gandalf
+variants:
+- 06_121-S
+- 06_121-F
 strength: '7'
 vitality: '3'
 twilight: '3'

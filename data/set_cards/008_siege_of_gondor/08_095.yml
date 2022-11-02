@@ -1,5 +1,5 @@
 ---
-key: 8R95
+key: '08_095'
 name: Gorgoroth Assassin
 title: Gorgoroth Assassin
 set: siege_of_gondor
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: sauron
+variants:
+- '08_095-S'
+- '08_095-F'
 strength: '7'
 vitality: '2'
 twilight: '2'

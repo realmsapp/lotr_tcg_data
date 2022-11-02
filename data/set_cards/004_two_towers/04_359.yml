@@ -1,10 +1,13 @@
 ---
-key: 4U359
+key: 04_359
 name: Wizard's Vale
 title: Wizard's Vale
 set: two_towers
 rarity: uncommon
 card_type: site
+variants:
+- 04_359-S
+- 04_359-F
 twilight: '6'
 site_number: '8'
 game_text: ! |-

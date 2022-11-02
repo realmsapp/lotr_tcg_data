@@ -1,5 +1,5 @@
 ---
-key: 10C91
+key: '10_091'
 name: Mordor Fiend
 title: Mordor Fiend
 set: mount_doom
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: sauron
+variants:
+- 10_091-S
+- 10_091-F
 strength: '9'
 vitality: '3'
 twilight: '3'

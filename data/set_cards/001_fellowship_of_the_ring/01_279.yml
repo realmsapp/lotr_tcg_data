@@ -1,5 +1,5 @@
 ---
-key: 1R279
+key: 01_279
 name: Thin and Stretched
 title: Thin and Stretched
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: shadow
 culture: sauron
+variants:
+- 01_279-S
+- 01_279-F
 twilight: '0'
 unique: true
 game_text: ! |-

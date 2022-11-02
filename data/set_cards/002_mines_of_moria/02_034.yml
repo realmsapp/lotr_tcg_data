@@ -1,5 +1,5 @@
 ---
-key: 2U34
+key: '02_034'
 name: Gondor Will See It Done
 title: Gondor Will See It Done
 set: mines_of_moria
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: gondor
+variants:
+- 02_034-S
+- 02_034-F
 twilight: '0'
 game_text: ! |-
   Response: If a companion is about to take a wound, exert a [Gondor] companion to prevent that wound.

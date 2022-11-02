@@ -1,5 +1,5 @@
 ---
-key: 3R81
+key: 03_081
 name: Gates of the Dead City
 title: Gates of the Dead City
 set: realms_of_the_elf_lords
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: shadow
 culture: wraith
+variants:
+- 03_081-S
+- 03_081-F
 twilight: '1'
 game_text: ! |-
   To play, spot a Nazgul. Plays to your support area. Each time a [Wraith] card adds a burden, the Free Peoples player must exert a companion.

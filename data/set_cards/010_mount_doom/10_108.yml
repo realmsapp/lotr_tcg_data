@@ -1,5 +1,5 @@
 ---
-key: 10U108
+key: '10_108'
 name: A Light in His Mind
 title: A Light in His Mind
 set: mount_doom
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: free_people
 culture: shire
+variants:
+- 10_108-S
+- 10_108-F
 twilight: '0'
 unique: true
 game_text: ! |-

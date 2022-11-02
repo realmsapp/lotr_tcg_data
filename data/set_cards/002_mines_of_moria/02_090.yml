@@ -1,5 +1,5 @@
 ---
-key: 2C90
+key: 02_090
 name: Orc Taskmaster
 title: Orc Taskmaster
 set: mines_of_moria
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: sauron
+variants:
+- 02_090-S
+- 02_090-F
 strength: '8'
 vitality: '3'
 twilight: '3'

@@ -1,5 +1,5 @@
 ---
-key: 2U87
+key: 02_087
 name: The Eye of Sauron
 title: The Eye of Sauron
 set: mines_of_moria
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: shadow
 culture: sauron
+variants:
+- 02_087-S
+- 02_087-F
 twilight: '1'
 game_text: ! |-
   Shadow: Exert a [Sauron] Orc and spot X burdens to draw X cards (limit 5).

@@ -1,5 +1,5 @@
 ---
-key: 3C69
+key: 03_069
 name: Saruman, Servant of the Eye
 title: Saruman
 subtitle: Servant of the Eye
@@ -9,6 +9,9 @@ card_type: minion
 subtype: wizard
 alignment: shadow
 culture: isengard
+variants:
+- 03_069-S
+- 03_069-F
 strength: '8'
 vitality: '4'
 twilight: '4'

@@ -1,5 +1,5 @@
 ---
-key: 2U92
+key: 02_092
 name: Spies of Mordor
 title: Spies of Mordor
 set: mines_of_moria
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: shadow
 culture: sauron
+variants:
+- 02_092-S
+- 02_092-F
 twilight: '1'
 game_text: ! |-
   Search. To play, spot a [Sauron] Orc. Plays to your support area. Each time the fellowship moves during the regroup phase, you may draw a card (or 2 cards if you spot a [Sauron] tracker).

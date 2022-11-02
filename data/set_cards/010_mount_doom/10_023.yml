@@ -1,5 +1,5 @@
 ---
-key: 10R23
+key: '10_023'
 name: Shelob, Her Ladyship
 title: Shelob
 subtitle: Her Ladyship
@@ -9,6 +9,9 @@ card_type: minion
 subtype: spider
 alignment: shadow
 culture: gollum_shadow
+variants:
+- 10_023-S
+- 10_023-F
 strength: '8'
 vitality: '8'
 twilight: '6'

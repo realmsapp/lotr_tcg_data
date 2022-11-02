@@ -1,5 +1,5 @@
 ---
-key: 7R318
+key: 07_318
 name: Frodo, Wicked Masster!
 title: Frodo
 subtitle: Wicked Masster!
@@ -10,6 +10,9 @@ subtype: hobbit
 alignment: free_people
 culture: shire
 signet: gandalf
+variants:
+- 07_318-S
+- 07_318-F
 strength: '3'
 vitality: '4'
 twilight: '0'

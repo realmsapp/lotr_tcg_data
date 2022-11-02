@@ -1,5 +1,5 @@
 ---
-key: 10C113
+key: '10_113'
 name: Orc Armor
 title: Orc Armor
 set: mount_doom
@@ -8,6 +8,9 @@ card_type: possession
 subtype: armor
 alignment: free_people
 culture: shire
+variants:
+- 10_113-S
+- 10_113-F
 twilight: '1'
 game_text: ! |-
   Bearer must be a Hobbit. Each Orc and each Uruk-hai skirmishing bearer is strength -1.

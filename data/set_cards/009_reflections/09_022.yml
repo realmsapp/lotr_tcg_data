@@ -1,5 +1,5 @@
 ---
-key: 9R22
+key: '09_022'
 name: Strands of Elven Hair
 title: Strands of Elven Hair
 set: reflections
@@ -7,6 +7,8 @@ rarity: rare
 card_type: possession
 alignment: free_people
 culture: elven
+variants:
+- '09_022-F'
 twilight: '1'
 unique: true
 game_text: ! |-

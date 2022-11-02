@@ -1,10 +1,13 @@
 ---
-key: 7U342
+key: '07_342'
 name: Osgiliath Fallen
 title: Osgiliath Fallen
 set: return_of_the_king
 rarity: uncommon
 card_type: site
+variants:
+- 07_342-S
+- 07_342-F
 twilight: '2'
 site_number: '4'
 game_text: ! |-

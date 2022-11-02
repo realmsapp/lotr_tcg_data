@@ -1,5 +1,5 @@
 ---
-key: 5U23
+key: '05_023'
 name: Follow Smeagol
 title: Follow Smeagol
 set: battle_of_helms_deep
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: free_people
 culture: gollum_free_people
+variants:
+- 05_023-S
+- 05_023-F
 twilight: '1'
 game_text: ! |-
   Plays on Smeagol. Regroup: Exert Smeagol or Gollum to play the fellowship's next site ( replacing opponent's site if necessary ).

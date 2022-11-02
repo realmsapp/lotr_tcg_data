@@ -1,5 +1,5 @@
 ---
-key: 7U207
+key: '07_207'
 name: Their Power Is in Terror
 title: Their Power Is in Terror
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: shadow
 culture: wraith
+variants:
+- 07_207-S
+- 07_207-F
 twilight: '0'
 game_text: ! |-
   Exert a Nazgul to wound each ally.

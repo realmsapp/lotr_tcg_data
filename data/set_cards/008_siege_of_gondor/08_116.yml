@@ -1,5 +1,5 @@
 ---
-key: 8C116
+key: '08_116'
 name: We Shall Meet Again Soon
 title: We Shall Meet Again Soon
 set: siege_of_gondor
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: shire
+variants:
+- '08_116-S'
+- '08_116-F'
 twilight: '0'
 game_text: ! |-
   If the fellowship moves during the regroup phase, exert an unbound Hobbit to place a Shadow card from your discard pile on top of your draw deck.

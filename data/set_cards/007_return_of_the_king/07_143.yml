@@ -1,5 +1,5 @@
 ---
-key: 7R143
+key: '07_143'
 name: Easterling Footman
 title: Easterling Footman
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: raider
+variants:
+- 07_143-S
+- 07_143-F
 strength: '9'
 vitality: '2'
 twilight: '4'

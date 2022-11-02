@@ -1,5 +1,5 @@
 ---
-key: 1U233
+key: '01_233'
 name: Ulaire Nelya, Lieutenant of Morgul
 title: Ulaire Nelya
 subtitle: Lieutenant of Morgul
@@ -9,6 +9,9 @@ card_type: minion
 subtype: nazgul
 alignment: shadow
 culture: wraith
+variants:
+- 01_233-S
+- 01_233-F
 strength: '10'
 vitality: '3'
 twilight: '5'

@@ -1,5 +1,5 @@
 ---
-key: 5U22
+key: '05_022'
 name: Evil-smelling Fens
 title: Evil-smelling Fens
 set: battle_of_helms_deep
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: shadow
 culture: gollum_shadow
+variants:
+- 05_022-S
+- 05_022-F
 twilight: '1'
 game_text: ! |-
   Plays to your support area. Each site on the adventure path is a marsh. Shadow: Exert Gollum twice and discard this condition to play a minion from your discard pile.

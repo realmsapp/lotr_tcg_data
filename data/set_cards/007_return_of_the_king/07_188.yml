@@ -1,5 +1,5 @@
 ---
-key: 7R188
+key: 07_188
 name: Morgul Brute
 title: Morgul Brute
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: wraith
+variants:
+- 07_188-S
+- 07_188-F
 strength: '6'
 vitality: '2'
 twilight: '2'

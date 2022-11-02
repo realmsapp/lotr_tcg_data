@@ -1,5 +1,5 @@
 ---
-key: 4C310
+key: '04_310'
 name: Merry, Learned Guide
 title: Merry
 subtitle: Learned Guide
@@ -10,6 +10,9 @@ subtype: hobbit
 alignment: free_people
 culture: shire
 signet: frodo
+variants:
+- 04_310-S
+- 04_310-F
 strength: '3'
 vitality: '4'
 twilight: '1'

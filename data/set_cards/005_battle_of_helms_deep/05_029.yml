@@ -1,5 +1,5 @@
 ---
-key: 5R29
+key: 05_029
 name: Smeagol, Slinker
 title: Smeagol
 subtitle: Slinker
@@ -9,6 +9,9 @@ card_type: companion
 alignment: free_people
 culture: gollum_free_people
 signet: frodo
+variants:
+- 05_029-S
+- 05_029-F
 strength: '3'
 vitality: '4'
 twilight: '0'

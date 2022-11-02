@@ -1,5 +1,5 @@
 ---
-key: 2R85
+key: 02_085
 name: The Witch-king, Lord of the Nazgul
 title: The Witch-king
 subtitle: Lord of the Nazgul
@@ -9,6 +9,9 @@ card_type: minion
 subtype: nazgul
 alignment: shadow
 culture: wraith
+variants:
+- 02_085-S
+- 02_085-F
 strength: '14'
 vitality: '4'
 twilight: '8'

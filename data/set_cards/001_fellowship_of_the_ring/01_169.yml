@@ -1,5 +1,5 @@
 ---
-key: 1R169
+key: 01_169
 name: The End Comes
 title: The End Comes
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: shadow
 culture: moria
+variants:
+- 01_169-S
+- 01_169-F
 twilight: '0'
 game_text: ! |-
   Assignment: Spot 5 [Moria] minions to make the Free Peoples player assign the Ring-bearer to a skirmish.

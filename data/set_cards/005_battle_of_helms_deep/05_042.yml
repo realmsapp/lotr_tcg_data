@@ -1,5 +1,5 @@
 ---
-key: 5U42
+key: '05_042'
 name: Turgon, Man of Belfalas
 title: Turgon
 subtitle: Man of Belfalas
@@ -9,6 +9,9 @@ card_type: companion
 subtype: man
 alignment: free_people
 culture: gondor
+variants:
+- 05_042-S
+- 05_042-F
 strength: '6'
 vitality: '3'
 twilight: '2'

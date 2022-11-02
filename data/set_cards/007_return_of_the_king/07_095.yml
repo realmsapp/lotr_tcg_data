@@ -1,5 +1,5 @@
 ---
-key: 7R95
+key: 07_095
 name: Gondor Still Stands
 title: Gondor Still Stands
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: free_people
 culture: gondor
+variants:
+- 07_095-S
+- 07_095-F
 twilight: '3'
 unique: true
 game_text: ! |-

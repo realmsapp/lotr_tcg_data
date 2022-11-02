@@ -1,5 +1,5 @@
 ---
-key: 4R174
+key: '04_174'
 name: Saruman's Staff, Wizard's Device
 title: Saruman's Staff
 subtitle: Wizard's Device
@@ -9,6 +9,9 @@ card_type: artifact
 subtype: staff
 alignment: shadow
 culture: isengard
+variants:
+- 04_174-S
+- 04_174-F
 strength: "+2"
 twilight: '2'
 unique: true

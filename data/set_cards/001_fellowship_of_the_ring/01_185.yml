@@ -1,5 +1,5 @@
 ---
-key: 1C185
+key: 01_185
 name: Goblin Warrior
 title: Goblin Warrior
 set: fellowship_of_the_ring
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: moria
+variants:
+- 01_185-S
+- 01_185-F
 strength: '6'
 vitality: '1'
 twilight: '2'

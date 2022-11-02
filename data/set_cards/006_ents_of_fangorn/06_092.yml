@@ -1,5 +1,5 @@
 ---
-key: 6R92
+key: 06_092
 name: Eomer, Rohirrim Captain
 title: Eomer
 subtitle: Rohirrim Captain
@@ -10,6 +10,9 @@ subtype: man
 alignment: free_people
 culture: rohan
 signet: gandalf
+variants:
+- 06_092-S
+- 06_092-F
 strength: '7'
 vitality: '3'
 twilight: '3'

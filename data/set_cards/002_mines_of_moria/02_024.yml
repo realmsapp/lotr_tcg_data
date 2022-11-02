@@ -1,5 +1,5 @@
 ---
-key: 2C24
+key: '02_024'
 name: Hugin, Emissary from Laketown
 title: Hugin
 subtitle: Emissary from Laketown
@@ -8,6 +8,9 @@ rarity: common
 card_type: ally
 alignment: free_people
 culture: gandalf
+variants:
+- 02_024-S
+- 02_024-F
 strength: '4'
 vitality: '2'
 twilight: '1'

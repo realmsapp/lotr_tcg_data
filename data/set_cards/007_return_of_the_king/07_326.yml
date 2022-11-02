@@ -1,5 +1,5 @@
 ---
-key: 7C326
+key: '07_326'
 name: Sam, Needer of Vittles
 title: Sam
 subtitle: Needer of Vittles
@@ -10,6 +10,9 @@ subtype: hobbit
 alignment: free_people
 culture: shire
 signet: aragorn
+variants:
+- 07_326-S
+- 07_326-F
 strength: '3'
 vitality: '4'
 twilight: '2'

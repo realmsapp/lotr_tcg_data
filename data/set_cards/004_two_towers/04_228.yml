@@ -1,5 +1,5 @@
 ---
-key: 4C228
+key: 04_228
 name: Easterling Lieutenant
 title: Easterling Lieutenant
 set: two_towers
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: raider
+variants:
+- 04_228-S
+- 04_228-F
 strength: '8'
 vitality: '2'
 twilight: '3'

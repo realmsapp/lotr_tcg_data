@@ -1,5 +1,5 @@
 ---
-key: 1R288
+key: 01_288
 name: Farmer Maggot, Chaser of Rascals
 title: Farmer Maggot
 subtitle: Chaser of Rascals
@@ -8,6 +8,9 @@ rarity: rare
 card_type: ally
 alignment: free_people
 culture: shire
+variants:
+- 01_288-S
+- 01_288-F
 strength: '2'
 vitality: '3'
 twilight: '1'

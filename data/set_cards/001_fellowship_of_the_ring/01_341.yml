@@ -1,10 +1,13 @@
 ---
-key: 1U341
+key: '01_341'
 name: Rivendell Valley
 title: Rivendell Valley
 set: fellowship_of_the_ring
 rarity: uncommon
 card_type: site
+variants:
+- 01_341-S
+- 01_341-F
 twilight: '0'
 site_number: '3'
 game_text: ! |-

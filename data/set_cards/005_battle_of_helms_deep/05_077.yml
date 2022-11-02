@@ -1,5 +1,5 @@
 ---
-key: 5U77
+key: '05_077'
 name: Strength in Numbers
 title: Strength in Numbers
 set: battle_of_helms_deep
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: shadow
 culture: raider
+variants:
+- 05_077-S
+- 05_077-F
 twilight: '0'
 game_text: ! |-
   To play, spot a Southron. Plays to your support area. Maneuver: Discard this condition to add (1) for each Man with ambush you spot.

@@ -1,5 +1,5 @@
 ---
-key: 4U101
+key: '04_101'
 name: Stump and Bramble
 title: Stump and Bramble
 set: two_towers
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: free_people
 culture: gandalf
+variants:
+- 04_101-S
+- 04_101-F
 twilight: '1'
 game_text: ! |-
   Maneuver: Spot an [Isengard] minion and an Ent ally. Until the regroup phase, that ally is damage +2 and participates in archery fire and skirmishes.

@@ -1,5 +1,5 @@
 ---
-key: 5U48
+key: 05_048
 name: Black Shapes Crawling
 title: Black Shapes Crawling
 set: battle_of_helms_deep
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: shadow
 culture: isengard
+variants:
+- 05_048-S
+- 05_048-F
 twilight: '1'
 game_text: ! |-
   Maneuver: Spot X Uruk-hai. The Free Peoples player may assign X wounds to your minions. Play X [Isengard] weapons from your discard pile.

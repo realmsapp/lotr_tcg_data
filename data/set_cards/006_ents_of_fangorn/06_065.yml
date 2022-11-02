@@ -1,5 +1,5 @@
 ---
-key: 6C65
+key: '06_065'
 name: Isengard Artisan
 title: Isengard Artisan
 set: ents_of_fangorn
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: isengard
+variants:
+- 06_065-S
+- 06_065-F
 strength: '8'
 vitality: '3'
 twilight: '4'

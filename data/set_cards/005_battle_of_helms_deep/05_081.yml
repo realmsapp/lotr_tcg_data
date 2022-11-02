@@ -1,5 +1,5 @@
 ---
-key: 5C81
+key: 05_081
 name: Ecglaf, Courageous Farmer
 title: Ecglaf
 subtitle: Courageous Farmer
@@ -8,6 +8,9 @@ rarity: common
 card_type: ally
 alignment: free_people
 culture: rohan
+variants:
+- 05_081-S
+- 05_081-F
 strength: '4'
 vitality: '2'
 twilight: '1'

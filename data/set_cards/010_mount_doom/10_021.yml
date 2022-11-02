@@ -1,5 +1,5 @@
 ---
-key: 10R21
+key: '10_021'
 name: Gollum, Mad Thing
 title: Gollum
 subtitle: Mad Thing
@@ -8,6 +8,9 @@ rarity: rare
 card_type: minion
 alignment: shadow
 culture: gollum_shadow
+variants:
+- 10_021-S
+- 10_021-F
 strength: '5'
 vitality: '4'
 twilight: '2'

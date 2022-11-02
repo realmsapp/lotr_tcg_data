@@ -1,5 +1,5 @@
 ---
-key: 5R69
+key: 05_069
 name: Wolves of Isengard
 title: Wolves of Isengard
 set: battle_of_helms_deep
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: shadow
 culture: isengard
+variants:
+- 05_069-S
+- 05_069-F
 twilight: '2'
 game_text: ! |-
   Plays on a plains site you control. Regroup: Exert an [Isengard] Orc to make the Free Peoples player wound a companion.

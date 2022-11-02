@@ -1,5 +1,5 @@
 ---
-key: 10U44
+key: '10_044'
 name: High Vantage
 title: High Vantage
 set: mount_doom
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: event
 alignment: shadow
 culture: raider
+variants:
+- 10_044-S
+- 10_044-F
 twilight: '1'
 game_text: ! |-
   Until the end of the assignment phase, each time a Southron is about to take a wound, prevent that.

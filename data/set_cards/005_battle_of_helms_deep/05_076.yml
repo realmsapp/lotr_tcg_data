@@ -1,5 +1,5 @@
 ---
-key: 5C76
+key: '05_076'
 name: Southron Traveler
 title: Southron Traveler
 set: battle_of_helms_deep
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: raider
+variants:
+- 05_076-S
+- 05_076-F
 strength: '8'
 vitality: '1'
 twilight: '3'

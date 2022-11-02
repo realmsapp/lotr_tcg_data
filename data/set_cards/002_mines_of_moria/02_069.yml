@@ -1,5 +1,5 @@
 ---
-key: 2C69
+key: 02_069
 name: Old Differences
 title: Old Differences
 set: mines_of_moria
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: shadow
 culture: moria
+variants:
+- 02_069-S
+- 02_069-F
 twilight: '0'
 game_text: ! |-
   Skirmish: Make an Elf or Dwarf skirmishing a [Moria] Orc strength -1 (or -3 if you spot an Elf and a Dwarf).

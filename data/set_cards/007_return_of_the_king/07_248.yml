@@ -1,5 +1,5 @@
 ---
-key: 7C248
+key: 07_248
 name: Rohirrim Javelin
 title: Rohirrim Javelin
 set: return_of_the_king
@@ -8,6 +8,9 @@ card_type: possession
 subtype: ranged_weapon
 alignment: free_people
 culture: rohan
+variants:
+- 07_248-S
+- 07_248-F
 strength: "+1"
 twilight: '1'
 game_text: ! |-

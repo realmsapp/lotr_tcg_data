@@ -1,5 +1,5 @@
 ---
-key: 4R19
+key: 04_019
 name: Hides
 title: Hides
 set: two_towers
@@ -7,6 +7,9 @@ rarity: rare
 card_type: possession
 alignment: shadow
 culture: dunland
+variants:
+- 04_019-S
+- 04_019-F
 twilight: '1'
 game_text: ! |-
   Plays to your support area. When you play this possession, you may draw a card. Response: If a [Dunland] Man is about to take a wound, remove (2) or discard this possession to prevent that wound.

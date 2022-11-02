@@ -1,5 +1,5 @@
 ---
-key: 10R58
+key: '10_058'
 name: Dark Swooping Shadows
 title: Dark Swooping Shadows
 set: mount_doom
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: shadow
 culture: wraith
+variants:
+- 10_058-S
+- 10_058-F
 twilight: '1'
 game_text: ! |-
   Heal an enduring [Wraith] minion to add a burden or 2 threats.

@@ -1,5 +1,5 @@
 ---
-key: 7R100
+key: '07_100'
 name: Greatest Stronghold
 title: Greatest Stronghold
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: free_people
 culture: gondor
+variants:
+- 07_100-S
+- 07_100-F
 twilight: '2'
 game_text: ! |-
   Exert a [Gondor] Man and spot 3 fortifications to make the fellowship archery total +2.

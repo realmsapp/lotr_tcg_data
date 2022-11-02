@@ -1,5 +1,5 @@
 ---
-key: 4U242
+key: '04_242'
 name: Raiders From the East
 title: Raiders From the East
 set: two_towers
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: shadow
 culture: raider
+variants:
+- 04_242-S
+- 04_242-F
 twilight: '0'
 game_text: ! |-
   Plays to your support area. Shadow: Remove (3) and exert a [Raider] Man to place a [Raider] token here. Maneuver: Remove a [Raider] token here to add (1).

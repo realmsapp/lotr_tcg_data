@@ -1,5 +1,5 @@
 ---
-key: 7R327
+key: '07_327'
 name: Sam, Resolute Halfling
 title: Sam
 subtitle: Resolute Halfling
@@ -10,6 +10,9 @@ subtype: hobbit
 alignment: free_people
 culture: shire
 signet: frodo
+variants:
+- 07_327-S
+- 07_327-F
 strength: '3'
 vitality: '4'
 twilight: '2'

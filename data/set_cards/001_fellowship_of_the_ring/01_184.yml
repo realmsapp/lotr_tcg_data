@@ -1,5 +1,5 @@
 ---
-key: 1C184
+key: 01_184
 name: Goblin Wallcrawler
 title: Goblin Wallcrawler
 set: fellowship_of_the_ring
@@ -8,6 +8,9 @@ card_type: minion
 subtype: orc
 alignment: shadow
 culture: moria
+variants:
+- 01_184-S
+- 01_184-F
 strength: '6'
 vitality: '1'
 twilight: '2'

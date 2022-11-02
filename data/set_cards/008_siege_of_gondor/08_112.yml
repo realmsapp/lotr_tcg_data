@@ -1,5 +1,5 @@
 ---
-key: 8U112
+key: '08_112'
 name: Song of the Shire
 title: Song of the Shire
 set: siege_of_gondor
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: free_people
 culture: shire
+variants:
+- '08_112-S'
+- '08_112-F'
 twilight: '1'
 game_text: ! |-
   Fellowship: Exert a [Shire] companion and either a [Rohan] companion or a [Gandalf] companion to add a [Shire] token here. Skirmish: Remove a [Shire] token here to prevent an unbound companion from being overwhelmed unless his or her strength is tripled.

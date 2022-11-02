@@ -1,5 +1,5 @@
 ---
-key: 7R12
+key: '07_012'
 name: Preparations
 title: Preparations
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: free_people
 culture: dwarven
+variants:
+- 07_012-S
+- 07_012-F
 twilight: '2'
 game_text: ! |-
   Regroup: Exert a Dwarf companion to stack a card from your discard pile here. Skirmish: Wound a minion skirmishing a Dwarf once for each [Dwarven] card stacked here. Discard this condition.

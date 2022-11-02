@@ -1,5 +1,5 @@
 ---
-key: 1R289
+key: 01_289
 name: Frodo, Old Bilbo's Heir
 title: Frodo
 subtitle: Old Bilbo's Heir
@@ -10,6 +10,9 @@ subtype: hobbit
 alignment: free_people
 culture: shire
 signet: gandalf
+variants:
+- 01_289-S
+- 01_289-F
 strength: '3'
 vitality: '4'
 twilight: '0'

@@ -1,5 +1,5 @@
 ---
-key: 7C41
+key: '07_041'
 name: Intimidate
 title: Intimidate
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: gandalf
+variants:
+- 07_041-S
+- 07_041-F
 twilight: '2'
 game_text: ! |-
   Spell. If a companion is about to take a wound, spot Gandalf to prevent that wound.

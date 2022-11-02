@@ -1,5 +1,5 @@
 ---
-key: 7C105
+key: '07_105'
 name: I Will Go
 title: I Will Go
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: common
 card_type: condition
 alignment: free_people
 culture: gondor
+variants:
+- 07_105-S
+- 07_105-F
 twilight: '3'
 unique: true
 game_text: ! |-

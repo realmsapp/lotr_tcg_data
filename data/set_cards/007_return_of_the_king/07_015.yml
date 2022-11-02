@@ -1,5 +1,5 @@
 ---
-key: 7U15
+key: '07_015'
 name: Ancient Blade
 title: Ancient Blade
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: free_people
 culture: elven
+variants:
+- 07_015-S
+- 07_015-F
 twilight: '2'
 unique: true
 game_text: ! |-

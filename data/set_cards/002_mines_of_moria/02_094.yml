@@ -1,5 +1,5 @@
 ---
-key: 2R94
+key: 02_094
 name: Verily I Come
 title: Verily I Come
 set: mines_of_moria
@@ -7,6 +7,9 @@ rarity: rare
 card_type: condition
 alignment: shadow
 culture: sauron
+variants:
+- 02_094-S
+- 02_094-F
 twilight: '0'
 game_text: ! |-
   To play, exert a [Sauron] Orc. Plays on the Ring-bearer. Each time the Free Peoples player draws a card (or takes a card into hand) during the fellowship phase, add a burden.

@@ -1,5 +1,5 @@
 ---
-key: 4R247
+key: '04_247'
 name: Southron Bow
 title: Southron Bow
 set: two_towers
@@ -8,6 +8,9 @@ card_type: possession
 subtype: ranged_weapon
 alignment: shadow
 culture: raider
+variants:
+- 04_247-S
+- 04_247-F
 twilight: '3'
 game_text: ! |-
   Bearer must be a [Raider] Man. Bearer is an archer. While you can spot another [Raider] Man, the minion archery total is +1.

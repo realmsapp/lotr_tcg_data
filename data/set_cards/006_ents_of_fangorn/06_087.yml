@@ -1,5 +1,5 @@
 ---
-key: 6U87
+key: 06_087
 name: Ulaire Nertea, Winged Hunter
 title: Ulaire Nertea
 subtitle: Winged Hunter
@@ -9,6 +9,9 @@ card_type: minion
 subtype: nazgul
 alignment: shadow
 culture: wraith
+variants:
+- 06_087-S
+- 06_087-F
 strength: '9'
 vitality: '2'
 twilight: '4'

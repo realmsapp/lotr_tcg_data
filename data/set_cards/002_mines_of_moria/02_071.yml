@@ -1,5 +1,5 @@
 ---
-key: 2U71
+key: '02_071'
 name: Throw Yourself in Next Time
 title: Throw Yourself in Next Time
 set: mines_of_moria
@@ -7,6 +7,9 @@ rarity: uncommon
 card_type: condition
 alignment: shadow
 culture: moria
+variants:
+- 02_071-S
+- 02_071-F
 twilight: '0'
 game_text: ! |-
   To play, spot a [Moria] Orc. Plays on a Hobbit companion. Bearer may be exerted only by Shadow cards.

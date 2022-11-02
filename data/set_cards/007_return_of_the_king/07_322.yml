@@ -1,5 +1,5 @@
 ---
-key: 7C322
+key: '07_322'
 name: Noble Intentions
 title: Noble Intentions
 set: return_of_the_king
@@ -7,6 +7,9 @@ rarity: common
 card_type: event
 alignment: free_people
 culture: shire
+variants:
+- 07_322-S
+- 07_322-F
 twilight: '0'
 game_text: ! |-
   Exert a companion (except a Hobbit) to make a Hobbit strength +3.

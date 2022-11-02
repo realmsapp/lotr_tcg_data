@@ -1,5 +1,5 @@
 ---
-key: 8R68
+key: '08_068'
 name: Beyond All Darkness
 title: Beyond All Darkness
 set: siege_of_gondor
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: shadow
 culture: wraith
+variants:
+- '08_068-S'
+- '08_068-F'
 twilight: '3'
 game_text: ! |-
   Exert a Nazgul to make him strength +2 and damage +1. If the character he is skirmishing is killed, the Free Peoples player must place his or her hand beneath his or her draw deck.

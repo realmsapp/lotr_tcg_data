@@ -1,5 +1,5 @@
 ---
-key: 10R68
+key: '10_068'
 name: Ulaire Enquea, Thrall of the One
 title: Ulaire Enquea
 subtitle: Thrall of the One
@@ -9,6 +9,9 @@ card_type: minion
 subtype: nazgul
 alignment: shadow
 culture: wraith
+variants:
+- 10_068-S
+- 10_068-F
 strength: '11'
 vitality: '4'
 twilight: '6'

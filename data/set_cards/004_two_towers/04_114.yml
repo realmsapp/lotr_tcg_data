@@ -1,5 +1,5 @@
 ---
-key: 4U114
+key: '04_114'
 name: Damrod, Ranger of Ithilien
 title: Damrod
 subtitle: Ranger of Ithilien
@@ -9,6 +9,9 @@ card_type: companion
 subtype: man
 alignment: free_people
 culture: gondor
+variants:
+- 04_114-S
+- 04_114-F
 strength: '6'
 vitality: '3'
 twilight: '2'

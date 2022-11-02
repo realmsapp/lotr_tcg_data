@@ -1,5 +1,5 @@
 ---
-key: 10R71
+key: '10_071'
 name: Ulaire Toldea, Thrall of the One
 title: Ulaire Toldea
 subtitle: Thrall of the One
@@ -9,6 +9,9 @@ card_type: minion
 subtype: nazgul
 alignment: shadow
 culture: wraith
+variants:
+- 10_071-S
+- 10_071-F
 strength: '12'
 vitality: '3'
 twilight: '6'

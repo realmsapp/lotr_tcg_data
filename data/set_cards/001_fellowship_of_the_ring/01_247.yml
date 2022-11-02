@@ -1,5 +1,5 @@
 ---
-key: 1R247
+key: '01_247'
 name: Enheartened Foe
 title: Enheartened Foe
 set: fellowship_of_the_ring
@@ -7,6 +7,9 @@ rarity: rare
 card_type: event
 alignment: shadow
 culture: sauron
+variants:
+- 01_247-S
+- 01_247-F
 twilight: '0'
 game_text: ! |-
   Response: If a [Sauron] Orc wins a skirmish, make that Orc fierce until the regroup phase.

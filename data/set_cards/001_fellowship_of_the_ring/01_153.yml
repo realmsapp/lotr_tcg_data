@@ -1,5 +1,5 @@
 ---
-key: 1U153
+key: '01_153'
 name: Uruk Slayer
 title: Uruk Slayer
 set: fellowship_of_the_ring
@@ -8,6 +8,9 @@ card_type: minion
 subtype: uruk-hai
 alignment: shadow
 culture: isengard
+variants:
+- 01_153-S
+- 01_153-F
 strength: '9'
 vitality: '2'
 twilight: '4'

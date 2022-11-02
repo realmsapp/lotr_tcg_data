@@ -1,5 +1,5 @@
 ---
-key: 4R257
+key: '04_257'
 name: Southron Veterans
 title: Southron Veterans
 set: two_towers
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: raider
+variants:
+- 04_257-S
+- 04_257-F
 strength: '10'
 vitality: '3'
 twilight: '5'

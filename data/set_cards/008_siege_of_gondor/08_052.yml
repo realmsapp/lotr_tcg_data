@@ -1,5 +1,5 @@
 ---
-key: 8C52
+key: '08_052'
 name: Corsair Ballista
 title: Corsair Ballista
 set: siege_of_gondor
@@ -8,6 +8,9 @@ card_type: possession
 subtype: ranged_weapon
 alignment: shadow
 culture: raider
+variants:
+- '08_052-S'
+- '08_052-F'
 strength: "+2"
 twilight: '0'
 game_text: ! |-

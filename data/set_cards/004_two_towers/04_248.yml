@@ -1,5 +1,5 @@
 ---
-key: 4C248
+key: 04_248
 name: Southron Bowman
 title: Southron Bowman
 set: two_towers
@@ -8,6 +8,9 @@ card_type: minion
 subtype: man
 alignment: shadow
 culture: raider
+variants:
+- 04_248-S
+- 04_248-F
 strength: '6'
 vitality: '2'
 twilight: '3'
