@@ -7,7 +7,7 @@ module LotrTcgData
             sanitized_key = key.to_s.delete_suffix("?").to_sym
             if value.respond_to?(:key)
               memo[sanitized_key] = value.key unless value.key == "none"
-            elsif value.is_a?(Array) && value.all? { |a| a.respond_to?(:key) }
+            elsif value.is_a?(Array) && value.present? && value.all? { |a| a.respond_to?(:key) }
               memo[sanitized_key] = value.map { |v| v.key unless v.key == "none" }.compact
             else
               memo[sanitized_key] = value unless value.blank?
